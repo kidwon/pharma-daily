@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-18",
+  "generated_at": "2026-01-18T13:24:37.393055",
+  "theme": "minimal",
+  "total_items": 32,
+  "files": {
+    "markdown": "docs/20260118/daily.md",
+    "html": "docs/20260118/index.html",
+    "directory": "docs/20260118"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于FDA监管政策调整与重磅药物市场表现。FDA正考虑调整I期临床试验规定以应对中国生物技术发展，同时加速审批程序面临企业担忧。诺和诺德GLP-1口服药上市首周表现强劲，而Epkinly在淋巴瘤III期试验中未能改善总生存期。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Makary talks FDA's plans to combat China's biotech growth",
+        "importance": 5,
+        "reason": "FDA局长明确表态调整I期试验规定，直接回应中国生物技术崛起，可能重塑全球临床试验竞争格局",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading",
+        "importance": 5,
+        "reason": "诺和诺德GLP-1口服药上市首周处方量超3000，显示减肥药市场持续爆发，口服剂型可能进一步扩大市场渗透",
+        "category": "市场分析"
+      },
+      {
+        "index": 19,
+        "title": "AbbVie, Genmab say Epkinly didn't prolong overall survival in lymphoma study",
+        "importance": 4,
+        "reason": "Epkinly在弥漫性大B细胞淋巴瘤III期试验中未能改善总生存期，对已上市药物构成重大临床数据挑战",
+        "category": "临床试验"
+      },
+      {
+        "index": 6,
+        "title": "FDA delays reviews for two drugs in new voucher program",
+        "importance": 4,
+        "reason": "FDA推迟新加速审评项目中两个药物的审查，反映监管程序调整中的执行挑战",
+        "category": "监管审批"
+      },
+      {
+        "index": 24,
+        "title": "Supreme Court will hear Hikma’s ‘skinny label’ fight against Amarin",
+        "importance": 4,
+        "reason": "最高法院将审理\"瘦身标签\"案，判决结果可能重塑仿制药市场准入规则",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "ImmunityBio的现货型细胞疗法在罕见血癌早期试验中显示潜力；Agomab和SpyGlass提交IPO申请，显示投资者对生物技术板块持续热情",
+      "临床试验": "Epkinly在DLBCL的III期试验中总生存期数据未达终点；FDA加速审批清单更新显示部分癌症药物已验证临床获益"
+    },
+    "tomorrow_watch": "需关注最高法院对\"瘦身标签\"案的审理进展、FDA对I期试验规定的具体修改方案，以及更多GLP-1口服药的市场表现数据。同时应监测中国生物技术公司对FDA政策变化的反应。"
+  }
+}

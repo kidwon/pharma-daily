@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>制药日报 - 2026-01-18</title>
+    <style>
+        :root {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f5f5f7;
+            --text-primary: #1d1d1f;
+            --text-secondary: #86868b;
+            --accent: #0071e3;
+            --accent-hover: #0077ed;
+            --border: #d2d2d7;
+            --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 0 22px;
+        }
+
+        /* Header */
+        header {
+            padding: 80px 0 60px;
+            text-align: center;
+        }
+
+        .logo {
+            font-size: 48px;
+            margin-bottom: 16px;
+        }
+
+        h1 {
+            font-size: 48px;
+            font-weight: 600;
+            letter-spacing: -0.02em;
+            margin-bottom: 8px;
+        }
+
+        .subtitle {
+            font-size: 21px;
+            color: var(--text-secondary);
+            font-weight: 400;
+        }
+
+        /* Stats */
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 48px;
+            padding: 32px 0;
+            margin: 40px 0;
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 32px;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+
+        /* Analysis Section */
+        .analysis {
+            background: var(--bg-secondary);
+            border-radius: 18px;
+            padding: 32px;
+            margin-bottom: 48px;
+        }
+
+        .analysis h2 {
+            font-size: 24px;
+            margin-bottom: 16px;
+        }
+
+        .analysis-content {
+            font-size: 17px;
+            line-height: 1.7;
+            color: var(--text-secondary);
+        }
+
+        /* Category Section */
+        .category {
+            margin-bottom: 56px;
+        }
+
+        .category-header {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            margin-bottom: 24px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .category-title {
+            font-size: 28px;
+            font-weight: 600;
+        }
+
+        .category-title-en {
+            font-size: 17px;
+            color: var(--text-secondary);
+            font-weight: 400;
+        }
+
+        .category-count {
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            margin-left: auto;
+        }
+
+        /* News Card */
+        .news-card {
+            background: var(--bg-primary);
+            border: 1px solid var(--border);
+            border-radius: 18px;
+            padding: 28px;
+            margin-bottom: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .news-card:hover {
+            box-shadow: var(--card-shadow);
+            transform: translateY(-2px);
+        }
+
+        .news-card h3 {
+            font-size: 21px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            line-height: 1.4;
+        }
+
+        .news-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            margin-bottom: 16px;
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        .news-source {
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        .news-importance {
+            letter-spacing: 2px;
+        }
+
+        .news-summary {
+            font-size: 17px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+
+        .news-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 17px;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .news-link:hover {
+            color: var(--accent-hover);
+        }
+
+        .news-link::after {
+            content: "→";
+            transition: transform 0.2s;
+        }
+
+        .news-link:hover::after {
+            transform: translateX(4px);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 48px 0;
+            color: var(--text-secondary);
+            font-size: 14px;
+            border-top: 1px solid var(--border);
+            margin-top: 48px;
+        }
+
+        footer p {
+            margin-bottom: 8px;
+        }
+
+        /* Language Flag */
+        .lang-flag {
+            font-size: 16px;
+            margin-right: 8px;
+        }
+
+        /* Responsive */
+        @media (max-width: 734px) {
+            header {
+                padding: 48px 0 40px;
+            }
+
+            h1 {
+                font-size: 32px;
+            }
+
+            .subtitle {
+                font-size: 17px;
+            }
+
+            .stats-bar {
+                gap: 24px;
+            }
+
+            .stat-value {
+                font-size: 24px;
+            }
+
+            .category-title {
+                font-size: 24px;
+            }
+
+            .news-card {
+                padding: 20px;
+            }
+
+            .news-card h3 {
+                font-size: 19px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">💊</div>
+            <h1>制药日报</h1>
+            <p class="subtitle">Pharma Daily · 2026-01-18</p>
+        </header>
+
+        <div class="stats-bar">
+            <div class="stat">
+                <div class="stat-value">32</div>
+                <div class="stat-label">新闻总数</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">3</div>
+                <div class="stat-label">类别数</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">2026-01-18 13:24</div>
+                <div class="stat-label">更新时间</div>
+            </div>
+        </div>
+
+        
+        <section class="analysis">
+            <h2>📊 今日概览</h2>
+            <div class="analysis-content">
+                ## 📊 AI 智能分析
+
+### 今日概览
+
+今日制药行业动态聚焦于FDA监管政策调整与重磅药物市场表现。FDA正考虑调整I期临床试验规定以应对中国生物技术发展，同时加速审批程序面临企业担忧。诺和诺德GLP-1口服药上市首周表现强劲，而Epkinly在淋巴瘤III期试验中未能改善总生存期。
+
+### 🔥 重点新闻
+
+**1. Makary talks FDA's plans to combat China's biotech growth** ⭐⭐⭐⭐⭐
+   - 类别: 政策法规
+   - FDA局长明确表态调整I期试验规定，直接回应中国生物技术崛起，可能重塑全球临床试验竞争格局
+
+**3. Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading** ⭐⭐⭐⭐⭐
+   - 类别: 市场分析
+   - 诺和诺德GLP-1口服药上市首周处方量超3000，显示减肥药市场持续爆发，口服剂型可能进一步扩大市场渗透
+
+**19. AbbVie, Genmab say Epkinly didn't prolong overall survival in lymphoma study** ⭐⭐⭐⭐
+   - 类别: 临床试验
+   - Epkinly在弥漫性大B细胞淋巴瘤III期试验中未能改善总生存期，对已上市药物构成重大临床数据挑战
+
+**6. FDA delays reviews for two drugs in new voucher program** ⭐⭐⭐⭐
+   - 类别: 监管审批
+   - FDA推迟新加速审评项目中两个药物的审查，反映监管程序调整中的执行挑战
+
+**24. Supreme Court will hear Hikma’s ‘skinny label’ fight against Amarin** ⭐⭐⭐⭐
+   - 类别: 政策法规
+   - 最高法院将审理"瘦身标签"案，判决结果可能重塑仿制药市场准入规则
+
+### 📁 分类摘要
+
+**新药研发** (Drug R&D): ImmunityBio的现货型细胞疗法在罕见血癌早期试验中显示潜力；Agomab和SpyGlass提交IPO申请，显示投资者对生物技术板块持续热情
+**临床试验** (Clinical Trials): Epkinly在DLBCL的III期试验中总生存期数据未达终点；FDA加速审批清单更新显示部分癌症药物已验证临床获益
+
+### 🔮 明日关注
+
+需关注最高法院对"瘦身标签"案的审理进展、FDA对I期试验规定的具体修改方案，以及更多GLP-1口服药的市场表现数据。同时应监测中国生物技术公司对FDA政策变化的反应。
+
+            </div>
+        </section>
+        
+
+        <main>
+            
+            <section class="category">
+                <div class="category-header">
+                    <h2 class="category-title">新药研发</h2>
+                    <span class="category-title-en">Drug R&amp;D</span>
+                    <span class="category-count">9 条</span>
+                </div>
+
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Makary talks FDA&#39;s plans to combat China&#39;s biotech growth
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-16 19:51</span>
+                        
+                        <span class="news-importance">⭐⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">As China sees increased biotech investments, licensing deals and faster early-phase clinical trial starts, FDA Commissioner Marty Makary said his agency is reworking Phase 1 trial regulations to speed that entry process and tweaking user ...</p>
+                    
+                    <a href="https://endpoints.news/makary-talks-fdas-plans-to-combat-chinas-biotech-growth/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-01-16 16:24</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">More than 3,000 prescriptions were written for Novo&amp;rsquo;s GLP-1 pill in its first week on the market. Elsewhere, Emergent reached a settlement over a trading scandal and Sanofi is reportedly circling an eye drug biotech.</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/wegovy-pill-sales-emergent-sanofi-ocular-jazz-novo/809709/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-16 22:05</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">SpyGlass Pharma and Agomab Therapeutics filed for initial public offerings on Friday evening. The drug developers hope to build on the strong start set by Aktis Oncology’s $318 million Nasdaq listing last ...</p>
+                    
+                    <a href="https://endpoints.news/agomab-and-spyglass-file-for-ipos-as-investor-enthusiasm-builds-after-jpm/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Drugmakers without MFN pacts are bracing to make one
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-16 20:48</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">All but 17 drugmakers avoided a direct demand from President Donald Trump last year to lower their prices significantly. But that likely won’t last. There was a subtle unease among executives of some of the ...</p>
+                    
+                    <a href="https://endpoints.news/drugmakers-without-mfn-pacts-are-bracing-to-make-one/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        AbbVie, Genmab say Epkinly didn&#39;t prolong overall survival in lymphoma study
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-16 21:01</span>
+                        
+                        <span class="news-importance">⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">AbbVie and Genmab’s cancer drug Epkinly failed to improve overall survival in a late-stage study for diffuse large B cell lymphoma. The Phase 3 trial enrolled patients who had received at least one prior therapy ...</p>
+                    
+                    <a href="https://endpoints.news/abbvie-genmab-say-epkinly-didnt-prolong-overall-survival-in-lymphoma-study/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        ImmunityBio&#39;s cell therapy posts encouraging early data in rare blood cancer
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-16 16:05</span>
+                        
+                        <span class="news-importance">⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">ImmunityBio’s off-the-shelf cell therapy has shown early promise in a small trial in a rare form of lymphoma. The ongoing Phase 1 study, named QUILT-106, has so far signed up four patients with Waldenström non ...</p>
+                    
+                    <a href="https://endpoints.news/immunitybio-cell-therapy-posts-encouraging-early-data-in-rare-blood-cancer/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        JPM recap; Mirador raises $250M; Genentech’s PBM shift; and more
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-17 11:00</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Welcome back to Endpoints Weekly! One programming note before we dive into news from #JPM26: We won’t be sending newsletters on Monday, but we’ll be back in your inbox on Tuesday. The Endpoints News ...</p>
+                    
+                    <a href="https://endpoints.news/jpm-recap-mirador-raises-250m-genentechs-pbm-shift-and-more/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Supreme Court will hear Hikma’s ‘skinny label’ fight against Amarin
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-16 20:06</span>
+                        
+                    </div>
+                    
+                    <a href="https://endpoints.news/supreme-court-will-hear-hikmas-skinny-label-fight-against-amarin/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        #JPM26: Sandoz CEO on Ozempic generic launch plans for 2026
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-16 14:42</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">SAN FRANCISCO — Throughout his 53 meetings at this year&#39;s JPMorgan Healthcare Conference, Richard Saynor mulled a charitable idea about the topic on everyone&#39;s minds. &#34;We&#39;re going to put a cup in the middle of ...</p>
+                    
+                    <a href="https://endpoints.news/jpm26-sandoz-ceo-on-ozempic-generic-launch-plans-for-2026/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+            </section>
+            
+            <section class="category">
+                <div class="category-header">
+                    <h2 class="category-title">监管审批</h2>
+                    <span class="category-title-en">Regulatory</span>
+                    <span class="category-count">18 条</span>
+                </div>
+
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Verified Clinical Benefit | Cancer Accelerated Approvals
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 15:17</span>
+                        
+                        <span class="news-importance">⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications with postmarketing trials that have verified clinical benefit and for which traditional approval has been subsequently granted for the specific indication.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/resources-information-approved-drugs/verified-clinical-benefit-cancer-accelerated-approvals" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Drug Safety Oversight Board
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 21:17</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The DSB is composed of representatives from two FDA Centers and eight other federal government agencies, the Agency for Healthcare Research and Quality, Centers for Disease Control and Prevention, Centers for Medicare and Medicaid Services, Department of Defense.</p>
+                    
+                    <a href="http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/drug-safety-oversight-board" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Patient Listening Session Summaries
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 21:13</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Patient Listening Session summaries are published after each session to share a high-level summary of the discussion. The Public Engagement Staff draft summaries for FDA-requested sessions and the patient community requester drafts summaries for Patient-led sessions.</p>
+                    
+                    <a href="http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Resources for Biomarker Requestors
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 21:11</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Information and resources for requestors about FDA’s Biomarker Qualification Program</p>
+                    
+                    <a href="http://www.fda.gov/drugs/biomarker-qualification-program/resources-biomarker-requestors" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Tips for Section 804 Importation Program Proposals (SIPs)
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 18:39</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">FDA’s tips for section 804 state importation program (SIP) proposals provide information to assist states and tribes develop their proposals.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/importation-program-under-section-804-fdc-act/tips-section-804-importation-program-proposals-sips" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Section 804 Importation Program Policies and Authorizations
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 17:17</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">FDA has issued policies and taken actions to implement section 804 of the Federal Food, Drug and Cosmetic Act, which allows states and Indian tribes to import certain prescription drugs from Canada. Learn more.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/importation-program-under-section-804-fdc-act/section-804-importation-program-policies-and-authorizations" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Section 804 Importation Program (SIP) Proposals and FDA’s Review Process
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 17:13</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Section 804 of the Federal Food, Drug and Cosmetic Act allows states and Indian tribes to import certain prescription drugs from Canada to significantly reduce the cost of these drugs without imposing additional risk to public health and safety.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/importation-program-under-section-804-fdc-act/section-804-importation-program-sip-proposals-and-fdas-review-process" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Importation Program under Section 804 of the FD&amp;C Act
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 17:13</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">FDA has developed a pathway under section 804 of the Federal Food, Drug, and Cosmetic Act (FD&amp;amp;C Act) that allows states and Indian tribes to import certain prescription drugs from Canada. Learn more.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/human-drug-imports/importation-program-under-section-804-fdc-act" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        FDA Authorizes Florida’s Drug Importation Program
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 17:04</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">FDA authorized Florida’s Agency for Health Care Administration’s Section 804 Importation Program (SIP) in accordance with section 804 of the Federal Food, Drug, and Cosmetic Act (FD&amp;amp;C Act) and the FDA’s implementing regulations.</p>
+                    
+                    <a href="http://www.fda.gov/news-events/press-announcements/fda-authorizes-floridas-drug-importation-program" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        State Importation Program Enhancements
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 16:54</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">FDA is committed to continuing to work with states and Indian tribes that seek to develop an importation proposal under section 804 of the Federal Food, Drug and Cosmetic Act.</p>
+                    
+                    <a href="http://www.fda.gov/about-fda/reports/state-importation-program-enhancements" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Drugs@FDA Data Files
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 15:01</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)</p>
+                    
+                    <a href="http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        My Dog Has Cancer: What Do I Need to Know?
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 13:44</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Just as FDA reviews drugs for humans for safety and effectiveness before they can go on the market, the agency does the same for treatments for animals. Learn how FDA brings new oncology treatments to market and questions to ask your vet about your dog&#39;s cancer diagnosis.</p>
+                    
+                    <a href="http://www.fda.gov/consumers/consumer-updates/my-dog-has-cancer-what-do-i-need-know" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Reviews of Pediatric Studies Conducted under BPCA and Pediatric assessments conducted  under PREA from 2012 – present
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 18:40</span>
+                        
+                        <span class="news-importance">⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The following are the medical, statistical, and clinical pharmacology reviews of pediatric studies conducted in response to a Written Request issued under the BPCA and pediatric assessments conducted under PREA.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/development-resources/reviews-pediatric-studies-conducted-under-bpca-and-pediatric-assessments-conducted-under-prea-2012" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Generic Drug User Fee Amendments
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 23:19</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.</p>
+                    
+                    <a href="http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Section 804 Importation Program Quality Assurance Tool
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 17:14</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">This quality assurance (QA) tool is designed to assist section 804 importation program (SIP) sponsors prepare proposals that fully comply with the requirements under the final rule.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/importation-program-under-section-804-fdc-act/section-804-importation-program-quality-assurance-tool" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Human Drug Imports
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 16:53</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Human drug import information including PLAIR, safe importation action plan, and personal importation policy.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/guidance-compliance-regulatory-information/human-drug-imports" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Recently Issued Guidance Documents
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 15:59</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">This page lists Recently Issued CBER and Cross-Center Guidance Documents.</p>
+                    
+                    <a href="http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Generic Drug Facilities, Sites and Organization Lists
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-01-16 14:47</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Generic Drug Facilities, Sites and Organization Lists</p>
+                    
+                    <a href="http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+            </section>
+            
+            <section class="category">
+                <div class="category-header">
+                    <h2 class="category-title">综合</h2>
+                    <span class="category-title-en"></span>
+                    <span class="category-count">5 条</span>
+                </div>
+
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: FDA delays reviews for two drugs in new voucher program
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-01-16 14:36</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">And more biotech news, brought to you by The Readout</p>
+                    
+                    <a href="https://www.statnews.com/2026/01/16/biotech-news-fda-delays-review-in-voucher-program/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Pharmalittle: We’re reading about FDA voucher worries, weight loss drugs and jet fuel, and more
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-01-16 14:30</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Some major drugmakers are hesitating to participate in the Trump administration&#39;s speedier review program for new medicines over possible legal risks</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/01/16/trump-fda-voucher-obesity-novo-lilly-covid/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        &lt;a href=&#34;https://www.fiercepharma.com/pharma/after-abbvie-and-genmabs-ph-3-survival-miss-epkinly-dlbcl-whats-next&#34; hreflang=&#34;en&#34;&gt;After AbbVie and Genmab&#39;s ph. 3 survival miss for Epkinly in DLBCL, what&#39;s next?&lt;/a&gt;
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-01-16 15:29</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Just days after AbbVie unveiled a major new oncology play in the form of its high-dollar RemeGen collab, the Illinois drugmaker closed out the week with some mixed news for marketed cancer offering Epkinly.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/after-abbvie-and-genmabs-ph-3-survival-miss-epkinly-dlbcl-whats-next" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Supreme Court agrees to review ‘skinny labeling’ and generic drug access
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-01-16 21:03</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The Supreme Court agreed to review a controversy over so-called skinny labels for medicines, a decision that will be closely watched for its implications for the availability of generic medicines.</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/01/16/scotus-generics-patents-supreme-court-amarin-hikma/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Up and down the ladder: The latest comings and goings
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-01-16 17:00</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/01/16/pharma-biotech-jobs-novo-bristol-astrazeneca/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+            </section>
+            
+        </main>
+
+        <footer>
+            <p>Generated by <strong>Pharma Daily</strong> - 制药资讯聚合系统</p>
+            <p>2026-01-18 13:24</p>
+        </footer>
+    </div>
+</body>
+</html>
