@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>制药日报 - 2026-01-18</title>
+    <style>
+        :root {
+            --bg-primary: #f0f4f8;
+            --bg-secondary: #ffffff;
+            --bg-header: linear-gradient(135deg, #1a365d 0%, #2b6cb0 100%);
+            --text-primary: #2d3748;
+            --text-secondary: #718096;
+            --text-light: #ffffff;
+            --accent: #2b6cb0;
+            --accent-light: #4299e1;
+            --accent-dark: #1a365d;
+            --border: #e2e8f0;
+            --success: #38a169;
+            --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* Header */
+        header {
+            background: var(--bg-header);
+            color: var(--text-light);
+            padding: 48px 0;
+            margin-bottom: 32px;
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 24px;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .brand-icon {
+            width: 64px;
+            height: 64px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 32px;
+        }
+
+        h1 {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+
+        .subtitle {
+            font-size: 16px;
+            opacity: 0.9;
+        }
+
+        /* Stats Cards */
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-bottom: 32px;
+        }
+
+        .stat-card {
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: var(--card-shadow);
+        }
+
+        .stat-card .icon {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, var(--accent-light), var(--accent));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            margin-bottom: 12px;
+        }
+
+        .stat-value {
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+
+        /* Analysis Card */
+        .analysis-card {
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            padding: 32px;
+            margin-bottom: 32px;
+            box-shadow: var(--card-shadow);
+            border-left: 4px solid var(--accent);
+        }
+
+        .analysis-card h2 {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 20px;
+            color: var(--accent-dark);
+            margin-bottom: 16px;
+        }
+
+        .analysis-content {
+            font-size: 16px;
+            line-height: 1.8;
+            color: var(--text-secondary);
+        }
+
+        /* Category Section */
+        .category {
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 24px;
+            box-shadow: var(--card-shadow);
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 20px;
+            padding-bottom: 16px;
+            border-bottom: 2px solid var(--bg-primary);
+        }
+
+        .category-icon {
+            width: 44px;
+            height: 44px;
+            background: linear-gradient(135deg, var(--accent-light), var(--accent));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 20px;
+        }
+
+        .category-title {
+            font-size: 22px;
+            font-weight: 600;
+            color: var(--accent-dark);
+        }
+
+        .category-title-en {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-weight: 400;
+        }
+
+        .category-badge {
+            margin-left: auto;
+            background: var(--accent);
+            color: white;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 500;
+        }
+
+        /* News Item */
+        .news-item {
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 12px;
+            background: var(--bg-primary);
+            transition: all 0.2s ease;
+        }
+
+        .news-item:hover {
+            background: #e8f0f8;
+        }
+
+        .news-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .news-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
+
+        .news-flag {
+            font-size: 18px;
+            flex-shrink: 0;
+        }
+
+        .news-item h3 {
+            font-size: 17px;
+            font-weight: 600;
+            line-height: 1.5;
+            color: var(--text-primary);
+        }
+
+        .news-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 10px;
+            font-size: 13px;
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            color: var(--text-secondary);
+        }
+
+        .meta-item.source {
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        .meta-item.importance {
+            color: #eab308;
+        }
+
+        .news-summary {
+            font-size: 15px;
+            color: var(--text-secondary);
+            line-height: 1.7;
+            margin-bottom: 12px;
+        }
+
+        .news-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            padding: 6px 12px;
+            background: rgba(43, 108, 176, 0.1);
+            border-radius: 6px;
+            transition: all 0.2s;
+        }
+
+        .news-link:hover {
+            background: rgba(43, 108, 176, 0.2);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 48px 0;
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        /* Category Icons */
+        .cat-icon-新药研发::before { content: "🧬"; }
+        .cat-icon-临床试验::before { content: "🔬"; }
+        .cat-icon-监管审批::before { content: "📋"; }
+        .cat-icon-商业动态::before { content: "💼"; }
+        .cat-icon-市场分析::before { content: "📈"; }
+        .cat-icon-政策法规::before { content: "📜"; }
+        .cat-icon-综合::before { content: "📰"; }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header {
+                padding: 32px 0;
+            }
+
+            h1 {
+                font-size: 28px;
+            }
+
+            .header-content {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .brand {
+                flex-direction: column;
+            }
+
+            .stats-row {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            .category-header {
+                flex-wrap: wrap;
+            }
+
+            .category-badge {
+                margin-left: 0;
+                margin-top: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="brand">
+                    <div class="brand-icon">💊</div>
+                    <div>
+                        <h1>制药日报</h1>
+                        <p class="subtitle">Pharma Daily · 2026-01-18</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="icon">📊</div>
+                <div class="stat-value">25</div>
+                <div class="stat-label">新闻总数</div>
+            </div>
+            <div class="stat-card">
+                <div class="icon">🏷️</div>
+                <div class="stat-value">3</div>
+                <div class="stat-label">新闻类别</div>
+            </div>
+            <div class="stat-card">
+                <div class="icon">🕐</div>
+                <div class="stat-value">21:57</div>
+                <div class="stat-label">更新时间</div>
+            </div>
+        </div>
+
+        
+
+        
+        <section class="category">
+            <div class="category-header">
+                <div class="category-icon cat-icon-综合"></div>
+                <div>
+                    <h2 class="category-title">综合</h2>
+                    <span class="category-title-en"></span>
+                </div>
+                <span class="category-badge">10 条新闻</span>
+            </div>
+
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>&lt;a href=&#34;https://www.fiercepharma.com/pharma/drug-approvals-went-crawl-sprint-2025&#34; hreflang=&#34;en&#34;&gt;Drug approvals went from crawl to sprint in 2025&lt;/a&gt;</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">FiercePharma</span>
+                    <span class="meta-item">📅 01/15</span>
+                    
+                    <span class="meta-item importance">⭐⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">On this episode of &#34;The Top Line,&#34; we dig into how turmoil at the FDA impacted drug approvals in 2025.</p>
+                
+                <a href="https://www.fiercepharma.com/pharma/drug-approvals-went-crawl-sprint-2025" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>STAT+: FDA delays reviews for two drugs in new voucher program</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">STAT News - Pharma</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">And more biotech news, brought to you by The Readout</p>
+                
+                <a href="https://www.statnews.com/2026/01/16/biotech-news-fda-delays-review-in-voucher-program/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>STAT+: Pharmalittle: We’re reading about FDA voucher worries, weight loss drugs and jet fuel, and more</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">STAT News - Pharma</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">Some major drugmakers are hesitating to participate in the Trump administration&#39;s speedier review program for new medicines over possible legal risks</p>
+                
+                <a href="https://www.statnews.com/pharmalot/2026/01/16/trump-fda-voucher-obesity-novo-lilly-covid/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>&lt;a href=&#34;https://www.fiercepharma.com/pharma/single-product-exelixis-aims-be-top-5-solid-tumor-drugmaker-us&#34; hreflang=&#34;en&#34;&gt;Single-drug Exelixis aims to be top 5 solid tumor company in the US: CEO&lt;/a&gt;</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">FiercePharma</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">Exelixis may only have one drug on the market right now, but with phase 3 results for a potential new blockbuster on the horizon and a growing pipeline, the Cabometyx maker is aiming big.</p>
+                
+                <a href="https://www.fiercepharma.com/pharma/single-product-exelixis-aims-be-top-5-solid-tumor-drugmaker-us" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>&lt;a href=&#34;https://www.fiercepharma.com/pharma/after-abbvie-and-genmabs-ph-3-survival-miss-epkinly-dlbcl-whats-next&#34; hreflang=&#34;en&#34;&gt;After AbbVie and Genmab&#39;s ph. 3 survival miss for Epkinly in DLBCL, what&#39;s next?&lt;/a&gt;</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">FiercePharma</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                </div>
+                
+                <p class="news-summary">Just days after AbbVie unveiled a major new oncology play in the form of its high-dollar RemeGen collab, the Illinois drugmaker closed out the week with some mixed news for marketed cancer offering Epkinly.</p>
+                
+                <a href="https://www.fiercepharma.com/pharma/after-abbvie-and-genmabs-ph-3-survival-miss-epkinly-dlbcl-whats-next" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>&lt;a href=&#34;https://www.fiercepharma.com/pharma/jpm26-fujifilm-ceo-touts-biologics-capacity-edge-manufacturing-unit-keeps-expansions-coming&#34; hreflang=&#34;en&#34;&gt;JPM26: Fujifilm CEO touts biologics capacity edge amid expansion tear&lt;/a&gt;</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">FiercePharma</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                </div>
+                
+                <p class="news-summary">With Fujifilm Biotechnologies now among the top echelon of CDMOs by biologics capacity, Fujifilm’s group CEO reflected on the unit’s unique facility design philosophy and how it’s eschewing big M&amp;amp;A plays to expand in-house.</p>
+                
+                <a href="https://www.fiercepharma.com/pharma/jpm26-fujifilm-ceo-touts-biologics-capacity-edge-manufacturing-unit-keeps-expansions-coming" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>&lt;a href=&#34;https://www.fiercepharma.com/marketing/abbvies-skyrizi-takes-full-year-tv-ad-spending-crown-yet-again-jjs-tremfya-hot-pursuit&#34; hreflang=&#34;en&#34;&gt;AbbVie’s Skyrizi takes full-year TV ad spending crown yet again, with J&amp;amp;J’s Tremfya in hot pursuit&lt;/a&gt;</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">FiercePharma</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                </div>
+                
+                <p class="news-summary">For the fourth year running—and the third in a row for Skyrizi specifically—an AbbVie immunology med has claimed the top spot in the full-year TV drug ad spending rankings.</p>
+                
+                <a href="https://www.fiercepharma.com/marketing/abbvies-skyrizi-takes-full-year-tv-ad-spending-crown-yet-again-jjs-tremfya-hot-pursuit" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>STAT+: Supreme Court agrees to review ‘skinny labeling’ and generic drug access</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">STAT News - Pharma</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                </div>
+                
+                <p class="news-summary">The Supreme Court agreed to review a controversy over so-called skinny labels for medicines, a decision that will be closely watched for its implications for the availability of generic medicines.</p>
+                
+                <a href="https://www.statnews.com/pharmalot/2026/01/16/scotus-generics-patents-supreme-court-amarin-hikma/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>STAT+: Up and down the ladder: The latest comings and goings</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">STAT News - Pharma</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                </div>
+                
+                <p class="news-summary">From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.</p>
+                
+                <a href="https://www.statnews.com/pharmalot/2026/01/16/pharma-biotech-jobs-novo-bristol-astrazeneca/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>STAT+: Trump releases health care plan amid pressure over affordability</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">STAT News - Pharma</span>
+                    <span class="meta-item">📅 01/15</span>
+                    
+                </div>
+                
+                <p class="news-summary">Trump&#39;s most consequential proposals would require action from Congress.</p>
+                
+                <a href="https://www.statnews.com/2026/01/15/trump-great-healthcare-plan-potential-stumbling-blocks/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+        </section>
+        
+        <section class="category">
+            <div class="category-header">
+                <div class="category-icon cat-icon-新药研发"></div>
+                <div>
+                    <h2 class="category-title">新药研发</h2>
+                    <span class="category-title-en">Drug R&amp;D</span>
+                </div>
+                <span class="category-badge">10 条新闻</span>
+            </div>
+
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">BioPharma Dive</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">More than 3,000 prescriptions were written for Novo&amp;rsquo;s GLP-1 pill in its first week on the market. Elsewhere, Emergent reached a settlement over a trading scandal and Sanofi is reportedly circling an eye drug biotech.</p>
+                
+                <a href="https://www.biopharmadive.com/news/wegovy-pill-sales-emergent-sanofi-ocular-jazz-novo/809709/" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">Endpoints News</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">SpyGlass Pharma and Agomab Therapeutics filed for initial public offerings on Friday evening. The drug developers hope to build on the strong start set by Aktis Oncology’s $318 million Nasdaq listing last ...</p>
+                
+                <a href="https://endpoints.news/agomab-and-spyglass-file-for-ipos-as-investor-enthusiasm-builds-after-jpm/" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Drugmakers without MFN pacts are bracing to make one</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">Endpoints News</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">All but 17 drugmakers avoided a direct demand from President Donald Trump last year to lower their prices significantly. But that likely won’t last. There was a subtle unease among executives of some of the ...</p>
+                
+                <a href="https://endpoints.news/drugmakers-without-mfn-pacts-are-bracing-to-make-one/" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>AbbVie, Genmab say Epkinly didn&#39;t prolong overall survival in lymphoma study</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">Endpoints News</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">AbbVie and Genmab’s cancer drug Epkinly failed to improve overall survival in a late-stage study for diffuse large B cell lymphoma. The Phase 3 trial enrolled patients who had received at least one prior therapy ...</p>
+                
+                <a href="https://endpoints.news/abbvie-genmab-say-epkinly-didnt-prolong-overall-survival-in-lymphoma-study/" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>On biotech’s biggest stage, renewed excitement gets a stress test</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">BioPharma Dive</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                </div>
+                
+                <p class="news-summary">A surge in deals and financings had the industry abuzz heading into this year&amp;rsquo;s J.P. Morgan Healthcare Conference. But some aren&amp;rsquo;t sure if the rebound is here to stay.</p>
+                
+                <a href="https://www.biopharmadive.com/news/jpm26-biotech-startups-deals-venture-ipo-fda-china/809809/" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Trump unveils healthcare affordability plan</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">BioPharma Dive</span>
+                    <span class="meta-item">📅 01/15</span>
+                    
+                </div>
+                
+                <p class="news-summary">The &amp;ldquo;Great Healthcare Plan&amp;rdquo; is vague, but would send money directly to ACA enrollees and entrench the pricing deals the administration has cut with more than a dozen drugmakers.</p>
+                
+                <a href="https://www.biopharmadive.com/news/trump-great-healthcare-plan-affordability-aca/809779/" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Tecvayli tops standard drugs in early multiple myeloma, J&amp;J says</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">BioPharma Dive</span>
+                    <span class="meta-item">📅 01/15</span>
+                    
+                </div>
+                
+                <p class="news-summary">The results build on evidence U.S. regulators found so compelling last year they proactively awarded J&amp;amp;J a new kind of drug review voucher.&amp;nbsp;</p>
+                
+                <a href="https://www.biopharmadive.com/news/johnson-johnson-tecvayli-early-multiple-myeloma-majestec-results/809721/" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Oxford Biomedica confirms takeover talks with biotech investor EQT</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">BioPharma Dive</span>
+                    <span class="meta-item">📅 01/15</span>
+                    
+                </div>
+                
+                <p class="news-summary">Oxford, major contract manufacturer to cell and gene therapy companies, has already rejected multiple, unsolicited take-private bids from EQT that it felt &amp;ldquo;undervalued&amp;rdquo; the company and its prospects.</p>
+                
+                <a href="https://www.biopharmadive.com/news/oxford-biomedica-eqt-offer-acquire-cell-gene-therapy/809705/" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>JPM recap; Mirador raises $250M; Genentech’s PBM shift; and more</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">Endpoints News</span>
+                    <span class="meta-item">📅 01/17</span>
+                    
+                </div>
+                
+                <p class="news-summary">Welcome back to Endpoints Weekly! One programming note before we dive into news from #JPM26: We won’t be sending newsletters on Monday, but we’ll be back in your inbox on Tuesday. The Endpoints News ...</p>
+                
+                <a href="https://endpoints.news/jpm-recap-mirador-raises-250m-genentechs-pbm-shift-and-more/" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Supreme Court will hear Hikma’s ‘skinny label’ fight against Amarin</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">Endpoints News</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                </div>
+                
+                <a href="https://endpoints.news/supreme-court-will-hear-hikmas-skinny-label-fight-against-amarin/" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+        </section>
+        
+        <section class="category">
+            <div class="category-header">
+                <div class="category-icon cat-icon-监管审批"></div>
+                <div>
+                    <h2 class="category-title">监管审批</h2>
+                    <span class="category-title-en">Regulatory</span>
+                </div>
+                <span class="category-badge">5 条新闻</span>
+            </div>
+
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Drug Safety Oversight Board</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">FDA News</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">The DSB is composed of representatives from two FDA Centers and eight other federal government agencies, the Agency for Healthcare Research and Quality, Centers for Disease Control and Prevention, Centers for Medicare and Medicaid Services, Department of Defense.</p>
+                
+                <a href="http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/drug-safety-oversight-board" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Patient Listening Session Summaries</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">FDA News</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">Patient Listening Session summaries are published after each session to share a high-level summary of the discussion. The Public Engagement Staff draft summaries for FDA-requested sessions and the patient community requester drafts summaries for Patient-led sessions.</p>
+                
+                <a href="http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Resources for Biomarker Requestors</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">FDA News</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">Information and resources for requestors about FDA’s Biomarker Qualification Program</p>
+                
+                <a href="http://www.fda.gov/drugs/biomarker-qualification-program/resources-biomarker-requestors" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Reviews of Pediatric Studies Conducted under BPCA and Pediatric assessments conducted  under PREA from 2012 – present</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">FDA News</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                    <span class="meta-item importance">⭐</span>
+                    
+                </div>
+                
+                <p class="news-summary">The following are the medical, statistical, and clinical pharmacology reviews of pediatric studies conducted in response to a Written Request issued under the BPCA and pediatric assessments conducted under PREA.</p>
+                
+                <a href="http://www.fda.gov/drugs/development-resources/reviews-pediatric-studies-conducted-under-bpca-and-pediatric-assessments-conducted-under-prea-2012" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+            <article class="news-item">
+                <div class="news-header">
+                    <span class="news-flag">🇺🇸</span>
+                    <h3>Generic Drug User Fee Amendments</h3>
+                </div>
+                <div class="news-meta">
+                    <span class="meta-item source">FDA News</span>
+                    <span class="meta-item">📅 01/16</span>
+                    
+                </div>
+                
+                <p class="news-summary">This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.</p>
+                
+                <a href="http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments" target="_blank" rel="noopener" class="news-link">
+                    阅读原文 →
+                </a>
+            </article>
+            
+        </section>
+        
+    </main>
+
+    <footer>
+        <p>Generated by <strong>Pharma Daily</strong> - 制药资讯聚合系统</p>
+        <p>2026-01-18 21:57</p>
+    </footer>
+</body>
+</html>

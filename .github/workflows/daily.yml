@@ -1,0 +1,113 @@
+name: Pharma Daily - 每日制药资讯
+
+on:
+  # 定时触发：每天 UTC 02:00（北京时间 10:00）
+  schedule:
+    - cron: '0 2 * * *'
+
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '日期 (today/yesterday/YYYY-MM-DD)'
+        required: false
+        default: 'today'
+      theme:
+        description: '主题 (minimal/pharma-blue/warm)'
+        required: false
+        default: 'minimal'
+
+  # Push 触发（可选，用于测试）
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+      - '.github/workflows/daily.yml'
+
+# 防止并发执行
+concurrency:
+  group: pharma-daily
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # 1. 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # 2. 设置 Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # 3. 安装依赖
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4. 显示环境信息
+      - name: Show environment info
+        run: |
+          echo "Python version: $(python --version)"
+          echo "Working directory: $(pwd)"
+          echo "Current time: $(date)"
+          echo "Date input: ${{ github.event.inputs.date || 'today' }}"
+          echo "Theme input: ${{ github.event.inputs.theme || 'minimal' }}"
+
+      # 5. 运行新闻抓取和生成
+      - name: Generate Pharma Daily
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL || 'deepseek-chat' }}
+        run: |
+          python -m src.automation \
+            --date "${{ github.event.inputs.date || 'today' }}" \
+            --theme "${{ github.event.inputs.theme || 'minimal' }}" \
+            --output-dir docs
+
+      # 6. 验证输出
+      - name: Validate output
+        run: |
+          echo "Checking generated files..."
+          ls -la docs/
+          if [ -f docs/index.html ]; then
+            echo "✅ index.html generated successfully"
+          else
+            echo "❌ index.html not found"
+            exit 1
+          fi
+
+      # 7. 部署到 GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          keep_files: true
+          commit_message: "📰 Pharma Daily update - ${{ github.event.inputs.date || 'today' }}"
+
+      # 8. 上传 Artifacts（用于调试）
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: pharma-daily-output
+          path: docs/
+          retention-days: 7
+
+      # 9. 发送通知（可选）
+      - name: Send notification
+        if: failure()
+        run: |
+          echo "❌ Pharma Daily generation failed!"
+          # 可以在这里添加邮件或其他通知

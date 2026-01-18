@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <style>
+        :root {
+            --bg-primary: #faf8f5;
+            --bg-secondary: #ffffff;
+            --bg-accent: #fef3c7;
+            --text-primary: #451a03;
+            --text-secondary: #78716c;
+            --accent: #d97706;
+            --accent-light: #fbbf24;
+            --accent-dark: #b45309;
+            --border: #e7e5e4;
+            --card-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Georgia", "Noto Serif SC", "Source Han Serif SC", serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.8;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            padding: 64px 0 48px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .logo {
+            font-size: 56px;
+            margin-bottom: 16px;
+        }
+
+        h1 {
+            font-size: 42px;
+            font-weight: 400;
+            letter-spacing: 0.1em;
+            margin-bottom: 12px;
+        }
+
+        .subtitle {
+            font-size: 18px;
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+
+        .date-badge {
+            display: inline-block;
+            margin-top: 24px;
+            padding: 8px 24px;
+            background: var(--bg-accent);
+            border-radius: 24px;
+            font-size: 14px;
+            color: var(--accent-dark);
+            font-family: -apple-system, sans-serif;
+        }
+
+        /* Stats */
+        .stats-section {
+            display: flex;
+            justify-content: center;
+            gap: 48px;
+            padding: 32px 0;
+            margin: 32px 0;
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            box-shadow: var(--card-shadow);
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 36px;
+            font-weight: 400;
+            color: var(--accent);
+            font-family: -apple-system, sans-serif;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: var(--text-secondary);
+            margin-top: 4px;
+            font-family: -apple-system, sans-serif;
+        }
+
+        /* Analysis */
+        .analysis-section {
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            padding: 32px;
+            margin: 32px 0;
+            box-shadow: var(--card-shadow);
+            border-left: 4px solid var(--accent);
+        }
+
+        .analysis-section h2 {
+            font-size: 20px;
+            font-weight: 400;
+            color: var(--accent-dark);
+            margin-bottom: 16px;
+            font-family: -apple-system, sans-serif;
+        }
+
+        .analysis-content {
+            font-size: 17px;
+            color: var(--text-secondary);
+        }
+
+        /* Category */
+        .category {
+            margin: 48px 0;
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        .category-divider {
+            flex: 1;
+            height: 1px;
+            background: var(--border);
+        }
+
+        .category-title {
+            font-size: 24px;
+            font-weight: 400;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .category-title-en {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-style: italic;
+            font-family: -apple-system, sans-serif;
+        }
+
+        .category-count {
+            font-size: 13px;
+            color: var(--text-secondary);
+            background: var(--bg-accent);
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-family: -apple-system, sans-serif;
+        }
+
+        /* News Card */
+        .news-card {
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            padding: 28px;
+            margin-bottom: 20px;
+            box-shadow: var(--card-shadow);
+            transition: transform 0.2s ease;
+        }
+
+        .news-card:hover {
+            transform: translateY(-2px);
+        }
+
+        .news-card h3 {
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 1.6;
+            margin-bottom: 12px;
+        }
+
+        .news-flag {
+            margin-right: 8px;
+        }
+
+        .news-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            margin-bottom: 16px;
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: -apple-system, sans-serif;
+        }
+
+        .news-source {
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        .news-importance {
+            color: var(--accent-light);
+        }
+
+        .news-summary {
+            font-size: 16px;
+            color: var(--text-secondary);
+            margin-bottom: 16px;
+            padding-left: 16px;
+            border-left: 2px solid var(--border);
+        }
+
+        .news-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 15px;
+            font-family: -apple-system, sans-serif;
+            transition: color 0.2s;
+        }
+
+        .news-link:hover {
+            color: var(--accent-dark);
+        }
+
+        .news-link::after {
+            content: "→";
+            font-size: 18px;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 48px 0;
+            border-top: 1px solid var(--border);
+            margin-top: 48px;
+            color: var(--text-secondary);
+            font-size: 14px;
+            font-family: -apple-system, sans-serif;
+        }
+
+        footer p {
+            margin-bottom: 8px;
+        }
+
+        /* Blockquote style for important news */
+        .featured {
+            border-left-color: var(--accent);
+            border-left-width: 4px;
+        }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            header {
+                padding: 48px 0 32px;
+            }
+
+            h1 {
+                font-size: 32px;
+            }
+
+            .stats-section {
+                flex-direction: column;
+                gap: 24px;
+            }
+
+            .category-header {
+                flex-wrap: wrap;
+            }
+
+            .news-card {
+                padding: 20px;
+            }
+
+            .news-card h3 {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">🧪</div>
+            <h1>制药日报</h1>
+            <p class="subtitle">Pharma Daily</p>
+            <span class="date-badge">{{ date }}</span>
+        </header>
+
+        <section class="stats-section">
+            <div class="stat">
+                <div class="stat-value">{{ total_count }}</div>
+                <div class="stat-label">新闻总数</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">{{ news_by_category|length }}</div>
+                <div class="stat-label">类别</div>
+            </div>
+        </section>
+
+        {% if analysis %}
+        <section class="analysis-section">
+            <h2>📖 今日概览</h2>
+            <div class="analysis-content">
+                {{ analysis | safe }}
+            </div>
+        </section>
+        {% endif %}
+
+        <main>
+            {% for category, items in news_by_category.items() %}
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-divider"></div>
+                    <h2 class="category-title">
+                        {{ category }}
+                        <span class="category-title-en">{{ categories.get(category, {}).get('en', '') }}</span>
+                    </h2>
+                    <span class="category-count">{{ items|length }}</span>
+                    <div class="category-divider"></div>
+                </div>
+
+                {% for item in items %}
+                <article class="news-card {% if item.importance >= 4 %}featured{% endif %}">
+                    <h3>
+                        <span class="news-flag">{% if item.language == 'zh' %}🇨🇳{% else %}🇺🇸{% endif %}</span>
+                        {{ item.title }}
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">{{ item.source }}</span>
+                        <span>{{ item.published | format_date }}</span>
+                        {% if item.importance %}
+                        <span class="news-importance">{{ '★' * item.importance }}</span>
+                        {% endif %}
+                    </div>
+                    {% if item.summary %}
+                    <p class="news-summary">{{ item.summary }}</p>
+                    {% endif %}
+                    <a href="{{ item.link }}" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                {% endfor %}
+            </section>
+            {% endfor %}
+        </main>
+
+        <footer>
+            <p>Generated by <strong>Pharma Daily</strong></p>
+            <p>制药资讯聚合系统 · {{ generated_at }}</p>
+        </footer>
+    </div>
+</body>
+</html>
