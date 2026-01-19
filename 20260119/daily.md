@@ -1,7 +1,7 @@
 # 制药日报 Pharma Daily
 
 **日期**: 2026-01-19
-**更新时间**: 2026-01-19 14:11
+**更新时间**: 2026-01-19 14:18
 **新闻数量**: 102
 
 ---
@@ -12,38 +12,38 @@
 
 ### 本周概览
 
-本周制药行业动态聚焦于监管审批与政策变化，FDA持续加强监管审查，包括对促销材料的警告信、对关键药物审批的延迟以及对疫苗标签的新要求。同时，JPM大会期间行业巨头如阿斯利康、诺和诺德等公布了雄心勃勃的增长目标，而GLP-1药物（如诺和诺德的口服Wegovy）的市场竞争与监管动态持续受到关注。
+本周制药行业动态聚焦于监管审批与商业战略。FDA对多款药物（如Travere的Filspari）的审评延迟引发关注，同时诺和诺德基金会宣布向生物创新研究所投入超8.5亿美元，彰显长期研发投入。此外，JPM大会期间，阿斯利康的800亿美元营收目标、礼来与诺和诺德在口服GLP-1药物领域的竞争，以及IPO市场回暖成为热点。
 
 ### 🔥 重点新闻
 
-**2. FDA delays decision on Travere's Filspari in key kidney disease indication** ⭐⭐⭐⭐⭐
+**1. FDA delays decision on Travere's Filspari in key kidney disease indication** ⭐⭐⭐⭐⭐
    - 类别: 监管审批
-   - FDA延迟审批Travere的Filspari用于FSGS适应症，该决定涉及20亿美元的峰值销售机会，对公司和肾病治疗领域影响重大。
+   - FDA对关键肾病适应症（FSGS，峰值销售20亿美元）的审评延迟，直接影响企业核心管线及市场预期。
 
-**17. Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading** ⭐⭐⭐⭐⭐
-   - 类别: 新药研发
-   - 诺和诺德口服GLP-1药物Wegovy上市首周处方量超3000，标志着肥胖症治疗进入口服时代，市场影响深远。
-
-**7. JPM26: AstraZeneca's $80B revenue target 'very much within reach,' CFO says** ⭐⭐⭐⭐
-   - 类别: 市场分析
-   - 阿斯利康CFO在JPM大会上确认2030年800亿美元营收目标可达成，反映行业巨头对增长前景的强劲信心。
-
-**11. FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels** ⭐⭐⭐⭐
-   - 类别: 监管审批
-   - FDA要求四大药企在流感疫苗标签中增加发热性癫痫警告，涉及儿童疫苗接种安全，监管影响广泛。
-
-**20. Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM** ⭐⭐⭐⭐
+**4. Novo Nordisk Foundation to inject $850M+ into BioInnovation Institute through 2035** ⭐⭐⭐⭐⭐
    - 类别: 商业动态
-   - Agomab和SpyGlass在JPM大会后提交IPO申请，显示生物科技融资市场回暖，投资者信心增强。
+   - 诺和诺德基金会承诺至2035年投入超8.5亿美元支持生命科学孵化，是行业长期研发投入的重大信号。
+
+**6. JPM26: AstraZeneca's $80B revenue target 'very much within reach,' CFO says** ⭐⭐⭐⭐
+   - 类别: 市场分析
+   - 阿斯利康重申2030年800亿美元营收目标，反映大型药企在专利悬崖与创新转型期的增长信心。
+
+**18. Lilly, chasing Novo, expects second-quarter FDA decision on obesity pill** ⭐⭐⭐⭐
+   - 类别: 新药研发
+   - 礼来口服减肥药orforglipron预计Q2获FDA决定，加剧与诺和诺德在GLP-1口服制剂市场的竞争。
+
+**19. Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM** ⭐⭐⭐⭐
+   - 类别: 商业动态
+   - 两家生物技术公司提交IPO申请，显示JPM大会后资本市场对生物科技板块情绪回暖。
 
 ### 📁 分类摘要
 
-**新药研发** (Drug R&D): 诺和诺德口服Wegovy快速上市，礼来肥胖症口服药orforglipron预计Q2获FDA决定；Scribe Therapeutics计划夏季测试CRISPR降胆固醇疗法，基因编辑领域进展活跃。
-**临床试验** (Clinical Trials): Argenx的VYVGART用于血清阴性gMG的补充申请获FDA受理，基于阳性III期数据；FDA加速审批项目中部分癌症疗法已验证临床获益。
+**新药研发** (Drug R&D): 口服GLP-1药物竞争白热化（礼来orforglipron、诺和诺德Wegovy pill），基因编辑公司Scribe Therapeutics计划今夏启动首个临床试验。
+**临床试验** (Clinical Trials): Argenx的VYVGART用于血清阴性gMG的补充申请获FDA受理（基于III期数据）；FDA加速审批项目中部分药物的验证性试验完成临床获益确认。
 
 ### 🔮 明日关注
 
-关注FDA与诺和诺德就Catalent印第安纳州工厂问题的会议进展；留意礼来肥胖症口服药orforglipron的FDA审批时间表；监测GLP-1药物标签中自杀风险警告的移除后续影响；跟踪Agomab、SpyGlass等生物科技公司的IPO市场反应。
+关注FDA与诺和诺德就印第安纳州问题生产基地的会谈进展；口服GLP-1药物市场处方数据及竞争态势；IPO市场是否持续回暖（如Agomab、SpyGlass等公司上市表现）。
 
 
 ---
@@ -61,19 +61,7 @@
 
 ## 综合 | 综合
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/marketing/fda-chides-beone-immunitybio-promo-materials-first-untitled-letters-2026" hreflang="en">FDA chides BeOne, ImmunityBio promo materials in 1st untitled letters of 2026</a>
-
-- **来源**: FiercePharma
-- **时间**: 2026-01-15 11:21
-- **重要性**: ⭐⭐⭐⭐
-
-> The steady stream of FDA untitled letters that began in September is showing no signs of letting up in the new year.
-
-🔗 [阅读原文](https://www.fiercepharma.com/marketing/fda-chides-beone-immunitybio-promo-materials-first-untitled-letters-2026)
-
----
-
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/fda-delays-decision-traveres-filspari-2b-kidney-disease-indication" hreflang="en">FDA delays decision on Travere's Filspari in key kidney disease indication</a>
+### 🇺🇸 FDA delays decision on Travere's Filspari in key kidney disease indication
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-14 10:44
@@ -97,7 +85,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/astrazeneca-80-billion-revenue-target-very-much-within-reach-cfo-says" hreflang="en">JPM26: AstraZeneca's $80B revenue target 'very much within reach,' CFO says</a>
+### 🇺🇸 JPM26: AstraZeneca's $80B revenue target 'very much within reach,' CFO says
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-13 23:32
@@ -109,7 +97,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/drug-approvals-went-crawl-sprint-2025" hreflang="en">Drug approvals went from crawl to sprint in 2025</a>
+### 🇺🇸 Drug approvals went from crawl to sprint in 2025
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 16:37
@@ -121,7 +109,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/fda-tells-sanofi-gsk-az-and-csl-include-warning-childhood-seizures-flu-shots" hreflang="en">FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels</a>
+### 🇺🇸 FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 11:11
@@ -133,7 +121,19 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/astellas-ceo-resists-rescue-bd-6b-xtandi-patent-cliff-nears" hreflang="en">JPM26: Astellas CEO resists 'rescue BD' as $6B Xtandi patent cliff nears</a>
+### 🇺🇸 FDA chides BeOne, ImmunityBio promo materials in 1st untitled letters of 2026
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-15 11:21
+- **重要性**: ⭐⭐
+
+> The steady stream of FDA untitled letters that began in September is showing no signs of letting up in the new year.
+
+🔗 [阅读原文](https://www.fiercepharma.com/marketing/fda-chides-beone-immunitybio-promo-materials-first-untitled-letters-2026)
+
+---
+
+### 🇺🇸 JPM26: Astellas CEO resists 'rescue BD' as $6B Xtandi patent cliff nears
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 01:31
@@ -145,7 +145,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/manufacturing/becton-dickinson-budgets-110m-expand-nebraska-syringe-production-plant" hreflang="en">BD budgets $110M to expand Neb. syringe production</a>
+### 🇺🇸 BD budgets $110M to expand Neb. syringe production
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 08:06
@@ -157,7 +157,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/jpm26-jazzs-prv-sale-200m-shows-drum-beat-rising-prv-prices-isnt-stopping" hreflang="en">JPM26: Jazz's $200M voucher sale shows drumbeat of rising prices isn't stopping</a>
+### 🇺🇸 JPM26: Jazz's $200M voucher sale shows drumbeat of rising prices isn't stopping
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-14 15:23
@@ -169,19 +169,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/biotech/jpm26-after-important-year-sanofi-looks-ahead-remaining-federal-challenges" hreflang="en">JPM26: With pricing deal in the books, Sanofi steels against lingering policy unknowns</a>
-
-- **来源**: FiercePharma
-- **时间**: 2026-01-14 14:30
-- **重要性**: ⭐⭐
-
-> With a White House drug pricing deal done and dusted and the threat of tariffs ameliorated, Sanofi is now enjoying more clarity from the federal government than at the same time last year. But several concerns still linger for the French pharma as the calendar turns to 2026.
-
-🔗 [阅读原文](https://www.fiercepharma.com/biotech/jpm26-after-important-year-sanofi-looks-ahead-remaining-federal-challenges)
-
----
-
-### 🇺🇸 <a href="https://www.fiercepharma.com/marketing/amneal-and-vantai-unveil-fresh-branding-kick-2026-plans" hreflang="en">Amneal and VantAI unveil fresh branding to kick off 2026 plans</a>
+### 🇺🇸 Amneal and VantAI unveil fresh branding to kick off 2026 plans
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-14 11:05
@@ -265,7 +253,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/single-product-exelixis-aims-be-top-5-solid-tumor-drugmaker-us" hreflang="en">Single-drug Exelixis aims to be top 5 solid tumor company in the US: CEO</a>
+### 🇺🇸 Single-drug Exelixis aims to be top 5 solid tumor company in the US: CEO
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-16 10:16
@@ -277,7 +265,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/marketing/lenz-ups-vizz-visibility-dtc-campaign-starring-sarah-jessica-parker" hreflang="en">Lenz ups Vizz visibility with DTC campaign starring Sarah Jessica Parker </a>
+### 🇺🇸 Lenz ups Vizz visibility with DTC campaign starring Sarah Jessica Parker
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-14 11:18
@@ -289,7 +277,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/sponsored/approval-value-why-evidence-storytelling-now-matters" hreflang="en">From approval to value: Why evidence storytelling now matters</a>
+### 🇺🇸 From approval to value: Why evidence storytelling now matters
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 15:46
@@ -300,7 +288,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/after-abbvie-and-genmabs-ph-3-survival-miss-epkinly-dlbcl-whats-next" hreflang="en">After AbbVie and Genmab's ph. 3 survival miss for Epkinly in DLBCL, what's next?</a>
+### 🇺🇸 After AbbVie and Genmab's ph. 3 survival miss for Epkinly in DLBCL, what's next?
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-16 15:29
@@ -311,7 +299,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/jpm26-fujifilm-ceo-touts-biologics-capacity-edge-manufacturing-unit-keeps-expansions-coming" hreflang="en">JPM26: Fujifilm CEO touts biologics capacity edge amid expansion tear</a>
+### 🇺🇸 JPM26: Fujifilm CEO touts biologics capacity edge amid expansion tear
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-16 10:52
@@ -322,7 +310,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/marketing/abbvies-skyrizi-takes-full-year-tv-ad-spending-crown-yet-again-jjs-tremfya-hot-pursuit" hreflang="en">AbbVie’s Skyrizi takes full-year TV ad spending crown yet again, with J&amp;J’s Tremfya in hot pursuit</a>
+### 🇺🇸 AbbVie’s Skyrizi takes full-year TV ad spending crown yet again, with J&amp;J’s Tremfya in hot pursuit
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-16 10:49
@@ -333,7 +321,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/fierce-pharma-asia-abbvies-bispecific-play-illuminas-china-import-efforts-and-pharma-execs" hreflang="en">Fierce Pharma Asia—AbbVie’s bispecific play, Illumina’s China import efforts and pharma execs’ JPM comments </a>
+### 🇺🇸 Fierce Pharma Asia—AbbVie’s bispecific play, Illumina’s China import efforts and pharma execs’ JPM comments
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 10:47
@@ -344,7 +332,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/former-emergent-ceo-kramer-faces-insider-trading-allegations-ny" hreflang="en">Former Emergent CEO Kramer faces insider trading allegations in NY</a>
+### 🇺🇸 Former Emergent CEO Kramer faces insider trading allegations in NY
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 16:21
@@ -355,7 +343,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/jpm-2026-biosimilars-biopharma-teva-walks-walk-2026" hreflang="en">JPM26: What’s in a biopharma? CEO says Teva has the goods</a>
+### 🇺🇸 JPM26: What’s in a biopharma? CEO says Teva has the goods
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 15:17
@@ -366,7 +354,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/regulatory/trump-takes-aim-insurance-industry-unveiling-great-healthcare-plan" hreflang="en">Trump takes aim at insurance industry, drug prices in unveiling 'The Great Healthcare Plan'</a>
+### 🇺🇸 Trump takes aim at insurance industry, drug prices in unveiling 'The Great Healthcare Plan'
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 12:47
@@ -377,7 +365,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/after-succeeding-combo-darzalex-jjs-tecvayli-shines-solo-act" hreflang="en">After succeeding in combo with Darzalex, J&amp;J's Tecvayli shines as solo act</a>
+### 🇺🇸 After succeeding in combo with Darzalex, J&amp;J's Tecvayli shines as solo act
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 07:45
@@ -388,7 +376,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/marketing/hologic-sets-screen-block-cervical-cancer-basketball-star" hreflang="en">Hologic sets a screen to block cervical cancer with WNBA's Erica Wheeler</a>
+### 🇺🇸 Hologic sets a screen to block cervical cancer with WNBA's Erica Wheeler
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-15 06:58
@@ -399,7 +387,7 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/marketing/bayer-taps-gabrielle-union-wade-face-menopause-med-lynkuet" hreflang="en">Bayer taps Gabrielle Union-Wade as face of menopause med Lynkuet</a>
+### 🇺🇸 Bayer taps Gabrielle Union-Wade as face of menopause med Lynkuet
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-14 15:06
@@ -410,7 +398,18 @@
 
 ---
 
-### 🇺🇸 <a href="https://www.fiercepharma.com/pharma/jpm26-novo-nordisk-ceo-reflects-curse-leader-company-looks-reassert-glp-1-footing" hreflang="en">JPM26: Novo Nordisk CEO reflects on 'curse of a leader' as company looks to reassert GLP-1 footing</a>
+### 🇺🇸 JPM26: With pricing deal in the books, Sanofi steels against lingering policy unknowns
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-14 14:30
+
+> With a White House drug pricing deal done and dusted and the threat of tariffs ameliorated, Sanofi is now enjoying more clarity from the federal government than at the same time last year. But several concerns still linger for the French pharma as the calendar turns to 2026.
+
+🔗 [阅读原文](https://www.fiercepharma.com/biotech/jpm26-after-important-year-sanofi-looks-ahead-remaining-federal-challenges)
+
+---
+
+### 🇺🇸 JPM26: Novo Nordisk CEO reflects on 'curse of a leader' as company looks to reassert GLP-1 footing
 
 - **来源**: FiercePharma
 - **时间**: 2026-01-14 09:32
@@ -1079,7 +1078,7 @@
 
 ---
 
-### 🇺🇸 Reviews of Pediatric Studies Conducted under BPCA and Pediatric assessments conducted  under PREA from 2012 – present
+### 🇺🇸 Reviews of Pediatric Studies Conducted under BPCA and Pediatric assessments conducted under PREA from 2012 – present
 
 - **来源**: FDA News
 - **时间**: 2026-01-16 18:40
@@ -1244,4 +1243,4 @@
 
 *Generated by Pharma Daily - 制药资讯聚合系统*
 
-*2026-01-19 14:11:21*
+*2026-01-19 14:18:01*
