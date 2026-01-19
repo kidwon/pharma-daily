@@ -1,42 +1,56 @@
 {
   "date": "2026-01-19",
-  "generated_at": "2026-01-19T03:49:03.204400",
+  "generated_at": "2026-01-19T14:04:08.843822",
   "theme": "minimal",
-  "total_items": 1,
+  "total_items": 103,
   "files": {
     "markdown": "docs/20260119/daily.md",
     "html": "docs/20260119/index.html",
     "directory": "docs/20260119"
   },
   "analysis": {
-    "overview": "今日制药行业动态聚焦于JPM医疗健康大会的后续影响，其中Mirador Therapeutics成功融资2.5亿美元，显示出投资者对新型生物技术公司的高度信心。同时，基因泰克（Genentech）调整其药品福利管理（PBM）策略，反映了行业在定价和渠道方面的持续调整。",
+    "overview": "今日制药行业动态聚焦于监管审批与商业战略两大主线。FDA持续加强监管力度，对多家药企的推广材料发出警告信，并推迟了Travere公司Filspari在关键肾病适应症的审批决定。同时，JPM26医疗健康大会释放出积极信号，阿斯利康重申800亿美元营收目标，诺和诺德基金会宣布向生物创新研究所注资8.57亿美元，行业融资与IPO活动显现回暖迹象。",
     "top_news": [
       {
-        "index": 1,
-        "title": "Mirador Therapeutics融资2.5亿美元",
-        "importance": 4,
-        "reason": "大规模融资显示资本对新兴生物技术公司的高度兴趣，可能推动新药研发管线进展",
-        "category": "商业动态"
+        "index": 2,
+        "title": "FDA delays decision on Travere's Filspari in key kidney disease indication",
+        "importance": 5,
+        "reason": "FDA推迟了针对20亿美元峰值销售机会的关键肾病适应症审批，对Travere公司构成重大打击。",
+        "category": "监管审批"
       },
       {
-        "index": 1,
-        "title": "基因泰克调整PBM策略",
-        "importance": 3,
-        "reason": "大型制药公司调整药品福利管理策略，反映行业在定价和市场准入方面的持续演变",
-        "category": "商业动态"
-      },
-      {
-        "index": 1,
-        "title": "JPM医疗健康大会总结",
-        "importance": 3,
-        "reason": "行业年度重要会议，为全年趋势和合作奠定基调",
+        "index": 7,
+        "title": "JPM26: AstraZeneca's $80B revenue target 'very much within reach,' CFO says",
+        "importance": 5,
+        "reason": "阿斯利康重申其2030年800亿美元营收目标，展现了行业巨头对未来增长的强大信心。",
         "category": "市场分析"
+      },
+      {
+        "index": 5,
+        "title": "Novo Nordisk Foundation to inject $850M+ into BioInnovation Institute through 2035",
+        "importance": 4,
+        "reason": "诺和诺德基金会承诺投入超8.5亿美元支持生命科学孵化器，是行业长期研发投入的重大举措。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "FDA chides BeOne, ImmunityBio promo materials in 1st untitled letters of 2026",
+        "importance": 4,
+        "reason": "FDA在2026年开年即发出警告信，表明其对药品营销材料的监管审查持续收紧。",
+        "category": "政策法规"
+      },
+      {
+        "index": 20,
+        "title": "Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM",
+        "importance": 4,
+        "reason": "两家生物技术公司紧随JPM大会后提交IPO申请，显示资本市场对生物科技板块的兴趣正在复苏。",
+        "category": "商业动态"
       }
     ],
     "category_summary": {
-      "新药研发": "今日无直接新药研发突破报道，但融资动态可能间接支持研发管线推进",
-      "临床试验": "今日无具体临床试验数据披露"
+      "新药研发": "诺和诺德GLP-1口服药上市首周处方量超3000份，礼来预计其二季度将获FDA对其肥胖症口服药的审批决定，显示口服GLP-1赛道竞争激烈。Scribe Therapeutics计划今夏测试其基于CRISPR的降胆固醇疗法，基因编辑领域有新进展。",
+      "临床试验": "Argenx已向FDA提交其药物VYVGART用于血清阴性gMG适应症的补充申请，并获得受理。FDA加速审批项目中，部分肿瘤适应症已通过上市后试验验证临床获益并转为传统批准。"
     },
-    "tomorrow_watch": "关注JPM大会后续发布的合作公告、融资动态以及可能的新药研发进展"
+    "tomorrow_watch": "需重点关注FDA与诺和诺德就其问题工厂（前Catalent工厂）的会议进展，这关系到关键产品的供应安全。同时，应持续追踪礼来肥胖症口服药orforglipron的FDA审批进程，以及更多在JPM大会后可能涌现的融资与IPO活动。"
   }
 }
