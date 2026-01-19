@@ -1,56 +1,56 @@
 {
   "date": "2026-01-19",
-  "generated_at": "2026-01-19T14:04:08.843822",
+  "generated_at": "2026-01-19T14:11:21.649216",
   "theme": "minimal",
-  "total_items": 103,
+  "total_items": 102,
   "files": {
     "markdown": "docs/20260119/daily.md",
     "html": "docs/20260119/index.html",
     "directory": "docs/20260119"
   },
   "analysis": {
-    "overview": "今日制药行业动态聚焦于监管审批与商业战略两大主线。FDA持续加强监管力度，对多家药企的推广材料发出警告信，并推迟了Travere公司Filspari在关键肾病适应症的审批决定。同时，JPM26医疗健康大会释放出积极信号，阿斯利康重申800亿美元营收目标，诺和诺德基金会宣布向生物创新研究所注资8.57亿美元，行业融资与IPO活动显现回暖迹象。",
+    "overview": "本周制药行业动态聚焦于监管审批与政策变化，FDA持续加强监管审查，包括对促销材料的警告信、对关键药物审批的延迟以及对疫苗标签的新要求。同时，JPM大会期间行业巨头如阿斯利康、诺和诺德等公布了雄心勃勃的增长目标，而GLP-1药物（如诺和诺德的口服Wegovy）的市场竞争与监管动态持续受到关注。",
     "top_news": [
       {
         "index": 2,
         "title": "FDA delays decision on Travere's Filspari in key kidney disease indication",
         "importance": 5,
-        "reason": "FDA推迟了针对20亿美元峰值销售机会的关键肾病适应症审批，对Travere公司构成重大打击。",
+        "reason": "FDA延迟审批Travere的Filspari用于FSGS适应症，该决定涉及20亿美元的峰值销售机会，对公司和肾病治疗领域影响重大。",
         "category": "监管审批"
+      },
+      {
+        "index": 17,
+        "title": "Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading",
+        "importance": 5,
+        "reason": "诺和诺德口服GLP-1药物Wegovy上市首周处方量超3000，标志着肥胖症治疗进入口服时代，市场影响深远。",
+        "category": "新药研发"
       },
       {
         "index": 7,
         "title": "JPM26: AstraZeneca's $80B revenue target 'very much within reach,' CFO says",
-        "importance": 5,
-        "reason": "阿斯利康重申其2030年800亿美元营收目标，展现了行业巨头对未来增长的强大信心。",
+        "importance": 4,
+        "reason": "阿斯利康CFO在JPM大会上确认2030年800亿美元营收目标可达成，反映行业巨头对增长前景的强劲信心。",
         "category": "市场分析"
       },
       {
-        "index": 5,
-        "title": "Novo Nordisk Foundation to inject $850M+ into BioInnovation Institute through 2035",
+        "index": 11,
+        "title": "FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels",
         "importance": 4,
-        "reason": "诺和诺德基金会承诺投入超8.5亿美元支持生命科学孵化器，是行业长期研发投入的重大举措。",
-        "category": "商业动态"
-      },
-      {
-        "index": 1,
-        "title": "FDA chides BeOne, ImmunityBio promo materials in 1st untitled letters of 2026",
-        "importance": 4,
-        "reason": "FDA在2026年开年即发出警告信，表明其对药品营销材料的监管审查持续收紧。",
-        "category": "政策法规"
+        "reason": "FDA要求四大药企在流感疫苗标签中增加发热性癫痫警告，涉及儿童疫苗接种安全，监管影响广泛。",
+        "category": "监管审批"
       },
       {
         "index": 20,
         "title": "Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM",
         "importance": 4,
-        "reason": "两家生物技术公司紧随JPM大会后提交IPO申请，显示资本市场对生物科技板块的兴趣正在复苏。",
+        "reason": "Agomab和SpyGlass在JPM大会后提交IPO申请，显示生物科技融资市场回暖，投资者信心增强。",
         "category": "商业动态"
       }
     ],
     "category_summary": {
-      "新药研发": "诺和诺德GLP-1口服药上市首周处方量超3000份，礼来预计其二季度将获FDA对其肥胖症口服药的审批决定，显示口服GLP-1赛道竞争激烈。Scribe Therapeutics计划今夏测试其基于CRISPR的降胆固醇疗法，基因编辑领域有新进展。",
-      "临床试验": "Argenx已向FDA提交其药物VYVGART用于血清阴性gMG适应症的补充申请，并获得受理。FDA加速审批项目中，部分肿瘤适应症已通过上市后试验验证临床获益并转为传统批准。"
+      "新药研发": "诺和诺德口服Wegovy快速上市，礼来肥胖症口服药orforglipron预计Q2获FDA决定；Scribe Therapeutics计划夏季测试CRISPR降胆固醇疗法，基因编辑领域进展活跃。",
+      "临床试验": "Argenx的VYVGART用于血清阴性gMG的补充申请获FDA受理，基于阳性III期数据；FDA加速审批项目中部分癌症疗法已验证临床获益。"
     },
-    "tomorrow_watch": "需重点关注FDA与诺和诺德就其问题工厂（前Catalent工厂）的会议进展，这关系到关键产品的供应安全。同时，应持续追踪礼来肥胖症口服药orforglipron的FDA审批进程，以及更多在JPM大会后可能涌现的融资与IPO活动。"
+    "tomorrow_watch": "关注FDA与诺和诺德就Catalent印第安纳州工厂问题的会议进展；留意礼来肥胖症口服药orforglipron的FDA审批时间表；监测GLP-1药物标签中自杀风险警告的移除后续影响；跟踪Agomab、SpyGlass等生物科技公司的IPO市场反应。"
   }
 }
