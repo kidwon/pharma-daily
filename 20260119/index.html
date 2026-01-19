@@ -231,6 +231,69 @@
             margin-right: 8px;
         }
 
+        /* Date Filter */
+        .date-filter {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 32px;
+        }
+
+        .date-btn {
+            padding: 8px 16px;
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            background: var(--bg-primary);
+            color: var(--text-secondary);
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-width: 70px;
+        }
+
+        .date-btn:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .date-btn.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: white;
+        }
+
+        .date-btn.weekend {
+            background: var(--bg-secondary);
+        }
+
+        .date-btn.weekend.active {
+            background: var(--accent);
+        }
+
+        .date-btn .weekday {
+            font-size: 12px;
+            opacity: 0.8;
+        }
+
+        .date-btn .date-display {
+            font-weight: 500;
+        }
+
+        .filter-count {
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 14px;
+            margin-bottom: 24px;
+        }
+
+        .news-card.hidden {
+            display: none;
+        }
+
         /* Responsive */
         @media (max-width: 734px) {
             header {
@@ -285,10 +348,55 @@
                 <div class="stat-label">类别数</div>
             </div>
             <div class="stat">
-                <div class="stat-value">2026-01-19 14:18</div>
+                <div class="stat-value">2026-01-19 14:27</div>
                 <div class="stat-label">更新时间</div>
             </div>
         </div>
+
+        <!-- Date Filter -->
+        <div class="date-filter">
+            <button class="date-btn active" data-filter="all">
+                <span class="weekday">全部</span>
+                <span class="date-display">All</span>
+            </button>
+            
+            <button class="date-btn " data-filter="2026-01-13">
+                <span class="weekday">周二</span>
+                <span class="date-display">01/13</span>
+            </button>
+            
+            <button class="date-btn " data-filter="2026-01-14">
+                <span class="weekday">周三</span>
+                <span class="date-display">01/14</span>
+            </button>
+            
+            <button class="date-btn " data-filter="2026-01-15">
+                <span class="weekday">周四</span>
+                <span class="date-display">01/15</span>
+            </button>
+            
+            <button class="date-btn " data-filter="2026-01-16">
+                <span class="weekday">周五</span>
+                <span class="date-display">01/16</span>
+            </button>
+            
+            <button class="date-btn weekend" data-filter="2026-01-17">
+                <span class="weekday">周六</span>
+                <span class="date-display">01/17</span>
+            </button>
+            
+            <button class="date-btn weekend" data-filter="2026-01-18">
+                <span class="weekday">周日</span>
+                <span class="date-display">01/18</span>
+            </button>
+            
+            <button class="date-btn " data-filter="2026-01-19">
+                <span class="weekday">周一</span>
+                <span class="date-display">01/19</span>
+            </button>
+            
+        </div>
+        <div class="filter-count" id="filterCount"></div>
 
         
         <section class="analysis">
@@ -296,28 +404,28 @@
             <div class="analysis-content">
                 <h3>📊 AI 智能分析</h3>
 <h4>本周概览</h4>
-<p>本周制药行业动态聚焦于监管审批与商业战略。FDA对多款药物（如Travere的Filspari）的审评延迟引发关注，同时诺和诺德基金会宣布向生物创新研究所投入超8.5亿美元，彰显长期研发投入。此外，JPM大会期间，阿斯利康的800亿美元营收目标、礼来与诺和诺德在口服GLP-1药物领域的竞争，以及IPO市场回暖成为热点。</p>
+<p>本周制药行业动态聚焦于监管审批与商业战略调整。FDA对多项新药审批做出延迟决定，并加强了对疫苗安全标签的监管要求；同时，GLP-1口服减肥药市场迎来新进展，诺和诺德与礼来在该领域的竞争加剧。此外，JPM医疗健康大会期间，多家药企公布了增长目标与融资计划，显示行业对创新与市场扩张的持续投入。</p>
 <h4>🔥 重点新闻</h4>
-<p><strong>1. FDA delays decision on Travere's Filspari in key kidney disease indication</strong> ⭐⭐⭐⭐⭐<br>
+<p><strong>1. FDA delays decision on Travere's Filspari in key kidney disease indication</strong> ⭐⭐⭐⭐<br>
    - 类别: 监管审批<br>
-   - FDA对关键肾病适应症（FSGS，峰值销售20亿美元）的审评延迟，直接影响企业核心管线及市场预期。</p>
-<p><strong>4. Novo Nordisk Foundation to inject $850M+ into BioInnovation Institute through 2035</strong> ⭐⭐⭐⭐⭐<br>
-   - 类别: 商业动态<br>
-   - 诺和诺德基金会承诺至2035年投入超8.5亿美元支持生命科学孵化，是行业长期研发投入的重大信号。</p>
+   - FDA延迟审批可能影响20亿美元峰值销售机会的关键肾病药物扩展适应症</p>
+<p><strong>16. Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading</strong> ⭐⭐⭐⭐⭐<br>
+   - 类别: 新药研发<br>
+   - 诺和诺德GLP-1口服减肥药上市首周处方量超3000，标志着口服减肥药市场正式启动</p>
 <p><strong>6. JPM26: AstraZeneca's $80B revenue target 'very much within reach,' CFO says</strong> ⭐⭐⭐⭐<br>
    - 类别: 市场分析<br>
-   - 阿斯利康重申2030年800亿美元营收目标，反映大型药企在专利悬崖与创新转型期的增长信心。</p>
-<p><strong>18. Lilly, chasing Novo, expects second-quarter FDA decision on obesity pill</strong> ⭐⭐⭐⭐<br>
-   - 类别: 新药研发<br>
-   - 礼来口服减肥药orforglipron预计Q2获FDA决定，加剧与诺和诺德在GLP-1口服制剂市场的竞争。</p>
-<p><strong>19. Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM</strong> ⭐⭐⭐⭐<br>
+   - 阿斯利康宣布2030年800亿美元营收目标，反映大型药企对长期增长的信心</p>
+<p><strong>12. JPM26: Astellas CEO resists 'rescue BD' as $6B Xtandi patent cliff nears</strong> ⭐⭐⭐⭐<br>
    - 类别: 商业动态<br>
-   - 两家生物技术公司提交IPO申请，显示JPM大会后资本市场对生物科技板块情绪回暖。</p>
+   - 安斯泰来面临60亿美元专利悬崖，其交易策略将影响公司未来管线布局</p>
+<p><strong>27. STAT+: Pharmalittle: We’re reading about a change in obesity drug warnings, FDA approvals, and more</strong> ⭐⭐⭐⭐<br>
+   - 类别: 监管审批<br>
+   - FDA要求移除GLP-1减肥药自杀风险警告，可能进一步推动该类药物的市场接受度</p>
 <h4>📁 分类摘要</h4>
-<p><strong>新药研发</strong> (Drug R&D): 口服GLP-1药物竞争白热化（礼来orforglipron、诺和诺德Wegovy pill），基因编辑公司Scribe Therapeutics计划今夏启动首个临床试验。<br>
-<strong>临床试验</strong> (Clinical Trials): Argenx的VYVGART用于血清阴性gMG的补充申请获FDA受理（基于III期数据）；FDA加速审批项目中部分药物的验证性试验完成临床获益确认。</p>
+<p><strong>新药研发</strong> (Drug R&D): GLP-1口服剂型取得突破性进展，诺和诺德Wegovy口服药上市首周表现强劲；礼来口服减肥药orforglipron预计第二季度获FDA决定；CRISPR基因编辑疗法Scribe Therapeutics计划夏季进入临床。<br>
+<strong>临床试验</strong> (Clinical Trials): Argenx的VYVGART在血清阴性gMG适应症的补充申请获FDA受理，基于阳性III期数据；FDA加速审批项目中部分药物的验证性试验已完成临床获益确认。</p>
 <h4>🔮 明日关注</h4>
-<p>关注FDA与诺和诺德就印第安纳州问题生产基地的会谈进展；口服GLP-1药物市场处方数据及竞争态势；IPO市场是否持续回暖（如Agomab、SpyGlass等公司上市表现）。</p>
+<p>重点关注FDA与诺和诺德就Catalent印第安纳州工厂问题的会议进展，该结果可能影响GLP-1药物的生产供应；同时，关注Agomab与SpyGlass的IPO进程，以及特朗普政府MFN（最惠国）定价政策对药企的潜在影响。</p>
             </div>
         </section>
         
@@ -332,7 +440,7 @@
                 </div>
 
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         FDA delays decision on Travere&#39;s Filspari in key kidney disease indication
@@ -350,7 +458,7 @@
                     <a href="https://www.fiercepharma.com/pharma/fda-delays-decision-traveres-filspari-2b-kidney-disease-indication" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Pharmalittle: We’re reading about antitrust claims by a compounder, FDA and EMA AI rules, and more
@@ -368,7 +476,7 @@
                     <a href="https://www.statnews.com/pharmalot/2026/01/15/fda-antitrust-lilly-novo-compounders-insulin-ai-novartis/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-13">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         JPM26: AstraZeneca&#39;s $80B revenue target &#39;very much within reach,&#39; CFO says
@@ -386,7 +494,7 @@
                     <a href="https://www.fiercepharma.com/pharma/astrazeneca-80-billion-revenue-target-very-much-within-reach-cfo-says" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Drug approvals went from crawl to sprint in 2025
@@ -404,7 +512,7 @@
                     <a href="https://www.fiercepharma.com/pharma/drug-approvals-went-crawl-sprint-2025" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels
@@ -422,7 +530,7 @@
                     <a href="https://www.fiercepharma.com/pharma/fda-tells-sanofi-gsk-az-and-csl-include-warning-childhood-seizures-flu-shots" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         FDA chides BeOne, ImmunityBio promo materials in 1st untitled letters of 2026
@@ -440,7 +548,7 @@
                     <a href="https://www.fiercepharma.com/marketing/fda-chides-beone-immunitybio-promo-materials-first-untitled-letters-2026" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         JPM26: Astellas CEO resists &#39;rescue BD&#39; as $6B Xtandi patent cliff nears
@@ -458,7 +566,7 @@
                     <a href="https://www.fiercepharma.com/pharma/astellas-ceo-resists-rescue-bd-6b-xtandi-patent-cliff-nears" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         BD budgets $110M to expand Neb. syringe production
@@ -476,7 +584,7 @@
                     <a href="https://www.fiercepharma.com/manufacturing/becton-dickinson-budgets-110m-expand-nebraska-syringe-production-plant" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         JPM26: Jazz&#39;s $200M voucher sale shows drumbeat of rising prices isn&#39;t stopping
@@ -494,7 +602,7 @@
                     <a href="https://www.fiercepharma.com/pharma/jpm26-jazzs-prv-sale-200m-shows-drum-beat-rising-prv-prices-isnt-stopping" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Amneal and VantAI unveil fresh branding to kick off 2026 plans
@@ -512,7 +620,7 @@
                     <a href="https://www.fiercepharma.com/marketing/amneal-and-vantai-unveil-fresh-branding-kick-2026-plans" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: FDA delays reviews for two drugs in new voucher program
@@ -530,7 +638,7 @@
                     <a href="https://www.statnews.com/2026/01/16/biotech-news-fda-delays-review-in-voucher-program/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Pharmalittle: We’re reading about FDA voucher worries, weight loss drugs and jet fuel, and more
@@ -548,7 +656,7 @@
                     <a href="https://www.statnews.com/pharmalot/2026/01/16/trump-fda-voucher-obesity-novo-lilly-covid/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Pharmalittle: We’re reading about a change in obesity drug warnings, FDA approvals, and more
@@ -566,7 +674,7 @@
                     <a href="https://www.statnews.com/pharmalot/2026/01/14/obesity-weight-suicide-illumina-antibiotics-pfizer-lilly-novo/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-13">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Pharmalittle: We’re reading about a ‘breached’ FDA firewall, an AbbVie pricing deal with Trump, and more
@@ -584,7 +692,7 @@
                     <a href="https://www.statnews.com/pharmalot/2026/01/13/fda-trump-abbvie-cvs-hiv-lilly-nvidia-abortion/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-12">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: On Day 1 of JPM, no blockbuster headlines, but biotech newsmakers still move markets
@@ -602,7 +710,7 @@
                     <a href="https://www.statnews.com/2026/01/12/jpm-2026-day-1-top-stories-bridgebio-moderna-eli-lilly-readout-newsletter/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-12">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: With a grin — and tight lips — Revolution Medicines’ CEO faces questions about acquisition
@@ -620,7 +728,7 @@
                     <a href="https://www.statnews.com/2026/01/12/revolution-medicines-merck-jpm-conference/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Single-drug Exelixis aims to be top 5 solid tumor company in the US: CEO
@@ -638,7 +746,7 @@
                     <a href="https://www.fiercepharma.com/pharma/single-product-exelixis-aims-be-top-5-solid-tumor-drugmaker-us" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Lenz ups Vizz visibility with DTC campaign starring Sarah Jessica Parker
@@ -656,7 +764,7 @@
                     <a href="https://www.fiercepharma.com/marketing/lenz-ups-vizz-visibility-dtc-campaign-starring-sarah-jessica-parker" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         From approval to value: Why evidence storytelling now matters
@@ -672,7 +780,7 @@
                     <a href="https://www.fiercepharma.com/sponsored/approval-value-why-evidence-storytelling-now-matters" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         After AbbVie and Genmab&#39;s ph. 3 survival miss for Epkinly in DLBCL, what&#39;s next?
@@ -688,7 +796,7 @@
                     <a href="https://www.fiercepharma.com/pharma/after-abbvie-and-genmabs-ph-3-survival-miss-epkinly-dlbcl-whats-next" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         JPM26: Fujifilm CEO touts biologics capacity edge amid expansion tear
@@ -704,7 +812,7 @@
                     <a href="https://www.fiercepharma.com/pharma/jpm26-fujifilm-ceo-touts-biologics-capacity-edge-manufacturing-unit-keeps-expansions-coming" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         AbbVie’s Skyrizi takes full-year TV ad spending crown yet again, with J&amp;amp;J’s Tremfya in hot pursuit
@@ -720,7 +828,7 @@
                     <a href="https://www.fiercepharma.com/marketing/abbvies-skyrizi-takes-full-year-tv-ad-spending-crown-yet-again-jjs-tremfya-hot-pursuit" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Fierce Pharma Asia—AbbVie’s bispecific play, Illumina’s China import efforts and pharma execs’ JPM comments
@@ -736,7 +844,7 @@
                     <a href="https://www.fiercepharma.com/pharma/fierce-pharma-asia-abbvies-bispecific-play-illuminas-china-import-efforts-and-pharma-execs" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Former Emergent CEO Kramer faces insider trading allegations in NY
@@ -752,7 +860,7 @@
                     <a href="https://www.fiercepharma.com/pharma/former-emergent-ceo-kramer-faces-insider-trading-allegations-ny" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         JPM26: What’s in a biopharma? CEO says Teva has the goods
@@ -768,7 +876,7 @@
                     <a href="https://www.fiercepharma.com/pharma/jpm-2026-biosimilars-biopharma-teva-walks-walk-2026" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Trump takes aim at insurance industry, drug prices in unveiling &#39;The Great Healthcare Plan&#39;
@@ -784,7 +892,7 @@
                     <a href="https://www.fiercepharma.com/regulatory/trump-takes-aim-insurance-industry-unveiling-great-healthcare-plan" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         After succeeding in combo with Darzalex, J&amp;amp;J&#39;s Tecvayli shines as solo act
@@ -800,7 +908,7 @@
                     <a href="https://www.fiercepharma.com/pharma/after-succeeding-combo-darzalex-jjs-tecvayli-shines-solo-act" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Hologic sets a screen to block cervical cancer with WNBA&#39;s Erica Wheeler
@@ -816,7 +924,7 @@
                     <a href="https://www.fiercepharma.com/marketing/hologic-sets-screen-block-cervical-cancer-basketball-star" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Bayer taps Gabrielle Union-Wade as face of menopause med Lynkuet
@@ -832,7 +940,7 @@
                     <a href="https://www.fiercepharma.com/marketing/bayer-taps-gabrielle-union-wade-face-menopause-med-lynkuet" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         JPM26: With pricing deal in the books, Sanofi steels against lingering policy unknowns
@@ -848,7 +956,7 @@
                     <a href="https://www.fiercepharma.com/biotech/jpm26-after-important-year-sanofi-looks-ahead-remaining-federal-challenges" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         JPM26: Novo Nordisk CEO reflects on &#39;curse of a leader&#39; as company looks to reassert GLP-1 footing
@@ -864,7 +972,7 @@
                     <a href="https://www.fiercepharma.com/pharma/jpm26-novo-nordisk-ceo-reflects-curse-leader-company-looks-reassert-glp-1-footing" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Supreme Court agrees to review ‘skinny labeling’ and generic drug access
@@ -880,7 +988,7 @@
                     <a href="https://www.statnews.com/pharmalot/2026/01/16/scotus-generics-patents-supreme-court-amarin-hikma/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Up and down the ladder: The latest comings and goings
@@ -896,7 +1004,7 @@
                     <a href="https://www.statnews.com/pharmalot/2026/01/16/pharma-biotech-jobs-novo-bristol-astrazeneca/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Trump releases health care plan amid pressure over affordability
@@ -912,7 +1020,7 @@
                     <a href="https://www.statnews.com/2026/01/15/trump-great-healthcare-plan-potential-stumbling-blocks/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Former Emergent BioSolutions CEO sued for insider trading, company reaches $900K settlement in N.Y.
@@ -928,7 +1036,7 @@
                     <a href="https://www.statnews.com/pharmalot/2026/01/15/covid-insider-trading-stock-emergent-astrazeneca/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Pharmacy compounder files antitrust lawsuit against Eli Lilly and Novo Nordisk
@@ -944,7 +1052,7 @@
                     <a href="https://www.statnews.com/pharmalot/2026/01/14/pharmacy-compounder-antitrust-lilly-novo-weight-obesity/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-13">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: HHS dismisses members of vaccine injury advisory panel
@@ -960,7 +1068,7 @@
                     <a href="https://www.statnews.com/2026/01/13/hhs-dismisses-veronica-mcnally-advisory-commission-on-childhood-vaccinations/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-13">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: At JPM 2026, Mehmet Oz and top Trump health officials explain their thinking to hospital leaders
@@ -976,7 +1084,7 @@
                     <a href="https://www.statnews.com/2026/01/13/jpm-2026-cms-officials-face-off-hospital-insurance-execs/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-13">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Illumina launches massive cell atlas to fast-track drug discovery
@@ -992,7 +1100,7 @@
                     <a href="https://www.statnews.com/2026/01/13/illumina-billion-cell-atlas-ai-drug-development/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-13">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Unitaid will provide funds for South Africa and Zambia to widen access to Gilead’s HIV prevention drug
@@ -1008,7 +1116,7 @@
                     <a href="https://www.statnews.com/pharmalot/2026/01/13/aids-hiv-gilead-unitaid-africa-lenacapavir/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-12">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         STAT+: Trump administration indicates it will drop appeal of a court order blocking a 340B pilot program
@@ -1034,7 +1142,7 @@
                 </div>
 
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Makary talks FDA&#39;s plans to combat China&#39;s biotech growth
@@ -1052,7 +1160,7 @@
                     <a href="https://endpoints.news/makary-talks-fdas-plans-to-combat-chinas-biotech-growth/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         The newest women’s health unicorn
@@ -1070,7 +1178,7 @@
                     <a href="https://endpoints.news/the-newest-womens-health-unicorn/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Novo Nordisk Foundation to inject $850M+ into BioInnovation Institute through 2035
@@ -1088,7 +1196,7 @@
                     <a href="https://endpoints.news/novo-nordisk-foundation-to-inject-850m-into-bioinnovation-institute-through-2035/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading
@@ -1106,7 +1214,7 @@
                     <a href="https://www.biopharmadive.com/news/wegovy-pill-sales-emergent-sanofi-ocular-jazz-novo/809709/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         JPM26: Paying cash for obesity drugs, renewed IPO optimism and pharma’s cell therapy view
@@ -1124,7 +1232,7 @@
                     <a href="https://www.biopharmadive.com/news/jpm26-biotech-ipos-novo-wegovy-gsk-cell-therapy/809600/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Lilly, chasing Novo, expects second-quarter FDA decision on obesity pill
@@ -1142,7 +1250,7 @@
                     <a href="https://www.biopharmadive.com/news/lilly-obesity-pill-orforglipron-fda-decision-dtc-sales/809598/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM
@@ -1160,7 +1268,7 @@
                     <a href="https://endpoints.news/agomab-and-spyglass-file-for-ipos-as-investor-enthusiasm-builds-after-jpm/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Drugmakers without MFN pacts are bracing to make one
@@ -1178,7 +1286,7 @@
                     <a href="https://endpoints.news/drugmakers-without-mfn-pacts-are-bracing-to-make-one/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         European regulators recommended 38 novel drugs in 2025, 15 fewer than the FDA
@@ -1196,7 +1304,7 @@
                     <a href="https://endpoints.news/european-regulators-recommended-38-novel-drugs-in-2025-15-fewer-than-the-fda/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         FDA to meet Novo Nordisk on troubled site; AbbVie buys drug-device factory
@@ -1214,7 +1322,7 @@
                     <a href="https://endpoints.news/fda-to-meet-novo-nordisk-on-troubled-site-abbvie-buys-drug-device-factory/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Scribe Therapeutics plans to test cholesterol-lowering therapy this summer
@@ -1232,7 +1340,7 @@
                     <a href="https://endpoints.news/scribe-therapeutics-plans-to-test-cholesterol-lowering-therapy-this-summer/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Health tech funding rounds get bigger when Andreessen Horowitz and General Catalyst join
@@ -1250,7 +1358,7 @@
                     <a href="https://endpoints.news/health-tech-funding-rounds-get-bigger-when-andreessen-horowitz-and-general-catalyst-join/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         AbbVie, Genmab say Epkinly didn&#39;t prolong overall survival in lymphoma study
@@ -1268,7 +1376,7 @@
                     <a href="https://endpoints.news/abbvie-genmab-say-epkinly-didnt-prolong-overall-survival-in-lymphoma-study/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         ImmunityBio&#39;s cell therapy posts encouraging early data in rare blood cancer
@@ -1286,7 +1394,7 @@
                     <a href="https://endpoints.news/immunitybio-cell-therapy-posts-encouraging-early-data-in-rare-blood-cancer/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Ocugen touts Phase 2 data for eye disease gene therapy
@@ -1304,7 +1412,7 @@
                     <a href="https://endpoints.news/ocugen-touts-phase-2-data-for-eye-disease-gene-therapy/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         J&amp;J reports positive Phase 3 data for Tecvayli in earlier blood cancer setting
@@ -1322,7 +1430,7 @@
                     <a href="https://endpoints.news/jj-reports-positive-phase-3-data-for-tecvayli-in-earlier-blood-cancer-setting/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         On biotech’s biggest stage, renewed excitement gets a stress test
@@ -1338,7 +1446,7 @@
                     <a href="https://www.biopharmadive.com/news/jpm26-biotech-startups-deals-venture-ipo-fda-china/809809/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Trump unveils healthcare affordability plan
@@ -1354,7 +1462,7 @@
                     <a href="https://www.biopharmadive.com/news/trump-great-healthcare-plan-affordability-aca/809779/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Tecvayli tops standard drugs in early multiple myeloma, J&amp;J says
@@ -1370,7 +1478,7 @@
                     <a href="https://www.biopharmadive.com/news/johnson-johnson-tecvayli-early-multiple-myeloma-majestec-results/809721/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Oxford Biomedica confirms takeover talks with biotech investor EQT
@@ -1386,7 +1494,7 @@
                     <a href="https://www.biopharmadive.com/news/oxford-biomedica-eqt-offer-acquire-cell-gene-therapy/809705/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Boston Scientific to acquire Penumbra for $14.5B
@@ -1402,7 +1510,7 @@
                     <a href="https://www.biopharmadive.com/news/boston-scientific-acquire-penumbra/809737/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Caldera starts up with $112.5M and a dual-targeting immune drug from China
@@ -1418,7 +1526,7 @@
                     <a href="https://www.biopharmadive.com/news/caldera-biotech-startup-qyuns-ibd-drug-tl1a-il23/809577/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-13">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         JPM26: Biotech’s M&amp;A lift, the ‘new’ Biogen and Merck’s $70B target
@@ -1434,7 +1542,7 @@
                     <a href="https://www.biopharmadive.com/news/jpm26-biogen-gilead-merck-cidara-moderna-summit/809446/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-17">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         JPM recap; Mirador raises $250M; Genentech’s PBM shift; and more
@@ -1450,7 +1558,7 @@
                     <a href="https://endpoints.news/jpm-recap-mirador-raises-250m-genentechs-pbm-shift-and-more/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Supreme Court will hear Hikma’s ‘skinny label’ fight against Amarin
@@ -1464,7 +1572,7 @@
                     <a href="https://endpoints.news/supreme-court-will-hear-hikmas-skinny-label-fight-against-amarin/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         #JPM26: Sandoz CEO on Ozempic generic launch plans for 2026
@@ -1480,7 +1588,7 @@
                     <a href="https://endpoints.news/jpm26-sandoz-ceo-on-ozempic-generic-launch-plans-for-2026/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Novo Nordisk, BioMarin make AI moves; Bristol Myers welcomes neurology exec from Eisai
@@ -1496,7 +1604,7 @@
                     <a href="https://endpoints.news/novo-nordisk-biomarin-make-ai-moves-bristol-myers-welcomes-neurology-exec-from-eisai/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         New York sues ex-Emergent CEO over insider trading during vaccine manufacturing struggle
@@ -1512,7 +1620,7 @@
                     <a href="https://endpoints.news/new-york-sues-ex-emergent-ceo-over-insider-trading-during-vaccine-manufacturing-struggle/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Trump asks Congress to codify ‘most favored nation’ deals
@@ -1528,7 +1636,7 @@
                     <a href="https://endpoints.news/trump-asks-congress-to-codify-most-favored-nation-deals/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         A compounding pharmacy hits back at Eli Lilly, Novo Nordisk with antitrust lawsuit
@@ -1544,7 +1652,7 @@
                     <a href="https://endpoints.news/a-compounding-pharmacy-hits-back-at-eli-lilly-novo-nordisk-with-antitrust-lawsuit/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         #JPM26: Inside Fosun Pharma&#39;s ambition to reach outside of China
@@ -1560,7 +1668,7 @@
                     <a href="https://endpoints.news/inside-fosun-pharmas-ambition-to-reach-outside-of-china/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Alfasigma gains neuro treatment; BridgeBio offers $550M in notes
@@ -1576,7 +1684,7 @@
                     <a href="https://endpoints.news/alfasigma-gains-neuro-treatment-bridgebio-offers-550m-in-notes/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         #JPM26: Manufacturers benefit as pharma customers invest back in US
@@ -1592,7 +1700,7 @@
                     <a href="https://endpoints.news/manufacturers-benefit-as-pharma-customers-invest-back-in-us/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Jazz sells priority review voucher for $200M, scoring highest price in a decade
@@ -1618,7 +1726,7 @@
                 </div>
 
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Verified Clinical Benefit | Cancer Accelerated Approvals
@@ -1636,7 +1744,7 @@
                     <a href="http://www.fda.gov/drugs/resources-information-approved-drugs/verified-clinical-benefit-cancer-accelerated-approvals" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Drug Safety Oversight Board
@@ -1654,7 +1762,7 @@
                     <a href="http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/drug-safety-oversight-board" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Patient Listening Session Summaries
@@ -1672,7 +1780,7 @@
                     <a href="http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Resources for Biomarker Requestors
@@ -1690,7 +1798,7 @@
                     <a href="http://www.fda.gov/drugs/biomarker-qualification-program/resources-biomarker-requestors" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Tips for Section 804 Importation Program Proposals (SIPs)
@@ -1708,7 +1816,7 @@
                     <a href="http://www.fda.gov/drugs/importation-program-under-section-804-fdc-act/tips-section-804-importation-program-proposals-sips" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Section 804 Importation Program Policies and Authorizations
@@ -1726,7 +1834,7 @@
                     <a href="http://www.fda.gov/drugs/importation-program-under-section-804-fdc-act/section-804-importation-program-policies-and-authorizations" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Section 804 Importation Program (SIP) Proposals and FDA’s Review Process
@@ -1744,7 +1852,7 @@
                     <a href="http://www.fda.gov/drugs/importation-program-under-section-804-fdc-act/section-804-importation-program-sip-proposals-and-fdas-review-process" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Importation Program under Section 804 of the FD&amp;C Act
@@ -1762,7 +1870,7 @@
                     <a href="http://www.fda.gov/drugs/human-drug-imports/importation-program-under-section-804-fdc-act" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         FDA Authorizes Florida’s Drug Importation Program
@@ -1780,7 +1888,7 @@
                     <a href="http://www.fda.gov/news-events/press-announcements/fda-authorizes-floridas-drug-importation-program" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         State Importation Program Enhancements
@@ -1798,7 +1906,7 @@
                     <a href="http://www.fda.gov/about-fda/reports/state-importation-program-enhancements" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Drugs@FDA Data Files
@@ -1816,7 +1924,7 @@
                     <a href="http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         My Dog Has Cancer: What Do I Need to Know?
@@ -1834,7 +1942,7 @@
                     <a href="http://www.fda.gov/consumers/consumer-updates/my-dog-has-cancer-what-do-i-need-know" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Field Science - Laboratory Manual
@@ -1852,7 +1960,7 @@
                     <a href="http://www.fda.gov/science-research/field-science-and-laboratories/field-science-laboratory-manual" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Reviews of Pediatric Studies Conducted under BPCA and Pediatric assessments conducted under PREA from 2012 – present
@@ -1870,7 +1978,7 @@
                     <a href="http://www.fda.gov/drugs/development-resources/reviews-pediatric-studies-conducted-under-bpca-and-pediatric-assessments-conducted-under-prea-2012" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Generic Drug User Fee Amendments
@@ -1886,7 +1994,7 @@
                     <a href="http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Section 804 Importation Program Quality Assurance Tool
@@ -1902,7 +2010,7 @@
                     <a href="http://www.fda.gov/drugs/importation-program-under-section-804-fdc-act/section-804-importation-program-quality-assurance-tool" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Human Drug Imports
@@ -1918,7 +2026,7 @@
                     <a href="http://www.fda.gov/drugs/guidance-compliance-regulatory-information/human-drug-imports" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Recently Issued Guidance Documents
@@ -1934,7 +2042,7 @@
                     <a href="http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Generic Drug Facilities, Sites and Organization Lists
@@ -1950,7 +2058,7 @@
                     <a href="http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Office of New Drugs Custom Medical Queries (OCMQs)
@@ -1976,7 +2084,7 @@
                 </div>
 
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Argenx receives review from FDA for VYVGART in seronegative gMG
@@ -1994,7 +2102,7 @@
                     <a href="https://pharmatimes.com/news/argenx-receives-review-from-fda-for-vyvgart-in-seronegative-gmg/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-14">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         PMGroup Worldwide Ltd welcomes MAD World Summit
@@ -2012,7 +2120,7 @@
                     <a href="https://pharmatimes.com/news/pmgroup-worldwide-ltd-welcomes-mad-world-summit/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-13">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Nuclera extends Series C funding to advance antibody engineering
@@ -2030,7 +2138,7 @@
                     <a href="https://pharmatimes.com/news/nuclera-extends-series-c-funding-to-advance-antibody-engineering/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Ipsen announces new data on Dysport in neurological disease
@@ -2046,7 +2154,7 @@
                     <a href="https://pharmatimes.com/news/ipsen-announces-new-data-on-dysport-in-neurological-disease/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Jurgen Berendsen
@@ -2062,7 +2170,7 @@
                     <a href="https://pharmatimes.com/appointments/jurgen-berendsen/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-15">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         True colours
@@ -2078,7 +2186,7 @@
                     <a href="https://pharmatimes.com/web_exclusives/true-colours/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-date="2026-01-13">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
                         Cellistic launches new iPSC-based platforms to expand immuno-oncology therapies
@@ -2100,8 +2208,58 @@
 
         <footer>
             <p>Generated by <strong>Pharma Daily</strong> - 制药资讯聚合系统</p>
-            <p>2026-01-19 14:18</p>
+            <p>2026-01-19 14:27</p>
         </footer>
     </div>
+
+    <script>
+    (function() {
+        const filterBtns = document.querySelectorAll('.date-btn');
+        const newsCards = document.querySelectorAll('.news-card');
+        const filterCount = document.getElementById('filterCount');
+        const categories = document.querySelectorAll('.category');
+
+        function updateFilter(selectedDate) {
+            let visibleCount = 0;
+
+            newsCards.forEach(card => {
+                const cardDate = card.getAttribute('data-date');
+                if (selectedDate === 'all' || cardDate === selectedDate) {
+                    card.classList.remove('hidden');
+                    visibleCount++;
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+
+            // Hide empty categories
+            categories.forEach(category => {
+                const visibleCards = category.querySelectorAll('.news-card:not(.hidden)');
+                category.style.display = visibleCards.length > 0 ? 'block' : 'none';
+
+                // Update category count
+                const countSpan = category.querySelector('.category-count');
+                if (countSpan) {
+                    countSpan.textContent = visibleCards.length + ' 条';
+                }
+            });
+
+            // Update filter count display
+            if (selectedDate === 'all') {
+                filterCount.textContent = '';
+            } else {
+                filterCount.textContent = `显示 ${visibleCount} 条新闻`;
+            }
+        }
+
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                filterBtns.forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                updateFilter(this.getAttribute('data-filter'));
+            });
+        });
+    })();
+    </script>
 </body>
 </html>
