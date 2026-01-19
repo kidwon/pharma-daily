@@ -30,6 +30,11 @@ concurrency:
   group: pharma-daily
   cancel-in-progress: false
 
+# 添加写入权限
+permissions:
+  contents: write
+  pages: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
