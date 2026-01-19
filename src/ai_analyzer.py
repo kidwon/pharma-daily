@@ -60,7 +60,7 @@ class AIAnalyzer:
         # Prepare news data for analysis
         news_text = self._format_news_for_prompt(items)
 
-        prompt = f"""你是资深制药行业分析师。请分析以下 {date_str} 的制药行业新闻，并按要求输出。
+        prompt = f"""你是资深制药行业分析师。请分析以下最近一周（截至 {date_str}）的制药行业新闻，并按要求输出。
 
 ## 新闻列表
 
@@ -72,7 +72,7 @@ class AIAnalyzer:
 
 ```json
 {{
-  "overview": "今日概览，2-3句话总结最重要的行业动态",
+  "overview": "本周概览，2-3句话总结最重要的行业动态",
   "top_news": [
     {{
       "index": 1,
@@ -223,7 +223,7 @@ class AIAnalyzer:
         lines = [
             "## 📊 AI 智能分析",
             "",
-            "### 今日概览",
+            "### 本周概览",
             "",
             analysis.get("overview", ""),
             "",
