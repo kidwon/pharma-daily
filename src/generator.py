@@ -33,6 +33,41 @@ class PharmaGenerator:
         # Register filters
         self.env.filters['format_date'] = lambda d: d.strftime("%Y-%m-%d %H:%M") if d else ""
         self.env.filters['format_date_short'] = lambda d: d.strftime("%m/%d") if d else ""
+        self.env.filters['markdown_to_html'] = self._markdown_to_html
+
+    def _markdown_to_html(self, text: str) -> str:
+        """Convert Markdown text to HTML."""
+        if not text:
+            return ""
+
+        import re
+
+        # Convert headers
+        text = re.sub(r'^### (.+)$', r'<h4>\1</h4>', text, flags=re.MULTILINE)
+        text = re.sub(r'^## (.+)$', r'<h3>\1</h3>', text, flags=re.MULTILINE)
+
+        # Convert bold
+        text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
+
+        # Convert list items
+        text = re.sub(r'^- (.+)$', r'<li>\1</li>', text, flags=re.MULTILINE)
+        text = re.sub(r'(<li>.*</li>\n?)+', r'<ul>\g<0></ul>', text)
+
+        # Convert line breaks (double newline = paragraph, single = <br>)
+        paragraphs = text.split('\n\n')
+        result = []
+        for p in paragraphs:
+            p = p.strip()
+            if p:
+                # If it's already wrapped in a tag, don't wrap in <p>
+                if p.startswith('<h') or p.startswith('<ul'):
+                    result.append(p)
+                else:
+                    # Replace single newlines with <br>
+                    p = p.replace('\n', '<br>\n')
+                    result.append(f'<p>{p}</p>')
+
+        return '\n'.join(result)
 
     def generate_markdown(
         self,
