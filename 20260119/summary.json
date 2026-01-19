@@ -1,0 +1,28 @@
+{
+  "date": "2026-01-19",
+  "generated_at": "2026-01-19T02:09:20.356921",
+  "theme": "minimal",
+  "total_items": 1,
+  "files": {
+    "markdown": "docs/20260119/daily.md",
+    "html": "docs/20260119/index.html",
+    "directory": "docs/20260119"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于JPM医疗健康大会的后续影响，其中Mirador Therapeutics成功融资2.5亿美元，显示出投资者对新型生物技术公司的持续信心。同时，Genentech在药品福利管理（PBM）方面的策略调整，可能预示着大型药企在药品定价与市场准入方面的新动向。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "JPM大会回顾：Mirador融资2.5亿美元，Genentech调整PBM策略",
+        "importance": 4,
+        "reason": "大型融资事件和头部药企市场策略调整，对行业投融资和商业运营有重要影响",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日无直接相关新药研发新闻",
+      "临床试验": "今日无直接相关临床试验新闻"
+    },
+    "tomorrow_watch": "关注JPM大会结束后可能发布的更多合作、融资及早期研发数据，以及Genentech PBM策略调整的后续市场反应。"
+  }
+}

@@ -1,56 +1,56 @@
 {
   "date": "2026-01-18",
-  "generated_at": "2026-01-18T13:24:37.393055",
+  "generated_at": "2026-01-18T22:11:28.580555",
   "theme": "minimal",
-  "total_items": 32,
+  "total_items": 38,
   "files": {
-    "markdown": "docs/20260118/daily.md",
-    "html": "docs/20260118/index.html",
-    "directory": "docs/20260118"
+    "markdown": "/Users/kid/priv/pharma-daily/docs/20260118/daily.md",
+    "html": "/Users/kid/priv/pharma-daily/docs/20260118/index.html",
+    "directory": "/Users/kid/priv/pharma-daily/docs/20260118"
   },
   "analysis": {
-    "overview": "今日制药行业动态聚焦于FDA监管政策调整与重磅药物市场表现。FDA正考虑调整I期临床试验规定以应对中国生物技术发展，同时加速审批程序面临企业担忧。诺和诺德GLP-1口服药上市首周表现强劲，而Epkinly在淋巴瘤III期试验中未能改善总生存期。",
+    "overview": "今日制药行业动态聚焦于监管政策调整与重磅药物市场表现。FDA正调整一期临床试验规定以应对中国生物技术崛起，同时加速审批项目面临企业担忧；GLP-1药物市场持续火热，诺和诺德口服版Wegovy上市首周处方量超3000份，显示减肥药领域竞争白热化。",
     "top_news": [
       {
         "index": 1,
         "title": "Makary talks FDA's plans to combat China's biotech growth",
         "importance": 5,
-        "reason": "FDA局长明确表态调整I期试验规定，直接回应中国生物技术崛起，可能重塑全球临床试验竞争格局",
+        "reason": "FDA局长明确表态将调整一期试验规定以应对中国生物技术崛起，反映全球生物医药竞争格局变化",
         "category": "政策法规"
       },
       {
         "index": 3,
         "title": "Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading",
         "importance": 5,
-        "reason": "诺和诺德GLP-1口服药上市首周处方量超3000，显示减肥药市场持续爆发，口服剂型可能进一步扩大市场渗透",
+        "reason": "诺和诺德口服GLP-1药物上市首周处方量超3000份，显示减肥药市场进入新剂型竞争阶段",
         "category": "市场分析"
       },
       {
-        "index": 19,
+        "index": 21,
         "title": "AbbVie, Genmab say Epkinly didn't prolong overall survival in lymphoma study",
         "importance": 4,
-        "reason": "Epkinly在弥漫性大B细胞淋巴瘤III期试验中未能改善总生存期，对已上市药物构成重大临床数据挑战",
+        "reason": "艾伯维与Genmab的淋巴瘤药物三期试验未达到总生存期终点，影响该产品市场前景",
         "category": "临床试验"
       },
       {
-        "index": 6,
-        "title": "FDA delays reviews for two drugs in new voucher program",
+        "index": 8,
+        "title": "STAT+: Pharmalittle: We’re reading about FDA voucher worries, weight loss drugs and jet fuel, and more",
         "importance": 4,
-        "reason": "FDA推迟新加速审评项目中两个药物的审查，反映监管程序调整中的执行挑战",
+        "reason": "大型药企因法律风险对FDA加速审批项目持谨慎态度，反映监管政策执行面临挑战",
         "category": "监管审批"
       },
       {
-        "index": 24,
-        "title": "Supreme Court will hear Hikma’s ‘skinny label’ fight against Amarin",
+        "index": 30,
+        "title": "#JPM26: Sandoz CEO on Ozempic generic launch plans for 2026",
         "importance": 4,
-        "reason": "最高法院将审理\"瘦身标签\"案，判决结果可能重塑仿制药市场准入规则",
-        "category": "政策法规"
+        "reason": "山德士CEO在JPM大会上透露2026年推出Ozempic仿制药计划，将冲击GLP-1药物市场格局",
+        "category": "商业动态"
       }
     ],
     "category_summary": {
-      "新药研发": "ImmunityBio的现货型细胞疗法在罕见血癌早期试验中显示潜力；Agomab和SpyGlass提交IPO申请，显示投资者对生物技术板块持续热情",
-      "临床试验": "Epkinly在DLBCL的III期试验中总生存期数据未达终点；FDA加速审批清单更新显示部分癌症药物已验证临床获益"
+      "新药研发": "Exelixis凭借单一药物Cabometyx瞄准美国实体瘤前五地位；ImmunityBio的现货型细胞疗法在罕见血癌早期试验中显示潜力；Agomab与SpyGlass提交IPO申请，显示投资者对生物技术领域热情回升",
+      "临床试验": "艾伯维/Genmab的Epkinly在弥漫性大B细胞淋巴瘤三期试验中未改善总生存期；FDA加速审批项目中部分癌症药物已验证临床获益；EMA在2025年推荐38种新药，比FDA少15种"
     },
-    "tomorrow_watch": "需关注最高法院对\"瘦身标签\"案的审理进展、FDA对I期试验规定的具体修改方案，以及更多GLP-1口服药的市场表现数据。同时应监测中国生物技术公司对FDA政策变化的反应。"
+    "tomorrow_watch": "需关注FDA对一期试验规定的具体调整方案及其对中美生物技术竞争的影响；山德士GLP-1仿制药具体上市时间表及定价策略；最高法院将审理Hikma与Amarin的'瘦身标签'诉讼案，结果可能影响仿制药标签法规"
   }
 }
