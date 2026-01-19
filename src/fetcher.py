@@ -75,8 +75,12 @@ class PharmaFetcher:
                     if len(summary) > 500:
                         summary = summary[:497] + "..."
 
+                    # Clean title (some feeds include HTML tags)
+                    title = entry.get('title', 'Untitled')
+                    title = self._clean_html(title)
+
                     item = NewsItem(
-                        title=entry.get('title', 'Untitled'),
+                        title=title,
                         link=entry.get('link', ''),
                         summary=summary,
                         published=published,
