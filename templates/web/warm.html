@@ -262,6 +262,71 @@
             border-left-width: 4px;
         }
 
+        /* Date Filter */
+        .date-filter {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin: 32px 0;
+        }
+
+        .date-btn {
+            padding: 10px 18px;
+            border: 1px solid var(--border);
+            border-radius: 24px;
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+            font-size: 14px;
+            font-family: -apple-system, sans-serif;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-width: 75px;
+        }
+
+        .date-btn:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .date-btn.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: white;
+        }
+
+        .date-btn.weekend {
+            background: var(--bg-accent);
+        }
+
+        .date-btn.weekend.active {
+            background: var(--accent);
+        }
+
+        .date-btn .weekday {
+            font-size: 12px;
+            opacity: 0.8;
+        }
+
+        .date-btn .date-display {
+            font-weight: 500;
+        }
+
+        .filter-count {
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 14px;
+            margin-bottom: 24px;
+            font-family: -apple-system, sans-serif;
+        }
+
+        .news-card.hidden {
+            display: none;
+        }
+
         /* Responsive */
         @media (max-width: 600px) {
             header {
@@ -311,6 +376,21 @@
             </div>
         </section>
 
+        <!-- Date Filter -->
+        <div class="date-filter">
+            <button class="date-btn active" data-filter="all">
+                <span class="weekday">全部</span>
+                <span class="date-display">All</span>
+            </button>
+            {% for day in week_days %}
+            <button class="date-btn {% if day.is_weekend %}weekend{% endif %}" data-filter="{{ day.date }}">
+                <span class="weekday">{{ day.weekday }}</span>
+                <span class="date-display">{{ day.display }}</span>
+            </button>
+            {% endfor %}
+        </div>
+        <div class="filter-count" id="filterCount"></div>
+
         {% if analysis %}
         <section class="analysis-section">
             <h2>📖 本周概览</h2>
@@ -334,7 +414,7 @@
                 </div>
 
                 {% for item in items %}
-                <article class="news-card {% if item.importance >= 4 %}featured{% endif %}">
+                <article class="news-card {% if item.importance >= 4 %}featured{% endif %}" data-date="{{ item.published | format_date_iso }}">
                     <h3>
                         <span class="news-flag">{% if item.language == 'zh' %}🇨🇳{% else %}🇺🇸{% endif %}</span>
                         {{ item.title }}
@@ -361,5 +441,55 @@
             <p>制药资讯聚合系统 · {{ generated_at }}</p>
         </footer>
     </div>
+
+    <script>
+    (function() {
+        const filterBtns = document.querySelectorAll('.date-btn');
+        const newsCards = document.querySelectorAll('.news-card');
+        const filterCount = document.getElementById('filterCount');
+        const categories = document.querySelectorAll('.category');
+
+        function updateFilter(selectedDate) {
+            let visibleCount = 0;
+
+            newsCards.forEach(card => {
+                const cardDate = card.getAttribute('data-date');
+                if (selectedDate === 'all' || cardDate === selectedDate) {
+                    card.classList.remove('hidden');
+                    visibleCount++;
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+
+            // Hide empty categories
+            categories.forEach(category => {
+                const visibleCards = category.querySelectorAll('.news-card:not(.hidden)');
+                category.style.display = visibleCards.length > 0 ? 'block' : 'none';
+
+                // Update category count
+                const countSpan = category.querySelector('.category-count');
+                if (countSpan) {
+                    countSpan.textContent = visibleCards.length;
+                }
+            });
+
+            // Update filter count display
+            if (selectedDate === 'all') {
+                filterCount.textContent = '';
+            } else {
+                filterCount.textContent = `显示 ${visibleCount} 条新闻`;
+            }
+        }
+
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                filterBtns.forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                updateFilter(this.getAttribute('data-filter'));
+            });
+        });
+    })();
+    </script>
 </body>
 </html>

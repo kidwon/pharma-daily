@@ -4,7 +4,7 @@ Generates HTML pages and Markdown documents from analyzed news.
 """
 
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Optional
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -33,7 +33,31 @@ class PharmaGenerator:
         # Register filters
         self.env.filters['format_date'] = lambda d: d.strftime("%Y-%m-%d %H:%M") if d else ""
         self.env.filters['format_date_short'] = lambda d: d.strftime("%m/%d") if d else ""
+        self.env.filters['format_date_iso'] = lambda d: d.strftime("%Y-%m-%d") if d else ""
         self.env.filters['markdown_to_html'] = self._markdown_to_html
+
+    def _get_week_days(self, date_str: str) -> list[dict]:
+        """Generate list of 7 days ending on the given date for the filter buttons."""
+        # Chinese weekday names
+        weekday_names = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
+
+        # Parse the date
+        try:
+            end_date = datetime.strptime(date_str, "%Y-%m-%d")
+        except:
+            end_date = datetime.now()
+
+        week_days = []
+        for i in range(6, -1, -1):  # 6 days ago to today
+            day = end_date - timedelta(days=i)
+            week_days.append({
+                "date": day.strftime("%Y-%m-%d"),
+                "display": day.strftime("%m/%d"),
+                "weekday": weekday_names[day.weekday()],
+                "is_weekend": day.weekday() >= 5
+            })
+
+        return week_days
 
     def _markdown_to_html(self, text: str) -> str:
         """Convert Markdown text to HTML."""
@@ -207,6 +231,7 @@ class PharmaGenerator:
             return self._generate_inline_html(items, date_str, theme, analysis)
 
         grouped = self._group_by_category(items)
+        week_days = self._get_week_days(date_str)
 
         context = {
             "title": f"制药日报 - {date_str}",
@@ -217,6 +242,7 @@ class PharmaGenerator:
             "categories": CATEGORIES,
             "analysis": analysis,
             "theme": theme,
+            "week_days": week_days,
         }
 
         return template.render(**context)
