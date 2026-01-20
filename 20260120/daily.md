@@ -1,8 +1,8 @@
 # 制药日报 Pharma Daily
 
-**日期**: 2026-01-19
-**更新时间**: 2026-01-19 23:31
-**新闻数量**: 99
+**日期**: 2026-01-20
+**更新时间**: 2026-01-20 03:42
+**新闻数量**: 102
 
 ---
 
@@ -12,40 +12,38 @@
 
 ### 本周概览
 
-2026-01-19 共获取 99 条制药行业新闻，涵盖 4 个类别。
+本周制药行业动态聚焦于监管审批与商业战略调整。FDA对多个药物审批做出延迟决定，并加强了对中国生物技术发展的应对措施。同时，GLP-1口服减肥药市场快速启动，诺和诺德基金会宣布大规模投资生物创新孵化器，行业融资与IPO活动呈现回暖迹象。
 
 ### 🔥 重点新闻
 
 **1. FDA delays decision on Travere's Filspari in key kidney disease indication** ⭐⭐⭐⭐
-   - 类别: 综合
-   - 来自 FiercePharma
+   - 类别: 监管审批
+   - FDA延迟审批涉及20亿美元峰值销售机会的关键肾病适应症扩展，对Travere Therapeutics及肾病治疗领域有重要影响。
 
 **2. Makary talks FDA's plans to combat China's biotech growth** ⭐⭐⭐⭐
-   - 类别: 新药研发
-   - 来自 Endpoints News
+   - 类别: 政策法规
+   - FDA局长透露将调整I期临床试验规定以应对中国生物技术产业的快速增长，反映了全球竞争格局下的监管策略变化。
 
-**3. The newest women’s health unicorn** ⭐⭐⭐⭐
-   - 类别: 新药研发
-   - 来自 Endpoints News
+**16. Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading** ⭐⭐⭐⭐⭐
+   - 类别: 市场分析
+   - 诺和诺德GLP-1口服减肥药上市首周处方量超3000份，标志着口服减肥药市场正式启动，是重大商业突破。
 
 **4. Novo Nordisk Foundation to inject $850M+ into BioInnovation Institute through 2035** ⭐⭐⭐⭐
-   - 类别: 新药研发
-   - 来自 Endpoints News
+   - 类别: 商业动态
+   - 诺和诺德基金会承诺至2035年投入超8.5亿美元支持生命科学孵化器，是行业长期研发投入的重大举措。
 
-**5. STAT+: Pharmalittle: We’re reading about antitrust claims by a compounder, FDA and EMA AI rules, and more** ⭐⭐⭐⭐
-   - 类别: 综合
-   - 来自 STAT News - Pharma
+**19. Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM** ⭐⭐⭐⭐
+   - 类别: 商业动态
+   - 两家生物技术公司提交IPO申请，继Aktis成功上市后，显示JP摩根会议后投资者信心回暖，融资环境改善。
 
 ### 📁 分类摘要
 
-**综合** (): 共 38 条新闻
-**新药研发** (Drug R&D): 共 34 条新闻
-**监管审批** (Regulatory): 共 20 条新闻
-**商业动态** (Business/M&A): 共 7 条新闻
+**新药研发** (Drug R&D): Scribe Therapeutics计划夏季启动基于新型CRISPR酶的降胆固醇疗法临床试验；Argenx的VYVGART在血清阴性gMG适应症的补充申请获FDA受理。
+**临床试验** (Clinical Trials): FDA因安全性和疗效问题延迟了特朗普政府新快速通道项目中两个药物的审评；礼来预计第二季度获得其口服减肥药orforglipron的FDA决定。
 
 ### 🔮 明日关注
 
-请关注各类临床试验数据更新和监管审批进展。
+需关注FDA与诺和诺德就其问题工厂（原Catalent运营）的会议进展；特朗普政府'最惠国'定价协议对更多制药公司的潜在影响；以及FDA对流感疫苗发热性惊厥风险标签警告要求的后续执行情况。
 
 
 ---
@@ -54,10 +52,10 @@
 
 | 类别 | 数量 |
 |------|------|
-| 综合 (综合) | 38 |
+| 综合 (综合) | 39 |
 | 新药研发 (Drug R&D) | 34 |
 | 监管审批 (Regulatory) | 20 |
-| 商业动态 (Business/M&A) | 7 |
+| 商业动态 (Business/M&A) | 9 |
 
 ---
 
@@ -395,6 +393,17 @@
 > The past year was one of turbulence and change at Novo Nordisk, and, while the Danish drugmaker still has its work cut out for 2026, new CEO Maziar Mike Doustdar appears confident in his commercial and R&amp;D battle plan for the coming months.
 
 🔗 [阅读原文](https://www.fiercepharma.com/pharma/jpm26-novo-nordisk-ceo-reflects-curse-leader-company-looks-reassert-glp-1-footing)
+
+---
+
+### 🇺🇸 STAT+: Congress revives bipartisan health care proposal, including drug middlemen provisions
+
+- **来源**: STAT News - Pharma
+- **时间**: 2026-01-20 01:03
+
+> Elements of a health care deal that was blown up by Elon Musk are getting a fresh look in Congress.
+
+🔗 [阅读原文](https://www.statnews.com/2026/01/19/bipartisan-health-care-package-pharmacy-benefit-manager/?utm_campaign=rss)
 
 ---
 
@@ -1137,6 +1146,18 @@
 
 ---
 
+### 🇺🇸 Scottish Medicines Consortium becomes first in UK to adopt new precision gastric cancer treatment
+
+- **来源**: Pharma Times
+- **时间**: 2026-01-19 14:34
+- **重要性**: ⭐⭐
+
+> Decision introduces zolbetuximab for eligible patients in NHS Scotland
+
+🔗 [阅读原文](https://pharmatimes.com/news/scottish-medicines-consortium-becomes-first-in-uk-to-adopt-new-precision-gastric-cancer-treatment/)
+
+---
+
 ### 🇺🇸 PMGroup Worldwide Ltd welcomes MAD World Summit
 
 - **来源**: Pharma Times
@@ -1158,6 +1179,18 @@
 > Investment to accelerate development of full‑format antibody capabilities on eProtein Discovery system
 
 🔗 [阅读原文](https://pharmatimes.com/news/nuclera-extends-series-c-funding-to-advance-antibody-engineering/)
+
+---
+
+### 🇺🇸 Nxera Pharma reports positive results from phase 3 insomnia trial in South Korea
+
+- **来源**: Pharma Times
+- **时间**: 2026-01-19 14:42
+- **重要性**: ⭐
+
+> Company prepares marketing submission after treatment shows strong efficacy
+
+🔗 [阅读原文](https://pharmatimes.com/news/nxera-pharma-reports-positive-results-from-phase-3-insomnia-trial-in-south-korea/)
 
 ---
 
@@ -1210,4 +1243,4 @@
 
 *Generated by Pharma Daily - 制药资讯聚合系统*
 
-*2026-01-19 23:31:46*
+*2026-01-20 03:42:25*

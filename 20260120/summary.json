@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-20",
+  "generated_at": "2026-01-20T03:42:25.154973",
+  "theme": "minimal",
+  "total_items": 102,
+  "files": {
+    "markdown": "docs/20260120/daily.md",
+    "html": "docs/20260120/index.html",
+    "directory": "docs/20260120"
+  },
+  "analysis": {
+    "overview": "本周制药行业动态聚焦于监管审批与商业战略调整。FDA对多个药物审批做出延迟决定，并加强了对中国生物技术发展的应对措施。同时，GLP-1口服减肥药市场快速启动，诺和诺德基金会宣布大规模投资生物创新孵化器，行业融资与IPO活动呈现回暖迹象。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA delays decision on Travere's Filspari in key kidney disease indication",
+        "importance": 4,
+        "reason": "FDA延迟审批涉及20亿美元峰值销售机会的关键肾病适应症扩展，对Travere Therapeutics及肾病治疗领域有重要影响。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Makary talks FDA's plans to combat China's biotech growth",
+        "importance": 4,
+        "reason": "FDA局长透露将调整I期临床试验规定以应对中国生物技术产业的快速增长，反映了全球竞争格局下的监管策略变化。",
+        "category": "政策法规"
+      },
+      {
+        "index": 16,
+        "title": "Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading",
+        "importance": 5,
+        "reason": "诺和诺德GLP-1口服减肥药上市首周处方量超3000份，标志着口服减肥药市场正式启动，是重大商业突破。",
+        "category": "市场分析"
+      },
+      {
+        "index": 4,
+        "title": "Novo Nordisk Foundation to inject $850M+ into BioInnovation Institute through 2035",
+        "importance": 4,
+        "reason": "诺和诺德基金会承诺至2035年投入超8.5亿美元支持生命科学孵化器，是行业长期研发投入的重大举措。",
+        "category": "商业动态"
+      },
+      {
+        "index": 19,
+        "title": "Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM",
+        "importance": 4,
+        "reason": "两家生物技术公司提交IPO申请，继Aktis成功上市后，显示JP摩根会议后投资者信心回暖，融资环境改善。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Scribe Therapeutics计划夏季启动基于新型CRISPR酶的降胆固醇疗法临床试验；Argenx的VYVGART在血清阴性gMG适应症的补充申请获FDA受理。",
+      "临床试验": "FDA因安全性和疗效问题延迟了特朗普政府新快速通道项目中两个药物的审评；礼来预计第二季度获得其口服减肥药orforglipron的FDA决定。"
+    },
+    "tomorrow_watch": "需关注FDA与诺和诺德就其问题工厂（原Catalent运营）的会议进展；特朗普政府'最惠国'定价协议对更多制药公司的潜在影响；以及FDA对流感疫苗发热性惊厥风险标签警告要求的后续执行情况。"
+  }
+}

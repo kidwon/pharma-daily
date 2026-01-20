@@ -1,56 +1,58 @@
 {
   "date": "2026-01-19",
-  "generated_at": "2026-01-19T14:40:38.009964",
-  "theme": "pharma-blue",
-  "total_items": 103,
+  "generated_at": "2026-01-19T23:31:46.963467",
+  "theme": "minimal",
+  "total_items": 99,
   "files": {
     "markdown": "docs/20260119/daily.md",
     "html": "docs/20260119/index.html",
     "directory": "docs/20260119"
   },
   "analysis": {
-    "overview": "本周制药行业动态聚焦于监管审批与重磅药物进展。FDA对Travere的Filspari关键适应症审批延期引发关注，同时诺和诺德基金会宣布向BioInnovation Institute投入超8.5亿美元以推动生命科学创新。此外，礼来和诺和诺德在口服GLP-1药物领域的竞争加剧，礼来预计其肥胖症药物将在第二季度获得FDA决定。",
+    "overview": "2026-01-19 共获取 99 条制药行业新闻，涵盖 4 个类别。",
     "top_news": [
       {
         "index": 1,
         "title": "FDA delays decision on Travere's Filspari in key kidney disease indication",
-        "importance": 5,
-        "reason": "FDA对Travere的Filspari关键肾病适应症审批延期，该适应症预计有20亿美元销售峰值机会，对公司和肾病治疗领域影响重大。",
-        "category": "监管审批"
-      },
-      {
-        "index": 4,
-        "title": "Novo Nordisk Foundation to inject $850M+ into BioInnovation Institute through 2035",
-        "importance": 5,
-        "reason": "诺和诺德基金会承诺在2026年至2035年间向BioInnovation Institute投入55亿丹麦克朗（约8.57亿美元），是生命科学领域重大长期投资。",
-        "category": "商业动态"
-      },
-      {
-        "index": 18,
-        "title": "Lilly, chasing Novo, expects second-quarter FDA decision on obesity pill",
         "importance": 4,
-        "reason": "礼来预计其口服肥胖症药物orforglipron将在第二季度获得FDA决定，加剧了与诺和诺德在GLP-1口服药物市场的竞争。",
-        "category": "新药研发"
-      },
-      {
-        "index": 6,
-        "title": "JPM26: AstraZeneca's $80B revenue target 'very much within reach,' CFO says",
-        "importance": 4,
-        "reason": "阿斯利康CFO表示公司2030年800亿美元营收目标“触手可及”，反映了大型药企对未来增长的强劲信心。",
-        "category": "市场分析"
+        "reason": "来自 FiercePharma",
+        "category": "综合"
       },
       {
         "index": 2,
         "title": "Makary talks FDA's plans to combat China's biotech growth",
         "importance": 4,
-        "reason": "FDA局长表示将调整I期临床试验规定以加速美国创新，以应对中国生物科技投资和许可交易的快速增长。",
-        "category": "政策法规"
+        "reason": "来自 Endpoints News",
+        "category": "新药研发"
+      },
+      {
+        "index": 3,
+        "title": "The newest women’s health unicorn",
+        "importance": 4,
+        "reason": "来自 Endpoints News",
+        "category": "新药研发"
+      },
+      {
+        "index": 4,
+        "title": "Novo Nordisk Foundation to inject $850M+ into BioInnovation Institute through 2035",
+        "importance": 4,
+        "reason": "来自 Endpoints News",
+        "category": "新药研发"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: Pharmalittle: We’re reading about antitrust claims by a compounder, FDA and EMA AI rules, and more",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
       }
     ],
     "category_summary": {
-      "新药研发": "口服GLP-1药物竞争激烈，礼来预计其肥胖症药物orforglipron将在第二季度获得FDA决定；Scribe Therapeutics计划今年夏季测试其基于CRISPR的降胆固醇疗法。",
-      "临床试验": "Argenx已向FDA提交VYVGART用于血清阴性gMG的补充申请，并获得受理；FDA对特朗普政府快速通道计划中的两种药物因安全性和有效性担忧而延迟审查。"
+      "综合": "共 38 条新闻",
+      "新药研发": "共 34 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 7 条新闻"
     },
-    "tomorrow_watch": "关注FDA与诺和诺德就其印第安纳州问题工厂的会议进展；留意Agomab和SpyGlass Pharma的IPO申请后续，以及投资者对生物科技IPO市场情绪的变化；持续跟踪口服GLP-1药物（如诺和诺德的Wegovy片剂和礼来的orforglipron）的市场表现和监管动态。"
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
   }
 }
