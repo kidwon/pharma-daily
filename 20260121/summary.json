@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-21",
+  "generated_at": "2026-01-21T03:42:10.654983",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260121/daily.md",
+    "html": "docs/20260121/index.html",
+    "directory": "docs/20260121"
+  },
+  "analysis": {
+    "overview": "本周制药行业呈现活跃的并购与监管动态。GSK以22亿美元收购RAPT Therapeutics，强化其在过敏领域的布局；同时，辉瑞以约19亿美元出售其在ViiV Healthcare的股份，盐野义制药增持。FDA监管活动频繁，包括对流感疫苗标签发布新警告、调查基孔肯雅热疫苗安全性问题，并持续推进复杂创新试验设计计划。",
+    "top_news": [
+      {
+        "index": 14,
+        "title": "GSK to buy Rapt in $2.2B deal for food allergy drug",
+        "importance": 5,
+        "reason": "GSK新任CEO的首笔重大收购，涉及金额巨大，旨在应对其HIV和疫苗业务压力并拓展过敏治疗领域。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company",
+        "importance": 5,
+        "reason": "辉瑞为应对预期收入下滑进行重大资产剥离，同时盐野义制药增持，改变了HIV领域合资公司的股权结构。",
+        "category": "商业动态"
+      },
+      {
+        "index": 7,
+        "title": "Valneva withdraws chikungunya vaccine Ixchiq from US amid new FDA investigation",
+        "importance": 4,
+        "reason": "疫苗因新的严重不良事件调查被自愿撤市，涉及重要的公共卫生领域（传染病预防），凸显疫苗安全监管的持续关注。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels",
+        "importance": 4,
+        "reason": "FDA要求多家主要疫苗生产商更新流感疫苗标签，增加热性惊厥风险警告，影响广泛使用的公共卫生产品。",
+        "category": "政策法规"
+      },
+      {
+        "index": 8,
+        "title": "Roche scales Genentech’s North Carolina site to $2B in major obesity market play",
+        "importance": 4,
+        "reason": "罗氏大幅加码投资至20亿美元建设生产基地，明确指向竞争激烈的肥胖症市场，显示其在该领域的重大战略布局。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Argenx的VYVGART在血清阴性gMG适应症的补充申请获FDA受理；Definium Therapeutics为其致幻剂药物候选物开展市场教育；GSK通过收购RAPT获得食物过敏在研药物。",
+      "临床试验": "FDA正在推进复杂创新试验设计（CID）会议计划，以促进复杂临床试验设计的应用；FDA局长提及正在修订I期试验规定以加速进程，可能针对中国生物科技增长。"
+    },
+    "tomorrow_watch": "需关注FDA对Valneva基孔肯雅热疫苗安全调查的进展、GSK完成对RAPT Therapeutics收购的后续整合、以及FDA复杂创新试验设计（CID）计划对行业研发效率的潜在影响。此外，GLP-1类药物（如诺和诺德的口服版Wegovy）的市场表现及FDA对快速审评计划中两个被延迟审查药物的后续决定也值得留意。"
+  }
+}
