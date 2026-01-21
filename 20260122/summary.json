@@ -1,0 +1,58 @@
+{
+  "date": "2026-01-22",
+  "generated_at": "2026-01-22T00:30:04.877473",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260122/daily.md",
+    "html": "docs/20260122/index.html",
+    "directory": "docs/20260122"
+  },
+  "analysis": {
+    "overview": "2026-01-22 共获取 103 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Makary talks FDA's plans to combat China's biotech growth",
+        "importance": 4,
+        "reason": "来自 Endpoints News",
+        "category": "新药研发"
+      },
+      {
+        "index": 3,
+        "title": "STAT+: Pharmalittle: We’re reading about antitrust claims by a compounder, FDA and EMA AI rules, and more",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "Complex Innovative Trial Design Meeting Program",
+        "importance": 3,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Definium defines mental health applications for LSD in new awareness campaign",
+        "importance": 2,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 40 条新闻",
+      "新药研发": "共 34 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 9 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}

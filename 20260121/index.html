@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>制药日报 - 2026-01-21</title>
     <style>
-        :root {
+        :root, [data-theme="minimal"] {
             --bg-primary: #ffffff;
             --bg-secondary: #f5f5f7;
             --text-primary: #1d1d1f;
@@ -14,6 +14,34 @@
             --accent-hover: #0077ed;
             --border: #d2d2d7;
             --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+            --header-bg: transparent;
+            --header-text: var(--text-primary);
+        }
+
+        [data-theme="pharma-blue"] {
+            --bg-primary: #f0f4f8;
+            --bg-secondary: #ffffff;
+            --text-primary: #2d3748;
+            --text-secondary: #718096;
+            --accent: #2b6cb0;
+            --accent-hover: #2c5282;
+            --border: #e2e8f0;
+            --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --header-bg: linear-gradient(135deg, #1a365d 0%, #2b6cb0 100%);
+            --header-text: #ffffff;
+        }
+
+        [data-theme="warm"] {
+            --bg-primary: #faf8f5;
+            --bg-secondary: #ffffff;
+            --text-primary: #451a03;
+            --text-secondary: #78716c;
+            --accent: #d97706;
+            --accent-hover: #b45309;
+            --border: #e7e5e4;
+            --card-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+            --header-bg: transparent;
+            --header-text: var(--text-primary);
         }
 
         * {
@@ -294,6 +322,50 @@
             display: none;
         }
 
+        /* Theme Switcher */
+        .theme-switcher {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 8px;
+            background: var(--bg-secondary);
+            padding: 8px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
+        }
+
+        .theme-btn {
+            width: 32px;
+            height: 32px;
+            border: 2px solid transparent;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+
+        .theme-btn:hover {
+            transform: scale(1.1);
+        }
+
+        .theme-btn.active {
+            border-color: var(--accent);
+        }
+
+        .theme-btn[data-theme="minimal"] {
+            background: linear-gradient(135deg, #ffffff 50%, #0071e3 50%);
+        }
+
+        .theme-btn[data-theme="pharma-blue"] {
+            background: linear-gradient(135deg, #1a365d 50%, #2b6cb0 50%);
+        }
+
+        .theme-btn[data-theme="warm"] {
+            background: linear-gradient(135deg, #faf8f5 50%, #d97706 50%);
+        }
+
         /* Responsive */
         @media (max-width: 734px) {
             header {
@@ -331,6 +403,13 @@
     </style>
 </head>
 <body>
+    <!-- Theme Switcher -->
+    <div class="theme-switcher">
+        <button class="theme-btn active" data-theme="minimal" title="简约白"></button>
+        <button class="theme-btn" data-theme="pharma-blue" title="医药蓝"></button>
+        <button class="theme-btn" data-theme="warm" title="暖色调"></button>
+    </div>
+
     <div class="container">
         <header>
             <div class="logo">💊</div>
@@ -348,7 +427,7 @@
                 <div class="stat-label">类别数</div>
             </div>
             <div class="stat">
-                <div class="stat-value">2026-01-21 03:42</div>
+                <div class="stat-value">2026-01-21 15:31</div>
                 <div class="stat-label">更新时间</div>
             </div>
         </div>
@@ -400,32 +479,32 @@
 
         
         <section class="analysis">
-            <h2>📊 本周概览</h2>
+            <h2>📊 今日概览</h2>
             <div class="analysis-content">
                 <h3>📊 AI 智能分析</h3>
-<h4>本周概览</h4>
-<p>本周制药行业呈现活跃的并购与监管动态。GSK以22亿美元收购RAPT Therapeutics，强化其在过敏领域的布局；同时，辉瑞以约19亿美元出售其在ViiV Healthcare的股份，盐野义制药增持。FDA监管活动频繁，包括对流感疫苗标签发布新警告、调查基孔肯雅热疫苗安全性问题，并持续推进复杂创新试验设计计划。</p>
+<h4>今日概览</h4>
+<p>今日制药行业动态聚焦于大型药企的战略调整与监管环境变化。辉瑞以19亿美元出售其在ViiV Healthcare的股份，GSK则以22亿美元收购RAPT Therapeutics以加强过敏领域布局，显示巨头正积极优化资产组合。同时，FDA监管趋严，对流感疫苗标签提出新警告，并调查基孔肯雅热疫苗安全性问题，凸显监管机构对药物安全性的持续关注。</p>
 <h4>🔥 重点新闻</h4>
-<p><strong>14. GSK to buy Rapt in $2.2B deal for food allergy drug</strong> ⭐⭐⭐⭐⭐<br>
-   - 类别: 商业动态<br>
-   - GSK新任CEO的首笔重大收购，涉及金额巨大，旨在应对其HIV和疫苗业务压力并拓展过敏治疗领域。</p>
 <p><strong>1. Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company</strong> ⭐⭐⭐⭐⭐<br>
    - 类别: 商业动态<br>
-   - 辉瑞为应对预期收入下滑进行重大资产剥离，同时盐野义制药增持，改变了HIV领域合资公司的股权结构。</p>
-<p><strong>7. Valneva withdraws chikungunya vaccine Ixchiq from US amid new FDA investigation</strong> ⭐⭐⭐⭐<br>
-   - 类别: 监管审批<br>
-   - 疫苗因新的严重不良事件调查被自愿撤市，涉及重要的公共卫生领域（传染病预防），凸显疫苗安全监管的持续关注。</p>
-<p><strong>10. FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels</strong> ⭐⭐⭐⭐<br>
-   - 类别: 政策法规<br>
-   - FDA要求多家主要疫苗生产商更新流感疫苗标签，增加热性惊厥风险警告，影响广泛使用的公共卫生产品。</p>
-<p><strong>8. Roche scales Genentech’s North Carolina site to $2B in major obesity market play</strong> ⭐⭐⭐⭐<br>
+   - 辉瑞大规模出售HIV合资公司股份，涉及金额巨大，反映大型药企战略重心调整。</p>
+<p><strong>13. GSK to buy Rapt in $2.2B deal for food allergy drug</strong> ⭐⭐⭐⭐⭐<br>
    - 类别: 商业动态<br>
-   - 罗氏大幅加码投资至20亿美元建设生产基地，明确指向竞争激烈的肥胖症市场，显示其在该领域的重大战略布局。</p>
+   - GSK以22亿美元收购RAPT Therapeutics，是2026年初重大并购交易，旨在拓展过敏治疗领域。</p>
+<p><strong>6. Valneva withdraws chikungunya vaccine Ixchiq from US amid new FDA investigation</strong> ⭐⭐⭐⭐<br>
+   - 类别: 监管审批<br>
+   - 疫苗因安全性问题被撤回并接受FDA调查，涉及重要公共卫生领域，影响疫苗市场格局。</p>
+<p><strong>9. FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels</strong> ⭐⭐⭐⭐<br>
+   - 类别: 政策法规<br>
+   - FDA要求多家巨头更新流感疫苗标签，增加发热性惊厥风险警告，影响广泛使用的疫苗产品。</p>
+<p><strong>11. JPM26: Astellas CEO resists 'rescue BD' as $6B Xtandi patent cliff nears</strong> ⭐⭐⭐⭐<br>
+   - 类别: 市场分析<br>
+   - 安斯泰来面临60亿美元专利悬崖，CEO阐述应对策略，反映行业普遍面临的专利到期挑战。</p>
 <h4>📁 分类摘要</h4>
-<p><strong>新药研发</strong> (Drug R&D): Argenx的VYVGART在血清阴性gMG适应症的补充申请获FDA受理；Definium Therapeutics为其致幻剂药物候选物开展市场教育；GSK通过收购RAPT获得食物过敏在研药物。<br>
-<strong>临床试验</strong> (Clinical Trials): FDA正在推进复杂创新试验设计（CID）会议计划，以促进复杂临床试验设计的应用；FDA局长提及正在修订I期试验规定以加速进程，可能针对中国生物科技增长。</p>
+<p><strong>新药研发</strong> (Drug R&D): 迷幻药公司Definium Therapeutics为LSD药物上市进行公众教育；GSK通过收购获得食物过敏在研药物；诺和诺德GLP-1口服药上市首周处方量超3000份。<br>
+<strong>临床试验</strong> (Clinical Trials): FDA推进复杂创新试验设计（CID）会议计划以促进先进试验方法应用；FDA局长表示将调整I期试验规定以应对中国生物技术竞争。</p>
 <h4>🔮 明日关注</h4>
-<p>需关注FDA对Valneva基孔肯雅热疫苗安全调查的进展、GSK完成对RAPT Therapeutics收购的后续整合、以及FDA复杂创新试验设计（CID）计划对行业研发效率的潜在影响。此外，GLP-1类药物（如诺和诺德的口服版Wegovy）的市场表现及FDA对快速审评计划中两个被延迟审查药物的后续决定也值得留意。</p>
+<p>关注FDA对Valneva基孔肯雅热疫苗调查的进展、GSK收购RAPT Therapeutics交易的后续整合、以及制药企业对新药快速审评计划（如特朗普政府项目）的参与态度变化。</p>
             </div>
         </section>
         
@@ -602,6 +681,24 @@
                     <a href="https://www.fiercepharma.com/pharma/astellas-ceo-resists-rescue-bd-6b-xtandi-patent-cliff-nears" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
+                <article class="news-card" data-date="2026-01-21">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Pharmalittle: We’re reading about Canada speeding drug reviews, Novo Nordisk ads, and more
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-01-21 14:14</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Health Canada is planning to speed up reviews of some drugs by piggybacking on the decisions of foreign regulators, including possibly the U.S. FDA</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/01/21/canada-vaccines-novo-eczema-diabetes/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
                 <article class="news-card" data-date="2026-01-20">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
@@ -656,24 +753,6 @@
                     <a href="https://www.statnews.com/pharmalot/2026/01/16/trump-fda-voucher-obesity-novo-lilly-covid/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card" data-date="2026-01-14">
-                    <h3>
-                        <span class="lang-flag">🇺🇸</span>
-                        STAT+: Pharmalittle: We’re reading about a change in obesity drug warnings, FDA approvals, and more
-                    </h3>
-                    <div class="news-meta">
-                        <span class="news-source">STAT News - Pharma</span>
-                        <span class="news-date">2026-01-14 14:20</span>
-                        
-                        <span class="news-importance">⭐⭐</span>
-                        
-                    </div>
-                    
-                    <p class="news-summary">After an agency review, the FDA asked drugmakers to remove warnings about a potential risk of suicidal thoughts from widely used GLP-1 weight loss drugs</p>
-                    
-                    <a href="https://www.statnews.com/pharmalot/2026/01/14/obesity-weight-suicide-illumina-antibiotics-pfizer-lilly-novo/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
-                </article>
-                
                 <article class="news-card" data-date="2026-01-16">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
@@ -690,6 +769,22 @@
                     <p class="news-summary">Exelixis may only have one drug on the market right now, but with phase 3 results for a potential new blockbuster on the horizon and a growing pipeline, the Cabometyx maker is aiming big.</p>
                     
                     <a href="https://www.fiercepharma.com/pharma/single-product-exelixis-aims-be-top-5-solid-tumor-drugmaker-us" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-01-20">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Rising Stars: Regeneron’s Catie Matthews on updating marketing strategy to meet the AI boom
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-01-20 12:30</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">In a Q&amp;amp;A for Fierce Pharma Marketing’s “Rising Stars” series, Catie Matthews suggested that marketers should embrace artificial intelligence in their own lives.</p>
+                    
+                    <a href="https://www.fiercepharma.com/marketing/rising-stars-regenerons-catie-matthews-updating-marketing-strategy-amid-ai-boom" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
                 <article class="news-card" data-date="2026-01-20">
@@ -916,36 +1011,20 @@
                     <a href="https://www.fiercepharma.com/regulatory/trump-takes-aim-insurance-industry-unveiling-great-healthcare-plan" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card" data-date="2026-01-15">
+                <article class="news-card" data-date="2026-01-21">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
-                        After succeeding in combo with Darzalex, J&amp;amp;J&#39;s Tecvayli shines as solo act
+                        STAT+: Novo strikes deal for diabetes cell therapies
                     </h3>
                     <div class="news-meta">
-                        <span class="news-source">FiercePharma</span>
-                        <span class="news-date">2026-01-15 07:45</span>
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-01-21 14:53</span>
                         
                     </div>
                     
-                    <p class="news-summary">Just a month after Johnson &amp;amp; Johnson reported a successful study pairing its blood cancer treatments Tecvayli and Darzalex, the company has revealed another trial win. This time, Tecvayli excelled as a solo agent, reducing the risk of disease progression or death by 71% over standard of care in a group of multiple myeloma patients resistant to anti-CD38 therapy.</p>
+                    <p class="news-summary">And other biotech news, brought to you by The Readout newsletter</p>
                     
-                    <a href="https://www.fiercepharma.com/pharma/after-succeeding-combo-darzalex-jjs-tecvayli-shines-solo-act" target="_blank" rel="noopener" class="news-link">阅读原文</a>
-                </article>
-                
-                <article class="news-card" data-date="2026-01-15">
-                    <h3>
-                        <span class="lang-flag">🇺🇸</span>
-                        Hologic sets a screen to block cervical cancer with WNBA&#39;s Erica Wheeler
-                    </h3>
-                    <div class="news-meta">
-                        <span class="news-source">FiercePharma</span>
-                        <span class="news-date">2026-01-15 06:58</span>
-                        
-                    </div>
-                    
-                    <p class="news-summary">Hologic has drafted professional basketball player Erica Wheeler to raise awareness of cervical cancer screening, putting the guard at the center of a drive to frame testing as the “Ultimate Defense.”</p>
-                    
-                    <a href="https://www.fiercepharma.com/marketing/hologic-sets-screen-block-cervical-cancer-basketball-star" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                    <a href="https://www.statnews.com/2026/01/21/biotech-news-novo-nordisk-acquires-aspect-biosystems/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
                 <article class="news-card" data-date="2026-01-20">
@@ -1316,22 +1395,22 @@
                     <a href="https://endpoints.news/drugmakers-without-mfn-pacts-are-bracing-to-make-one/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
-                <article class="news-card" data-date="2026-01-16">
+                <article class="news-card" data-date="2026-01-21">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
-                        European regulators recommended 38 novel drugs in 2025, 15 fewer than the FDA
+                        Fosun-funded Hygtia Therapeutics licenses Insilico’s NLRP3 inhibitor for Parkinson’s
                     </h3>
                     <div class="news-meta">
                         <span class="news-source">Endpoints News</span>
-                        <span class="news-date">2026-01-16 12:10</span>
+                        <span class="news-date">2026-01-21 12:14</span>
                         
-                        <span class="news-importance">⭐⭐</span>
+                        <span class="news-importance">⭐</span>
                         
                     </div>
                     
-                    <p class="news-summary">The European Medicines Agency recommended 104 medicines for approval in 2025, the second-highest number in the past 15 years, according to a report the agency published Thursday. Of the positive recommendations ...</p>
+                    <p class="news-summary">A biotech funded by Shanghai Fosun Pharmaceutical is licensing a preclinical asset developed by Insilico Medicine in the NLRP3 space, which has garnered industry interest in recent months. Hygtia Therapeutics will get half the global ...</p>
                     
-                    <a href="https://endpoints.news/european-regulators-recommended-38-novel-drugs-in-2025-15-fewer-than-the-fda/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                    <a href="https://endpoints.news/fosun-funded-hygtia-therapeutics-licenses-insilicos-nlrp3-inhibitor-for-parkinsons/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
                 <article class="news-card" data-date="2026-01-20">
@@ -1484,6 +1563,54 @@
                     <p class="news-summary">Oxford, major contract manufacturer to cell and gene therapy companies, has already rejected multiple, unsolicited take-private bids from EQT that it felt &amp;ldquo;undervalued&amp;rdquo; the company and its prospects.</p>
                     
                     <a href="https://www.biopharmadive.com/news/oxford-biomedica-eqt-offer-acquire-cell-gene-therapy/809705/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-01-21">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        #JPM26: Regeneron, Lilly, Summit on rivals crowding into same targets
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-21 14:00</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">There are countless diseases lacking a single good treatment, but drugmakers are still herding into the same targets, particularly in chasing after megablockbusters. George Yancopoulos, the outspoken co-founder and chief scientific officer of Regeneron, is ...</p>
+                    
+                    <a href="https://endpoints.news/jpm26-regeneron-lilly-summit-on-rivals-crowding-into-same-targets/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-01-21">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Exclusive: Claim Health raises $4.4M to help home care providers get paid
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-21 14:00</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">After an initial wave of AI startups that automated specific administrative tasks in healthcare, companies are now racing to handle the entire process. Claim Health, which aims to manage every step of how home care ...</p>
+                    
+                    <a href="https://endpoints.news/exclusive-claim-health-raises-4-4m-to-help-home-care-providers-get-paid/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-01-21">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Think Bioscience gets $55M to unearth new drug pockets
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Endpoints News</span>
+                        <span class="news-date">2026-01-21 12:00</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">A Boulder, CO-based startup is searching for previously undiscovered footholds — not on rocks, but on molecules. Think Bioscience has raised a $55 million Series A led by investors including Regeneron Ventures ...</p>
+                    
+                    <a href="https://endpoints.news/think-bioscience-gets-55m-to-unearth-new-drug-pockets/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
                 <article class="news-card" data-date="2026-01-20">
@@ -1642,54 +1769,6 @@
                     <p class="news-summary">SAN FRANCISCO — Throughout his 53 meetings at this year&#39;s JPMorgan Healthcare Conference, Richard Saynor mulled a charitable idea about the topic on everyone&#39;s minds. &#34;We&#39;re going to put a cup in the middle of ...</p>
                     
                     <a href="https://endpoints.news/jpm26-sandoz-ceo-on-ozempic-generic-launch-plans-for-2026/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
-                </article>
-                
-                <article class="news-card" data-date="2026-01-16">
-                    <h3>
-                        <span class="lang-flag">🇺🇸</span>
-                        Novo Nordisk, BioMarin make AI moves; Bristol Myers welcomes neurology exec from Eisai
-                    </h3>
-                    <div class="news-meta">
-                        <span class="news-source">Endpoints News</span>
-                        <span class="news-date">2026-01-16 12:00</span>
-                        
-                    </div>
-                    
-                    <p class="news-summary">→ These days, it’s just not Peer Review without Novo Nordisk: Anja Leth Zimmer said on LinkedIn that she had been promoted to chief AI officer at the Danish pharma, which ...</p>
-                    
-                    <a href="https://endpoints.news/novo-nordisk-biomarin-make-ai-moves-bristol-myers-welcomes-neurology-exec-from-eisai/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
-                </article>
-                
-                <article class="news-card" data-date="2026-01-15">
-                    <h3>
-                        <span class="lang-flag">🇺🇸</span>
-                        New York sues ex-Emergent CEO over insider trading during vaccine manufacturing struggle
-                    </h3>
-                    <div class="news-meta">
-                        <span class="news-source">Endpoints News</span>
-                        <span class="news-date">2026-01-15 20:36</span>
-                        
-                    </div>
-                    
-                    <p class="news-summary">New York prosecutors sued the former CEO of Emergent BioSolutions over alleged insider trading while the contract manufacturer struggled with contamination issues making AstraZeneca&#39;s Covid-19 vaccine during the pandemic. The lawsuit ...</p>
-                    
-                    <a href="https://endpoints.news/new-york-sues-ex-emergent-ceo-over-insider-trading-during-vaccine-manufacturing-struggle/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
-                </article>
-                
-                <article class="news-card" data-date="2026-01-15">
-                    <h3>
-                        <span class="lang-flag">🇺🇸</span>
-                        Trump asks Congress to codify ‘most favored nation’ deals
-                    </h3>
-                    <div class="news-meta">
-                        <span class="news-source">Endpoints News</span>
-                        <span class="news-date">2026-01-15 19:10</span>
-                        
-                    </div>
-                    
-                    <p class="news-summary">President Donald Trump wants new legislation that cements his &#34;most favored nation&#34; deals with drugmakers, asking Congress to put the drug price discounts into law that the pharma industry has so far voluntarily agreed to ...</p>
-                    
-                    <a href="https://endpoints.news/trump-asks-congress-to-codify-most-favored-nation-deals/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
             </section>
@@ -2056,24 +2135,6 @@
                 </div>
 
                 
-                <article class="news-card" data-date="2026-01-14">
-                    <h3>
-                        <span class="lang-flag">🇺🇸</span>
-                        Argenx receives review from FDA for VYVGART in seronegative gMG
-                    </h3>
-                    <div class="news-meta">
-                        <span class="news-source">Pharma Times</span>
-                        <span class="news-date">2026-01-14 11:54</span>
-                        
-                        <span class="news-importance">⭐⭐⭐</span>
-                        
-                    </div>
-                    
-                    <p class="news-summary">Regulator accepts supplemental application supported by positive phase 3 data</p>
-                    
-                    <a href="https://pharmatimes.com/news/argenx-receives-review-from-fda-for-vyvgart-in-seronegative-gmg/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
-                </article>
-                
                 <article class="news-card" data-date="2026-01-19">
                     <h3>
                         <span class="lang-flag">🇺🇸</span>
@@ -2090,24 +2151,6 @@
                     <p class="news-summary">Decision introduces zolbetuximab for eligible patients in NHS Scotland</p>
                     
                     <a href="https://pharmatimes.com/news/scottish-medicines-consortium-becomes-first-in-uk-to-adopt-new-precision-gastric-cancer-treatment/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
-                </article>
-                
-                <article class="news-card" data-date="2026-01-14">
-                    <h3>
-                        <span class="lang-flag">🇺🇸</span>
-                        PMGroup Worldwide Ltd welcomes MAD World Summit
-                    </h3>
-                    <div class="news-meta">
-                        <span class="news-source">Pharma Times</span>
-                        <span class="news-date">2026-01-14 12:01</span>
-                        
-                        <span class="news-importance">⭐⭐</span>
-                        
-                    </div>
-                    
-                    <p class="news-summary">Acquisition expands PMGroup’s commitment to transforming workplace health and organisational resilience</p>
-                    
-                    <a href="https://pharmatimes.com/news/pmgroup-worldwide-ltd-welcomes-mad-world-summit/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
                 <article class="news-card" data-date="2026-01-20">
@@ -2144,6 +2187,38 @@
                     <p class="news-summary">Company prepares marketing submission after treatment shows strong efficacy</p>
                     
                     <a href="https://pharmatimes.com/news/nxera-pharma-reports-positive-results-from-phase-3-insomnia-trial-in-south-korea/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-01-21">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Sun Pharma’s Unloxcyt now available in US for advanced cutaneous squamous cell carcinoma
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Pharma Times</span>
+                        <span class="news-date">2026-01-21 12:13</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">More than 71% of patients treated with Unloxcyt achieved disease control</p>
+                    
+                    <a href="https://pharmatimes.com/news/sun-pharmas-unloxcyt-now-available-in-us-for-advanced-cutaneous-squamous-cell-carcinoma/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-01-21">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Peter Llewellyn-Davies
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Pharma Times</span>
+                        <span class="news-date">2026-01-21 12:02</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">ARTCLINE appoints Peter Llewellyn-Davies as Chairman of its Supervisory Board</p>
+                    
+                    <a href="https://pharmatimes.com/appointments/peter-llewellyn-davies/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
                 </article>
                 
                 <article class="news-card" data-date="2026-01-20">
@@ -2216,12 +2291,34 @@
 
         <footer>
             <p>Generated by <strong>Pharma Daily</strong> - 制药资讯聚合系统</p>
-            <p>2026-01-21 03:42</p>
+            <p>2026-01-21 15:31</p>
         </footer>
     </div>
 
     <script>
     (function() {
+        // ========== Theme Switcher ==========
+        const themeBtns = document.querySelectorAll('.theme-btn');
+        const savedTheme = localStorage.getItem('pharma-daily-theme') || 'minimal';
+
+        function setTheme(theme) {
+            document.body.setAttribute('data-theme', theme);
+            themeBtns.forEach(btn => {
+                btn.classList.toggle('active', btn.getAttribute('data-theme') === theme);
+            });
+            localStorage.setItem('pharma-daily-theme', theme);
+        }
+
+        // Apply saved theme on load
+        setTheme(savedTheme);
+
+        themeBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                setTheme(this.getAttribute('data-theme'));
+            });
+        });
+
+        // ========== Date Filter ==========
         const filterBtns = document.querySelectorAll('.date-btn');
         const newsCards = document.querySelectorAll('.news-card');
         const filterCount = document.getElementById('filterCount');

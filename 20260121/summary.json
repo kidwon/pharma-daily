@@ -1,6 +1,6 @@
 {
   "date": "2026-01-21",
-  "generated_at": "2026-01-21T03:42:10.654983",
+  "generated_at": "2026-01-21T15:31:28.567787",
   "theme": "minimal",
   "total_items": 103,
   "files": {
@@ -9,48 +9,48 @@
     "directory": "docs/20260121"
   },
   "analysis": {
-    "overview": "本周制药行业呈现活跃的并购与监管动态。GSK以22亿美元收购RAPT Therapeutics，强化其在过敏领域的布局；同时，辉瑞以约19亿美元出售其在ViiV Healthcare的股份，盐野义制药增持。FDA监管活动频繁，包括对流感疫苗标签发布新警告、调查基孔肯雅热疫苗安全性问题，并持续推进复杂创新试验设计计划。",
+    "overview": "今日制药行业动态聚焦于大型药企的战略调整与监管环境变化。辉瑞以19亿美元出售其在ViiV Healthcare的股份，GSK则以22亿美元收购RAPT Therapeutics以加强过敏领域布局，显示巨头正积极优化资产组合。同时，FDA监管趋严，对流感疫苗标签提出新警告，并调查基孔肯雅热疫苗安全性问题，凸显监管机构对药物安全性的持续关注。",
     "top_news": [
-      {
-        "index": 14,
-        "title": "GSK to buy Rapt in $2.2B deal for food allergy drug",
-        "importance": 5,
-        "reason": "GSK新任CEO的首笔重大收购，涉及金额巨大，旨在应对其HIV和疫苗业务压力并拓展过敏治疗领域。",
-        "category": "商业动态"
-      },
       {
         "index": 1,
         "title": "Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company",
         "importance": 5,
-        "reason": "辉瑞为应对预期收入下滑进行重大资产剥离，同时盐野义制药增持，改变了HIV领域合资公司的股权结构。",
+        "reason": "辉瑞大规模出售HIV合资公司股份，涉及金额巨大，反映大型药企战略重心调整。",
         "category": "商业动态"
       },
       {
-        "index": 7,
+        "index": 13,
+        "title": "GSK to buy Rapt in $2.2B deal for food allergy drug",
+        "importance": 5,
+        "reason": "GSK以22亿美元收购RAPT Therapeutics，是2026年初重大并购交易，旨在拓展过敏治疗领域。",
+        "category": "商业动态"
+      },
+      {
+        "index": 6,
         "title": "Valneva withdraws chikungunya vaccine Ixchiq from US amid new FDA investigation",
         "importance": 4,
-        "reason": "疫苗因新的严重不良事件调查被自愿撤市，涉及重要的公共卫生领域（传染病预防），凸显疫苗安全监管的持续关注。",
+        "reason": "疫苗因安全性问题被撤回并接受FDA调查，涉及重要公共卫生领域，影响疫苗市场格局。",
         "category": "监管审批"
       },
       {
-        "index": 10,
+        "index": 9,
         "title": "FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels",
         "importance": 4,
-        "reason": "FDA要求多家主要疫苗生产商更新流感疫苗标签，增加热性惊厥风险警告，影响广泛使用的公共卫生产品。",
+        "reason": "FDA要求多家巨头更新流感疫苗标签，增加发热性惊厥风险警告，影响广泛使用的疫苗产品。",
         "category": "政策法规"
       },
       {
-        "index": 8,
-        "title": "Roche scales Genentech’s North Carolina site to $2B in major obesity market play",
+        "index": 11,
+        "title": "JPM26: Astellas CEO resists 'rescue BD' as $6B Xtandi patent cliff nears",
         "importance": 4,
-        "reason": "罗氏大幅加码投资至20亿美元建设生产基地，明确指向竞争激烈的肥胖症市场，显示其在该领域的重大战略布局。",
-        "category": "商业动态"
+        "reason": "安斯泰来面临60亿美元专利悬崖，CEO阐述应对策略，反映行业普遍面临的专利到期挑战。",
+        "category": "市场分析"
       }
     ],
     "category_summary": {
-      "新药研发": "Argenx的VYVGART在血清阴性gMG适应症的补充申请获FDA受理；Definium Therapeutics为其致幻剂药物候选物开展市场教育；GSK通过收购RAPT获得食物过敏在研药物。",
-      "临床试验": "FDA正在推进复杂创新试验设计（CID）会议计划，以促进复杂临床试验设计的应用；FDA局长提及正在修订I期试验规定以加速进程，可能针对中国生物科技增长。"
+      "新药研发": "迷幻药公司Definium Therapeutics为LSD药物上市进行公众教育；GSK通过收购获得食物过敏在研药物；诺和诺德GLP-1口服药上市首周处方量超3000份。",
+      "临床试验": "FDA推进复杂创新试验设计（CID）会议计划以促进先进试验方法应用；FDA局长表示将调整I期试验规定以应对中国生物技术竞争。"
     },
-    "tomorrow_watch": "需关注FDA对Valneva基孔肯雅热疫苗安全调查的进展、GSK完成对RAPT Therapeutics收购的后续整合、以及FDA复杂创新试验设计（CID）计划对行业研发效率的潜在影响。此外，GLP-1类药物（如诺和诺德的口服版Wegovy）的市场表现及FDA对快速审评计划中两个被延迟审查药物的后续决定也值得留意。"
+    "tomorrow_watch": "关注FDA对Valneva基孔肯雅热疫苗调查的进展、GSK收购RAPT Therapeutics交易的后续整合、以及制药企业对新药快速审评计划（如特朗普政府项目）的参与态度变化。"
   }
 }

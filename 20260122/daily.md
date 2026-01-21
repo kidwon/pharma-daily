@@ -1,7 +1,7 @@
 # 制药日报 Pharma Daily
 
-**日期**: 2026-01-21
-**更新时间**: 2026-01-21 15:31
+**日期**: 2026-01-22
+**更新时间**: 2026-01-22 00:30
 **新闻数量**: 103
 
 ---
@@ -12,38 +12,40 @@
 
 ### 今日概览
 
-今日制药行业动态聚焦于大型药企的战略调整与监管环境变化。辉瑞以19亿美元出售其在ViiV Healthcare的股份，GSK则以22亿美元收购RAPT Therapeutics以加强过敏领域布局，显示巨头正积极优化资产组合。同时，FDA监管趋严，对流感疫苗标签提出新警告，并调查基孔肯雅热疫苗安全性问题，凸显监管机构对药物安全性的持续关注。
+2026-01-22 共获取 103 条制药行业新闻，涵盖 4 个类别。
 
 ### 🔥 重点新闻
 
-**1. Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company** ⭐⭐⭐⭐⭐
-   - 类别: 商业动态
-   - 辉瑞大规模出售HIV合资公司股份，涉及金额巨大，反映大型药企战略重心调整。
+**1. Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company** ⭐⭐⭐⭐
+   - 类别: 综合
+   - 来自 FiercePharma
 
-**13. GSK to buy Rapt in $2.2B deal for food allergy drug** ⭐⭐⭐⭐⭐
-   - 类别: 商业动态
-   - GSK以22亿美元收购RAPT Therapeutics，是2026年初重大并购交易，旨在拓展过敏治疗领域。
+**2. Makary talks FDA's plans to combat China's biotech growth** ⭐⭐⭐⭐
+   - 类别: 新药研发
+   - 来自 Endpoints News
 
-**6. Valneva withdraws chikungunya vaccine Ixchiq from US amid new FDA investigation** ⭐⭐⭐⭐
+**3. STAT+: Pharmalittle: We’re reading about antitrust claims by a compounder, FDA and EMA AI rules, and more** ⭐⭐⭐⭐
+   - 类别: 综合
+   - 来自 STAT News - Pharma
+
+**4. Complex Innovative Trial Design Meeting Program** ⭐⭐⭐
    - 类别: 监管审批
-   - 疫苗因安全性问题被撤回并接受FDA调查，涉及重要公共卫生领域，影响疫苗市场格局。
+   - 来自 FDA News
 
-**9. FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels** ⭐⭐⭐⭐
-   - 类别: 政策法规
-   - FDA要求多家巨头更新流感疫苗标签，增加发热性惊厥风险警告，影响广泛使用的疫苗产品。
-
-**11. JPM26: Astellas CEO resists 'rescue BD' as $6B Xtandi patent cliff nears** ⭐⭐⭐⭐
-   - 类别: 市场分析
-   - 安斯泰来面临60亿美元专利悬崖，CEO阐述应对策略，反映行业普遍面临的专利到期挑战。
+**5. Definium defines mental health applications for LSD in new awareness campaign** ⭐⭐
+   - 类别: 综合
+   - 来自 FiercePharma
 
 ### 📁 分类摘要
 
-**新药研发** (Drug R&D): 迷幻药公司Definium Therapeutics为LSD药物上市进行公众教育；GSK通过收购获得食物过敏在研药物；诺和诺德GLP-1口服药上市首周处方量超3000份。
-**临床试验** (Clinical Trials): FDA推进复杂创新试验设计（CID）会议计划以促进先进试验方法应用；FDA局长表示将调整I期试验规定以应对中国生物技术竞争。
+**综合** (): 共 40 条新闻
+**新药研发** (Drug R&D): 共 34 条新闻
+**监管审批** (Regulatory): 共 20 条新闻
+**商业动态** (Business/M&A): 共 9 条新闻
 
 ### 🔮 明日关注
 
-关注FDA对Valneva基孔肯雅热疫苗调查的进展、GSK收购RAPT Therapeutics交易的后续整合、以及制药企业对新药快速审评计划（如特朗普政府项目）的参与态度变化。
+请关注各类临床试验数据更新和监管审批进展。
 
 
 ---
@@ -919,6 +921,54 @@
 
 ---
 
+### 🇺🇸 What's New Related to Drugs
+
+- **来源**: FDA News
+- **时间**: 2026-01-21 15:06
+- **重要性**: ⭐⭐
+
+> Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs)
+
+---
+
+### 🇺🇸 Drug Alerts and Statements
+
+- **来源**: FDA News
+- **时间**: 2026-01-21 15:01
+- **重要性**: ⭐⭐
+
+> FDA Drug Alerts and Statements
+
+🔗 [阅读原文](http://www.fda.gov/drugs/drug-safety-and-availability/drug-alerts-and-statements)
+
+---
+
+### 🇺🇸 FDA Announces PreCheck Implementation Roadmap
+
+- **来源**: FDA News
+- **时间**: 2026-01-21 15:00
+- **重要性**: ⭐⭐
+
+> The U.S. Food and Drug Administration announced that it will begin accepting applications on Feb. 1, 2026 for the PreCheck Pilot Program, a program to strengthen the domestic pharmaceutical supply chain. Learn more.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/drug-safety-and-availability/fda-announces-precheck-implementation-roadmap)
+
+---
+
+### 🇺🇸 Drugs@FDA Data Files
+
+- **来源**: FDA News
+- **时间**: 2026-01-21 14:19
+- **重要性**: ⭐⭐
+
+> Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)
+
+🔗 [阅读原文](http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)
+
+---
+
 ### 🇺🇸 GDUFA IV: Fiscal Years 2028 – 2032
 
 - **来源**: FDA News
@@ -967,18 +1017,6 @@
 
 ---
 
-### 🇺🇸 What's New Related to Drugs
-
-- **来源**: FDA News
-- **时间**: 2026-01-20 13:45
-- **重要性**: ⭐⭐
-
-> Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.
-
-🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs)
-
----
-
 ### 🇺🇸 Newly Added Guidance Documents
 
 - **来源**: FDA News
@@ -991,63 +1029,36 @@
 
 ---
 
-### 🇺🇸 Drugs@FDA Data Files
+### 🇺🇸 Recently Issued Guidance Documents
 
 - **来源**: FDA News
-- **时间**: 2026-01-20 12:29
-- **重要性**: ⭐⭐
+- **时间**: 2026-01-21 14:35
 
-> Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)
+> This page lists Recently Issued CBER and Cross-Center Guidance Documents.
 
-🔗 [阅读原文](http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)
+🔗 [阅读原文](http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents)
 
 ---
 
-### 🇺🇸 Drug Safety Oversight Board
+### 🇺🇸 Information for Health Care Professionals | Drugs
 
 - **来源**: FDA News
-- **时间**: 2026-01-16 21:17
-- **重要性**: ⭐⭐
+- **时间**: 2026-01-21 14:19
 
-> The DSB is composed of representatives from two FDA Centers and eight other federal government agencies, the Agency for Healthcare Research and Quality, Centers for Disease Control and Prevention, Centers for Medicare and Medicaid Services, Department of Defense.
+> Drug Information for Health Care Professionals, including drug labeling and safety information.
 
-🔗 [阅读原文](http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/drug-safety-oversight-board)
+🔗 [阅读原文](http://www.fda.gov/drugs/resources-drugs/information-health-care-professionals-drugs)
 
 ---
 
-### 🇺🇸 Patient Listening Session Summaries
+### 🇺🇸 M4Q(R2) The Common Technical Document for the Registration of Pharmaceuticals for Human Use: Quality
 
 - **来源**: FDA News
-- **时间**: 2026-01-16 21:13
-- **重要性**: ⭐⭐
+- **时间**: 2026-01-21 12:45
 
-> Patient Listening Session summaries are published after each session to share a high-level summary of the discussion. The Public Engagement Staff draft summaries for FDA-requested sessions and the patient community requester drafts summaries for Patient-led sessions.
+> M4Q(R2) The Common Technical Document for the Registration of Pharmaceuticals for Human Use: Quality
 
-🔗 [阅读原文](http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries)
-
----
-
-### 🇺🇸 Resources for Biomarker Requestors
-
-- **来源**: FDA News
-- **时间**: 2026-01-16 21:11
-- **重要性**: ⭐⭐
-
-> Information and resources for requestors about FDA’s Biomarker Qualification Program
-
-🔗 [阅读原文](http://www.fda.gov/drugs/biomarker-qualification-program/resources-biomarker-requestors)
-
----
-
-### 🇺🇸 Reviews of Pediatric Studies Conducted under BPCA and Pediatric assessments conducted under PREA from 2012 – present
-
-- **来源**: FDA News
-- **时间**: 2026-01-16 18:40
-- **重要性**: ⭐
-
-> The following are the medical, statistical, and clinical pharmacology reviews of pediatric studies conducted in response to a Written Request issued under the BPCA and pediatric assessments conducted under PREA.
-
-🔗 [阅读原文](http://www.fda.gov/drugs/development-resources/reviews-pediatric-studies-conducted-under-bpca-and-pediatric-assessments-conducted-under-prea-2012)
+🔗 [阅读原文](http://www.fda.gov/regulatory-information/search-fda-guidance-documents/m4qr2-common-technical-document-registration-pharmaceuticals-human-use-quality)
 
 ---
 
@@ -1125,17 +1136,6 @@
 > CGMP/Finished Pharmaceuticals/Adulterated
 
 🔗 [阅读原文](http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/integrity-partners-group-716953-12152025)
-
----
-
-### 🇺🇸 M4Q(R2) The Common Technical Document for the Registration of Pharmaceuticals for Human Use: Quality
-
-- **来源**: FDA News
-- **时间**: 2026-01-20 13:45
-
-> M4Q(R2) The Common Technical Document for the Registration of Pharmaceuticals for Human Use: Quality
-
-🔗 [阅读原文](http://www.fda.gov/regulatory-information/search-fda-guidance-documents/m4qr2-common-technical-document-registration-pharmaceuticals-human-use-quality)
 
 ---
 
@@ -1248,4 +1248,4 @@
 
 *Generated by Pharma Daily - 制药资讯聚合系统*
 
-*2026-01-21 15:31:28*
+*2026-01-22 00:30:04*
