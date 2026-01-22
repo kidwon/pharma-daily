@@ -1,58 +1,56 @@
 {
   "date": "2026-01-22",
-  "generated_at": "2026-01-22T00:30:04.877473",
+  "generated_at": "2026-01-22T03:46:05.431330",
   "theme": "minimal",
-  "total_items": 103,
+  "total_items": 102,
   "files": {
     "markdown": "docs/20260122/daily.md",
     "html": "docs/20260122/index.html",
     "directory": "docs/20260122"
   },
   "analysis": {
-    "overview": "2026-01-22 共获取 103 条制药行业新闻，涵盖 4 个类别。",
+    "overview": "今日制药行业动态聚焦于大型药企的战略调整与重磅交易。辉瑞以19亿美元出售其在GSK旗下ViiV Healthcare的股份，GSK则以22亿美元收购RAPT Therapeutics以拓展食物过敏药物管线。强生预计2026年营收将突破1000亿美元，主要得益于Darzalex的强劲增长。",
     "top_news": [
       {
         "index": 1,
         "title": "Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company",
-        "importance": 4,
-        "reason": "来自 FiercePharma",
-        "category": "综合"
+        "importance": 5,
+        "reason": "辉瑞出售其持有的ViiV股份，涉及金额巨大，标志着其在HIV领域战略的重大调整。",
+        "category": "商业动态"
       },
       {
-        "index": 2,
-        "title": "Makary talks FDA's plans to combat China's biotech growth",
-        "importance": 4,
-        "reason": "来自 Endpoints News",
-        "category": "新药研发"
+        "index": 13,
+        "title": "GSK to buy Rapt in $2.2B deal for food allergy drug",
+        "importance": 5,
+        "reason": "GSK以22亿美元收购RAPT Therapeutics，是其新任CEO的首笔重大交易，旨在拓展食物过敏药物市场。",
+        "category": "商业动态"
       },
       {
-        "index": 3,
-        "title": "STAT+: Pharmalittle: We’re reading about antitrust claims by a compounder, FDA and EMA AI rules, and more",
-        "importance": 4,
-        "reason": "来自 STAT News - Pharma",
-        "category": "综合"
+        "index": 6,
+        "title": "Led by Darzalex surge, J&J expects revenue to reach $100B in 2026",
+        "importance": 5,
+        "reason": "强生预计2026年营收将突破1000亿美元，反映了其核心产品Darzalex的强劲市场表现和公司整体增长预期。",
+        "category": "市场分析"
       },
       {
         "index": 4,
-        "title": "Complex Innovative Trial Design Meeting Program",
-        "importance": 3,
-        "reason": "来自 FDA News",
-        "category": "监管审批"
+        "title": "IntraBio's Aqneursa, on a roll with EU approval, races toward another rare disease indication with phase 3 win",
+        "importance": 4,
+        "reason": "IntraBio的药物在罕见神经退行性疾病Ataxia-Telangiectasia的III期试验中取得成功，并已获得欧盟批准，是罕见病领域的重要进展。",
+        "category": "临床试验"
       },
       {
-        "index": 5,
-        "title": "Definium defines mental health applications for LSD in new awareness campaign",
-        "importance": 2,
-        "reason": "来自 FiercePharma",
-        "category": "综合"
+        "index": 8,
+        "title": "Roche scales Genentech’s North Carolina site to $2B in major obesity market play",
+        "importance": 4,
+        "reason": "罗氏将对其Genentech在北卡罗来纳州的工厂投资增至约20亿美元，旨在进军巨大的肥胖症市场，是重大产能布局。",
+        "category": "商业动态"
       }
     ],
     "category_summary": {
-      "综合": "共 40 条新闻",
-      "新药研发": "共 34 条新闻",
-      "监管审批": "共 20 条新闻",
-      "商业动态": "共 9 条新闻"
+      "新药研发": "今日新药研发动态包括IntraBio在罕见病药物上的进展、Corvus的湿疹口服药早期积极数据，以及Definium Therapeutics推进迷幻药候选药物的研发。",
+      "临床试验": "临床试验方面，IntraBio宣布其治疗Ataxia-Telangiectasia的药物在关键III期试验中成功改善运动功能，是今日最突出的临床进展。"
     },
-    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+    "tomorrow_watch": "需关注FDA对Valneva基孔肯雅热疫苗Ixchiq安全调查的进展、GSK收购RAPT Therapeutics交易的后续细节，以及强生Darzalex等核心产品的销售数据对市场信心的影响。"
   }
 }
