@@ -1,6 +1,6 @@
 {
   "date": "2026-01-21",
-  "generated_at": "2026-01-21T15:31:28.567787",
+  "generated_at": "2026-01-22T04:41:48.650184",
   "theme": "minimal",
   "total_items": 103,
   "files": {
@@ -9,48 +9,48 @@
     "directory": "docs/20260121"
   },
   "analysis": {
-    "overview": "今日制药行业动态聚焦于大型药企的战略调整与监管环境变化。辉瑞以19亿美元出售其在ViiV Healthcare的股份，GSK则以22亿美元收购RAPT Therapeutics以加强过敏领域布局，显示巨头正积极优化资产组合。同时，FDA监管趋严，对流感疫苗标签提出新警告，并调查基孔肯雅热疫苗安全性问题，凸显监管机构对药物安全性的持续关注。",
+    "overview": "今日制药行业动态聚焦于大型药企的战略调整与重磅交易。辉瑞以19亿美元出售其在GSK旗下ViiV Healthcare的股份，GSK则以22亿美元收购RAPT Therapeutics以加强其过敏药物管线。同时，强生预计2026年营收将突破1000亿美元，主要得益于其明星产品Darzalex的强劲增长。",
     "top_news": [
       {
         "index": 1,
         "title": "Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company",
         "importance": 5,
-        "reason": "辉瑞大规模出售HIV合资公司股份，涉及金额巨大，反映大型药企战略重心调整。",
+        "reason": "辉瑞出售其持有的ViiV股份，涉及金额巨大，标志着其在HIV领域战略的重大调整。",
         "category": "商业动态"
       },
       {
         "index": 13,
         "title": "GSK to buy Rapt in $2.2B deal for food allergy drug",
         "importance": 5,
-        "reason": "GSK以22亿美元收购RAPT Therapeutics，是2026年初重大并购交易，旨在拓展过敏治疗领域。",
+        "reason": "GSK以22亿美元收购RAPT Therapeutics，是其新任CEO的首笔重大交易，旨在加强其过敏药物管线。",
         "category": "商业动态"
       },
       {
         "index": 6,
-        "title": "Valneva withdraws chikungunya vaccine Ixchiq from US amid new FDA investigation",
+        "title": "Led by Darzalex surge, J&J expects revenue to reach $100B in 2026",
+        "importance": 5,
+        "reason": "强生预计2026年营收将突破1000亿美元，其明星产品Darzalex的强劲增长是关键驱动力。",
+        "category": "市场分析"
+      },
+      {
+        "index": 4,
+        "title": "IntraBio's Aqneursa, on a roll with EU approval, races toward another rare disease indication with phase 3 win",
         "importance": 4,
-        "reason": "疫苗因安全性问题被撤回并接受FDA调查，涉及重要公共卫生领域，影响疫苗市场格局。",
-        "category": "监管审批"
+        "reason": "IntraBio的Aqneursa在罕见病领域取得关键III期试验成功，并已获得欧盟批准，显示出其在罕见病治疗领域的潜力。",
+        "category": "临床试验"
       },
       {
         "index": 9,
-        "title": "FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels",
+        "title": "Valneva withdraws chikungunya vaccine Ixchiq from US amid new FDA investigation",
         "importance": 4,
-        "reason": "FDA要求多家巨头更新流感疫苗标签，增加发热性惊厥风险警告，影响广泛使用的疫苗产品。",
-        "category": "政策法规"
-      },
-      {
-        "index": 11,
-        "title": "JPM26: Astellas CEO resists 'rescue BD' as $6B Xtandi patent cliff nears",
-        "importance": 4,
-        "reason": "安斯泰来面临60亿美元专利悬崖，CEO阐述应对策略，反映行业普遍面临的专利到期挑战。",
-        "category": "市场分析"
+        "reason": "Valneva因FDA调查而自愿撤回其基孔肯雅热疫苗，涉及重大产品安全与监管问题。",
+        "category": "监管审批"
       }
     ],
     "category_summary": {
-      "新药研发": "迷幻药公司Definium Therapeutics为LSD药物上市进行公众教育；GSK通过收购获得食物过敏在研药物；诺和诺德GLP-1口服药上市首周处方量超3000份。",
-      "临床试验": "FDA推进复杂创新试验设计（CID）会议计划以促进先进试验方法应用；FDA局长表示将调整I期试验规定以应对中国生物技术竞争。"
+      "新药研发": "今日新药研发动态较少，但IntraBio的Aqneursa在罕见病领域取得进展，以及Corvus的湿疹口服药早期数据积极，显示出新靶点（如ITK抑制剂）的潜力。",
+      "临床试验": "IntraBio宣布其治疗Ataxia-Telangiectasia的药物在关键III期试验中成功改善运动功能，是今日最突出的临床试验进展。"
     },
-    "tomorrow_watch": "关注FDA对Valneva基孔肯雅热疫苗调查的进展、GSK收购RAPT Therapeutics交易的后续整合、以及制药企业对新药快速审评计划（如特朗普政府项目）的参与态度变化。"
+    "tomorrow_watch": "值得关注FDA对Valneva疫苗调查的进一步进展、GSK收购RAPT交易的后续细节，以及强生等公司基于Darzalex等产品对未来市场的具体预测和战略规划。"
   }
 }
