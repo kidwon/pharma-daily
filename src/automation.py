@@ -16,9 +16,13 @@ import json
 import shutil
 import logging
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 from .fetcher import PharmaFetcher, NewsItem
+
+# Use US Eastern timezone for date filtering (most RSS sources are US-based)
+US_EASTERN = ZoneInfo("America/New_York")
 from .analyzer import PharmaAnalyzer
 from .ai_analyzer import AIAnalyzer, analyze_with_ai
 from .generator import PharmaGenerator
@@ -32,19 +36,27 @@ logger = logging.getLogger(__name__)
 
 
 def parse_date(date_str: str) -> tuple[datetime, str]:
-    """Parse date string into datetime and formatted string."""
+    """Parse date string into datetime and formatted string.
+
+    Uses US Eastern timezone for 'today' and 'yesterday' since most
+    RSS sources are US-based.
+    """
     date_str_lower = date_str.lower().strip()
 
+    # Use US Eastern time for relative dates
+    now_eastern = datetime.now(US_EASTERN)
+    logger.info(f"Using US Eastern time: {now_eastern.strftime('%Y-%m-%d %H:%M %Z')}")
+
     if date_str_lower in ["today", "今天"]:
-        dt = datetime.now()
+        dt = now_eastern.replace(tzinfo=None)
     elif date_str_lower in ["yesterday", "昨天"]:
-        dt = datetime.now() - timedelta(days=1)
+        dt = (now_eastern - timedelta(days=1)).replace(tzinfo=None)
     else:
         try:
             dt = datetime.strptime(date_str, "%Y-%m-%d")
         except ValueError:
-            logger.warning(f"Invalid date format: {date_str}, using today")
-            dt = datetime.now()
+            logger.warning(f"Invalid date format: {date_str}, using today (US Eastern)")
+            dt = now_eastern.replace(tzinfo=None)
 
     return dt, dt.strftime("%Y-%m-%d")
 
@@ -83,9 +95,11 @@ def fetch_news(days_back: int = 2) -> list[NewsItem]:
     logger.info(f"Fetch complete: {success_count} sources succeeded, {fail_count} failed")
     logger.info(f"Total items fetched: {len(all_items)}")
 
-    # Filter by date if needed
+    # Filter by date if needed (using US Eastern timezone)
     if days_back > 0:
-        cutoff = datetime.now() - timedelta(days=days_back)
+        now_eastern = datetime.now(US_EASTERN)
+        cutoff = (now_eastern - timedelta(days=days_back)).replace(tzinfo=None)
+        logger.info(f"Date cutoff (US Eastern): {cutoff.strftime('%Y-%m-%d %H:%M')}")
         filtered = [item for item in all_items if item.published >= cutoff]
         logger.info(f"After date filter ({days_back} days): {len(filtered)} items")
         return filtered

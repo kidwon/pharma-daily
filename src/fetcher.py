@@ -6,6 +6,7 @@ Fetches news from pharmaceutical RSS sources with date filtering.
 import feedparser
 import requests
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 from dateutil import parser as date_parser
 from typing import Optional
 from dataclasses import dataclass
@@ -13,6 +14,9 @@ import time
 import logging
 
 from .config import RSSSource, get_enabled_sources, CATEGORIES
+
+# Use US Eastern timezone for date filtering (most RSS sources are US-based)
+US_EASTERN = ZoneInfo("America/New_York")
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -130,7 +134,11 @@ class PharmaFetcher:
             all_items.extend(items)
             time.sleep(0.5)  # Be polite to servers
 
-        # Apply date filter
+        # Apply date filter using US Eastern timezone
+        # (most RSS sources are US-based, so filtering by ET makes more sense)
+        now_eastern = datetime.now(US_EASTERN)
+        logger.info(f"Using US Eastern time for filtering: {now_eastern.strftime('%Y-%m-%d %H:%M %Z')}")
+
         if date_filter:
             cutoff_start = date_filter.replace(hour=0, minute=0, second=0, microsecond=0)
             cutoff_end = cutoff_start + timedelta(days=1)
@@ -139,7 +147,9 @@ class PharmaFetcher:
                 if cutoff_start <= item.published < cutoff_end
             ]
         elif days_back:
-            cutoff = datetime.now() - timedelta(days=days_back)
+            # Calculate cutoff based on US Eastern time
+            cutoff = now_eastern - timedelta(days=days_back)
+            cutoff = cutoff.replace(tzinfo=None)  # Convert to naive datetime for comparison
             all_items = [item for item in all_items if item.published >= cutoff]
 
         # Sort by date, newest first
@@ -200,16 +210,17 @@ def fetch_pharma_news(
     """
     fetcher = PharmaFetcher()
 
-    # Parse date
+    # Parse date using US Eastern timezone
     date_filter = None
     days_back = 1
 
     if date_str:
         date_str_lower = date_str.lower()
+        now_eastern = datetime.now(US_EASTERN).replace(tzinfo=None)
         if date_str_lower in ["today", "今天"]:
-            date_filter = datetime.now()
+            date_filter = now_eastern
         elif date_str_lower in ["yesterday", "昨天"]:
-            date_filter = datetime.now() - timedelta(days=1)
+            date_filter = now_eastern - timedelta(days=1)
         else:
             try:
                 date_filter = date_parser.parse(date_str)

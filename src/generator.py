@@ -5,6 +5,7 @@ Generates HTML pages and Markdown documents from analyzed news.
 
 import os
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from typing import Optional
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -12,6 +13,9 @@ import logging
 
 from .fetcher import NewsItem
 from .config import OUTPUT_DIR, DEFAULT_THEME, THEMES, CATEGORIES
+
+# US Eastern timezone for display
+US_EASTERN = ZoneInfo("America/New_York")
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -233,9 +237,14 @@ class PharmaGenerator:
         grouped = self._group_by_category(items)
         week_days = self._get_week_days(date_str)
 
+        # Get current US Eastern time for timezone display
+        now_eastern = datetime.now(US_EASTERN)
+        timezone_display = now_eastern.strftime("%Z")  # e.g., "EST" or "EDT"
+
         context = {
             "title": f"制药日报 - {date_str}",
             "date": date_str,
+            "timezone": f"US Eastern / {timezone_display}",
             "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M"),
             "total_count": len(items),
             "news_by_category": grouped,
@@ -256,6 +265,8 @@ class PharmaGenerator:
     ) -> str:
         """Generate HTML using inline template (fallback)."""
         grouped = self._group_by_category(items)
+        now_eastern = datetime.now(US_EASTERN)
+        timezone_display = now_eastern.strftime("%Z")
 
         # Theme colors
         themes = {
@@ -395,7 +406,7 @@ class PharmaGenerator:
     <div class="container">
         <header>
             <h1>💊 制药日报</h1>
-            <p class="subtitle">Pharma Daily - {date_str}</p>
+            <p class="subtitle">Pharma Daily - {date_str} <span style="font-size: 14px; opacity: 0.7;">(US Eastern / {timezone_display})</span></p>
             <div class="stats">
                 <div class="stat">
                     <div class="stat-value">{len(items)}</div>
