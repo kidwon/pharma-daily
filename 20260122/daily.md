@@ -1,8 +1,8 @@
 # 制药日报 Pharma Daily
 
 **日期**: 2026-01-22
-**更新时间**: 2026-01-22 00:30
-**新闻数量**: 103
+**更新时间**: 2026-01-23 03:41
+**新闻数量**: 102
 
 ---
 
@@ -12,40 +12,38 @@
 
 ### 今日概览
 
-2026-01-22 共获取 103 条制药行业新闻，涵盖 4 个类别。
+今日制药行业呈现多元化动态，监管政策与重大商业交易成为焦点。FDA发布多发性骨髓瘤药物开发新指南，有望加速相关疗法审批；GSK以22亿美元收购RAPT Therapeutics，强化过敏领域布局；同时，生物类似药市场前景乐观，而Valneva因安全性问题撤回基孔肯雅热疫苗。
 
 ### 🔥 重点新闻
 
-**1. Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company** ⭐⭐⭐⭐
-   - 类别: 综合
-   - 来自 FiercePharma
+**4. J&J praises new FDA guidance to speed development of multiple myeloma drugs** ⭐⭐⭐⭐⭐
+   - 类别: 政策法规
+   - FDA发布新指南，允许使用微小残留病作为主要终点，可能加速多发性骨髓瘤药物审批，对行业研发路径有重大影响。
 
-**2. Makary talks FDA's plans to combat China's biotech growth** ⭐⭐⭐⭐
-   - 类别: 新药研发
-   - 来自 Endpoints News
+**17. GSK to buy Rapt in $2.2B deal for food allergy drug** ⭐⭐⭐⭐⭐
+   - 类别: 商业动态
+   - GSK以22亿美元收购RAPT Therapeutics，获得实验性食物过敏药物，是CEO上任后首笔重大交易，战略意义显著。
 
-**3. STAT+: Pharmalittle: We’re reading about antitrust claims by a compounder, FDA and EMA AI rules, and more** ⭐⭐⭐⭐
-   - 类别: 综合
-   - 来自 STAT News - Pharma
+**8. Biosimilar execs optimistic about future for US biosims as Sandoz locks in on ‘golden decade’ to come** ⭐⭐⭐⭐
+   - 类别: 市场分析
+   - FDA新指南简化生物类似药开发，行业高管对市场前景乐观，预示生物类似药可能进入快速增长期。
 
-**4. Complex Innovative Trial Design Meeting Program** ⭐⭐⭐
+**12. Valneva withdraws chikungunya vaccine Ixchiq from US amid new FDA investigation** ⭐⭐⭐⭐
    - 类别: 监管审批
-   - 来自 FDA News
+   - Valneva因FDA调查新的严重不良反应而自愿撤回基孔肯雅热疫苗，凸显疫苗安全性监管的重要性。
 
-**5. Definium defines mental health applications for LSD in new awareness campaign** ⭐⭐
-   - 类别: 综合
-   - 来自 FiercePharma
+**1. Samsung Bio sticks landing on 2025 as it becomes first Korean biopharma to hit 2T won profit threshold** ⭐⭐⭐⭐
+   - 类别: 市场分析
+   - 三星生物制剂成为首家年利润突破2万亿韩元的韩国生物制药公司，显示CDMO行业强劲增长和龙头地位。
 
 ### 📁 分类摘要
 
-**综合** (): 共 40 条新闻
-**新药研发** (Drug R&D): 共 34 条新闻
-**监管审批** (Regulatory): 共 20 条新闻
-**商业动态** (Business/M&A): 共 9 条新闻
+**新药研发** (Drug R&D): IntraBio的Aqneursa在罕见病领域取得III期成功，并获欧盟批准；Corvus的湿疹口服药早期数据积极；Definium推进LSD药物治疗精神健康适应症；Corxel获得2.87亿美元融资开发口服GLP-1减肥药。
+**临床试验** (Clinical Trials): IntraBio宣布其治疗共济失调-毛细血管扩张症的药物在关键III期试验中改善运动功能，将寻求FDA批准；CEPI资助3000万美元与默克等合作改进埃博拉疫苗。
 
 ### 🔮 明日关注
 
-请关注各类临床试验数据更新和监管审批进展。
+关注FDA对Valneva疫苗安全调查的进展、GSK收购RAPT的后续整合、以及FDA新指南对多发性骨髓瘤药物研发的实际影响。同时，留意国会可能通过的PBM改革法案和政府资助法案中的医药相关政策。
 
 
 ---
@@ -57,11 +55,23 @@
 | 综合 (综合) | 40 |
 | 新药研发 (Drug R&D) | 34 |
 | 监管审批 (Regulatory) | 20 |
-| 商业动态 (Business/M&A) | 9 |
+| 商业动态 (Business/M&A) | 8 |
 
 ---
 
 ## 综合 | 综合
+
+### 🇺🇸 Samsung Bio sticks landing on 2025 as it becomes first Korean biopharma to hit 2T won profit threshold
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-22 07:36
+- **重要性**: ⭐⭐⭐⭐
+
+> CDMO Samsung Biologics grew sales more than 30% last year to around 4.6 trillion Korean won ($3.1 billion) and lifted its 2025 operating profit to roughly 2.07 trillion won ($1.4 billion). Samsung Bio is now the first Korean biotech or pharmaceutical company to surpass the 2 trillion won annual profit threshold, local news outlets reported this week.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/samsung-bio-sticks-landing-2025-it-becomes-first-korean-biopharma-hit-2-trillion-won-profit)
+
+---
 
 ### 🇺🇸 Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company
 
@@ -75,15 +85,51 @@
 
 ---
 
-### 🇺🇸 STAT+: Pharmalittle: We’re reading about antitrust claims by a compounder, FDA and EMA AI rules, and more
+### 🇺🇸 CEPI bankrolls $30M Ebola vaccine collaboration with Merck, SK Bioscience and others
 
-- **来源**: STAT News - Pharma
-- **时间**: 2026-01-15 14:12
-- **重要性**: ⭐⭐⭐⭐
+- **来源**: FiercePharma
+- **时间**: 2026-01-22 10:54
+- **重要性**: ⭐⭐⭐
 
-> The FDA delayed reviews of two drugs chosen for the Trump administration's new fast-track program after agency scientists flagged safety and efficacy concerns
+> The project, which involves Merck, SK Bioscience, Hilleman Laboratories and CDMO IDT Biologika, aims to make Merck's current Ebola vaccine easier to manufacture and store, prompting broader global accessibility.
 
-🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/01/15/fda-antitrust-lilly-novo-compounders-insulin-ai-novartis/?utm_campaign=rss)
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/cepi-bankrolls-30m-ebola-vaccine-collaboration-merck-sk-biosciences-and-others)
+
+---
+
+### 🇺🇸 IntraBio's Aqneursa, on a roll with EU approval, races toward another rare disease indication with phase 3 win
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-21 11:04
+- **重要性**: ⭐⭐⭐
+
+> The company announced a phase 3 win in the rare neurodegenerative disease Ataxia-telangiectasia on the same day it snagged a key European approval in the drug's original indication of Niemann-Pick disease type C.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/intrabios-aqneursa-roll-eu-approval-races-toward-another-rare-disease-indication-phase-3-win)
+
+---
+
+### 🇺🇸 Biosimilar execs optimistic about future for US biosims as Sandoz locks in on ‘golden decade’ to come
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-21 17:07
+- **重要性**: ⭐⭐
+
+> Executives from top U.S. biosimilar makers are optimistic about the future of U.S. biosimilar adoption as recent FDA guidance seeks to streamline biosimilar development and potentially dissipate the upcoming “biosimilar void.”
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/biosimilar-execs-remain-optimistic-state-us-biosimilars-while-sandoz-locks-golden-decade)
+
+---
+
+### 🇺🇸 Led by Darzalex surge, J&amp;J expects revenue to reach $100B in 2026
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-21 11:20
+- **重要性**: ⭐⭐
+
+> Led by cancer standout Darzalex, Johnson &amp; Johnson projects that its 2026 revenue will reach between $100 billion and $101 billion. With J&amp;J also forecasting double-digit revenue increases by the end of the decade, the drugmaker may be on its way to kicking off a $100-billion-plus annual revenue streak.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/led-darzalex-surge-jj-expects-revenue-reach-100b-2026)
 
 ---
 
@@ -99,6 +145,18 @@
 
 ---
 
+### 🇺🇸 Roche scales Genentech's North Carolina site to $2B in major obesity market play
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-20 11:47
+- **重要性**: ⭐⭐
+
+> Roche is more than doubling its total commitment to a future facility for its Genentech unit to approximately $2 billion. The plant, being built in Holly Springs, North Carolina, will be used to crank out next-generation drugs for metabolic conditions like obesity, Roche has said.
+
+🔗 [阅读原文](https://www.fiercepharma.com/manufacturing/roche-beefs-investment-genentechs-future-nc-obesity-drug-factory-2b)
+
+---
+
 ### 🇺🇸 Valneva withdraws chikungunya vaccine Ixchiq from US amid new FDA investigation
 
 - **来源**: FiercePharma
@@ -111,63 +169,15 @@
 
 ---
 
-### 🇺🇸 Roche scales Genentech’s North Carolina site to $2B in major obesity market play
+### 🇺🇸 STAT+: The number of new drug shortages in U.S. hits lowest level in 20 years, but myriad problems remain
 
-- **来源**: FiercePharma
-- **时间**: 2026-01-20 11:47
+- **来源**: STAT News - Pharma
+- **时间**: 2026-01-22 17:40
 - **重要性**: ⭐⭐
 
-> Roche is more than doubling its total commitment to a future facility for its Genentech unit to approximately $2 billion. The plant, being built in Holly Springs, North Carolina, will be used to crank out next-generation drugs for metabolic conditions like obesity, Roche has said.
+> The number of ongoing prescription drug shortages rose slightly in the last quarter of 2025, but remained significantly lower than the all-time high reached in the beginning of 2024.
 
-🔗 [阅读原文](https://www.fiercepharma.com/manufacturing/roche-beefs-investment-genentechs-future-nc-obesity-drug-factory-2b)
-
----
-
-### 🇺🇸 Drug approvals went from crawl to sprint in 2025
-
-- **来源**: FiercePharma
-- **时间**: 2026-01-15 16:37
-- **重要性**: ⭐⭐
-
-> On this episode of "The Top Line," we dig into how turmoil at the FDA impacted drug approvals in 2025.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/drug-approvals-went-crawl-sprint-2025)
-
----
-
-### 🇺🇸 FDA tells Sanofi, GSK, AZ and CSL to include warnings for febrile seizures on flu shot labels
-
-- **来源**: FiercePharma
-- **时间**: 2026-01-15 11:11
-- **重要性**: ⭐⭐
-
-> The FDA has told the makers of six flu vaccines that they need to add a notification to the label of their shots, warning of the risk of febrile seizures which can occur after childhood vaccinations and typically last no more than a few minutes and are generally harmless.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/fda-tells-sanofi-gsk-az-and-csl-include-warning-childhood-seizures-flu-shots)
-
----
-
-### 🇺🇸 FDA chides BeOne, ImmunityBio promo materials in 1st untitled letters of 2026
-
-- **来源**: FiercePharma
-- **时间**: 2026-01-15 11:21
-- **重要性**: ⭐⭐
-
-> The steady stream of FDA untitled letters that began in September is showing no signs of letting up in the new year.
-
-🔗 [阅读原文](https://www.fiercepharma.com/marketing/fda-chides-beone-immunitybio-promo-materials-first-untitled-letters-2026)
-
----
-
-### 🇺🇸 JPM26: Astellas CEO resists 'rescue BD' as $6B Xtandi patent cliff nears
-
-- **来源**: FiercePharma
-- **时间**: 2026-01-15 01:31
-- **重要性**: ⭐⭐
-
-> With Xtandi set to lose U.S. patent protection next year, Astellas’ CEO fielded questions this week about his company’s dealmaking strategy ahead of the loss. Despite continuing to hunt for external innovation, helmsman Naoki Okamura does not want Astellas to make acquisitions for the sole purpose of preventing a revenue decline.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/astellas-ceo-resists-rescue-bd-6b-xtandi-patent-cliff-nears)
+🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/01/22/medicines-pharma-biotech-shortages-hospitals-injectables/?utm_campaign=rss)
 
 ---
 
@@ -219,15 +229,80 @@
 
 ---
 
-### 🇺🇸 Single-drug Exelixis aims to be top 5 solid tumor company in the US: CEO
+### 🇺🇸 Global pharma manufacturing output surged in '25 in 'front-loading' response to US tariff threats: report
 
 - **来源**: FiercePharma
-- **时间**: 2026-01-16 10:16
-- **重要性**: ⭐
+- **时间**: 2026-01-22 15:19
 
-> Exelixis may only have one drug on the market right now, but with phase 3 results for a potential new blockbuster on the horizon and a growing pipeline, the Cabometyx maker is aiming big.
+> While the threat of U.S. import tariffs prompted a surge in drug production last year, that output is slated to slow across multiple geographies in 2026, according to a new report from financial services firm Atradius.
 
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/single-product-exelixis-aims-be-top-5-solid-tumor-drugmaker-us)
+🔗 [阅读原文](https://www.fiercepharma.com/manufacturing/pharma-manufacturing-output-surged-25-countries-braced-us-tariffs-atradius)
+
+---
+
+### 🇺🇸 Invivyd teams up with Olympic skier Lindsey Vonn for antibody education
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-22 10:54
+
+> As Lindsey Vonn’s comeback run heads toward a peak with Team USA at the upcoming 2026 Winter Olympics, Invivyd is adding the professional skier to its team, too.
+
+🔗 [阅读原文](https://www.fiercepharma.com/marketing/invivyd-teams-olympic-skier-lindsey-vonn-antibody-education)
+
+---
+
+### 🇺🇸 Lundbeck ‘not willing to compromise’ on M&amp;A strategy after missed Avadel attempt: exec
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-22 10:23
+
+> Despite falling short in its recent bid to snatch Avadel from Alkermes, Lundbeck is signaling to investors that it’s not desperate for deals and will not lower its standards for future M&amp;A transactions.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/lundbeck-not-willing-compromise-ma-strategy-after-missed-avadel-attempt)
+
+---
+
+### 🇺🇸 Trump's Davos drug pricing claims decried as 'fake news' by French presidency
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-22 09:57
+
+> After U.S. President Donald Trump took the stage at the World Economic Forum this week to tout the supposed success of his tariff-tinged trade negotiations, the French presidency has pushed back against a drug pricing claim that it’s branding “fake news.”
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/trumps-davos-drug-pricing-claims-decried-fake-news-french-presidency)
+
+---
+
+### 🇺🇸 In J&amp;J talc litigation, N.J. court-appointed official recommends allowing expert testimony
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-21 15:13
+
+> In Johnson &amp; Johnson's long-running talc litigation, a court-appointed special master has recommended that plaintiffs should be able to present testimony from expert witnesses who can speak to scientific evidence backing their claims. The decision could negatively impact the company's defense of lawsuits from those who claim Johnson’s Baby Powder caused their cancer.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/jj-talc-litigation-nj-court-recommends-allow-expert-testimony)
+
+---
+
+### 🇺🇸 UPDATE: In quick reversal, Trump calls off tariff threat related to Greenland pursuit
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-20 09:55
+
+> Only a few days after threatening to impose new tariffs on a group of European countries related to his pursuit of Greenland, the president has called off the threat.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/trumps-new-tariff-threats-around-greenland-threaten-upend-eu-trade-deal)
+
+---
+
+### 🇺🇸 Pfizer CEO lays blame for US vaccine woes on RFK Jr.'s 'anti-science' stance: WSJ
+
+- **来源**: FiercePharma
+- **时间**: 2026-01-21 09:46
+
+> While much of the biopharma industry has spent the past 12 months treading lightly around the Trump administration and the tumult it has wrought on U.S. medical research and regulation, Pfizer’s CEO cut to the chase this week in a blatant rebuke of HHS Secretary Robert F. Kennedy Jr., according to The Wall Street Journal.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/pfizer-ceo-lays-blame-us-vaccine-woes-anti-science-rfk-jr-wsj)
 
 ---
 
@@ -258,7 +333,7 @@
 - **来源**: FiercePharma
 - **时间**: 2026-01-20 13:14
 
-> Takeda is executing another round of layoffs, cutting 243 roles in the United States. The company is preparing for an upcoming patent loss on depression drug Trintellix.
+> Takeda is executing another round of layoffs, cutting 243 roles in the U.S. The company is preparing for an upcoming patent loss on depression drug Trintellix.
 
 🔗 [阅读原文](https://www.fiercepharma.com/pharma/takeda-cuts-243-us-workers-generic-competition-looms-trintellix)
 
@@ -269,20 +344,20 @@
 - **来源**: FiercePharma
 - **时间**: 2026-01-20 11:27
 
-> The U.S. Supreme Court will hear a case involving the "skinny label" practice of generic drugmakers, with its review particularly relating to Hikma's marketing of its generic version of Amarin's Vascepa.
+> The U.S. Supreme Court will hear a case involving the "skinny label" practice of generic drug makers, with its review particularly relating to Hikma's marketing of its generic version of Amarin's Vascepa.
 
 🔗 [阅读原文](https://www.fiercepharma.com/pharma/supreme-court-agrees-review-skinny-label-battle-hikma-amarin-over-generic-vascepa)
 
 ---
 
-### 🇺🇸 Trump's new tariff threats around Greenland risk upending EU trade deal
+### 🇺🇸 Curia's Mass. plant closure to eliminate 81 jobs
 
 - **来源**: FiercePharma
-- **时间**: 2026-01-20 09:55
+- **时间**: 2026-01-20 17:08
 
-> As the U.S. government intensifies efforts to acquire Greenland, President Donald Trump has responded to European pushback with a new, targeted tariff threat that risks upending the trade deal reached with the EU last summer.
+> Curia Global is laying off 81 employees as part of its plan to shut down its drug product development and manufacturing facility in Burlington, Massachusetts, according to a Worker Adjustment and Retraining Notification.
 
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/trumps-new-tariff-threats-around-greenland-threaten-upend-eu-trade-deal)
+🔗 [阅读原文](https://www.fiercepharma.com/manufacturing/curia-plant-shutdown-massachusetts-forces-lay-81)
 
 ---
 
@@ -308,91 +383,47 @@
 
 ---
 
-### 🇺🇸 From approval to value: Why evidence storytelling now matters
+### 🇺🇸 STAT+: Health insurance execs shift blame for costly, confusing health care system
 
-- **来源**: FiercePharma
-- **时间**: 2026-01-15 15:46
+- **来源**: STAT News - Pharma
+- **时间**: 2026-01-22 20:11
 
-> RTI Health Solutions experts explain how HEOR and real-world evidence are reshaping access decisions—and why clear communication is essential.
+> Health insurance execs blame the high cost of health care on hospitals, doctors, and prescription drugs.
 
-🔗 [阅读原文](https://www.fiercepharma.com/sponsored/approval-value-why-evidence-storytelling-now-matters)
-
----
-
-### 🇺🇸 After AbbVie and Genmab's ph. 3 survival miss for Epkinly in DLBCL, what's next?
-
-- **来源**: FiercePharma
-- **时间**: 2026-01-16 15:29
-
-> Just days after AbbVie unveiled a major new oncology play in the form of its high-dollar RemeGen collab, the Illinois drugmaker closed out the week with some mixed news for marketed cancer offering Epkinly.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/after-abbvie-and-genmabs-ph-3-survival-miss-epkinly-dlbcl-whats-next)
+🔗 [阅读原文](https://www.statnews.com/2026/01/22/health-insurance-execs-blame-high-costs-hospitals-doctors-pharma/?utm_campaign=rss)
 
 ---
 
-### 🇺🇸 JPM26: Fujifilm CEO touts biologics capacity edge amid expansion tear
+### 🇺🇸 STAT+: France rebuffs Trump over drug-pricing boast
 
-- **来源**: FiercePharma
-- **时间**: 2026-01-16 10:52
+- **来源**: STAT News - Pharma
+- **时间**: 2026-01-22 15:58
 
-> With Fujifilm Biotechnologies now among the top echelon of CDMOs by biologics capacity, Fujifilm’s group CEO reflected on the unit’s unique facility design philosophy and how it’s eschewing big M&amp;A plays to expand in-house.
+> And more biotech news from The Readout newsletter
 
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/jpm26-fujifilm-ceo-touts-biologics-capacity-edge-manufacturing-unit-keeps-expansions-coming)
-
----
-
-### 🇺🇸 AbbVie’s Skyrizi takes full-year TV ad spending crown yet again, with J&amp;J’s Tremfya in hot pursuit
-
-- **来源**: FiercePharma
-- **时间**: 2026-01-16 10:49
-
-> For the fourth year running—and the third in a row for Skyrizi specifically—an AbbVie immunology med has claimed the top spot in the full-year TV drug ad spending rankings.
-
-🔗 [阅读原文](https://www.fiercepharma.com/marketing/abbvies-skyrizi-takes-full-year-tv-ad-spending-crown-yet-again-jjs-tremfya-hot-pursuit)
+🔗 [阅读原文](https://www.statnews.com/2026/01/22/biotech-news-2/?utm_campaign=rss)
 
 ---
 
-### 🇺🇸 Fierce Pharma Asia—AbbVie’s bispecific play, Illumina’s China import efforts and pharma execs’ JPM comments
+### 🇺🇸 STAT+: Pharmalittle: We’re reading about Europe’s pharma supply chain, stopping GLP-1 drugs, and more
 
-- **来源**: FiercePharma
-- **时间**: 2026-01-15 10:47
+- **来源**: STAT News - Pharma
+- **时间**: 2026-01-22 14:26
 
-> In this week's Asia news recap, AbbVie struck a big deal to enter the hot PD-1xVEGF bispecific space, while Illumina's CEO detailed the company's efforts to work with authorities in China. In addition, Astellas CEO Naoki Okamura updated the audience at Fierce JPM Week on the company's approach to dealmaking.
+> Many patients using GLP-1 drugs like Wegovy may not regain lost weight quickly when they stop treatment, an analysis of real-world data shows
 
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/fierce-pharma-asia-abbvies-bispecific-play-illuminas-china-import-efforts-and-pharma-execs)
-
----
-
-### 🇺🇸 Former Emergent CEO Kramer faces insider trading allegations in NY
-
-- **来源**: FiercePharma
-- **时间**: 2026-01-15 16:21
-
-> New York's attorney general has filed an insider trading lawsuit against former Emergent BioSolutions CEO Robert Kramer, accusing him of selling company shares and receiving more than $10 million before the company revealed contamination issues at a plant in Baltimore. As part of the action, New York also announced a $900,000 million settlement with the company.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/former-emergent-ceo-kramer-faces-insider-trading-allegations-ny)
+🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/01/22/europe-insulin-novo-weight-cvs-pharmacies/?utm_campaign=rss)
 
 ---
 
-### 🇺🇸 JPM26: What’s in a biopharma? CEO says Teva has the goods
+### 🇺🇸 STAT+: Anthony Letai says NCI is more stable than perceived and is heading for a big year
 
-- **来源**: FiercePharma
-- **时间**: 2026-01-15 15:17
+- **来源**: STAT News - Pharma
+- **时间**: 2026-01-22 09:30
 
-> Under CEO Richard Francis, Teva has long been looking to reframe itself as an innovative drugmaker on par with industry peers. Now, Francis says the company is on track to complete its transformation into a leading innovative biopharma company.
+> Anthony Letai says the National Cancer Institute is more stable than perceived and is heading for a big year.
 
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/jpm-2026-biosimilars-biopharma-teva-walks-walk-2026)
-
----
-
-### 🇺🇸 Trump takes aim at insurance industry, drug prices in unveiling 'The Great Healthcare Plan'
-
-- **来源**: FiercePharma
-- **时间**: 2026-01-15 12:47
-
-> President Donald Trump has hinted at "concepts of a plan" for healthcare for months as legislators debate the future of key subsidies under the Affordable Care Act, and Thursday the White House unveiled a more concrete version of its vision for health policy.
-
-🔗 [阅读原文](https://www.fiercepharma.com/regulatory/trump-takes-aim-insurance-industry-unveiling-great-healthcare-plan)
+🔗 [阅读原文](https://www.statnews.com/2026/01/22/national-cancer-institute-director-anthony-letai-q-and-a/?utm_campaign=rss)
 
 ---
 
@@ -484,50 +515,77 @@
 
 ---
 
-### 🇺🇸 STAT+: Trump releases health care plan amid pressure over affordability
-
-- **来源**: STAT News - Pharma
-- **时间**: 2026-01-15 18:10
-
-> Trump's most consequential proposals would require action from Congress.
-
-🔗 [阅读原文](https://www.statnews.com/2026/01/15/trump-great-healthcare-plan-potential-stumbling-blocks/?utm_campaign=rss)
-
----
-
-### 🇺🇸 STAT+: Former Emergent BioSolutions CEO sued for insider trading, company reaches $900K settlement in N.Y.
-
-- **来源**: STAT News - Pharma
-- **时间**: 2026-01-15 17:55
-
-> The former CEO of Emergent BioSolutions was accused of insider trading by the New York attorney general in connection with a Covid-era contract.
-
-🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/01/15/covid-insider-trading-stock-emergent-astrazeneca/?utm_campaign=rss)
-
----
-
-### 🇺🇸 STAT+: Pharmacy compounder files antitrust lawsuit against Eli Lilly and Novo Nordisk
-
-- **来源**: STAT News - Pharma
-- **时间**: 2026-01-15 01:29
-
-> A compounding pharmacy has filed a lawsuit accusing Eli Lilly and Novo Nordisk of using anticompetitive tactics to prevent it from serving patients.
-
-🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/01/14/pharmacy-compounder-antitrust-lilly-novo-weight-obesity/?utm_campaign=rss)
-
----
-
 ## 新药研发 | Drug R&D
 
-### 🇺🇸 Makary talks FDA's plans to combat China's biotech growth
+### 🇺🇸 Another biopharma tried buying Amicus before BioMarin's $4.8B deal
 
 - **来源**: Endpoints News
-- **时间**: 2026-01-16 19:51
+- **时间**: 2026-01-22 15:16
 - **重要性**: ⭐⭐⭐⭐
 
-> As China sees increased biotech investments, licensing deals and faster early-phase clinical trial starts, FDA Commissioner Marty Makary said his agency is reworking Phase 1 trial regulations to speed that entry process and tweaking user ...
+> The road to Amicus Therapeutics’ $4.8 billion exit to BioMarin last month included a previously undisclosed acquisition offer from another biopharma, quiet dinners between CEOs and a months-long push to settle a ...
 
-🔗 [阅读原文](https://endpoints.news/makary-talks-fdas-plans-to-combat-chinas-biotech-growth/)
+🔗 [阅读原文](https://endpoints.news/another-biopharma-tried-buying-amicus-before-biomarins-4-8b-deal/)
+
+---
+
+### 🇺🇸 J&J praises new FDA guidance to speed development of multiple myeloma drugs
+
+- **来源**: Endpoints News
+- **时间**: 2026-01-21 18:35
+- **重要性**: ⭐⭐⭐⭐
+
+> Johnson &amp; Johnson, which has several drugs approved for multiple myeloma, praised the FDA's just-released draft guidance on how the agency will allow the use of minimal residual disease as a primary endpoint for accelerated ...
+
+🔗 [阅读原文](https://endpoints.news/jj-praises-new-fda-guidance-to-speed-development-of-multiple-myeloma-drugs/)
+
+---
+
+### 🇺🇸 IntraBio says rare disease drug passes Phase 3, will seek FDA approval
+
+- **来源**: Endpoints News
+- **时间**: 2026-01-21 16:05
+- **重要性**: ⭐⭐⭐
+
+> IntraBio said Wednesday that its treatment improved motor function for a rare genetic disorder called ataxia-telangiectasia as part of a pivotal study. The Austin, TX-based biotech told Endpoints News it plans to submit an application ...
+
+🔗 [阅读原文](https://endpoints.news/intrabio-says-rare-disease-drug-passes-phase-3-will-seek-fda-approval/)
+
+---
+
+### 🇺🇸 Investors load Corxel with $287M for a ‘differentiated’ obesity pill
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-01-22 19:00
+- **重要性**: ⭐⭐
+
+> The funding will support a GLP-1 pill Corxel licensed from China-based Vincentage in 2024 and that the company believes to be as effective in spurring weight loss as injectable therapies.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/corxel-oral-glp1-vincentage-series-d-china-deal/810242/)
+
+---
+
+### 🇺🇸 FDA lays out new path to speed development of multiple myeloma drugs
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-01-22 16:36
+- **重要性**: ⭐⭐
+
+> In certain cases, regulators will now be open to clearing therapies based on their ability to eliminate tumor cells, a change that could accelerate cell therapies and other new medicines.&nbsp;
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/fda-multiple-myeloma-accelerated-approval-pathway/810219/)
+
+---
+
+### 🇺🇸 Corvus shares nearly triple on positive data for eczema pill
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-01-21 16:39
+- **重要性**: ⭐⭐
+
+> While early, the results indicate drugs known as ITK inhibitors have the potential to match or surpass the efficacy observed with the injectable biologic Dupixent.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/corvus-soquelitinib-phase-1-data-eczema-pill/810080/)
 
 ---
 
@@ -567,27 +625,15 @@
 
 ---
 
-### 🇺🇸 When every day counts: Building CRO partnerships on a foundation of trust, care and precision
+### 🇺🇸 Roche boosts NC factory investment to $2B; Rentschler CEO steps down
 
-- **来源**: BioPharma Dive
-- **时间**: 2026-01-20 10:00
+- **来源**: Endpoints News
+- **时间**: 2026-01-22 15:39
 - **重要性**: ⭐⭐
 
-> Clinical trial delays impact outcomes. Learn why CROs need a supply chain partner they can trust to reduce delays and help patients.&nbsp;
+> Roche’s Genentech is topping up its investment into its Holly Springs, NC, factory to reach nearly $2 billion. The extra investment will also add an additional 100 jobs at the site ...
 
-🔗 [阅读原文](https://www.biopharmadive.com/spons/when-every-day-counts-building-cro-partnerships-on-a-foundation-of-trust/809569/)
-
----
-
-### 🇺🇸 Wegovy pill off to a fast start; Ex-Emergent CEO sued for insider trading
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-01-16 16:24
-- **重要性**: ⭐⭐
-
-> More than 3,000 prescriptions were written for Novo&rsquo;s GLP-1 pill in its first week on the market. Elsewhere, Emergent reached a settlement over a trading scandal and Sanofi is reportedly circling an eye drug biotech.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/wegovy-pill-sales-emergent-sanofi-ocular-jazz-novo/809709/)
+🔗 [阅读原文](https://endpoints.news/roche-boosts-nc-factory-investment-to-2b-rentschler-ceo-steps-down/)
 
 ---
 
@@ -603,51 +649,15 @@
 
 ---
 
-### 🇺🇸 Pfizer to depart GSK's ViiV as Shionogi doubles its stake
+### 🇺🇸 Bristol Myers buys into Janux’s ‘masked’ T cell engagers
 
-- **来源**: Endpoints News
-- **时间**: 2026-01-20 12:02
-- **重要性**: ⭐⭐
+- **来源**: BioPharma Dive
+- **时间**: 2026-01-22 17:00
+- **重要性**: ⭐
 
-> Pfizer is walking away from a specialist HIV company it created together with GSK more than a decade ago, with Shionogi taking its place. The Japanese drugmaker will buy about $2.13 billion worth of new ...
+> Worth up to $850 million, the partnership provides &ldquo;further validation&rdquo; for Janux at a time of heightened investor scrutiny regarding the potential of its top drug, one analyst wrote.&nbsp;
 
-🔗 [阅读原文](https://endpoints.news/pfizer-to-depart-gsks-viiv-as-shionogi-doubles-its-stake/)
-
----
-
-### 🇺🇸 GSK makes $2.2B deal for RAPT and its food allergy candidate
-
-- **来源**: Endpoints News
-- **时间**: 2026-01-20 10:34
-- **重要性**: ⭐⭐
-
-> The biopharma industry was hungry for an M&amp;A deal during last week’s JP Morgan Healthcare Conference. It's finally getting one. GSK is scooping up RAPT Therapeutics for $2.2 billion, with a $1.9 billion upfront investment ...
-
-🔗 [阅读原文](https://endpoints.news/gsk-makes-2-2b-deal-for-rapt-and-its-food-allergy-candidate/)
-
----
-
-### 🇺🇸 Agomab and SpyGlass file for IPOs as investor enthusiasm builds after JPM
-
-- **来源**: Endpoints News
-- **时间**: 2026-01-16 22:05
-- **重要性**: ⭐⭐
-
-> SpyGlass Pharma and Agomab Therapeutics filed for initial public offerings on Friday evening. The drug developers hope to build on the strong start set by Aktis Oncology’s $318 million Nasdaq listing last ...
-
-🔗 [阅读原文](https://endpoints.news/agomab-and-spyglass-file-for-ipos-as-investor-enthusiasm-builds-after-jpm/)
-
----
-
-### 🇺🇸 Drugmakers without MFN pacts are bracing to make one
-
-- **来源**: Endpoints News
-- **时间**: 2026-01-16 20:48
-- **重要性**: ⭐⭐
-
-> All but 17 drugmakers avoided a direct demand from President Donald Trump last year to lower their prices significantly. But that likely won’t last. There was a subtle unease among executives of some of the ...
-
-🔗 [阅读原文](https://endpoints.news/drugmakers-without-mfn-pacts-are-bracing-to-make-one/)
+🔗 [阅读原文](https://www.biopharmadive.com/news/janux-bristol-myers-partnership-t-cell-engagers-cancer/810227/)
 
 ---
 
@@ -663,106 +673,168 @@
 
 ---
 
-### 🇺🇸 Corvus' new Phase 1 atopic dermatitis data meet high expectations
+### 🇺🇸 BioMarin vets form Mendra to ‘modernize’ rare disease drug development
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-01-22 16:02
+
+> Backed with $82 million and led by two of BioMarin&rsquo;s former executives, Mendra&nbsp;plans to acquire rare disease assets and use AI to help accelerate their development.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/mendra-rare-disease-biotech-startup-ai-biomarin-financing/810204/)
+
+---
+
+### 🇺🇸 J&J eyes $100B in sales amid gains for cancer, immune drugs
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-01-21 16:04
+
+> Amid patent expirations, litigation and tariff costs, J&amp;J says it expects more growth ahead, fueled in part by its blood cancer medicines and a closely watched psoriasis pill.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/johnson-johnson-2025-earnings-sales-cancer-immune-drugs/810097/)
+
+---
+
+### 🇺🇸 Moderna cancer vaccine holds up; IO Biotech considers a sale
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-01-21 15:38
+
+> Long-term data suggest Moderna&rsquo;s personalized melanoma shot provides &ldquo;durable tumor control,&rdquo; one analyst said. Elsewhere, Insilico Medicine partnered with a startup on a popular drug target.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/moderna-melanoma-io-biotech-nlrp3-think-pfizer-novavax/809958/)
+
+---
+
+### 🇺🇸 High court picked Hikma’s ‘skinny label’ fight after letting the issue ‘percolate’
 
 - **来源**: Endpoints News
-- **时间**: 2026-01-20 12:00
-- **重要性**: ⭐
+- **时间**: 2026-01-22 19:53
 
-> Corvus Pharmaceuticals’ therapy for severe atopic dermatitis is heading to mid-stage trials this quarter following an update from an ongoing Phase 1 study that met analysts' best-case scenario. The company's share price {$CRVS} soared more ...
+> Generic and brand-name drugmakers have been divided for decades over the use of “skinny labels” to bring lower-cost drugs to market. Now, the Supreme Court is taking up the issue. It’s wading into a case ...
 
-🔗 [阅读原文](https://endpoints.news/corvus-new-phase-1-atopic-dermatitis-data-meet-high-expectations/)
+🔗 [阅读原文](https://endpoints.news/high-court-picked-hikmas-skinny-label-fight-after-letting-the-issue-percolate/)
 
 ---
 
-### 🇺🇸 Exciva raises $59M Series B to fund Phase 2 test of Alzheimer’s agitation drug
+### 🇺🇸 Drugmakers spent less on Washington lobbying in 2025's final quarter
 
 - **来源**: Endpoints News
-- **时间**: 2026-01-20 06:30
-- **重要性**: ⭐
+- **时间**: 2026-01-22 18:35
 
-> Exciva has secured €51 million ($59 million) in a Series B raise to advance its candidate for a common behavioral symptom of Alzheimer’s disease into mid-stage development. The German biotech will use the proceeds to ...
+> The top five biopharma company spenders on congressional lobbying spent slightly less in Washington in the final quarter of 2025 than they did in the previous quarter, the latest Senate disclosures show. Pfizer and Johnson ...
 
-🔗 [阅读原文](https://endpoints.news/exciva-raises-59m-series-b-to-fund-phase-2-test-of-alzheimers-agitation-drug/)
+🔗 [阅读原文](https://endpoints.news/drugmakers-spent-less-on-washington-lobbying-in-2025s-final-quarter/)
 
 ---
 
-### 🇺🇸 AbbVie, Genmab say Epkinly didn't prolong overall survival in lymphoma study
+### 🇺🇸 Corcept's drug extends patients' lives in key ovarian cancer study
 
 - **来源**: Endpoints News
-- **时间**: 2026-01-16 21:01
-- **重要性**: ⭐
+- **时间**: 2026-01-22 16:08
 
-> AbbVie and Genmab’s cancer drug Epkinly failed to improve overall survival in a late-stage study for diffuse large B cell lymphoma. The Phase 3 trial enrolled patients who had received at least one prior therapy ...
+> Corcept Therapeutics said its experimental drug cut the risk of death by 35% for patients with a challenging form of ovarian cancer when added on top of chemotherapy, notching an important win after the California ...
 
-🔗 [阅读原文](https://endpoints.news/abbvie-genmab-say-epkinly-didnt-prolong-overall-survival-in-lymphoma-study/)
+🔗 [阅读原文](https://endpoints.news/corcepts-drug-extends-patients-lives-in-key-ovarian-cancer-study/)
 
 ---
 
-### 🇺🇸 ImmunityBio's cell therapy posts encouraging early data in rare blood cancer
+### 🇺🇸 China-founded pharma Corxel raises up to $287M for oral GLP-1
 
 - **来源**: Endpoints News
-- **时间**: 2026-01-16 16:05
-- **重要性**: ⭐
+- **时间**: 2026-01-22 16:00
 
-> ImmunityBio’s off-the-shelf cell therapy has shown early promise in a small trial in a rare form of lymphoma. The ongoing Phase 1 study, named QUILT-106, has so far signed up four patients with Waldenström non ...
+> Since its 2019 founding, Corxel Pharmaceuticals has evolved from focusing on the China market to eyeing the world. The biopharma, founded in Shanghai but now headquartered in New Jersey, has raised as much as ...
 
-🔗 [阅读原文](https://endpoints.news/immunitybio-cell-therapy-posts-encouraging-early-data-in-rare-blood-cancer/)
-
----
-
-### 🇺🇸 The patient retention crisis is happening before enrollment even begins
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-01-20 10:00
-
-> The biggest patient drop-off happens before patients ever enroll.
-
-🔗 [阅读原文](https://www.biopharmadive.com/spons/the-patient-retention-crisis-is-happening-before-enrollment-even-begins/809568/)
+🔗 [阅读原文](https://endpoints.news/china-founded-pharma-corxel-raises-up-to-287m-for-oral-glp-1/)
 
 ---
 
-### 🇺🇸 On biotech’s biggest stage, renewed excitement gets a stress test
+### 🇺🇸 Health insurance CEOs head to DC
 
-- **来源**: BioPharma Dive
-- **时间**: 2026-01-16 11:43
+- **来源**: Endpoints News
+- **时间**: 2026-01-22 15:39
 
-> A surge in deals and financings had the industry abuzz heading into this year&rsquo;s J.P. Morgan Healthcare Conference. But some aren&rsquo;t sure if the rebound is here to stay.
+> We don’t know if President Donald Trump made good on plans to meet with major health insurers yet, but their CEOs are slated to testify today before two congressional committees ...
 
-🔗 [阅读原文](https://www.biopharmadive.com/news/jpm26-biotech-startups-deals-venture-ipo-fda-china/809809/)
-
----
-
-### 🇺🇸 Trump unveils healthcare affordability plan
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-01-15 20:30
-
-> The &ldquo;Great Healthcare Plan&rdquo; is vague, but would send money directly to ACA enrollees and entrench the pricing deals the administration has cut with more than a dozen drugmakers.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/trump-great-healthcare-plan-affordability-aca/809779/)
+🔗 [阅读原文](https://endpoints.news/health-insurance-ceos-head-to-dc/)
 
 ---
 
-### 🇺🇸 Tecvayli tops standard drugs in early multiple myeloma, J&J says
+### 🇺🇸 Bristol Myers signs deal with Janux on T cell engager for $50M upfront
 
-- **来源**: BioPharma Dive
-- **时间**: 2026-01-15 16:32
+- **来源**: Endpoints News
+- **时间**: 2026-01-22 15:15
 
-> The results build on evidence U.S. regulators found so compelling last year they proactively awarded J&amp;J a new kind of drug review voucher.&nbsp;
+> Janux Therapeutics has found a new partner. The San Diego-based biotech is teaming up with Bristol Myers Squibb on a solid tumor program, but the target is not yet disclosed. Bristol ...
 
-🔗 [阅读原文](https://www.biopharmadive.com/news/johnson-johnson-tecvayli-early-multiple-myeloma-majestec-results/809721/)
+🔗 [阅读原文](https://endpoints.news/bristol-myers-signs-deal-with-janux-on-t-cell-engager-for-50m-upfront/)
 
 ---
 
-### 🇺🇸 Oxford Biomedica confirms takeover talks with biotech investor EQT
+### 🇺🇸 Erasca, Corvus, BioAge target $500M+ offerings
 
-- **来源**: BioPharma Dive
-- **时间**: 2026-01-15 16:06
+- **来源**: Endpoints News
+- **时间**: 2026-01-22 14:43
 
-> Oxford, major contract manufacturer to cell and gene therapy companies, has already rejected multiple, unsolicited take-private bids from EQT that it felt &ldquo;undervalued&rdquo; the company and its prospects.
+> Plus, news about Ipsen, Galderma, PAQ Therapeutics and Resolve M Therapeutics: 💰 Public offering roundup: Erasca is selling more than 22 million shares at $10 apiece, targeting $225 million in ...
 
-🔗 [阅读原文](https://www.biopharmadive.com/news/oxford-biomedica-eqt-offer-acquire-cell-gene-therapy/809705/)
+🔗 [阅读原文](https://endpoints.news/erasca-corvus-bioage-target-500m-offerings/)
+
+---
+
+### 🇺🇸 #JPM26: Hua Medicine plots diabetes drug expansion in China and beyond
+
+- **来源**: Endpoints News
+- **时间**: 2026-01-22 12:00
+
+> Shanghai-based Hua Medicine wants to capture a greater share of the global diabetes market with a different approach from popular GLP-1 medicines. Many newer diabetes drugs mimic gut hormones to regulate glucose. Hua's drug for ...
+
+🔗 [阅读原文](https://endpoints.news/hua-medicine-plots-diabetes-drug-expansion-in-china-and-beyond/)
+
+---
+
+### 🇺🇸 BioMarin vets spearhead new biotech with $82M for rare disease drugs
+
+- **来源**: Endpoints News
+- **时间**: 2026-01-22 12:00
+
+> A fresh biotech has raised $82 million to scour the landscape of rare disease medicines that need a new home for further development and apply lessons from executives' experiences at BioMarin. The Bay Area startup ...
+
+🔗 [阅读原文](https://endpoints.news/biomarin-vets-spearhead-new-biotech-with-82m-for-rare-disease-drugs/)
+
+---
+
+### 🇺🇸 The status of EU drug price talks depends on who you ask
+
+- **来源**: Endpoints News
+- **时间**: 2026-01-21 20:33
+
+> One of the main questions for drugmakers entering 2026, and one they hope tilts in their favor, is whether the US will successfully pressure Europe to raise the price it pays for drugs. Three weeks ...
+
+🔗 [阅读原文](https://endpoints.news/the-status-of-eu-drug-price-talks-depends-on-who-you-ask/)
+
+---
+
+### 🇺🇸 Johnson & Johnson brushes off MFN impact, sees strong growth for 2026
+
+- **来源**: Endpoints News
+- **时间**: 2026-01-21 16:43
+
+> As the calendar turns from JPM to quarterly reports, earnings bellwether Johnson &amp; Johnson makes its return for 2026. The focus this time? How biopharma will react to a slate of most favored nation deals ...
+
+🔗 [阅读原文](https://endpoints.news/johnson-johnson-brushes-off-mfn-impact-sees-strong-growth-for-2026/)
+
+---
+
+### 🇺🇸 Tanabe pill delays blood disorder; enGene adds up to $100M from loans
+
+- **来源**: Endpoints News
+- **时间**: 2026-01-21 16:25
+
+> Plus, news about IO, ErVimmune, Affibody, Clasp Therapeutics and Infinitopes: 💊 Tanabe Pharma’s pill succeeds in rare blood conditions: The biotech’s oral melanocortin-1 receptor delayed the onset of symptoms in a ...
+
+🔗 [阅读原文](https://endpoints.news/tanabe-pill-delays-blood-disorder-engene-adds-up-to-100m-from-loans/)
 
 ---
 
@@ -832,104 +904,77 @@
 
 ---
 
-### 🇺🇸 Aspect Bio takes Novo castoff therapies; Takeda trims US jobs
-
-- **来源**: Endpoints News
-- **时间**: 2026-01-20 14:58
-
-> Plus, news about AstraZeneca, AbelZeta, Novavax, Pfizer, Alteogen, Tesaro, Epidarex Capital and Boundless Bio: 🤝 Aspect Biosystems picks up Novo Nordisk’s castoff cell therapies: The Vancouver biotech has taken over stem cell-derived islet cell and ...
-
-🔗 [阅读原文](https://endpoints.news/aspect-bio-takes-novo-castoff-therapies-takeda-trims-us-jobs/)
-
----
-
-### 🇺🇸 Teladoc’s mental health arm BetterHelp has quietly expanded the use of AI
-
-- **来源**: Endpoints News
-- **时间**: 2026-01-20 13:00
-
-> One of the largest virtual mental health companies has been warming up to using AI. Teladoc’s BetterHelp, which calls itself the world’s largest therapy service with over 32,000 therapists, now uses AI to recommend goals ...
-
-🔗 [阅读原文](https://endpoints.news/teladocs-mental-health-arm-betterhelp-has-quietly-expanded-the-use-of-ai/)
-
----
-
-### 🇺🇸 2025 ended on high note with a buoyant Q4 for M&A, PIPEs and follow-ons
-
-- **来源**: Endpoints News
-- **时间**: 2026-01-20 13:00
-
-> After a downbeat start to 2025, biopharma struck some high notes in the second half and ended the year with strong Q4 momentum in dealmaking, fundraising and M&amp;A. The numbers, once again tracked for us ...
-
-🔗 [阅读原文](https://endpoints.news/2025-ended-on-high-note-with-a-buoyant-q4-for-ma-pipes-and-follow-ons/)
-
----
-
-### 🇺🇸 J&J, Isomorphic sign research deal for AI-made molecules
-
-- **来源**: Endpoints News
-- **时间**: 2026-01-20 12:00
-
-> The Google DeepMind spinout Isomorphic Labs has landed its third pharma deal. The AI-focused biotech has signed a multi-target research deal with Johnson &amp; Johnson, the two companies announced Tuesday. Isomorphic, founded in 2021 and ...
-
-🔗 [阅读原文](https://endpoints.news/jj-isomorphic-sign-research-deal-for-ai-made-molecules/)
-
----
-
-### 🇺🇸 JPM recap; Mirador raises $250M; Genentech’s PBM shift; and more
-
-- **来源**: Endpoints News
-- **时间**: 2026-01-17 11:00
-
-> Welcome back to Endpoints Weekly! One programming note before we dive into news from #JPM26: We won’t be sending newsletters on Monday, but we’ll be back in your inbox on Tuesday. The Endpoints News ...
-
-🔗 [阅读原文](https://endpoints.news/jpm-recap-mirador-raises-250m-genentechs-pbm-shift-and-more/)
-
----
-
-### 🇺🇸 Supreme Court will hear Hikma’s ‘skinny label’ fight against Amarin
-
-- **来源**: Endpoints News
-- **时间**: 2026-01-16 20:06
-
-🔗 [阅读原文](https://endpoints.news/supreme-court-will-hear-hikmas-skinny-label-fight-against-amarin/)
-
----
-
-### 🇺🇸 #JPM26: Sandoz CEO on Ozempic generic launch plans for 2026
-
-- **来源**: Endpoints News
-- **时间**: 2026-01-16 14:42
-
-> SAN FRANCISCO — Throughout his 53 meetings at this year's JPMorgan Healthcare Conference, Richard Saynor mulled a charitable idea about the topic on everyone's minds. "We're going to put a cup in the middle of ...
-
-🔗 [阅读原文](https://endpoints.news/jpm26-sandoz-ceo-on-ozempic-generic-launch-plans-for-2026/)
-
----
-
 ## 监管审批 | Regulatory
 
-### 🇺🇸 Complex Innovative Trial Design Meeting Program
+### 🇺🇸 Questions and Answers: Integration of FDA Facility Evaluation and Inspection Program for Human Drugs: A Concept of Operations
 
 - **来源**: FDA News
-- **时间**: 2026-01-20 15:36
-- **重要性**: ⭐⭐⭐
+- **时间**: 2026-01-22 17:27
+- **重要性**: ⭐⭐
 
-> As displayed in the Federal Register notice on August 1, 2018, FDA is conducting a Complex Innovative Designs (CID) Meeting Program to support the goal of facilitating and advancing the use of complex adaptive, Bayesian, and other novel clinical trial designs, as highlighted in the sixth iteration o
+> Questions and Answers: Integration of FDA Facility Evaluation and Inspection Program for Human Drugs: A Concept of Operations
 
-🔗 [阅读原文](http://www.fda.gov/drugs/development-resources/complex-innovative-trial-design-meeting-program)
+🔗 [阅读原文](http://www.fda.gov/drugs/pharmaceutical-quality-resources/questions-and-answers-integration-fda-facility-evaluation-and-inspection-program-human-drugs-concept)
+
+---
+
+### 🇺🇸 Registered Outsourcing Facilities
+
+- **来源**: FDA News
+- **时间**: 2026-01-22 14:32
+- **重要性**: ⭐⭐
+
+> Discover FDA's comprehensive list of registered outsourcing facilities engaged in human drug compounding. Get the latest updates, compliance guidelines, and resources to ensure safe, high-quality compounded medications. Explore regulations and stay informed with verified facility details.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities)
+
+---
+
+### 🇺🇸 Bodynplant - Online Advisory Letter
+
+- **来源**: FDA News
+- **时间**: 2026-01-22 14:21
+- **重要性**: ⭐⭐
+
+> FDA Online advisory letter issued to Bodynplant/bodynplant.com for serious disease claims, including: cancer, diabetes, and HIV-AIDS
+
+🔗 [阅读原文](http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/bodynplant-online-advisory-letter)
 
 ---
 
 ### 🇺🇸 What's New Related to Drugs
 
 - **来源**: FDA News
-- **时间**: 2026-01-21 15:06
+- **时间**: 2026-01-21 22:55
 - **重要性**: ⭐⭐
 
 > Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.
 
 🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs)
+
+---
+
+### 🇺🇸 Drug Trials Snapshots
+
+- **来源**: FDA News
+- **时间**: 2026-01-21 22:45
+- **重要性**: ⭐⭐
+
+> Drug Trials Snapshots: breaking down the what, how and why. Drug Trials Snapshots is part of an overall FDA effort to make demographic data more available and transparent.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots)
+
+---
+
+### 🇺🇸 Importing Liquid Cough and Cold Medicine from India
+
+- **来源**: FDA News
+- **时间**: 2026-01-21 17:56
+- **重要性**: ⭐⭐
+
+> FDA is aware of news reports of devastating, ongoing diethylene glycol (DEG) and ethylene glycol (EG) contamination in children’s cough and cold medicine in India.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/human-drug-imports/importing-liquid-cough-and-cold-medicine-india)
 
 ---
 
@@ -957,159 +1002,57 @@
 
 ---
 
-### 🇺🇸 Drugs@FDA Data Files
+### 🇺🇸 C3TI Compass (Knowledge Repository)
 
 - **来源**: FDA News
-- **时间**: 2026-01-21 14:19
-- **重要性**: ⭐⭐
+- **时间**: 2026-01-22 14:46
+- **重要性**: ⭐
 
-> Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)
+> Centralized knowledge repository for clinical trial innovation
 
-🔗 [阅读原文](http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)
+🔗 [阅读原文](http://www.fda.gov/about-fda/cder-center-clinical-trial-innovation-c3ti/c3ti-compass-knowledge-repository)
 
 ---
 
-### 🇺🇸 GDUFA IV: Fiscal Years 2028 – 2032
+### 🇺🇸 Bayesian Statistical Analysis (BSA) Demonstration Project
 
 - **来源**: FDA News
-- **时间**: 2026-01-20 21:42
-- **重要性**: ⭐⭐
+- **时间**: 2026-01-22 14:45
+- **重要性**: ⭐
 
-> Information related to FDA’s preparation for the fourth reauthorization of GDUFA will be hosted on this page as it becomes available.
+> C3TI aims to increase experience in Bayesian statistical methods in simple trial settings across sponsors, CDER clinical reviewers, and CDER statisticians, including deepening an understanding of their applicability, opportunities, and challenges.
 
-🔗 [阅读原文](http://www.fda.gov/industry/generic-drug-user-fee-amendments/gdufa-iv-fiscal-years-2028-2032)
+🔗 [阅读原文](http://www.fda.gov/about-fda/cder-center-clinical-trial-innovation-c3ti/bayesian-statistical-analysis-bsa-demonstration-project)
 
 ---
 
-### 🇺🇸 For Healthcare Professionals | FDA’s Examples of Drugs that Interact with CYP Enzymes and Transporter Systems
+### 🇺🇸 Clinical Outcome Assessment (COA): Frequently Asked Questions
 
 - **来源**: FDA News
-- **时间**: 2026-01-20 19:55
-- **重要性**: ⭐⭐
+- **时间**: 2026-01-22 13:16
+- **重要性**: ⭐
 
-> FDA’s Examples of Interacting Drugs and Other Substances Involving CYP Metabolic- and Transporter System-Based Pathways for Healthcare Professionals
+> Clinical Outcome Assessments (COA) Frequently Asked Questions
 
-🔗 [阅读原文](http://www.fda.gov/drugs/drug-interactions-labeling/healthcare-professionals-fdas-examples-drugs-interact-cyp-enzymes-and-transporter-systems)
+🔗 [阅读原文](http://www.fda.gov/about-fda/clinical-outcome-assessment-coa-frequently-asked-questions)
 
 ---
 
-### 🇺🇸 Antimicrobial Resistance
+### 🇺🇸 List of Drug Master Files (DMFs)
 
 - **来源**: FDA News
-- **时间**: 2026-01-20 17:18
-- **重要性**: ⭐⭐
+- **时间**: 2026-01-22 20:02
 
-> Antimicrobial resistance (AMR)—the ability of a microorganism (bacteria, virus, fungi, parasite) to resist the effects of a drug—is a serious, complex and costly public health problem. Learn what FDA is doing to address AMR.
+> The list is updated quarterly.&nbsp;Changes are made to the DMF activity status, DMF type, holder name, and subject.
 
-🔗 [阅读原文](http://www.fda.gov/emergency-preparedness-and-response/mcm-issues/antimicrobial-resistance)
-
----
-
-### 🇺🇸 Prodrome Sciences USA, LLC - 717959 - 01/08/2026
-
-- **来源**: FDA News
-- **时间**: 2026-01-20 14:20
-- **重要性**: ⭐⭐
-
-> Sponsor/Unapproved Misbranded
-
-🔗 [阅读原文](http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/prodrome-sciences-usa-llc-717959-01082026)
-
----
-
-### 🇺🇸 Newly Added Guidance Documents
-
-- **来源**: FDA News
-- **时间**: 2026-01-20 13:45
-- **重要性**: ⭐⭐
-
-> Guidance documents represent the FDA's current thinking on a particular subject. New guidance documents are listed here for three months.
-
-🔗 [阅读原文](http://www.fda.gov/drugs/guidances-drugs/newly-added-guidance-documents)
-
----
-
-### 🇺🇸 Recently Issued Guidance Documents
-
-- **来源**: FDA News
-- **时间**: 2026-01-21 14:35
-
-> This page lists Recently Issued CBER and Cross-Center Guidance Documents.
-
-🔗 [阅读原文](http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents)
-
----
-
-### 🇺🇸 Information for Health Care Professionals | Drugs
-
-- **来源**: FDA News
-- **时间**: 2026-01-21 14:19
-
-> Drug Information for Health Care Professionals, including drug labeling and safety information.
-
-🔗 [阅读原文](http://www.fda.gov/drugs/resources-drugs/information-health-care-professionals-drugs)
-
----
-
-### 🇺🇸 M4Q(R2) The Common Technical Document for the Registration of Pharmaceuticals for Human Use: Quality
-
-- **来源**: FDA News
-- **时间**: 2026-01-21 12:45
-
-> M4Q(R2) The Common Technical Document for the Registration of Pharmaceuticals for Human Use: Quality
-
-🔗 [阅读原文](http://www.fda.gov/regulatory-information/search-fda-guidance-documents/m4qr2-common-technical-document-registration-pharmaceuticals-human-use-quality)
-
----
-
-### 🇺🇸 CDER Small Business and Industry Assistance (SBIA) Learn
-
-- **来源**: FDA News
-- **时间**: 2026-01-20 21:38
-
-> SBIA Learn offers a variety of multimedia resources to provide information that is comprehensive, interactive, and easily accessible to small pharmaceutical business and industry.
-
-🔗 [阅读原文](http://www.fda.gov/drugs/cder-small-business-industry-assistance-sbia/cder-small-business-and-industry-assistance-sbia-learn)
-
----
-
-### 🇺🇸 Office of Study Integrity and Surveillance (OSIS) Workshop 2022: CDER Inspections of Good Laboratory Practice, Animal Rule, and Bioavailability/Bioequivalence Study Sites - 07/19/2022
-
-- **来源**: FDA News
-- **时间**: 2026-01-20 21:32
-
-> Office of Study Integrity and Surveillance (OSIS) Workshop 2022&amp;#58; CDERInspections of Good Laboratory Practice, Animal Rule, and Bioavailability/Bioequivalence Study Sites
-
-🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/office-study-integrity-and-surveillance-osis-workshop-2022-cder-inspections-good-laboratory-practice)
-
----
-
-### 🇺🇸 Generic Drug Facilities, Sites and Organization Lists
-
-- **来源**: FDA News
-- **时间**: 2026-01-20 20:29
-
-> Generic Drug Facilities, Sites and Organization Lists
-
-🔗 [阅读原文](http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists)
-
----
-
-### 🇺🇸 The ABCs of Product-Specific Guidances | Audio Transcript
-
-- **来源**: FDA News
-- **时间**: 2026-01-20 17:44
-
-> PSGs help streamline generic drug product development, promoting timely approval of abbreviated new drug application, or ANDA, submissions and increasing drug competition, ultimately improving patient access to high quality and affordable medicines.
-
-🔗 [阅读原文](http://www.fda.gov/drugs/development-approval-process-drugs/abcs-product-specific-guidances-audio-transcript)
+🔗 [阅读原文](http://www.fda.gov/drugs/drug-master-files-dmfs/list-drug-master-files-dmfs)
 
 ---
 
 ### 🇺🇸 Generic Drug User Fee Amendments
 
 - **来源**: FDA News
-- **时间**: 2026-01-20 15:30
+- **时间**: 2026-01-22 17:38
 
 > This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.
 
@@ -1117,29 +1060,96 @@
 
 ---
 
-### 🇺🇸 Human Drug Compounding Policies and Rules
+### 🇺🇸 Generic Drug Facilities, Sites and Organization Lists
 
 - **来源**: FDA News
-- **时间**: 2026-01-20 14:35
+- **时间**: 2026-01-22 17:35
 
-> List of compounding policy documents and related materials
+> Generic Drug Facilities, Sites and Organization Lists
 
-🔗 [阅读原文](http://www.fda.gov/drugs/human-drug-compounding/human-drug-compounding-policies-and-rules)
+🔗 [阅读原文](http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists)
 
 ---
 
-### 🇺🇸 Integrity Partners Group - 716953 - 12/15/2025
+### 🇺🇸 Products Claiming to "Cure" Cancer Are a Cruel Deception
 
 - **来源**: FDA News
-- **时间**: 2026-01-20 14:20
+- **时间**: 2026-01-22 14:03
 
-> CGMP/Finished Pharmaceuticals/Adulterated
+> Many ads on social media and "healthy" websites claim their products can cure cancer. They cannot.
 
-🔗 [阅读原文](http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/integrity-partners-group-716953-12152025)
+🔗 [阅读原文](http://www.fda.gov/consumers/consumer-updates/products-claiming-cure-cancer-are-cruel-deception)
+
+---
+
+### 🇺🇸 Advisory Letters
+
+- **来源**: FDA News
+- **时间**: 2026-01-22 13:44
+
+> Advisory Letters
+
+🔗 [阅读原文](http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/advisory-letters)
+
+---
+
+### 🇺🇸 Novel Drug Approvals for 2025
+
+- **来源**: FDA News
+- **时间**: 2026-01-21 22:45
+
+> Innovative drugs often mean new treatment options for patients and advances in health care for the American public.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025)
+
+---
+
+### 🇺🇸 Drug Trials Snapshots KYGEVVI
+
+- **来源**: FDA News
+- **时间**: 2026-01-21 22:43
+
+> Drug Trials Snapshots KYGEVVI
+
+🔗 [阅读原文](http://www.fda.gov/drugs/drug-approvals-and-databases/drug-trials-snapshots-kygevvi)
+
+---
+
+### 🇺🇸 Compounding Quality Center of Excellence | Instructor-Led Trainings
+
+- **来源**: FDA News
+- **时间**: 2026-01-21 21:32
+
+> The Compounding Quality Center of Excellence’s free in-person training programs target outsourcing facility staff and offer continuing education credits. The training will open for state regulators and pharmacy compounders if space is available.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/compounding-quality-center-excellence/compounding-quality-center-excellence-instructor-led-trainings)
+
+---
+
+### 🇺🇸 Quality and Regulatory Predictability: Shaping USP Standards - 12/11/2025
+
+- **来源**: FDA News
+- **时间**: 2026-01-21 16:26
+
+> This discussion will show how USP public standards strengthen quality, streamline development, support regulatory compliance, and overall, increase regulatory predictability for drugs.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/quality-and-regulatory-predictability-shaping-usp-standards-12112025)
 
 ---
 
 ## 商业动态 | Business/M&A
+
+### 🇺🇸 ErVimmune raises 17m euros in funding to develop cancer vaccine
+
+- **来源**: Pharma Times
+- **时间**: 2026-01-22 14:10
+- **重要性**: ⭐⭐
+
+> The vaccine could be created as a ready-to-use product, rather than needing to be personalised
+
+🔗 [阅读原文](https://pharmatimes.com/news/ervimmune-raises-17m-euros-in-funding-to-develop-cancer-vaccine/)
+
+---
 
 ### 🇺🇸 Scottish Medicines Consortium becomes first in UK to adopt new precision gastric cancer treatment
 
@@ -1177,6 +1187,17 @@
 
 ---
 
+### 🇺🇸 Book your tickets and join the PM Society for the 40th PM Awards on 20 March 2026
+
+- **来源**: Pharma Times
+- **时间**: 2026-01-22 12:36
+
+> The PM Awards celebrate creativity in pharmaceutical marketing and healthcare communications
+
+🔗 [阅读原文](https://pharmatimes.com/news/book-your-tickets-and-join-the-pm-society-for-the-40th-pm-awards-on-20-march-2026/)
+
+---
+
 ### 🇺🇸 Sun Pharma’s Unloxcyt now available in US for advanced cutaneous squamous cell carcinoma
 
 - **来源**: Pharma Times
@@ -1210,42 +1231,9 @@
 
 ---
 
-### 🇺🇸 Ipsen announces new data on Dysport in neurological disease
-
-- **来源**: Pharma Times
-- **时间**: 2026-01-15 12:55
-
-> Dysport reduces muscle contractions by blocking the transmission of nerve impulses
-
-🔗 [阅读原文](https://pharmatimes.com/news/ipsen-announces-new-data-on-dysport-in-neurological-disease/)
-
----
-
-### 🇺🇸 Jurgen Berendsen
-
-- **来源**: Pharma Times
-- **时间**: 2026-01-15 12:54
-
-> Symeres has appointed Jurgen Berendsen as Chief Financial Officer (CFO).
-
-🔗 [阅读原文](https://pharmatimes.com/appointments/jurgen-berendsen/)
-
----
-
-### 🇺🇸 True colours
-
-- **来源**: Pharma Times
-- **时间**: 2026-01-15 10:09
-
-> The gold standard in spectroscopy
-
-🔗 [阅读原文](https://pharmatimes.com/web_exclusives/true-colours/)
-
----
-
 
 ---
 
 *Generated by Pharma Daily - 制药资讯聚合系统*
 
-*2026-01-22 00:30:04*
+*2026-01-23 03:41:02*
