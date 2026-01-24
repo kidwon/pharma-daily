@@ -1,56 +1,58 @@
 {
   "date": "2026-01-22",
-  "generated_at": "2026-01-23T03:41:02.464604",
+  "generated_at": "2026-01-22T00:30:04.877473",
   "theme": "minimal",
-  "total_items": 102,
+  "total_items": 103,
   "files": {
     "markdown": "docs/20260122/daily.md",
     "html": "docs/20260122/index.html",
     "directory": "docs/20260122"
   },
   "analysis": {
-    "overview": "今日制药行业呈现多元化动态，监管政策与重大商业交易成为焦点。FDA发布多发性骨髓瘤药物开发新指南，有望加速相关疗法审批；GSK以22亿美元收购RAPT Therapeutics，强化过敏领域布局；同时，生物类似药市场前景乐观，而Valneva因安全性问题撤回基孔肯雅热疫苗。",
+    "overview": "2026-01-22 共获取 103 条制药行业新闻，涵盖 4 个类别。",
     "top_news": [
       {
+        "index": 1,
+        "title": "Pfizer sells its stake in GSK's ViiV for $1.9B, with Shionogi upping its ante in the HIV-focused company",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Makary talks FDA's plans to combat China's biotech growth",
+        "importance": 4,
+        "reason": "来自 Endpoints News",
+        "category": "新药研发"
+      },
+      {
+        "index": 3,
+        "title": "STAT+: Pharmalittle: We’re reading about antitrust claims by a compounder, FDA and EMA AI rules, and more",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
         "index": 4,
-        "title": "J&J praises new FDA guidance to speed development of multiple myeloma drugs",
-        "importance": 5,
-        "reason": "FDA发布新指南，允许使用微小残留病作为主要终点，可能加速多发性骨髓瘤药物审批，对行业研发路径有重大影响。",
-        "category": "政策法规"
-      },
-      {
-        "index": 17,
-        "title": "GSK to buy Rapt in $2.2B deal for food allergy drug",
-        "importance": 5,
-        "reason": "GSK以22亿美元收购RAPT Therapeutics，获得实验性食物过敏药物，是CEO上任后首笔重大交易，战略意义显著。",
-        "category": "商业动态"
-      },
-      {
-        "index": 8,
-        "title": "Biosimilar execs optimistic about future for US biosims as Sandoz locks in on ‘golden decade’ to come",
-        "importance": 4,
-        "reason": "FDA新指南简化生物类似药开发，行业高管对市场前景乐观，预示生物类似药可能进入快速增长期。",
-        "category": "市场分析"
-      },
-      {
-        "index": 12,
-        "title": "Valneva withdraws chikungunya vaccine Ixchiq from US amid new FDA investigation",
-        "importance": 4,
-        "reason": "Valneva因FDA调查新的严重不良反应而自愿撤回基孔肯雅热疫苗，凸显疫苗安全性监管的重要性。",
+        "title": "Complex Innovative Trial Design Meeting Program",
+        "importance": 3,
+        "reason": "来自 FDA News",
         "category": "监管审批"
       },
       {
-        "index": 1,
-        "title": "Samsung Bio sticks landing on 2025 as it becomes first Korean biopharma to hit 2T won profit threshold",
-        "importance": 4,
-        "reason": "三星生物制剂成为首家年利润突破2万亿韩元的韩国生物制药公司，显示CDMO行业强劲增长和龙头地位。",
-        "category": "市场分析"
+        "index": 5,
+        "title": "Definium defines mental health applications for LSD in new awareness campaign",
+        "importance": 2,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
       }
     ],
     "category_summary": {
-      "新药研发": "IntraBio的Aqneursa在罕见病领域取得III期成功，并获欧盟批准；Corvus的湿疹口服药早期数据积极；Definium推进LSD药物治疗精神健康适应症；Corxel获得2.87亿美元融资开发口服GLP-1减肥药。",
-      "临床试验": "IntraBio宣布其治疗共济失调-毛细血管扩张症的药物在关键III期试验中改善运动功能，将寻求FDA批准；CEPI资助3000万美元与默克等合作改进埃博拉疫苗。"
+      "综合": "共 40 条新闻",
+      "新药研发": "共 34 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 9 条新闻"
     },
-    "tomorrow_watch": "关注FDA对Valneva疫苗安全调查的进展、GSK收购RAPT的后续整合、以及FDA新指南对多发性骨髓瘤药物研发的实际影响。同时，留意国会可能通过的PBM改革法案和政府资助法案中的医药相关政策。"
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
   }
 }

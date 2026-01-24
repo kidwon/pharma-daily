@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-23",
+  "generated_at": "2026-01-24T03:25:34.855789",
+  "theme": "minimal",
+  "total_items": 102,
+  "files": {
+    "markdown": "docs/20260123/daily.md",
+    "html": "docs/20260123/index.html",
+    "directory": "docs/20260123"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅药物临床进展与监管政策变化。诺和诺德口服Wegovy上市初期表现强劲，强生预计2026年营收将突破1000亿美元；FDA发布多发性骨髓瘤药物开发新指南，有望加速细胞疗法等创新药审批。同时，赛诺菲湿疹药物III期数据喜忧参半，生物类似药领域迎来乐观展望。",
+    "top_news": [
+      {
+        "index": 10,
+        "title": "Novo's Wegovy pill launch wows with strong early uptake: analysts",
+        "importance": 5,
+        "reason": "口服减肥药Wegovy上市初期处方量表现强劲，预示口服GLP-1药物可能重塑肥胖症治疗市场格局。",
+        "category": "市场分析"
+      },
+      {
+        "index": 13,
+        "title": "Led by Darzalex surge, J&J expects revenue to reach $100B in 2026",
+        "importance": 5,
+        "reason": "强生首次预测2026年营收将突破1000亿美元，反映其核心产品（如Darzalex）的强劲增长势头及行业巨头的发展信心。",
+        "category": "市场分析"
+      },
+      {
+        "index": 16,
+        "title": "FDA lays out new path to speed development of multiple myeloma drugs",
+        "importance": 5,
+        "reason": "FDA发布新指南，允许基于微小残留病（MRD）作为主要终点加速多发性骨髓瘤药物审批，将显著加速细胞疗法等创新药开发进程。",
+        "category": "政策法规"
+      },
+      {
+        "index": 2,
+        "title": "Sanofi's Phase 3 eczema data cloud hopes for potential immunology blockbuster",
+        "importance": 4,
+        "reason": "赛诺菲潜在重磅免疫药物在湿疹适应症的III期数据喜忧参半，可能影响其成为“重磅炸弹”药物的前景及市场竞争格局。",
+        "category": "临床试验"
+      },
+      {
+        "index": 12,
+        "title": "Biosimilar execs optimistic about future for US biosims as Sandoz locks in on ‘golden decade’ to come",
+        "importance": 4,
+        "reason": "行业高管对生物类似药在美国的未来表示乐观，FDA新指南有望简化开发流程，推动市场渗透进入“黄金十年”。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "F2G计划重新提交抗真菌药；IntraBio的罕见病药物在多个适应症取得积极进展；Corvus湿疹口服药早期数据积极；GSK以22亿美元收购RAPT Therapeutics，获得食物过敏在研药物。",
+      "临床试验": "赛诺菲湿疹药物公布III期数据；Bausch Health新配方III期失败；IntraBio药物在共济失调-毛细血管扩张症III期成功；Corvus湿疹口服药公布积极早期数据。"
+    },
+    "tomorrow_watch": "关注FDA新多发性骨髓瘤药物开发指南的行业具体反馈及潜在影响；跟踪口服Wegovy的后续市场处方数据及对诺和诺德股价的影响；留意赛诺菲是否会基于混合数据如期提交其湿疹药物的上市申请。"
+  }
+}
