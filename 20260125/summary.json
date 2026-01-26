@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-25",
+  "generated_at": "2026-01-26T03:56:03.326275",
+  "theme": "minimal",
+  "total_items": 102,
+  "files": {
+    "markdown": "docs/20260125/daily.md",
+    "html": "docs/20260125/index.html",
+    "directory": "docs/20260125"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅药物临床进展与监管政策更新。赛诺菲的潜在免疫学重磅药物在湿疹III期试验中取得积极数据，为FDA提交奠定基础；FDA发布多发性骨髓瘤药物开发新指南，有望加速细胞疗法等创新药物审批。同时，诺和诺德口服Wegovy上市初期表现强劲，显示出肥胖症口服药物市场的巨大潜力。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "Sanofi's Phase 3 eczema data cloud hopes for potential immunology blockbuster",
+        "importance": 5,
+        "reason": "赛诺菲潜在免疫学重磅药物取得关键III期积极数据，将提交FDA审批，对免疫疾病治疗领域有重大影响。",
+        "category": "临床试验"
+      },
+      {
+        "index": 5,
+        "title": "J&J praises new FDA guidance to speed development of multiple myeloma drugs",
+        "importance": 5,
+        "reason": "FDA发布多发性骨髓瘤药物开发新指南，允许使用微小残留病作为主要终点，将显著加速细胞疗法等创新药物审批进程。",
+        "category": "政策法规"
+      },
+      {
+        "index": 9,
+        "title": "Novo's Wegovy pill launch wows with strong early uptake: analysts",
+        "importance": 4,
+        "reason": "诺和诺德口服Wegovy上市第二周处方量达1.84万，远超预期，显示口服GLP-1药物在肥胖症市场的巨大商业潜力。",
+        "category": "市场分析"
+      },
+      {
+        "index": 12,
+        "title": "Led by Darzalex surge, J&J expects revenue to reach $100B in 2026",
+        "importance": 4,
+        "reason": "强生预计2026年营收将达1000-1010亿美元，主要受Darzalex等核心药物驱动，反映其强劲增长前景。",
+        "category": "市场分析"
+      },
+      {
+        "index": 24,
+        "title": "STAT+: GSK to buy RAPT Therapeutics, maker of food allergy treatment, in $2.2B deal",
+        "importance": 4,
+        "reason": "GSK以22亿美元收购RAPT Therapeutics，获得实验性食物过敏治疗药物，加强其免疫学管线布局。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "F2G计划6月收集III期数据后重新提交抗真菌药olorofim；IntraBio的Aqneursa在罕见神经退行性疾病中取得III期成功；Corvus湿疹口服药早期数据积极，显示ITK抑制剂潜力；投资者向Corxel注资2.87亿美元开发差异化口服肥胖症药物。",
+      "临床试验": "赛诺菲湿疹药物在两项III期研究中成功；Bausch Health的Xifaxan新配方III期失败；CEPI资助3000万美元与默克等合作开发改进型埃博拉疫苗；Corvus湿疹口服药早期数据积极。"
+    },
+    "tomorrow_watch": "关注赛诺菲湿疹药物FDA提交时间表及后续监管进展；跟踪诺和诺德口服Wegovy的市场渗透率变化及竞争格局；留意FDA多发性骨髓瘤新指南对相关药物开发项目的具体影响；观察GSK收购RAPT Therapeutics后管线整合情况。"
+  }
+}
