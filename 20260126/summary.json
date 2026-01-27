@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-26",
+  "generated_at": "2026-01-27T03:46:12.478366",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260126/daily.md",
+    "html": "docs/20260126/index.html",
+    "directory": "docs/20260126"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅交易与关键临床进展。BioMarin以48亿美元收购Amicus Therapeutics成为最大并购案，而赛诺菲的潜在重磅免疫药物在湿疹III期试验中取得积极数据，为上市铺平道路。同时，诺和诺德的口服Wegovy上市初期表现强劲，显示出GLP-1市场的持续热度。",
+    "top_news": [
+      {
+        "index": 6,
+        "title": "Another biopharma tried buying Amicus before BioMarin's $4.8B deal",
+        "importance": 5,
+        "reason": "BioMarin以48亿美元收购Amicus Therapeutics是近期最大规模并购案之一，揭示了罕见病领域的激烈竞争与资产价值。",
+        "category": "商业动态"
+      },
+      {
+        "index": 4,
+        "title": "Sanofi's Phase 3 eczema data cloud hopes for potential immunology blockbuster",
+        "importance": 5,
+        "reason": "赛诺菲潜在重磅免疫药物在关键湿疹III期试验中取得成功，为其递交FDA申请奠定基础，有望成为数十亿美元级产品。",
+        "category": "临床试验"
+      },
+      {
+        "index": 11,
+        "title": "Novo's Wegovy pill launch wows with strong early uptake: analysts",
+        "importance": 5,
+        "reason": "诺和诺德口服Wegovy上市第二周处方量达1.84万，远超预期，标志着口服GLP-1疗法商业化取得重大成功，可能重塑肥胖症市场格局。",
+        "category": "市场分析"
+      },
+      {
+        "index": 27,
+        "title": "GSK to buy RAPT Therapeutics, maker of food allergy treatment, in $2.2B deal",
+        "importance": 4,
+        "reason": "GSK以22亿美元收购RAPT Therapeutics，获得一款有潜力的食物过敏治疗药物，是其加强免疫学管线的重要战略举措。",
+        "category": "商业动态"
+      },
+      {
+        "index": 14,
+        "title": "Led by Darzalex surge, J&J expects revenue to reach $100B in 2026",
+        "importance": 4,
+        "reason": "强生预计2026年营收将突破1000亿美元，主要由重磅抗癌药Darzalex驱动，反映了其在肿瘤领域的强大市场地位和增长前景。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态相对平稳，但赛诺菲的潜在免疫学重磅药物和RAPT的食物过敏疗法（被GSK收购）是焦点。此外，F2G计划在6月获得III期数据后重新向FDA提交抗真菌药申请。",
+      "临床试验": "临床试验方面消息好坏参半。赛诺菲湿疹药物III期数据积极，而Bausch Health的新配方Xifaxan III期试验失败，Genmab则停止了从ProfoundBio收购的癌症候选药物GEN1286的早期试验患者招募。"
+    },
+    "tomorrow_watch": "明日值得关注FDA/MHRA/Health Canada关于良好临床实践、生物等效性和药物警戒实践的联合研讨会（06/02/2026），其讨论内容可能影响未来的全球监管协调与药物开发标准。此外，需持续跟踪口服Wegovy的市场渗透率以及赛诺菲湿疹药物的正式监管提交时间表。"
+  }
+}
