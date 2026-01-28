@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-27",
+  "generated_at": "2026-01-28T03:45:09.240739",
+  "theme": "minimal",
+  "total_items": 102,
+  "files": {
+    "markdown": "docs/20260127/daily.md",
+    "html": "docs/20260127/index.html",
+    "directory": "docs/20260127"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与临床试验进展。FDA批准了强生Darzalex Faspro联合疗法用于新诊断多发性骨髓瘤，同时有条件解除了Intellia基因编辑疗法的一项临床暂停。此外，诺和诺德口服Wegovy上市初期表现强劲，而Bausch Health的Xifaxan后继药物III期试验失败则带来挫折。",
+    "top_news": [
+      {
+        "index": 4,
+        "title": "FDA approves daratumumab and hyaluronidase-fihj with bortezomib, lenalidomide, and dexamethasone for newly diagnosed multiple myeloma",
+        "importance": 5,
+        "reason": "FDA批准了多发性骨髓瘤一线治疗的重要新联合疗法，将直接影响临床实践和市场竞争格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "FDA lifts hold on an Intellia CRISPR drug trial",
+        "importance": 5,
+        "reason": "FDA解除对Intellia CRISPR基因编辑疗法一项关键III期试验的暂停，是基因治疗领域的重要监管进展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 11,
+        "title": "Novo's Wegovy pill launch wows with strong early uptake: analysts",
+        "importance": 4,
+        "reason": "诺和诺德口服版Wegovy上市初期处方量表现强劲，预示着口服GLP-1药物可能重塑巨大的减肥药市场。",
+        "category": "市场分析"
+      },
+      {
+        "index": 7,
+        "title": "Bausch Health's $2B pursuit of Xifaxan successor hits wall with phase 3 failure",
+        "importance": 4,
+        "reason": "Bausch Health核心产品Xifaxan的后继药物III期失败，对其产品管线更新和未来收入构成重大打击。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "Genmab halts enrollment for cancer drug from ProfoundBio buyout",
+        "importance": 4,
+        "reason": "Genmab暂停其18亿美元收购所得癌症候选药物的早期试验入组，表明资产整合后临床开发遇挫。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "基因编辑（Intellia）、抗衰老基因疗法（Life Biosciences）和新型免疫药物（TRex Bio）等领域有研发进展，中国在早期药物研发方面的优势预计将持续。",
+      "临床试验": "关键III期试验结果频出，包括Bausch Health的失败和Roche GLP-1药物的新数据。同时，Genmab暂停了其收购所得资产的早期试验入组。"
+    },
+    "tomorrow_watch": "关注FDA/MHRA/Health Canada关于良好临床实践、生物等效性和药物警戒的联合研讨会（06/02/2026），其讨论内容可能预示未来监管趋势。同时，需留意欧盟与印度旨在取消药品出口关税的自由贸易协定谈判进展，这可能影响全球供应链格局。"
+  }
+}
