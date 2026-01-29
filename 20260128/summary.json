@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-28",
+  "generated_at": "2026-01-29T04:06:37.857178",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260128/daily.md",
+    "html": "docs/20260128/index.html",
+    "directory": "docs/20260128"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于基因编辑与细胞治疗领域的重要进展，其中Intellia的CRISPR疗法临床试验部分恢复以及Cellares完成2.57亿美元融资为行业亮点。同时，强生旗下Darzalex Faspro获得FDA新适应症批准，巩固其在多发性骨髓瘤治疗领域的地位。此外，礼来与Seamless Therapeutics达成超10亿美元基因编辑合作，显示出大型药企持续加码遗传医学领域。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "FDA lifts hold on an Intellia CRISPR drug trial",
+        "importance": 5,
+        "reason": "FDA解除对Intellia关键CRISPR基因编辑疗法临床试验的部分暂停，标志着基因编辑领域监管的重要进展",
+        "category": "临床试验"
+      },
+      {
+        "index": 3,
+        "title": "FDA approves daratumumab and hyaluronidase-fihj with bortezomib, lenalidomide, and dexamethasone for newly diagnosed multiple myeloma",
+        "importance": 5,
+        "reason": "FDA批准Darzalex Faspro联合疗法用于新诊断多发性骨髓瘤，为患者提供重要新治疗选择",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Cellares raises $257M to fund global expansion as it eyes 2027 IPO",
+        "importance": 4,
+        "reason": "细胞疗法制造商Cellares完成2.57亿美元D轮融资，为2027年IPO做准备，显示细胞治疗领域持续受资本青睐",
+        "category": "商业动态"
+      },
+      {
+        "index": 6,
+        "title": "Lilly partners with recombinase-based gene editing startup Seamless Therapeutics",
+        "importance": 4,
+        "reason": "礼来与重组酶基因编辑初创公司达成超11亿美元合作，进一步布局遗传医学领域",
+        "category": "商业动态"
+      },
+      {
+        "index": 14,
+        "title": "Regenxbio gene therapy trials suspended by FDA over safety worries",
+        "importance": 4,
+        "reason": "FDA因安全性问题暂停Regenxbio两项基因疗法试验，凸显基因治疗安全性监管的重要性",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态包括siRNA疗法BW‑20829进入IIb期试验、罗氏展示GLP-1注射剂新数据、以及多种基因编辑和细胞治疗技术的进展，显示行业持续向精准医疗和先进疗法转型。",
+      "临床试验": "临床试验领域出现重要监管变化，Intellia的CRISPR疗法试验部分恢复，而Regenxbio的基因疗法试验因安全性问题被暂停，凸显临床试验中风险与监管的平衡。"
+    },
+    "tomorrow_watch": "需关注FDA/MHRA/Health Canada将于2月6日举行的监管研讨会，会议将讨论良好临床实践、生物等效性和药物警戒等议题，可能影响未来临床试验设计和监管要求。同时，欧盟与印度自由贸易协定中关于药品出口关税的谈判进展值得关注，可能影响全球制药供应链格局。"
+  }
+}
