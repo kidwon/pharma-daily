@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-29",
+  "generated_at": "2026-01-30T04:08:00.504855",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260129/daily.md",
+    "html": "docs/20260129/index.html",
+    "directory": "docs/20260129"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于多项重要监管审批与大型战略投资。FDA批准了多款创新疗法，包括Tenpoint的老花眼滴眼液和强生Darzalex Faspro在多发性骨髓瘤中的新适应症；同时，阿斯利康宣布将在中国投资150亿美元以增强细胞疗法和放射性偶联药物能力，显示出跨国药企对中国市场的长期承诺。此外，基因疗法领域出现安全担忧，Regenxbio的两项试验因患者出现脑肿瘤被FDA暂停。",
+    "top_news": [
+      {
+        "index": 11,
+        "title": "AstraZeneca vows $15B China investment to boost cell therapy and radioconjugate capabilities",
+        "importance": 5,
+        "reason": "150亿美元巨额投资彰显对中国市场的战略押注，将显著增强其在细胞疗法和放射性偶联药物等前沿领域的能力。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "Tenpoint wins FDA nod for combination presbyopia eye drop",
+        "importance": 5,
+        "reason": "FDA批准新型老花眼滴眼液，并伴随2.35亿美元融资支持上市，有望挑战艾伯维等现有疗法。",
+        "category": "监管审批"
+      },
+      {
+        "index": 13,
+        "title": "J&J sharpens Darzalex's edge with quadruplet FDA nod in newly diagnosed multiple myeloma",
+        "importance": 5,
+        "reason": "Darzalex Faspro获得FDA新批准用于不适合干细胞移植的新诊断多发性骨髓瘤患者，巩固其市场领先地位。",
+        "category": "监管审批"
+      },
+      {
+        "index": 16,
+        "title": "Regenxbio gene therapy trials suspended by FDA over safety worries",
+        "importance": 4,
+        "reason": "因一名参与者出现脑肿瘤，FDA暂停两项基因疗法试验，引发对基因疗法安全性的新关注。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "FDA lifts hold on an Intellia CRISPR drug trial",
+        "importance": 4,
+        "reason": "FDA解除对Intellia CRISPR药物试验的部分暂停，但一项试验仍暂停，显示基因编辑疗法监管的审慎平衡。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发活动活跃，涉及多个前沿领域。Lilly与Seamless达成潜在价值10亿美元的基因编辑合作，开发听力损失疗法；Argo Biopharma的siRNA疗法BW‑20829进入IIb期试验；Agomab计划通过IPO融资推进纤维化管线；赛诺菲则削减了包括amlitelimab在内的多个研发项目。",
+      "临床试验": "临床试验方面出现显著的安全性与进展信号。Regenxbio的两项基因疗法试验因患者出现脑肿瘤被FDA暂停，引发安全担忧。Intellia的CRISPR试验在实施新保障措施后部分恢复。罗氏展示了其GLP-1注射剂的新数据，试图在肥胖症领域追赶。Summit Therapeutics的PD-1xVEGF双特异性抗体获得FDA的PDUFA日期。"
+    },
+    "tomorrow_watch": "明日值得关注的事项包括：1) 基因疗法安全事件（如Regenxbio和Intellia案例）可能引发的更广泛行业讨论与监管反应；2) 阿斯利康对中国的大规模投资细节及其对全球细胞疗法竞争格局的潜在影响；3) 欧盟与印度自由贸易协定中取消药品出口关税的进展，及其对全球供应链和定价的影响；4) 赛诺菲为应对Dupixent专利悬崖而计划的140-150亿欧元并购预算的具体动向。"
+  }
+}
