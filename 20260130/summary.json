@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-30",
+  "generated_at": "2026-01-31T04:05:05.043454",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260130/daily.md",
+    "html": "docs/20260130/index.html",
+    "directory": "docs/20260130"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于肥胖症药物领域的激烈竞争与重磅合作，礼来和诺和诺德继续领跑，阿斯利康通过大规模中国投资和合作强势入局。同时，安进在免疫学领域的战略调整和监管层面的数据完整性审查也引发关注。",
+    "top_news": [
+      {
+        "index": 18,
+        "title": "AstraZeneca leans into obesity, striking wide-ranging alliance with China’s CSPC",
+        "importance": 5,
+        "reason": "阿斯利康以潜在价值超180亿美元的合作，大规模进军下一代减肥药领域，标志着该赛道竞争白热化。",
+        "category": "商业动态"
+      },
+      {
+        "index": 25,
+        "title": "Lilly unveils $3.5B factory that will make retatrutide and other obesity drugs",
+        "importance": 5,
+        "reason": "礼来投资35亿美元新建工厂专门生产包括retatrutide在内的肥胖症药物，彰显其巩固市场领导地位的巨大产能投入。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "CHMP thumbs-up Novo's semaglutide for MASH, as Amgen gets Tavneos re-review on data integrity concerns",
+        "importance": 4,
+        "reason": "诺和诺德司美格鲁肽获欧盟积极意见拓展至MASH适应症，而安进已获批药物因数据完整性问题面临重审，凸显监管审查重点。",
+        "category": "监管审批"
+      },
+      {
+        "index": 1,
+        "title": "Amgen ends partnership with Kyowa Kirin on immunology drug, despite Phase 3 wins",
+        "importance": 4,
+        "reason": "安进在III期成功的情况下突然终止重要免疫学药物合作，反映其管线战略的重大调整。",
+        "category": "商业动态"
+      },
+      {
+        "index": 16,
+        "title": "AstraZeneca vows $15B China investment to boost cell therapy and radioconjugate capabilities",
+        "importance": 4,
+        "reason": "阿斯利康宣布至2030年在中国投资150亿美元，强化细胞疗法和放射性偶联药物等前沿领域布局，显示对中国市场的长期承诺。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态活跃，涉及多个前沿领域。Tenpoint Therapeutics的老花眼组合滴眼液获FDA批准，Ultragenyx重新提交罕见神经疾病基因疗法的申请，Agomab推进纤维化管线并计划IPO，Argo Biopharma的siRNA疗法进入IIb期试验，礼来与Seamless合作开发听力损失基因疗法。",
+      "临床试验": "临床试验相关新闻包括：诺和诺德司美格鲁肽在MASH适应症上获得欧盟CHMP积极意见；安进终止了其曾寄予厚望的湿疹药物开发；欧盟CHMP拒绝批准礼来Mounjaro用于心衰适应症；Summit Therapeutics的PD-1/VEGF双特异性抗体获得FDA的PDUFA日期。"
+    },
+    "tomorrow_watch": "需持续关注肥胖症药物领域的后续进展，包括礼来、诺和诺德、阿斯利康等巨头的产能、临床数据和市场策略。同时，安进Tavneos的数据完整性重审结果、FDA对ARS Pharma广告警告的后续影响，以及制药行业在政治化环境下的监管趋势也值得留意。"
+  }
+}
