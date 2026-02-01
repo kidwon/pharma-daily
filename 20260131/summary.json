@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-31",
+  "generated_at": "2026-02-01T04:28:40.185588",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260131/daily.md",
+    "html": "docs/20260131/index.html",
+    "directory": "docs/20260131"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于肥胖症与免疫学领域的重大进展。阿斯利康宣布与中国CSPC达成价值超180亿美元的肥胖症药物合作，礼来则公布35亿美元新工厂以扩大其肥胖症药物产能。同时，安进在免疫学管线中接连终止合作与项目，引发对相关药物类别的重新评估。",
+    "top_news": [
+      {
+        "index": 18,
+        "title": "AstraZeneca leans into obesity, striking wide-ranging alliance with China’s CSPC",
+        "importance": 5,
+        "reason": "阿斯利康与中国CSPC达成价值可能超过180亿美元的肥胖症药物合作，是同类授权协议中规模最大的之一，标志着全球药企在肥胖症领域的重要战略布局。",
+        "category": "商业动态"
+      },
+      {
+        "index": 25,
+        "title": "Lilly unveils $3.5B factory that will make retatrutide and other obesity drugs",
+        "importance": 5,
+        "reason": "礼来投资35亿美元建设新工厂专门生产下一代肥胖症药物retatrutide等，是其在美国大规模产能扩张计划的关键部分，以满足市场对GLP-1类药物的巨大需求。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "Amgen ends partnership with Kyowa Kirin on immunology drug, despite Phase 3 wins",
+        "importance": 4,
+        "reason": "安进在III期成功的情况下突然终止与协和麒麟在免疫学药物的合作，并在同一天放弃其曾寄予厚望的湿疹药物，反映了其免疫学管线的重大战略调整。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "CHMP thumbs-up Novo's semaglutide for MASH, as Amgen gets Tavneos re-review on data integrity concerns",
+        "importance": 4,
+        "reason": "诺和诺德的司美格鲁肽获欧盟CHMP支持用于MASH（代谢功能障碍相关脂肪性肝炎），这是该重磅药物拓展适应症的重要进展；同时安进的Tavneos因数据完整性问题面临重新审查，凸显监管审查的严格性。",
+        "category": "监管审批"
+      },
+      {
+        "index": 23,
+        "title": "CHMP opposes Lilly’s Mounjaro in heart failure, backs Novo’s Kayshild",
+        "importance": 4,
+        "reason": "欧盟CHMP拒绝批准礼来的Mounjaro用于心衰治疗，但支持诺和诺德的司美格鲁肽用于肝病，反映了GLP-1类药物在不同适应症拓展中的差异化监管结果，对市场预期有重要影响。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态活跃，涉及多个前沿领域。阿斯利康与CSPC合作开发多达8款“下一代”减肥药，礼来则通过合作进一步深入遗传医学领域以治疗听力损失。同时，安进放弃了其曾重点开发的湿疹药物，而Argo Biopharma的siRNA疗法和Ultragenyx的基因疗法也取得了阶段性进展。",
+      "临床试验": "临床试验相关新闻较少，但关键进展包括Argo Biopharma为其siRNA疗法BW‑20829启动了IIb期临床试验的首例患者给药，以及安进在III期成功后仍终止合作的免疫学药物（新闻1）和放弃的湿疹药物（新闻7）背后可能涉及的临床数据考量。"
+    },
+    "tomorrow_watch": "明日值得关注的事项包括：1) 安进终止免疫学合作及放弃湿疹药物的后续影响，以及对同类药物研发信心的评估；2) 阿斯利康与礼来在肥胖症领域巨额投资与合作后的具体研发管线进展；3) 欧盟CHMP对诺和诺德司美格鲁肽用于MASH的最终决定，以及安进Tavneos数据完整性审查的后续；4) Summit Therapeutics其PD-1/VEGF双特异性抗体获得的PDUFA日期（11月）前的市场准备情况。"
+  }
+}
