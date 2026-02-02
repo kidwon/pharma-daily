@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-01",
+  "generated_at": "2026-02-02T04:23:49.047796",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260201/daily.md",
+    "html": "docs/20260201/index.html",
+    "directory": "docs/20260201"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于肥胖症药物领域的激烈竞争与重磅合作，以及监管审批与生产扩张。阿斯利康宣布与中国CSPC达成价值超180亿美元的肥胖症药物合作，礼来则公布35亿美元新工厂以扩大产能；同时，诺和诺德与礼来的GLP-1类药物在欧洲监管方面取得进展与挫折并存。",
+    "top_news": [
+      {
+        "index": 18,
+        "title": "AstraZeneca leans into obesity, striking wide-ranging alliance with China’s CSPC",
+        "importance": 5,
+        "reason": "阿斯利康与中国CSPC达成价值可能超过180亿美元的肥胖症药物合作，是同类授权协议中规模最大的，标志着全球药企在肥胖症领域竞争白热化。",
+        "category": "商业动态"
+      },
+      {
+        "index": 11,
+        "title": "Lilly rounds out quartet of new US plants with $3.5B injectable and device facility in PA",
+        "importance": 5,
+        "reason": "礼来宣布投资35亿美元在美国建设新的注射剂和装置工厂，以支持其下一代肥胖症药物retatrutide等产品的生产，凸显其对肥胖症市场的巨大产能投入。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "CHMP thumbs-up Novo's semaglutide for MASH, as Amgen gets Tavneos re-review on data integrity concerns",
+        "importance": 4,
+        "reason": "诺和诺德的司美格鲁肽获欧洲CHMP支持用于MASH（代谢功能障碍相关脂肪性肝炎），这是其GLP-1药物在重要适应症上的关键监管进展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 23,
+        "title": "CHMP opposes Lilly’s Mounjaro in heart failure, backs Novo’s Kayshild",
+        "importance": 4,
+        "reason": "欧洲CHMP拒绝批准礼来的Mounjaro用于心衰治疗，而支持诺和诺德的司美格鲁肽用于肝病，反映了GLP-1类药物在不同适应症上的监管差异与竞争态势。",
+        "category": "监管审批"
+      },
+      {
+        "index": 1,
+        "title": "Amgen ends partnership with Kyowa Kirin on immunology drug, despite Phase 3 wins",
+        "importance": 4,
+        "reason": "安进在III期成功的情况下突然终止与协和麒麟在免疫学药物上的合作，涉及关键管线资产，引发对合作稳定性和资产价值的关注。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态活跃，涉及多个领域。肥胖症成为焦点，阿斯利康与CSPC合作开发下一代减肥药，礼来也通过合作布局基因编辑治疗听力损失。此外，Tenpoint的老花眼滴眼液获批、Argo Biopharma的siRNA疗法进入IIb期、Ultragenyx基因疗法重新提交申请，以及多家公司（如Sanofi）进行管线调整，均显示了行业在创新疗法上的持续投入与策略优化。",
+      "临床试验": "临床试验相关新闻主要围绕后期阶段结果与监管互动。安进终止合作的免疫学药物已取得III期胜利，但其湿疹药物因III期结果令人失望而被放弃。Summit Therapeutics的PD-1/VEGF双特异性抗体获得FDA的PDUFA日期，Roche为其肥胖症药物数据辩护，这些动态凸显了临床试验数据对药物命运和公司决策的关键影响。"
+    },
+    "tomorrow_watch": "需持续关注阿斯利康与CSPC肥胖症合作的具体药物靶点与技术平台细节；留意FDA对Summit Therapeutics的PD-1/VEGF双特异性抗体的审评进展；观察安进终止合作后，该免疫学资产的后续开发计划及对Kyowa Kirin的影响；以及欧洲CHMP对诺和诺德司美格鲁肽MASH适应症的最终决定。"
+  }
+}
