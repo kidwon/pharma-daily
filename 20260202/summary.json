@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-02",
+  "generated_at": "2026-02-03T04:14:57.155438",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260202/daily.md",
+    "html": "docs/20260202/index.html",
+    "directory": "docs/20260202"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅药物的研发进展与监管动态。诺和诺德（Novo Nordisk）的下一代代谢药物CagriSema在II期试验中显示出优于司美格鲁肽（semaglutide）的降糖减重效果，巩固了其在GLP-1领域的领先地位；同时，其司美格鲁肽在欧洲获得CHMP对MASH适应症的积极意见。另一方面，安进（Amgen）因数据完整性问题面临已获批药物Tavneos的重新审查，并终止了与协和麒麟（Kyowa Kirin）在免疫学药物上的合作，反映了研发与监管层面的挑战。",
+    "top_news": [
+      {
+        "index": 9,
+        "title": "New CagriSema data show improvement over semaglutide",
+        "importance": 5,
+        "reason": "诺和诺德下一代代谢药物CagriSema在II期试验中降糖减重效果优于重磅药物司美格鲁肽，可能重塑糖尿病/肥胖症治疗格局。",
+        "category": "临床试验"
+      },
+      {
+        "index": 3,
+        "title": "CHMP thumbs-up Novo's semaglutide for MASH, as Amgen gets Tavneos re-review on data integrity concerns",
+        "importance": 4,
+        "reason": "司美格鲁肽获CHMP对MASH适应症的积极意见，市场潜力巨大；同时安进已获批药物因数据问题面临重审，凸显监管风险。",
+        "category": "监管审批"
+      },
+      {
+        "index": 1,
+        "title": "Amgen ends partnership with Kyowa Kirin on immunology drug, despite Phase 3 wins",
+        "importance": 4,
+        "reason": "安进在III期成功背景下突然终止与协和麒麟的重要免疫学药物合作，引发对管线战略及合作稳定性的关注。",
+        "category": "商业动态"
+      },
+      {
+        "index": 23,
+        "title": "AstraZeneca vows $15B China investment to boost cell therapy and radioconjugate capabilities",
+        "importance": 4,
+        "reason": "阿斯利康宣布至2030年向中国投资150亿美元，重点加强细胞疗法和放射性偶联药物能力，是近年来对华最大投资承诺之一。",
+        "category": "商业动态"
+      },
+      {
+        "index": 18,
+        "title": "Lilly rounds out quartet of new US plants with $3.5B injectable and device facility in PA",
+        "importance": 4,
+        "reason": "礼来宣布投资35亿美元在美国建设新的注射剂和设备工厂，完成其“美国制造”投资计划，以应对GLP-1药物等巨大产能需求。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "诺和诺德CagriSema数据优异，阿斯利康与CSPC达成潜在超180亿美元的下一代减肥药广泛联盟，行业在代谢疾病领域竞争白热化。",
+      "临床试验": "关键进展包括CagriSema在II期糖尿病试验中优于司美格鲁肽的数据，以及协和麒麟披露其湿疹药物III期试验中的副作用信息。"
+    },
+    "tomorrow_watch": "需持续关注诺和诺德CagriSema后续临床开发计划及其对礼来Zepbound的竞争影响；安进Tavneos数据完整性重审的进展与潜在监管后果；以及FDA PreCheck制造加速计划的申请与实施初期反馈。"
+  }
+}
