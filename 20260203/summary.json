@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-03",
+  "generated_at": "2026-02-04T04:10:54.398736",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260203/daily.md",
+    "html": "docs/20260203/index.html",
+    "directory": "docs/20260203"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅药物研发进展与监管审批。诺和诺德新一代代谢药物CagriSema在糖尿病试验中表现优于司美格鲁肽，成为肥胖症/糖尿病领域的重要突破；FDA对CAR-T疗法用于自身免疫性疾病展现出审慎支持态度，同时阿斯利康皮下注射版狼疮药物Saphnelo遭FDA拒绝，凸显监管复杂性。此外，礼来宣布35亿美元新工厂投资，印度政府投入11亿美元推动生物制剂发展，显示全球产能布局与产业升级趋势。",
+    "top_news": [
+      {
+        "index": 9,
+        "title": "New CagriSema data show improvement over semaglutide",
+        "importance": 5,
+        "reason": "诺和诺德新一代代谢药物CagriSema在降糖减重方面优于重磅药物司美格鲁肽，可能重塑肥胖症/糖尿病治疗格局",
+        "category": "临床试验"
+      },
+      {
+        "index": 1,
+        "title": "FDA signals tailored approach to 'carefully shepherd' CAR-T therapy for autoimmune diseases",
+        "importance": 5,
+        "reason": "FDA首次明确支持CAR-T疗法用于自身免疫性疾病，开辟了细胞治疗新应用领域",
+        "category": "监管审批"
+      },
+      {
+        "index": 19,
+        "title": "Lilly rounds out quartet of new US plants with $3.5B injectable and device facility in Pa.",
+        "importance": 4,
+        "reason": "礼来投资35亿美元建设新工厂，完成其美国制造扩张计划，应对GLP-1药物需求激增",
+        "category": "商业动态"
+      },
+      {
+        "index": 14,
+        "title": "India will invest $1.1B to boost development of biologics, biosimilars",
+        "importance": 4,
+        "reason": "印度政府投入11亿美元推动生物制剂发展，标志该国从仿制药向生物制药的战略转型",
+        "category": "政策法规"
+      },
+      {
+        "index": 15,
+        "title": "FDA rejects AZ's subQ Saphnelo, but company expects quick turnaround for new approval decision",
+        "importance": 4,
+        "reason": "阿斯利康皮下注射版狼疮药物遭FDA拒绝，但公司预计快速解决，影响重要产品线扩展",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "诺和诺德CagriSema在糖尿病试验中显示优于司美格鲁肽的疗效；安进放弃湿疹药物开发；中国基因编辑初创公司AccurEdit融资7500万美元推进CRISPR疗法；Ultragenyx公布基因疗法新数据支持重新提交申请；辉瑞月度GLP-1药物显示减重效果。",
+      "临床试验": "CagriSema在2型糖尿病患者的III期试验中达到主要终点；Argo Biopharma的siRNA疗法BW‑20829启动IIb期试验；Kyowa Kirin在湿疹药物III期试验中披露副作用事件；En Carta Diagnostics的莱姆病检测设备获FDA突破性设备认定。"
+    },
+    "tomorrow_watch": "重点关注FDA对CAR-T用于自身免疫性疾病的具体监管框架细节；阿斯利康如何快速解决Saphnelo皮下注射版的审批问题；诺和诺德CagriSema与礼来Zepbound的市场竞争态势演变；安进Tavneos数据完整性审查的最终结果及其市场影响。"
+  }
+}
