@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-04",
+  "generated_at": "2026-02-05T04:14:07.435224",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260204/daily.md",
+    "html": "docs/20260204/index.html",
+    "directory": "docs/20260204"
+  },
+  "analysis": {
+    "overview": "今日行业动态聚焦于监管政策与重磅药物市场表现。FDA罕见儿科疾病优先审评券计划重新授权至2029年，为儿科新药研发注入强心剂；礼山（Eli Lilly）GLP-1药物销售预期强劲，尽管面临定价压力；安进（Amgen）罕见病药物Tavneos面临FDA撤市要求但公司拒绝执行，凸显监管博弈。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA’s rare pediatric disease voucher program revived by 2026 government funding bill",
+        "importance": 5,
+        "reason": "罕见儿科疾病优先审评券计划重新授权至2029年，将显著激励儿科罕见病药物研发。",
+        "category": "政策法规"
+      },
+      {
+        "index": 11,
+        "title": "Even with pricing headwinds, Eli Lilly expects sales surge to continue in 2026",
+        "importance": 5,
+        "reason": "礼山GLP-1药物Mounjaro和Zepbound销售预期强劲，是当前制药市场最大增长引擎。",
+        "category": "市场分析"
+      },
+      {
+        "index": 28,
+        "title": "FDA seeks withdrawal of Amgen's Tavneos, but company says it won't pull drug",
+        "importance": 4,
+        "reason": "FDA要求撤市但安进拒绝，涉及罕见病药物安全性与监管权威的罕见公开对抗。",
+        "category": "监管审批"
+      },
+      {
+        "index": 15,
+        "title": "India will invest $1.1B to boost development of biologics, biosimilars",
+        "importance": 4,
+        "reason": "印度政府巨额投资生物药与生物类似药，标志其从仿制药向生物制药的战略转型。",
+        "category": "商业动态"
+      },
+      {
+        "index": 3,
+        "title": "FDA signals tailored approach to ‘carefully shepherd’ CAR-T therapy for autoimmune diseases",
+        "importance": 4,
+        "reason": "FDA表态支持CAR-T疗法向自身免疫病领域拓展，预示细胞疗法新前沿的监管路径。",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "CAR-T疗法向自身免疫病拓展获FDA支持；诺和诺德（Novo Nordisk）CagriSema组合疗法在糖尿病试验中达到目标；FDA授予En Carta Diagnostics莱姆病检测设备突破性设备认定。",
+      "临床试验": "诺和诺德CagriSema在糖尿病试验中显示出优于Wegovy的降糖和减重效果；辉瑞（Pfizer）在财报中提及肥胖症药物的积极数据。"
+    },
+    "tomorrow_watch": "关注安进（Amgen）与FDA就Tavneos撤市要求的后续进展；留意印度生物制药投资计划的具体实施细节；监测首批10种Medicare谈判药品价格生效后对患者实际节省的影响评估。"
+  }
+}
