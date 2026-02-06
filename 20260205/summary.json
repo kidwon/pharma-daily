@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-05",
+  "generated_at": "2026-02-06T04:14:16.803954",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260205/daily.md",
+    "html": "docs/20260205/index.html",
+    "directory": "docs/20260205"
+  },
+  "analysis": {
+    "overview": "今日制药行业呈现多维度活跃态势，AI驱动的新药研发公司Generate:Biomedicines在启动关键III期试验后迅速申请IPO，凸显了资本市场对AI制药的高度关注。同时，围绕GLP-1药物（如诺和诺德的Wegovy）的市场竞争加剧，Hims & Hers推出低价复方版本引发法律与监管争议，而礼来和诺和诺德凭借强劲销售数据继续主导该领域。此外，美国政府的资金法案重新授权了罕见儿科疾病优先审评券计划，为相关药物开发提供了政策激励。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Flagship's Generate:Biomedicines files for IPO, pitching AI-driven drugs",
+        "importance": 5,
+        "reason": "AI制药领军企业在关键III期试验启动后立即申请IPO，标志着AI驱动药物研发进入资本化关键阶段，对行业具有风向标意义。",
+        "category": "新药研发"
+      },
+      {
+        "index": 10,
+        "title": "Him & Hers plans to offer cheaper version of Wegovy pill, prompting Novo Nordisk to threaten legal action",
+        "importance": 5,
+        "reason": "GLP-1药物市场竞争白热化，低价复方版本的出现可能颠覆定价模式，引发品牌药企法律反击与FDA监管关注，影响巨大。",
+        "category": "市场分析"
+      },
+      {
+        "index": 2,
+        "title": "FDA’s rare pediatric disease voucher program revived by 2026 government funding bill",
+        "importance": 4,
+        "reason": "美国政府资金法案重新授权罕见儿科疾病优先审评券计划至2029年，为相关药物研发提供了持续的政策激励，影响研发导向。",
+        "category": "政策法规"
+      },
+      {
+        "index": 14,
+        "title": "Even with pricing headwinds, Eli Lilly expects sales surge to continue in 2026",
+        "importance": 4,
+        "reason": "礼来公司GLP-1药物Mounjaro和Zepbound销售势头强劲，2025年合计销售额超360亿美元，其2026年乐观预测巩固了其在代谢疾病领域的领导地位。",
+        "category": "市场分析"
+      },
+      {
+        "index": 17,
+        "title": "Amgen resists FDA request to pull rare disease drug Tavneos from the market",
+        "importance": 4,
+        "reason": "安进公司罕见病药物Tavneos面临FDA撤市要求但予以拒绝，凸显了药品上市后监管与药企之间的潜在冲突，对罕见病药物市场有警示作用。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "以Generate:Biomedicines为代表的AI驱动药物发现公司成为焦点，其IPO申请与研发进展同步，显示技术平台正加速向临床和资本市场转化。此外，Veradermics针对生发等美学领域的口服药物研发也获得资本青睐。",
+      "临床试验": "新闻中直接提及的临床试验进展较少，但Generate:Biomedicines在首个患者给药9天后即申请IPO，暗示其III期试验的启动是关键的催化剂。BMS也预告了多项即将到来的后期管线数据读出，可能带来新的催化剂。"
+    },
+    "tomorrow_watch": "需密切关注FDA对Hims & Hers销售复方GLP-1药物可能采取的监管行动，以及诺和诺德是否会正式启动法律诉讼。同时，Generate:Biomedicines等多家生物技术公司的IPO定价和首日表现将反映资本市场对生物科技板块，特别是AI制药领域的情绪。此外，印度政府宣布的11亿美元生物制剂/生物类似药投资计划的具体实施细节值得关注。"
+  }
+}
