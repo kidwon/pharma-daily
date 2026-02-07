@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-06",
+  "generated_at": "2026-02-07T04:07:08.979348",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260206/daily.md",
+    "html": "docs/20260206/index.html",
+    "directory": "docs/20260206"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在GLP-1药物市场的激烈竞争与监管冲突，以及生物科技IPO市场的显著复苏。FDA局长公开警告将打击Hims & Hers等公司对Wegovy仿制版的大规模营销，引发行业对合规风险的关注。同时，多家AI驱动和生物科技公司成功进行IPO，显示资本市场对创新疗法的信心回暖。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "FDA's Makary pledges crackdown on mass marketing of 'illegal copycat drugs' in wake of Hims' Wegovy pill push",
+        "importance": 5,
+        "reason": "FDA局长公开表态将严厉打击GLP-1药物仿制版的大规模营销，直接影响减肥药市场竞争格局与合规环境。",
+        "category": "政策法规"
+      },
+      {
+        "index": 13,
+        "title": "Him & Hers plans to offer cheaper version of Wegovy pill, prompting Novo Nordisk to threaten legal action",
+        "importance": 5,
+        "reason": "Hims & Hers推出低价Wegovy仿制版引发诺和诺德法律威胁，凸显GLP-1市场定价战与知识产权冲突。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "Flagship's Generate:Biomedicines files for IPO, pitching AI-driven drugs",
+        "importance": 4,
+        "reason": "AI生物技术领军企业在III期试验启动后迅速申请IPO，反映资本市场对AI驱动药物研发的高度关注。",
+        "category": "商业动态"
+      },
+      {
+        "index": 25,
+        "title": "Agomab, SpyGlass cap biggest week for biotech IPOs since 2021",
+        "importance": 4,
+        "reason": "生物科技IPO迎来自2021年以来最活跃的一周，显示行业融资环境显著改善。",
+        "category": "商业动态"
+      },
+      {
+        "index": 4,
+        "title": "FDA’s rare pediatric disease voucher program revived by 2026 government funding bill",
+        "importance": 4,
+        "reason": "政府资助法案重新授权罕见儿科疾病优先审评券计划，将加速儿童罕见病药物开发。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "AI驱动药物研发公司Generate:Biomedicines推进管线；安斯泰来抗癌药Vyloy销售超预期；BMS和GSK强调以产品为核心的研发策略。",
+      "临床试验": "Generate:Biomedicines在III期试验给药后迅速申请IPO；BMS近期将有至少10项关键临床数据读出，提振管线信心。"
+    },
+    "tomorrow_watch": "重点关注FDA对Hims & Hers复合版Wegovy的监管行动进展，以及诺和诺德可能采取的法律措施；同时留意生物科技IPO市场的后续表现，特别是Generate:Biomedicines等公司的上市后股价走势。"
+  }
+}
