@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-07",
+  "generated_at": "2026-02-08T04:31:46.674101",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260207/daily.md",
+    "html": "docs/20260207/index.html",
+    "directory": "docs/20260207"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在GLP-1药物市场的激烈竞争与监管冲突上。FDA局长公开警告将严厉打击非法仿制药的大规模营销，直接针对Hims & Hers计划销售的复合版Wegovy药片，后者已因此取消销售计划。同时，诺和诺德通过超级碗广告大力推广其Wegovy药片，而礼来和诺和诺德在定价压力下仍预期销售强劲增长。此外，生物技术IPO市场迎来自2021年以来最活跃的一周，多家公司成功上市。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA's Makary pledges crackdown on mass marketing of 'illegal copycat drugs' in wake of Hims' Wegovy pill push",
+        "importance": 5,
+        "reason": "FDA局长公开承诺严厉打击非法仿制药营销，直接回应Hims事件，预示监管对GLP-1等热门药物仿制品的强硬立场，影响行业合规与市场格局。",
+        "category": "政策法规"
+      },
+      {
+        "index": 4,
+        "title": "Hims cancels plans to sell compounded GLP-1 pill after FDA backlash",
+        "importance": 5,
+        "reason": "Hims在FDA和司法部调查压力下取消销售复合版Wegovy药片的计划，标志着监管机构对未批准GLP-1药物仿制品的执法升级，对直接面向消费者的药物销售模式构成重大挑战。",
+        "category": "政策法规"
+      },
+      {
+        "index": 11,
+        "title": "Novo adds star-studded first Super Bowl spot to Wegovy pill’s ‘dramatic’ rollout blitz",
+        "importance": 4,
+        "reason": "诺和诺德在超级碗投放Wegovy药片广告，显示其对该重磅口服GLP-1药物市场推广的巨额投入和雄心，加剧了与礼来等对手在减肥药市场的竞争。",
+        "category": "市场分析"
+      },
+      {
+        "index": 16,
+        "title": "Even with pricing headwinds, Eli Lilly expects sales surge to continue in 2026",
+        "importance": 4,
+        "reason": "礼来预计其GLP-1药物Mounjaro和Zepbound在2026年定价压力下仍将推动收入大幅增长至800-850亿美元，凸显了该类药物的巨大市场主导力和增长韧性。",
+        "category": "市场分析"
+      },
+      {
+        "index": 24,
+        "title": "Agomab, SpyGlass cap biggest week for biotech IPOs since 2021",
+        "importance": 4,
+        "reason": "Agomab和SpyGlass等多家生物技术公司完成IPO，标志着自2021年以来最活跃的生物技术IPO周，可能预示着生物技术融资市场的回暖。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "安进将OX40自身免疫候选药物返还给协和麒麟，为该靶点前景带来不确定性；罗氏以高达17亿美元的价格与Sanege达成RNA干扰项目合作；第一三共削减ADC管线；Astellas的first-in-class癌症药物Vyloy在试验受挫后销售仍激增；Generate（一家AI驱动的生物技术公司）计划IPO，开发哮喘药物Tezspire的潜在竞争对手。",
+      "临床试验": "百时美施贵宝（BMS）强调了今年即将到来的至少10项潜在数据读出，投资者对其后期管线重燃兴奋。"
+    },
+    "tomorrow_watch": "需密切关注FDA对Hims & Hers事件的后续调查与执法行动，以及其对整个复合药物和直接面向消费者（DTC）药物销售模式的潜在影响。同时，关注诺和诺德Wegovy药片超级碗广告后的市场反响和销售数据初现端倪。此外，观察本周密集的生物技术IPO（如Veradermics、Eikon、Agomab、SpyGlass）上市后的股价表现，以判断生物技术融资窗口是否持续开放。"
+  }
+}
