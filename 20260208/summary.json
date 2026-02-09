@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-08",
+  "generated_at": "2026-02-09T04:26:58.347518",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260208/daily.md",
+    "html": "docs/20260208/index.html",
+    "directory": "docs/20260208"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在GLP-1药物市场，FDA对Hims & Hers销售未经批准的复方Wegovy片剂采取强硬监管立场，引发广泛关注。同时，多项生物技术公司IPO活动活跃，显示市场信心有所回暖。此外，政府资金法案的签署恢复了罕见儿科疾病优先审评券计划，并对孤儿药政策进行了调整。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA's Makary pledges crackdown on mass marketing of 'illegal copycat drugs' in wake of Hims' Wegovy pill push",
+        "importance": 5,
+        "reason": "FDA局长公开承诺打击未经批准的“仿冒药”大规模营销，直接针对GLP-1药物市场乱象，监管态度强硬，对行业合规性有重大影响。",
+        "category": "政策法规"
+      },
+      {
+        "index": 4,
+        "title": "Hims cancels plans to sell compounded GLP-1 pill after FDA backlash",
+        "importance": 5,
+        "reason": "Hims在FDA施压下取消销售复方GLP-1药丸的计划，标志着监管机构对直接面向消费者的复方药物销售模式的重大干预。",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "FDA’s rare pediatric disease voucher program revived by 2026 government funding bill",
+        "importance": 4,
+        "reason": "政府资金法案恢复了FDA的罕见儿科疾病优先审评券计划，将加速针对罕见儿童疾病的新药开发，对相关研发管线有积极影响。",
+        "category": "政策法规"
+      },
+      {
+        "index": 22,
+        "title": "Eikon Therapeutics nets a $381M IPO amid burst of biotech offerings",
+        "importance": 4,
+        "reason": "Eikon Therapeutics完成3.81亿美元IPO，是近期生物技术IPO热潮的一部分，反映了资本市场对生物技术板块的兴趣复苏。",
+        "category": "商业动态"
+      },
+      {
+        "index": 16,
+        "title": "Even with pricing headwinds, Eli Lilly expects sales surge to continue in 2026",
+        "importance": 4,
+        "reason": "礼来公司预计其重磅产品Mounjaro和Zepbound在2026年将继续推动销售大幅增长，尽管面临定价压力，显示了GLP-1市场的强劲需求。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发新闻相对较少，焦点更多在监管和市场。但涉及安进与协和麒麟在OX40药物上的合作终止、罗氏签署价值高达17亿美元的RNAi项目协议，以及第一三共的ADC管线调整，显示大药企仍在积极调整和布局研发管线。",
+      "临床试验": "今日新闻中明确提及临床试验进展的较少。主要提及了BMS有多个后期管线数据即将读出，以及Astellas的癌症药物Vyloy在试验受挫后销售仍超预期，暗示了临床结果与商业表现之间的复杂关系。"
+    },
+    "tomorrow_watch": "明日值得关注FDA对Hims & Hers事件的后续处理进展，以及是否会有更多关于复方GLP-1药物的监管指引出台。同时，需留意近期完成IPO的生物技术公司（如Eikon, Veradermics, Agomab, SpyGlass）上市后的股价表现，以判断IPO窗口的可持续性。此外，关注礼来和诺和诺德等GLP-1市场主要玩家对Hims事件的官方回应及市场策略调整。"
+  }
+}
