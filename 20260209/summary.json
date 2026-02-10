@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-09",
+  "generated_at": "2026-02-10T04:30:34.655151",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260209/daily.md",
+    "html": "docs/20260209/index.html",
+    "directory": "docs/20260209"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在GLP-1药物领域的监管与市场冲突，以及大型药企在基因疗法和合作方面的战略布局。FDA对Hims & Hers销售复合版Wegovy的打击行动成为核心监管事件，而礼来以24亿美元收购Orna Therapeutics则延续了其在体内CAR-T领域的投资热潮。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA's Makary pledges crackdown on mass marketing of 'illegal copycat drugs' in wake of Hims' Wegovy pill push",
+        "importance": 5,
+        "reason": "FDA局长公开表态将严厉打击非法仿制药的大规模营销，直接针对当前火热的GLP-1药物市场乱象，具有重大监管风向标意义。",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "Lilly buys ‘in vivo’ CAR-T maker Orna, extending streak of genetic medicine deals",
+        "importance": 5,
+        "reason": "礼来以高达24亿美元收购Orna Therapeutics，是其在基因疗法领域的最新重大布局，标志着体内CAR-T赛道的竞争加剧。",
+        "category": "商业动态"
+      },
+      {
+        "index": 10,
+        "title": "Hims retreats from weight loss pill launch as Novo, FDA pressure mounts",
+        "importance": 5,
+        "reason": "Hims在诺和诺德和FDA的双重压力下撤回其复合版减肥药上市计划，是GLP-1市场专利、监管与商业竞争冲突的集中体现。",
+        "category": "商业动态"
+      },
+      {
+        "index": 22,
+        "title": "Novo Nordisk sues Hims over Wegovy patent infringement, considers seeking 'hundreds of millions' in damages",
+        "importance": 4,
+        "reason": "诺和诺德对Hims提起专利侵权诉讼并考虑索赔数亿美元，是原研药企捍卫重磅药物市场的重要法律行动。",
+        "category": "商业动态"
+      },
+      {
+        "index": 20,
+        "title": "FDA rejects Regenxbio's Hunter syndrome gene therapy",
+        "importance": 4,
+        "reason": "FDA拒绝Regenxbio的亨特综合征基因疗法，对罕见病基因治疗领域具有重要警示和参考价值。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "涉及OX40靶点药物合作变动（安进/协和麒麟）、罗氏17亿美元RNAi项目合作、以及多项基因疗法（如体内CAR-T）和ADC管线的进展与调整。",
+      "临床试验": "罗氏展示了多发性硬化症新药数据，试图缓解投资者担忧；Astellas的癌症药物Vyloy在试验受挫后销售仍超预期。"
+    },
+    "tomorrow_watch": "需持续关注FDA对复合GLP-1药物监管行动的后续发展、诺和诺德与Hims专利诉讼的进展、以及礼来收购Orna后体内CAR-T领域的竞争格局变化。此外，FDA局长承诺的打击行动是否扩展到其他“仿制”药物领域也值得观察。"
+  }
+}
