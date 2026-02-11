@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-10",
+  "generated_at": "2026-02-11T04:29:12.342072",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260210/daily.md",
+    "html": "docs/20260210/index.html",
+    "directory": "docs/20260210"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在FDA对GLP-1类药物仿制品的严厉打击以及诺和诺德与Hims的专利纠纷上，同时礼来以24亿美元收购Orna Therapeutics进军体内CAR-T领域，显示出基因疗法赛道的持续火热。此外，阿斯利康重申其2030年800亿美元营收目标，并计划推出超过25款重磅药物。",
+    "top_news": [
+      {
+        "index": 13,
+        "title": "Hims retreats from weight loss pill launch as Novo, FDA pressure mounts",
+        "importance": 5,
+        "reason": "FDA和诺和诺德的双重压力导致Hims撤回其GLP-1仿制药计划，凸显了监管和专利保护对新兴市场的关键影响。",
+        "category": "政策法规"
+      },
+      {
+        "index": 4,
+        "title": "Lilly buys ‘in vivo’ CAR-T maker Orna, extending streak of genetic medicine deals",
+        "importance": 5,
+        "reason": "礼来以高达24亿美元收购Orna，标志着大型药企加速布局体内CAR-T等下一代基因疗法。",
+        "category": "商业动态"
+      },
+      {
+        "index": 10,
+        "title": "AstraZeneca sets sights on 25+ blockbusters by 2030 to fuel $80B revenue ambition",
+        "importance": 4,
+        "reason": "阿斯利康公布雄心勃勃的2030年营收目标及产品管线规划，对行业竞争格局有重要影响。",
+        "category": "市场分析"
+      },
+      {
+        "index": 3,
+        "title": "Nektar, continuing comeback, says eczema drug’s effects hold up in follow-up study",
+        "importance": 4,
+        "reason": "Nektar的湿疹药物在后续研究中疗效持续，市值突破10亿美元，可能挑战Dupixent的市场地位。",
+        "category": "临床试验"
+      },
+      {
+        "index": 15,
+        "title": "FDA rejects Regenxbio treatment in another blow to gene therapy",
+        "importance": 4,
+        "reason": "FDA拒绝Regenxbio的基因疗法，是基因治疗领域近期遭遇的又一监管挫折，引发行业对审评标准的关注。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "礼来收购Orna进军体内CAR-T，安进与协和麒麟终止OX40合作，罗氏达成17亿美元RNAi交易，显示新靶点和技术平台（ADC、RNAi、基因疗法）持续受到巨头青睐。",
+      "临床试验": "Nektar湿疹药物rezpeg公布一年期积极数据，Evommune湿疹药物中期数据积极，罗氏展示多发性硬化症新药数据，显示免疫疾病领域竞争激烈。"
+    },
+    "tomorrow_watch": "需持续关注FDA对GLP-1仿制药及药企广告的监管后续行动，诺和诺德与Hims专利诉讼的进展，以及礼来与Innovent高达90亿美元新合作的具体细节披露。"
+  }
+}
