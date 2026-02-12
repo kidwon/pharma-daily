@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-11",
+  "generated_at": "2026-02-12T04:24:57.915359",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260211/daily.md",
+    "html": "docs/20260211/index.html",
+    "directory": "docs/20260211"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在监管审批与临床数据两大领域。FDA对Moderna流感疫苗申请的拒绝及内部争议引发行业对监管标准稳定性的担忧，同时默克Keytruda在卵巢癌适应症获批、礼来与Orna的CAR-T收购等重大交易显示肿瘤与基因疗法持续火热。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Merck pushes Keytruda across the FDA finish line for its first ovarian cancer nod",
+        "importance": 5,
+        "reason": "Keytruda首次获批卵巢癌适应症，突破难治肿瘤领域，巩固其肿瘤免疫龙头地位。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Lilly buys ‘in vivo’ CAR-T maker Orna, extending streak of genetic medicine deals",
+        "importance": 5,
+        "reason": "礼来以高达24亿美元收购体内CAR-T公司Orna，延续基因疗法布局趋势，强化肿瘤管线。",
+        "category": "商业动态"
+      },
+      {
+        "index": 15,
+        "title": "FDA refuses to review Moderna’s mRNA flu vaccine",
+        "importance": 5,
+        "reason": "FDA拒绝审查Moderna mRNA流感疫苗，监管决策内部争议凸显审批标准不确定性，影响mRNA技术扩展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Evommune rockets on eczema data; AstraZeneca advances GLP-1 pill",
+        "importance": 4,
+        "reason": "Evommune湿疹药物中期数据积极，挑战Dupixent市场；阿斯利康口服GLP-1进展显示代谢疾病竞争加剧。",
+        "category": "临床试验"
+      },
+      {
+        "index": 8,
+        "title": "Madrigal turns to RNAi drugs from China to bolster MASH pipeline",
+        "importance": 4,
+        "reason": "Madrigal以潜在44亿美元合作引进中国瑞博生物6款RNAi药物，强化MASH领域布局，凸显中美生物技术合作趋势。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Keytruda卵巢癌新适应症获批、口服GLP-1及RNAi药物引进显示肿瘤与代谢疾病研发活跃，基因疗法（如CAR-T）持续受巨头关注。",
+      "临床试验": "Evommune与Nektar的湿疹药物公布积极长期数据，挑战现有疗法；阿斯利康口服GLP-1推进临床，代谢疾病领域竞争升温。"
+    },
+    "tomorrow_watch": "关注FDA对Moderna流感疫苗申请的后续进展及行业监管关系演变；礼来与Orna的CAR-T技术整合动态；Madrigal与中国RNAi合作的具体管线推进。"
+  }
+}
