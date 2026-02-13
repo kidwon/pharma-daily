@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-12",
+  "generated_at": "2026-02-13T04:21:14.941646",
+  "theme": "minimal",
+  "total_items": 107,
+  "files": {
+    "markdown": "docs/20260212/daily.md",
+    "html": "docs/20260212/index.html",
+    "directory": "docs/20260212"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在FDA监管动态与重大临床进展。FDA疫苗部门负责人Vinay Prasad因推翻内部专家意见拒绝Moderna流感疫苗申请引发广泛争议，可能影响美国疫苗创新环境；同时默沙东Keytruda在卵巢癌领域获得首个FDA批准，这是该PD-1明星药物攻克的又一难治癌种。此外，Madrigal以潜在44亿美元引进中国瑞博生物6款siRNA药物，显著加强其MASH管线布局。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Merck pushes Keytruda across the FDA finish line for its first ovarian cancer nod",
+        "importance": 5,
+        "reason": "Keytruda首次获批卵巢癌适应症，攻克了PD-1药物长期未能突破的难治癌种，具有重要临床意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 15,
+        "title": "FDA refuses to review Moderna’s mRNA flu vaccine",
+        "importance": 5,
+        "reason": "FDA疫苗部门负责人Vinay Prasad推翻内部专家意见拒绝Moderna申请，引发监管争议并可能影响整个疫苗行业创新。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Madrigal pads MASH pipeline with six siRNAs from China's Ribo",
+        "importance": 4,
+        "reason": "Madrigal以潜在44亿美元引进中国瑞博生物6款siRNA药物，是MASH领域的重要布局，涉及中美生物技术合作。",
+        "category": "商业动态"
+      },
+      {
+        "index": 8,
+        "title": "BridgeBio's dwarfism drug succeeds in Phase 3, adding to recent late-stage wins",
+        "importance": 4,
+        "reason": "BridgeBio侏儒症药物III期成功，这是该公司几个月内第三个晚期临床试验胜利，将提交FDA申请。",
+        "category": "临床试验"
+      },
+      {
+        "index": 13,
+        "title": "AstraZeneca sets sights on 25+ blockbusters by 2030 to fuel $80B revenue ambition",
+        "importance": 4,
+        "reason": "阿斯利康提出2030年800亿美元营收目标，计划拥有25+个重磅药物，展现大型药企长期战略雄心。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发进展集中在肿瘤和罕见病领域。默沙东Keytruda在卵巢癌获得突破性批准；BridgeBio的侏儒症药物III期成功；Evommune报告湿疹药物积极中期数据；Madrigal通过引进siRNA药物加强MASH管线；Novocure的胰腺癌电场治疗设备获得FDA批准。",
+      "临床试验": "临床试验方面，BridgeBio侏儒症药物III期成功；Evommune湿疹药物报告积极中期数据；Lyell启动首个头对头CAR-T疗法试验；阿斯利康推进GLP-1口服药研发。细胞疗法领域出现直接比较现有疗法的试验设计趋势。"
+    },
+    "tomorrow_watch": "需持续关注FDA疫苗部门负责人Vinay Prasad引发的监管争议后续影响，特别是对mRNA疫苗审批标准的影响；Moderna是否会按FDA建议针对老年人群重新提交流感疫苗申请；CSL CEO更换后的公司战略调整；以及AbbVie对Botox被纳入IRA谈判的法律挑战进展。"
+  }
+}
