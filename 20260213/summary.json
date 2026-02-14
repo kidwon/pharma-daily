@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-13",
+  "generated_at": "2026-02-14T04:10:24.806966",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260213/daily.md",
+    "html": "docs/20260213/index.html",
+    "directory": "docs/20260213"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在FDA监管动态与重磅药物进展。默沙东Keytruda首次获批卵巢癌适应症，礼来积极备货口服GLP-1药物，而FDA对Moderna流感疫苗的拒绝引发行业对监管环境不确定性的担忧。同时，诺华计划推进IgAN药物Vanrafia的完全批准申请，尽管III期试验未达主要终点。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Merck pushes Keytruda across the FDA finish line for its first ovarian cancer nod",
+        "importance": 5,
+        "reason": "Keytruda作为全球重磅肿瘤药，首次攻克难治性卵巢癌适应症，具有重大临床与市场意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Lilly's pre-launch inventory of oral GLP-1 candidate swells ahead of expected FDA obesity nod",
+        "importance": 5,
+        "reason": "礼来为口服GLP-1药物大规模备货，预示其即将获批并可能颠覆肥胖症治疗市场格局。",
+        "category": "新药研发"
+      },
+      {
+        "index": 5,
+        "title": "With the FDA's Moderna decision, vaccine makers face increasingly uncertain regulatory environment",
+        "importance": 4,
+        "reason": "FDA拒绝Moderna流感疫苗并引发争议，可能预示着疫苗审批标准趋严，影响整个疫苗行业研发策略。",
+        "category": "政策法规"
+      },
+      {
+        "index": 6,
+        "title": "Novartis to seek full FDA approval for IgAN drug Vanrafia despite missing ph. 3 kidney function goal",
+        "importance": 4,
+        "reason": "诺华在III期试验未达主要终点的情况下仍寻求完全批准，反映了在竞争激烈的IgAN领域独特的监管策略。",
+        "category": "监管审批"
+      },
+      {
+        "index": 12,
+        "title": "FDA removes box warnings for 6 menopausal therapies",
+        "importance": 4,
+        "reason": "FDA解除更年期激素疗法最严重的黑框警告，可能显著改变该类药物的风险认知与市场使用。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "礼来积极备货口服GLP-1药物orforglipron；吉利德从中国生物科技公司Genhouse Bio引进口服抗癌药；Evommune报告湿疹药物积极中期数据。",
+      "临床试验": "Lyell启动首个头对头CAR-T疗法试验，直接对标已上市产品；诺华IgAN药物Vanrafia III期试验未达主要终点但仍寻求批准。"
+    },
+    "tomorrow_watch": "需关注FDA对礼来口服GLP-1药物orforglipron的最终审批决定及其对肥胖症市场竞争格局的影响；同时，Moderna流感疫苗被拒引发的监管争议及FDA官员Prasad的相关调查进展也值得持续追踪。"
+  }
+}
