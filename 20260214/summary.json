@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-14",
+  "generated_at": "2026-02-15T04:21:57.547033",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260214/daily.md",
+    "html": "docs/20260214/index.html",
+    "directory": "docs/20260214"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于FDA监管决策与重磅药物进展。默克Keytruda首次获批卵巢癌适应症，礼来积极备货口服GLP-1药物以应对肥胖症市场；然而，FDA对Moderna流感疫苗的拒绝引发行业对监管环境不确定性的担忧，并可能影响疫苗创新。此外，诺华计划为IgAN药物Vanrafia寻求完全批准，尽管III期试验未达主要终点。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Merck pushes Keytruda across the FDA finish line for its first ovarian cancer nod",
+        "importance": 5,
+        "reason": "Keytruda作为重磅肿瘤药物，首次攻克难治性卵巢癌适应症，具有重大市场与临床意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Lilly's pre-launch inventory of oral GLP-1 candidate swells ahead of expected FDA obesity nod",
+        "importance": 5,
+        "reason": "礼来为口服GLP-1药物大规模备货，预示其将重磅进入肥胖症市场，可能颠覆现有格局。",
+        "category": "新药研发"
+      },
+      {
+        "index": 6,
+        "title": "With the FDA's Moderna decision, vaccine makers face increasingly uncertain regulatory environment",
+        "importance": 4,
+        "reason": "FDA拒绝Moderna流感疫苗引发对疫苗监管标准收紧的担忧，可能影响整个疫苗行业的研发策略与投资。",
+        "category": "政策法规"
+      },
+      {
+        "index": 7,
+        "title": "Novartis to seek full FDA approval for IgAN drug Vanrafia despite missing ph. 3 kidney function goal",
+        "importance": 4,
+        "reason": "诺华在III期试验未达主要终点的情况下仍寻求完全批准，反映了IgAN领域竞争激烈与监管策略的灵活性。",
+        "category": "监管审批"
+      },
+      {
+        "index": 13,
+        "title": "FDA removes box warnings for 6 menopausal therapies",
+        "importance": 4,
+        "reason": "FDA解除更年期疗法黑框警告，可能显著提升这些药物的使用率，重塑激素替代疗法市场。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "礼来积极备货口服GLP-1药物orforglipron，诺华推进IgAN药物Vanrafia，吉利德从中国Genhouse Bio获得口服癌症药物全球权益，以及Evommune报告湿疹药物中期积极数据。",
+      "临床试验": "Lyell启动首例CAR-T头对头试验，诺华IgAN药物III期试验未达主要终点但计划寻求批准，以及Novocure的胰腺癌设备Optune Pax获批（涉及临床数据支持）。"
+    },
+    "tomorrow_watch": "关注FDA对礼来口服GLP-1药物审批的进一步动态，Moderna就流感疫苗被拒可能采取的后续行动（如上诉或数据补充），以及诺华提交Vanrafia完全批准申请后FDA的审评态度。此外，AbbVie就Botox被纳入IRA谈判提起的诉讼进展也值得留意。"
+  }
+}
