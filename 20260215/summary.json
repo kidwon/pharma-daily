@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-15",
+  "generated_at": "2026-02-16T04:24:45.146536",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260215/daily.md",
+    "html": "docs/20260215/index.html",
+    "directory": "docs/20260215"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在FDA监管动态与重磅药物进展。默沙东Keytruda首次获批卵巢癌适应症，礼来积极备货口服GLP-1药物，而Moderna流感疫苗遭FDA拒绝引发行业对监管环境不确定性的担忧。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Merck pushes Keytruda across the FDA finish line for its first ovarian cancer nod",
+        "importance": 5,
+        "reason": "PD-1明星药Keytruda首次攻克难治性卵巢癌，标志重大治疗突破并扩大市场潜力。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Lilly's pre-launch inventory of oral GLP-1 candidate swells ahead of expected FDA obesity nod",
+        "importance": 5,
+        "reason": "礼来为口服GLP-1药物大规模备货，预示其将重磅冲击百亿美元减肥药市场。",
+        "category": "新药研发"
+      },
+      {
+        "index": 6,
+        "title": "With the FDA's Moderna decision, vaccine makers face increasingly uncertain regulatory environment",
+        "importance": 4,
+        "reason": "FDA拒绝Moderna流感疫苗引发行业对疫苗审批标准趋严的广泛担忧。",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "A pancreatic cancer approval; Seres cuts staff",
+        "importance": 4,
+        "reason": "Novocure胰腺癌电场疗法获FDA批准，为这一难治癌症提供首个新疗法。",
+        "category": "监管审批"
+      },
+      {
+        "index": 19,
+        "title": "AbbVie sues over selection of Botox for IRA negotiations",
+        "importance": 4,
+        "reason": "艾伯维就Botox被纳入医保谈判提起诉讼，可能影响《通胀削减法案》执行进程。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "礼来口服GLP-1药物orforglipron进入上市前备货阶段；诺华计划为IgA肾病药物Vanrafia寻求完全批准；基因疗法与CAR-T领域（如Lyell）有新试验启动。",
+      "临床试验": "Evommune报告湿疹药物中期积极数据；诺华IgA肾病药物III期未达主要终点但仍寻求批准；多项基因疗法临床试验遭遇挫折（如Ultragenyx）。"
+    },
+    "tomorrow_watch": "关注FDA对Moderna流感疫苗决定的后续行业反应及监管影响评估；礼来口服GLP-1肥胖症药物正式获批动态；CSL更换CEO后的战略调整与财务表现。"
+  }
+}
