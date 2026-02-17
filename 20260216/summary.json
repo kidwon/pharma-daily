@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-16",
+  "generated_at": "2026-02-17T04:19:01.990450",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260216/daily.md",
+    "html": "docs/20260216/index.html",
+    "directory": "docs/20260216"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在FDA监管动态与重磅药物进展。默沙东Keytruda首次获批卵巢癌适应症，礼来积极备货口服GLP-1药物，而FDA对Moderna流感疫苗的拒绝引发行业对监管环境不确定性的担忧。此外，诺华计划为IgAN药物Vanrafia寻求完全批准，艾伯维就Botox入选医保谈判提起诉讼。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Merck pushes Keytruda across the FDA finish line for its first ovarian cancer nod",
+        "importance": 5,
+        "reason": "PD-1明星药物Keytruda首次攻克难治性卵巢癌，标志重大适应症扩展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Lilly's pre-launch inventory of oral GLP-1 candidate swells ahead of expected FDA obesity nod",
+        "importance": 5,
+        "reason": "礼来为口服GLP-1药物大规模备货，预示其将重磅冲击肥胖症市场。",
+        "category": "新药研发"
+      },
+      {
+        "index": 6,
+        "title": "With the FDA's Moderna decision, vaccine makers face increasingly uncertain regulatory environment",
+        "importance": 4,
+        "reason": "FDA拒绝Moderna流感疫苗引发行业对疫苗审批标准趋严的广泛担忧。",
+        "category": "政策法规"
+      },
+      {
+        "index": 7,
+        "title": "Novartis to seek full FDA approval for IgAN drug Vanrafia despite missing ph. 3 kidney function goal",
+        "importance": 4,
+        "reason": "诺华计划为III期未达主要终点的IgAN药物寻求完全批准，策略值得关注。",
+        "category": "监管审批"
+      },
+      {
+        "index": 19,
+        "title": "AbbVie sues over selection of Botox for IRA negotiations",
+        "importance": 4,
+        "reason": "艾伯维就Botox入选医保谈判起诉CMS，是药企挑战《通胀削减法案》的首个法律案例。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "礼来积极备货口服GLP-1药物orforglipron；诺华推进IgAN药物Vanrafia；吉利德从中国公司Genhouse Bio引进口服抗癌药；Evommune报告湿疹药物积极中期数据。",
+      "临床试验": "Lyell启动首例CAR-T头对头临床试验；诺华IgAN药物Vanrafia III期结果公布（未达主要终点）。"
+    },
+    "tomorrow_watch": "关注FDA对礼来口服GLP-1药物orforglipron的审批预期、Moderna对FDA拒绝其流感疫苗的后续回应、以及艾伯维起诉CMS案件的进展。同时留意诺华寻求Vanrafia完全批准的后续策略。"
+  }
+}
