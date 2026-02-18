@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-17",
+  "generated_at": "2026-02-18T04:22:03.610736",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260217/daily.md",
+    "html": "docs/20260217/index.html",
+    "directory": "docs/20260217"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与临床试验突破。FDA对Moderna流感疫苗的拒绝引发行业对监管环境不确定性的担忧，而Compass Pathways的psilocybin在治疗抵抗性抑郁症的第二个III期试验成功，有望成为首个获批的经典迷幻药。同时，礼来积极储备口服GLP-1药物库存，以应对预期中的肥胖症适应症批准。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "Compass, with Phase 3 hits, ready to take psilocybin to the FDA",
+        "importance": 5,
+        "reason": "COMP360在第二个关键III期试验中成功，有望成为首个获批的经典迷幻药，是精神健康治疗领域的重大突破。",
+        "category": "临床试验"
+      },
+      {
+        "index": 12,
+        "title": "With the FDA's Moderna decision, vaccine makers face increasingly uncertain regulatory environment",
+        "importance": 5,
+        "reason": "FDA拒绝Moderna流感疫苗申请，被指“移动了球门柱”，可能为整个疫苗行业树立破坏性先例，影响深远。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Lilly's prelaunch inventory of oral GLP-1 candidate swells ahead of expected FDA obesity nod",
+        "importance": 4,
+        "reason": "礼来为应对预期中的口服GLP-1肥胖症药物批准而大量备货，凸显其市场雄心并试图避免此前GLP-1药物的供应短缺问题。",
+        "category": "新药研发"
+      },
+      {
+        "index": 1,
+        "title": "Lilly's rare cancer drug Retevmo looks to broaden reach with adjuvant trial win",
+        "importance": 4,
+        "reason": "礼来罕见癌症药物Retevmo在辅助治疗试验中获胜，有望扩大适应症至更早期患者，提升市场潜力。",
+        "category": "临床试验"
+      },
+      {
+        "index": 25,
+        "title": "AbbVie sues over selection of Botox for IRA negotiations",
+        "importance": 4,
+        "reason": "艾伯维就Botox被选入IRA（通胀削减法案）医保谈判提起诉讼，是首个针对第三轮谈判的法律挑战，对行业有重要政策影响。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发焦点集中在下一代疗法，如礼来的口服GLP-1肥胖症候选药物（orforglipron）的上市前准备，以及迷幻药（psilocybin）在精神健康领域接近监管提交。此外，罗氏将其癌症药物Gazyva成功拓展至自身免疫性肾病，展示了药物重定位的潜力。",
+      "临床试验": "关键III期试验结果频传。Compass Pathways的psilocybin（COMP360）在治疗抵抗性抑郁症的第二个III期试验成功，为FDA提交铺平道路。Ocular Therapeutix的湿性AMD药物在头对头试验中击败Eylea，礼来的Retevmo在辅助治疗试验中获胜，诺华计划为IgAN药物Vanrafia寻求完全批准（尽管错过主要终点）。"
+    },
+    "tomorrow_watch": "需密切关注FDA对Compass Pathways的psilocybin滚动上市申请（BLA）的反馈态度，这将是迷幻药治疗领域的里程碑。同时，关注礼来就其实验性肥胖症药物retatrutide分类提起上诉的进展，其结果可能影响复合药房竞争格局。此外，Moderna流感疫苗遭拒后公司的下一步策略及其对2028年盈亏平衡目标的影响也值得追踪。"
+  }
+}
