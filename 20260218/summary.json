@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-18",
+  "generated_at": "2026-02-19T04:19:58.161920",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260218/daily.md",
+    "html": "docs/20260218/index.html",
+    "directory": "docs/20260218"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于多个关键领域：诺华和礼来在慢性荨麻疹、罕见癌症及口服GLP-1药物方面取得重要进展；Compass Pathways的psilocybin在治疗抵抗性抑郁症的III期试验中再次成功，有望成为首个经典迷幻药疗法；监管方面，FDA对Disc Medicine罕见病药物的拒绝引发关注，同时参议院提出FDA改革提案。",
+    "top_news": [
+      {
+        "index": 3,
+        "title": "Compass, with Phase 3 hits, ready to take psilocybin to the FDA",
+        "importance": 5,
+        "reason": "COMP360在治疗抵抗性抑郁症的第二个关键III期试验中成功，有望成为首个获批的经典迷幻药，是精神疾病治疗领域的重大突破。",
+        "category": "临床试验"
+      },
+      {
+        "index": 4,
+        "title": "Lilly's prelaunch inventory of oral GLP-1 candidate swells ahead of expected FDA obesity nod",
+        "importance": 5,
+        "reason": "礼来为口服减肥药orforglipron大量备货，预示其即将获批并可能颠覆巨大的GLP-1市场，是商业和研发的双重重大事件。",
+        "category": "新药研发"
+      },
+      {
+        "index": 1,
+        "title": "Novartis heads to FDA with Rhapsido after phase 3 win in untapped chronic hives subtype",
+        "importance": 4,
+        "reason": "诺华口服BTK抑制剂Rhapsido在慢性荨麻疹新亚型中取得III期成功，将寻求扩大适应症，是自身免疫疾病领域的重要进展。",
+        "category": "临床试验"
+      },
+      {
+        "index": 6,
+        "title": "FDA rejects Disc Medicine's rare disease drug despite granting it a commissioner voucher",
+        "importance": 4,
+        "reason": "FDA首次拒绝通过其快速审评计划（专员凭证计划）提交的罕见病药物，引发对监管标准和程序有效性的重要讨论。",
+        "category": "监管审批"
+      },
+      {
+        "index": 11,
+        "title": "Senate health committee chair plots future FDA changes",
+        "importance": 4,
+        "reason": "参议院健康委员会主席提出FDA改革提案，涉及药品审批、与中国竞争等关键议题，可能对未来行业监管产生深远影响。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发活动活跃，礼来为口服GLP-1药物orforglipron大规模备货，诺华计划为IgA肾病药物Vanrafia寻求完全批准，罗氏拓展Gazyva在肾脏自身免疫疾病中的应用，以及多个公司在眼科、癌症代谢等领域的进展。",
+      "临床试验": "关键III期试验结果频传：Compass Pathways的psilocybin（COMP360）在治疗抵抗性抑郁症的第二项III期试验中成功；诺华的Rhapsido在慢性荨麻疹新亚型中III期获胜；礼来的Retevmo在罕见癌症辅助治疗试验中获胜；Ocular Therapeutix的湿性AMD疗法在头对头试验中击败Eylea。"
+    },
+    "tomorrow_watch": "1. 关注FDA对Compass Pathways的psilocybin滚动上市申请（BLA）的反馈和后续审评时间表。2. 关注礼来口服GLP-1药物orforglipron的正式批准决定及其对市场供应和竞争格局的即时影响。3. 关注参议院FDA改革提案的后续讨论和可能引发的行业反响。4. 关注因Compass成功而股价波动的其他迷幻药开发公司的后续动态。"
+  }
+}
