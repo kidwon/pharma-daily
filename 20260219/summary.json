@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-19",
+  "generated_at": "2026-02-20T04:14:28.924746",
+  "theme": "minimal",
+  "total_items": 102,
+  "files": {
+    "markdown": "docs/20260219/daily.md",
+    "html": "docs/20260219/index.html",
+    "directory": "docs/20260219"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管政策重大调整与关键药物研发进展。FDA高层在《新英格兰医学杂志》发文，正式确立单一关键性试验作为新药审批的默认标准，此举可能显著降低研发成本并加速药物上市。同时，诺华、礼来、Compass等公司在慢性荨麻疹、罕见癌症辅助治疗及致幻剂疗法等领域取得重要临床进展，推动管线扩张。",
+    "top_news": [
+      {
+        "index": 18,
+        "title": "FDA leaders say one pivotal trial, not two, should be ‘default’ for drug approvals",
+        "importance": 5,
+        "reason": "FDA高层正式确立单一关键性试验为默认审批标准，是可能重塑全球药物研发与审评流程的重大政策转向。",
+        "category": "政策法规"
+      },
+      {
+        "index": 22,
+        "title": "FDA formalizes one pivotal trial policy via NEJM perspective",
+        "importance": 5,
+        "reason": "通过权威期刊正式阐述单一关键性试验政策，强化了FDA降低开发壁垒、加速药物可及性的监管改革决心。",
+        "category": "政策法规"
+      },
+      {
+        "index": 1,
+        "title": "Novartis heads to FDA with Rhapsido after phase 3 win in untapped chronic hives subtype",
+        "importance": 4,
+        "reason": "诺华口服BTK抑制剂在未满足需求的慢性荨麻疹亚型中取得III期成功并准备向FDA提交申请，显示其在自免领域管线拓展潜力。",
+        "category": "临床试验"
+      },
+      {
+        "index": 3,
+        "title": "Compass, with Phase 3 hits, ready to take psilocybin to the FDA",
+        "importance": 4,
+        "reason": "Compass的合成裸盖菇素疗法III期成功并准备滚动提交，有望成为首个“经典”致幻剂药物，开辟精神疾病治疗新范式。",
+        "category": "新药研发"
+      },
+      {
+        "index": 2,
+        "title": "Lilly's rare cancer drug Retevmo looks to broaden reach with adjuvant trial win",
+        "importance": 4,
+        "reason": "礼来罕见癌药Retevmo在辅助治疗试验中获胜，为将其应用从晚期治疗前移至早期巩固治疗奠定基础，扩大市场潜力。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "涉及多个前沿领域进展，包括Compass的致幻剂疗法准备提交FDA，Paragon新分拆公司Korsana对标罗氏开发阿尔茨海默病抗体，以及中国NeuExcell的脑癌基因疗法早期人体数据。",
+      "临床试验": "多个关键III期试验取得积极结果，涵盖诺华（慢性荨麻疹）、礼来（罕见癌辅助治疗）、罗氏（Gazyva用于肾脏疾病）、Ocular Therapeutix（湿性AMD）等，为后续监管提交和适应症扩展提供支持。"
+    },
+    "tomorrow_watch": "需密切关注FDA单一关键性试验新政策的具体实施细则与行业反馈，以及Compass与FDA就致幻剂药物滚动申请的会议进展。此外，强生10亿美元细胞疗法工厂的详细投资计划及对行业产能的影响也值得关注。"
+  }
+}
