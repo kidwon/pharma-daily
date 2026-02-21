@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-20",
+  "generated_at": "2026-02-21T04:06:13.201518",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260220/daily.md",
+    "html": "docs/20260220/index.html",
+    "directory": "docs/20260220"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管政策变革与重磅药物进展。FDA正式确立单关键性试验为新药审批默认标准，可能显著降低研发成本与时间。诺华、阿斯利康、Vanda等公司在BTK抑制剂、CLL疗法及精神分裂症药物领域取得重要监管进展，同时GLP-1药物在中国市场面临本土竞争压力。",
+    "top_news": [
+      {
+        "index": 23,
+        "title": "FDA formalizes one pivotal trial policy via NEJM perspective",
+        "importance": 5,
+        "reason": "FDA确立单关键性试验为默认审批标准，将系统性改变全球药物研发与监管格局，大幅影响行业成本与速度。",
+        "category": "政策法规"
+      },
+      {
+        "index": 4,
+        "title": "AstraZeneca's fixed-duration Calquence combo wins FDA nod as BeOne CLL rivalry heats up",
+        "importance": 5,
+        "reason": "FDA批准首个全口服、固定疗程CLL组合疗法，标志着BTK抑制剂市场竞争进入新阶段，具有重要市场影响。",
+        "category": "监管审批"
+      },
+      {
+        "index": 1,
+        "title": "Novartis heads to FDA with Rhapsido after phase 3 win in untapped chronic hives subtype",
+        "importance": 4,
+        "reason": "诺华口服BTK抑制剂在未开发的慢性荨麻疹亚型中取得III期成功，即将向FDA提交申请，拓展其市场潜力。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "Vanda gets FDA approval for ‘franchise-extending’ antipsychotic",
+        "importance": 4,
+        "reason": "Vanda获FDA批准其精神分裂症和双相I型障碍新药Bysanti，是其核心产品线的延伸，具有商业战略意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Fierce Pharma Asia—Gilead's synthetic lethality deal; A Tokyo biotech IPO; Novo’s Ozempic China sales dip",
+        "importance": 4,
+        "reason": "涵盖吉利德15亿美元合作、东京生物技术IPO重启及诺和诺德GLP-1药物在华销售下滑，反映亚太区关键趋势。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "诺华BTK抑制剂Rhapsido在慢性荨麻疹新亚型中取得进展；Ocular实验性眼药在晚期试验中击败低剂量Eylea；BMS的蛋白降解剂获FDA受理审评；Disc Medicine罕见病药物遭FDA拒绝。",
+      "临床试验": "诺华Rhapsido在慢性荨麻疹亚型III期试验成功；Ocular眼药晚期试验数据积极；阿斯利康Calquence+Venclexta组合疗法获批基于关键试验数据；Teva和赛诺菲报告溃疡性结肠炎和克罗恩病实验性疗法的长期数据。"
+    },
+    "tomorrow_watch": "关注FDA单关键性试验新政策对后续新药申请的具体影响；罗氏乳腺癌药物的FDA审评进展（决策日期临近）；以及特朗普政府推动药品定价协议对制药企业谈判立场的后续影响。"
+  }
+}
