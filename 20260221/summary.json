@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-21",
+  "generated_at": "2026-02-22T04:15:50.881983",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260221/daily.md",
+    "html": "docs/20260221/index.html",
+    "directory": "docs/20260221"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管政策变革与重磅药物进展。FDA正式确立单一关键性试验作为新药审批的默认标准，可能显著降低研发成本并加速药物上市。同时，诺华、阿斯利康等巨头在BTK抑制剂领域取得重要进展，而强生宣布投资10亿美元建设细胞疗法工厂，显示行业对先进疗法的持续投入。",
+    "top_news": [
+      {
+        "index": 24,
+        "title": "FDA formalizes one pivotal trial policy via NEJM perspective",
+        "importance": 5,
+        "reason": "FDA确立单一关键性试验为默认审批标准，将从根本上改变药物开发范式，大幅降低研发成本和时间。",
+        "category": "政策法规"
+      },
+      {
+        "index": 4,
+        "title": "AstraZeneca's fixed-duration Calquence combo wins FDA nod as BeOne CLL rivalry heats up",
+        "importance": 5,
+        "reason": "阿斯利康Calquence联合疗法获FDA批准，成为首个全口服、固定疗程的CLL治疗方案，在竞争激烈的BTK抑制剂市场取得关键优势。",
+        "category": "监管审批"
+      },
+      {
+        "index": 26,
+        "title": "J&J pours $1B into new cell therapy site in Pennsylvania",
+        "importance": 5,
+        "reason": "强生投资10亿美元建设细胞疗法工厂，是行业对先进疗法制造能力的重要布局，响应美国本土化生产趋势。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "Novartis heads to FDA with Rhapsido after phase 3 win in untapped chronic hives subtype",
+        "importance": 4,
+        "reason": "诺华口服BTK抑制剂Rhapsido在慢性荨麻疹新亚型中取得III期成功，即将向FDA提交申请，拓展其市场潜力。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "Vanda gets FDA approval for ‘franchise-extending’ antipsychotic",
+        "importance": 4,
+        "reason": "Vanda Pharmaceuticals的精神分裂症和双相情感障碍药物Bysanti获FDA批准，是其现有产品线的有效延伸。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发进展集中在BTK抑制剂领域（诺华、阿斯利康），同时涉及精神疾病药物（Vanda）、MASH药物（Madrigal）及呼吸系统药物（Insmed）等。细胞疗法和蛋白降解剂等先进疗法也有新动态。",
+      "临床试验": "关键临床试验结果包括诺华Rhapsido在慢性荨麻疹亚型的III期成功、Ocular实验性眼药在晚期试验中优于低剂量Eylea。此外，Disc Medicine的罕见血液病疗法遭FDA拒绝，凸显审批标准的变化。"
+    },
+    "tomorrow_watch": "需关注FDA单一关键性试验新政策对行业的具体影响及企业反应；强生细胞疗法工厂的详细技术路线和产能规划；诺华Rhapsido提交FDA后的审评时间表；以及FDA对RSV疫苗和SSRI类药物安全性的进一步审查动向。"
+  }
+}
