@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-23",
+  "generated_at": "2026-02-24T04:18:23.400126",
+  "theme": "minimal",
+  "total_items": 107,
+  "files": {
+    "markdown": "docs/20260223/daily.md",
+    "html": "docs/20260223/index.html",
+    "directory": "docs/20260223"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅新药获批与关键临床试验结果。FDA批准了Vanda的精神分裂症新药Bysanti和阿斯利康的固定疗程CLL组合疗法，同时诺和诺德与礼来在GLP-1药物头对头试验中竞争激烈。此外，FDA发布了针对个体化疗法的新指导草案，行业监管框架进一步完善。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "Vanda gets FDA approval for ‘franchise-extending’ antipsychotic",
+        "importance": 5,
+        "reason": "FDA批准精神分裂症和双相情感障碍新药，是Vanda两个月内第二个获批新药，具有重要商业价值。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "AstraZeneca's fixed-duration Calquence combo wins FDA nod as BeOne CLL rivalry heats up",
+        "importance": 5,
+        "reason": "FDA批准首个全口服固定疗程CLL组合疗法，是BTK抑制剂市场的关键监管胜利，影响血液肿瘤治疗格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 21,
+        "title": "Novo’s next-gen obesity shot fails to match Lilly drug in head-to-head study",
+        "importance": 5,
+        "reason": "诺和诺德新一代减肥药CagriSema在头对头试验中不敌礼来Zepbound，直接影响其市场竞争力与股价。",
+        "category": "临床试验"
+      },
+      {
+        "index": 22,
+        "title": "Gilead to buy Arcellx in $7.8B wager on multiple myeloma cell therapy",
+        "importance": 5,
+        "reason": "吉利德以78亿美元收购Arcellx，是细胞疗法领域重大并购，旨在巩固其在多发性骨髓瘤治疗领域的地位。",
+        "category": "商业动态"
+      },
+      {
+        "index": 24,
+        "title": "FDA unveils long-awaited guidance on new pathway for individualized therapies",
+        "importance": 4,
+        "reason": "FDA发布个体化细胞和基因疗法新指导草案，为罕见病治疗开辟加速通道，具有重要政策意义。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态包括QurAlis的ALS药物早期积极信号、MoonLake的炎症性关节炎药物中期数据、以及针对罕见自闭症的基因疗法启动首次测试。",
+      "临床试验": "关键临床试验结果包括诺和诺德CagriSema在减肥头对头试验中不敌礼来Zepbound，以及Madrigal的MASH药物Rezdiffra接近10亿美元销售额。"
+    },
+    "tomorrow_watch": "明日值得关注的事项包括：1) 诺和诺德CagriSema试验失败后的市场反应与后续策略；2) FDA个体化疗法新指导草案的行业反馈；3) 吉利德收购Arcellx交易的后续进展；4) 艾伯维在美国新建API工厂的进一步细节。"
+  }
+}
