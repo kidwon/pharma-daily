@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-24",
+  "generated_at": "2026-02-25T04:20:46.340983",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260224/daily.md",
+    "html": "docs/20260224/index.html",
+    "directory": "docs/20260224"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于GLP-1药物市场格局变化与监管政策更新。诺和诺德宣布明年大幅降低Ozempic和Wegovy的定价，同时其下一代肥胖药物CagriSema在头对头研究中不敌礼来的Zepbound，显示市场竞争加剧。FDA正式发布针对超罕见疾病的个体化疗法开发新指南，为精准医疗开辟新路径。",
+    "top_news": [
+      {
+        "index": 16,
+        "title": "Novo to knock down Ozempic, Wegovy list prices next year, but self-pay channels unaffected",
+        "importance": 5,
+        "reason": "诺和诺德宣布明年大幅降低其重磅GLP-1药物的定价，将直接影响全球糖尿病和肥胖症药物市场格局及可及性。",
+        "category": "市场分析"
+      },
+      {
+        "index": 26,
+        "title": "Novo’s next-gen obesity shot fails to match Lilly drug in head-to-head study",
+        "importance": 5,
+        "reason": "诺和诺德下一代肥胖药物CagriSema在关键头对头研究中不敌礼来Zepbound，可能重塑肥胖治疗领域的竞争格局。",
+        "category": "临床试验"
+      },
+      {
+        "index": 25,
+        "title": "FDA fleshes out new roadmap for testing personalized therapies",
+        "importance": 5,
+        "reason": "FDA发布针对超罕见疾病的个体化疗法开发新指南草案，为细胞和基因疗法等精准医疗开辟了新的监管路径。",
+        "category": "政策法规"
+      },
+      {
+        "index": 27,
+        "title": "Gilead to buy Arcellx in $7.8B wager on multiple myeloma cell therapy",
+        "importance": 5,
+        "reason": "吉利德以78亿美元收购Arcellx，是其对多发性骨髓瘤细胞疗法领域的一次重大战略押注，旨在重振其细胞治疗业务。",
+        "category": "商业动态"
+      },
+      {
+        "index": 3,
+        "title": "FDA approves drug for adult and pediatric patients aged 6 and older with allergic fungal rhinosinusitis",
+        "importance": 4,
+        "reason": "FDA批准Dupixent用于治疗过敏性真菌性鼻窦炎，为该无标准疗法的疾病提供了首个治疗选择，并扩大了重磅药物的适应症范围。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态包括Abcuro单抗在罕见自身免疫病试验中失败但继续开发，QurAlis的ALS药物显示出早期积极信号，以及AI生物技术公司Turbine融资推进虚拟细胞平台。",
+      "临床试验": "临床试验方面，除诺和诺德CagriSema与礼来Zepbound的头对头研究结果外，MacroGenics的癌症研究因患者死亡被FDA部分暂停，Palvella则因积极研究数据市值飙升。"
+    },
+    "tomorrow_watch": "需关注FDA新发布的个体化疗法指南对行业的具体影响及反馈；诺和诺德降价声明对GLP-1市场及竞争对手（如礼来）策略的后续连锁反应；以及吉利德收购Arcellx后，在多发性骨髓瘤细胞疗法领域的整合与竞争态势。"
+  }
+}
