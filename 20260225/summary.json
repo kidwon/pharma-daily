@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-25",
+  "generated_at": "2026-02-26T04:15:50.078613",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260225/daily.md",
+    "html": "docs/20260225/index.html",
+    "directory": "docs/20260225"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅药物市场格局变化与监管政策动向。诺和诺德宣布将大幅降低GLP-1药物价格，可能重塑肥胖症治疗市场；FDA发布针对超罕见疾病定制基因疗法的审批新规，预示个体化治疗新时代来临；同时，多个加速审批药物的后续验证进展及临床试验安全事件引发行业关注。",
+    "top_news": [
+      {
+        "index": 19,
+        "title": "Novo to knock down Ozempic, Wegovy list prices next year, but self-pay channels unaffected",
+        "importance": 5,
+        "reason": "GLP-1市场领导者主动大幅降价将深刻影响全球肥胖症/糖尿病药物市场竞争格局与可及性",
+        "category": "市场分析"
+      },
+      {
+        "index": 28,
+        "title": "FDA unveils rules for bespoke gene therapies, predicting flood of rare disease applications",
+        "importance": 5,
+        "reason": "FDA推出定制化基因疗法审批新路径，为超罕见病个体化治疗开启监管通道，具有里程碑意义",
+        "category": "政策法规"
+      },
+      {
+        "index": 4,
+        "title": "FDA approves drug for adult and pediatric patients aged 6 and older with allergic fungal rhinosinusitis",
+        "importance": 4,
+        "reason": "Dupixent获FDA批准新适应症，进一步拓展这款重磅药物的市场覆盖范围",
+        "category": "监管审批"
+      },
+      {
+        "index": 29,
+        "title": "STAT+: Novo Nordisk’s next-gen obesity drug stumbles in comparison study",
+        "importance": 4,
+        "reason": "诺和诺德新一代肥胖药物头对头研究数据不及礼来竞品，影响未来市场竞争预期",
+        "category": "临床试验"
+      },
+      {
+        "index": 1,
+        "title": "Make way, Camzyos: Cytokinetics touts promising early launch for rival heart drug",
+        "importance": 4,
+        "reason": "Cytokinetics心衰新药上市初期表现强劲，直接挑战百时美施贵宝竞品，影响心血管药物市场格局",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Cytokinetics心衰新药Myqorzo上市初期表现良好；BreezeBio融资推进mRNA糖尿病疗法；GSK收购35Pharma加强肺动脉高压管线；多个基因治疗/递送技术获得关注。",
+      "临床试验": "Abcuro单抗在罕见自身免疫病试验中未达主要终点；MacroGenics癌症试验因患者死亡被FDA部分暂停；诺和诺德CagriSema在头对头研究中表现不及礼来Zepbound。"
+    },
+    "tomorrow_watch": "需重点关注：1) FDA定制基因疗法新规对罕见病研发企业的具体影响；2) 诺和诺德GLP-1降价策略对医保谈判和市场竞争的后续效应；3) 加速审批药物（特别是癌症领域）的验证试验进展与潜在撤市风险。"
+  }
+}
