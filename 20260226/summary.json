@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-26",
+  "generated_at": "2026-02-27T04:12:32.598923",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260226/daily.md",
+    "html": "docs/20260226/index.html",
+    "directory": "docs/20260226"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅新药审批与市场扩张。勃林格殷格翰的肺癌药物Hernexeos凭借FDA国家优先审评券快速获批一线适应症，成为监管创新的典型案例；同时，诺和诺德宣布明年将降低GLP-1药物Ozempic和Wegovy的定价，可能重塑减肥药市场竞争格局。此外，FDA对罕见病药物审批流程的争议以及细胞动力学与百时美施贵宝在心脏病药物市场的竞争也备受关注。",
+    "top_news": [
+      {
+        "index": 5,
+        "title": "Boehringer wins accelerated approval for first-line use of lung cancer drug",
+        "importance": 5,
+        "reason": "FDA首次使用国家优先审评券加速批准肺癌药物一线适应症，标志监管创新支持重要疗法快速上市。",
+        "category": "监管审批"
+      },
+      {
+        "index": 19,
+        "title": "Novo to knock down Ozempic, Wegovy list prices next year, but self-pay channels unaffected",
+        "importance": 5,
+        "reason": "诺和诺德主动降低GLP-1明星药物定价，可能引发减肥药市场价格战并影响医保谈判策略。",
+        "category": "市场分析"
+      },
+      {
+        "index": 1,
+        "title": "Make way, Camzyos: Cytokinetics touts promising early launch for rival heart drug",
+        "importance": 4,
+        "reason": "细胞动力学新上市心脏病药物与百时美施贵宝竞品展开直接竞争，可能改变心衰治疗市场格局。",
+        "category": "新药研发"
+      },
+      {
+        "index": 13,
+        "title": "'Like talking to a brick wall': Senate hearing takes aim at FDA's rare disease review process",
+        "importance": 4,
+        "reason": "参议院听证会质疑FDA罕见病审批流程，可能推动监管政策改革，影响未来罕见病药物开发。",
+        "category": "政策法规"
+      },
+      {
+        "index": 21,
+        "title": "Lilly’s GLP-1 pill tops Novo’s Rybelsus in head-to-head trial",
+        "importance": 4,
+        "reason": "礼来口服GLP-1药物在头对头试验中优于诺和诺德竞品，为口服减肥药市场竞争增添变数。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发领域活跃，涉及心脏病、肺癌、HIV等多个治疗领域。细胞动力学心脏病新药Myqorzo上市初期表现强劲；勃林格殷格翰肺癌药物Hernexeos快速扩展适应症；吉利德和默克分别推进新型每日HIV药物研发；此外，BreezeBio获得6000万美元融资推进mRNA糖尿病疗法，显示基因药物递送技术持续受资本青睐。",
+      "临床试验": "临床试验方面取得多项重要进展。礼来口服GLP-1药物orforglipron在头对头试验中证明优于诺和诺德Rybelsus，但副作用率更高；百时美施贵宝从中国授权的ADC药物在侵袭性乳腺癌中达到试验终点；argenx的Vyvgart在眼肌无力症试验中取得成功，可能扩展适应症。这些数据将直接影响未来药物审批和市场定位。"
+    },
+    "tomorrow_watch": "需关注FDA对Protagonist公司血液学资产rusfertide的审批决定，以及诺和诺德GLP-1药物降价具体方案对市场的影响。同时，参议院对FDA罕见病审批流程的质疑可能引发进一步监管讨论，值得追踪。此外，诺华230亿美元美国投资计划中放射性药物生产设施的进展，以及AI药物发现公司Generate上市后的市场表现也值得关注。"
+  }
+}
