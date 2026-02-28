@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-27",
+  "generated_at": "2026-02-28T03:53:39.112194",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260227/daily.md",
+    "html": "docs/20260227/index.html",
+    "directory": "docs/20260227"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与重大临床进展。FDA通过国家优先审评券加速批准了Boehringer的肺癌新药Hernexeos一线适应症，而Moderna的流感-新冠联合疫苗在欧盟获得积极意见，与美国FDA的审慎态度形成对比。同时，AI驱动药物研发公司Generate:Biomedicines完成4亿美元IPO，标志着生物技术融资市场回暖。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "Boehringer's Hernexeos secures speedy first-line expansion in FDA's 2nd national priority nod",
+        "importance": 5,
+        "reason": "FDA使用国家优先审评券加速批准肺癌新药一线适应症，是监管创新的重要案例",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "Moderna’s combination flu, COVID shot wins over European drug regulators",
+        "importance": 5,
+        "reason": "EMA与FDA对同一疫苗审评标准出现分歧，凸显全球监管差异及mRNA疫苗市场重要性",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Generate:Biomedicines raises $400M IPO, CEO talks about AI's future in drug design",
+        "importance": 5,
+        "reason": "AI驱动生物技术公司完成近年最大IPO之一，标志AI制药融资里程碑",
+        "category": "商业动态"
+      },
+      {
+        "index": 22,
+        "title": "Lilly’s GLP-1 pill tops Novo’s Rybelsus in head-to-head trial",
+        "importance": 5,
+        "reason": "礼来GLP-1口服药头对头击败诺和诺德同类产品，可能重塑百亿减肥药市场格局",
+        "category": "临床试验"
+      },
+      {
+        "index": 5,
+        "title": "Ascendis wins FDA approval for achondroplasia drug, waits on EU action",
+        "importance": 4,
+        "reason": "FDA批准首个软骨发育不全症周疗法，开启罕见病治疗三强竞争新局面",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "AI驱动药物设计成为焦点，Generate:Biomedicines的IPO显示资本对该领域信心；Bristol Myers从中国引进的ADC药物在侵袭性乳腺癌中显示积极数据",
+      "临床试验": "礼来GLP-1口服药在头对头试验中优于诺和诺德产品；Padcev-Keytruda联合疗法在膀胱癌一线治疗中再获积极数据；argenx的Vyvgart在眼肌无力症试验成功"
+    },
+    "tomorrow_watch": "需关注FDA对UniQure亨廷顿病基因疗法的最终审评决定、欧盟对Ascendis软骨发育不全症药物的审批进展，以及礼来GLP-1口服药肥胖适应症的上市申请动态。"
+  }
+}
