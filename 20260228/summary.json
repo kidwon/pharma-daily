@@ -1,0 +1,56 @@
+{
+  "date": "2026-02-28",
+  "generated_at": "2026-03-01T04:21:55.399117",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260228/daily.md",
+    "html": "docs/20260228/index.html",
+    "directory": "docs/20260228"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与临床突破。FDA通过国家优先审评券加速批准了Boehringer Ingelheim的肺癌药物Hernexeos一线适应症，同时EMA与FDA在Moderna联合疫苗的审评上出现分歧。此外，AI驱动的药物研发公司Generate:Biomedicines完成4亿美元IPO，标志着生物技术融资市场的回暖。",
+    "top_news": [
+      {
+        "index": 7,
+        "title": "Boehringer wins accelerated approval for first-line use of lung cancer drug",
+        "importance": 5,
+        "reason": "FDA使用国家优先审评券加速批准首个肺癌一线疗法，具有里程碑意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Generate:Biomedicines raises $400M IPO, CEO talks about AI's future in drug design",
+        "importance": 5,
+        "reason": "AI生物技术公司完成近年来最大规模IPO之一，代表行业对AI药物设计的巨大信心。",
+        "category": "商业动态"
+      },
+      {
+        "index": 4,
+        "title": "Moderna’s combination flu, COVID shot wins over European drug regulators",
+        "importance": 4,
+        "reason": "EMA与FDA审评标准出现分歧，凸显全球监管协调挑战及mRNA疫苗平台重要性。",
+        "category": "监管审批"
+      },
+      {
+        "index": 11,
+        "title": "A new standard? Merck's Welireg combos deliver 1-2 punch to kidney cancer",
+        "importance": 4,
+        "reason": "默克肾癌联合疗法取得突破性临床数据，可能改变治疗格局。",
+        "category": "临床试验"
+      },
+      {
+        "index": 24,
+        "title": "Lilly’s GLP-1 pill tops Novo’s Rybelsus in head-to-head trial",
+        "importance": 4,
+        "reason": "礼来口服GLP-1药物头对头击败诺和诺德产品，加剧肥胖症市场竞争。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发进展集中在肿瘤和罕见病领域，包括Boehringer的Hernexeos新适应症、Ascendis的软骨发育不全药物获批，以及UCB的Bimzelx销售突破。AI药物设计公司Generate:Biomedicines的IPO也凸显该领域持续受到资本青睐。",
+      "临床试验": "关键临床试验结果频出：默克Welireg肾癌组合疗法、礼来口服GLP-1药物头对头试验、Padcev-Keytruda膀胱癌组合数据均显示积极疗效，诺华Rhapsido在食物过敏二期试验中也展现潜力。"
+    },
+    "tomorrow_watch": "需关注FDA对UniQure亨廷顿病基因疗法的最终审评态度、Protagonist与武田就rusfertide的利润分配谈判进展，以及AI在药物研发中应用的实际案例验证。此外，EMA对Ascendis软骨发育不全药物的审评决定也值得留意。"
+  }
+}
