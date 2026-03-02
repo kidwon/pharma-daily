@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-01",
+  "generated_at": "2026-03-02T04:13:41.968536",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260301/daily.md",
+    "html": "docs/20260301/index.html",
+    "directory": "docs/20260301"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与临床突破。FDA加速审批了Boehringer Ingelheim的肺癌药物Hernexeos一线使用，并首次应用国家优先审评券；同时，Moderna的流感/COVID联合疫苗在欧洲获得积极推荐，但与美国FDA标准形成对比。此外，AI在药物研发中的应用持续受到关注，Generate:Biomedicines完成4亿美元IPO，而礼来与英伟达的合作也凸显了AI对制药行业转型的推动。",
+    "top_news": [
+      {
+        "index": 7,
+        "title": "Boehringer wins accelerated approval for first-line use of lung cancer drug",
+        "importance": 5,
+        "reason": "FDA首次将国家优先审评券用于新适应症加速审批，标志着监管创新和肺癌治疗的重要进展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "Moderna’s combination flu, COVID shot wins over European drug regulators",
+        "importance": 5,
+        "reason": "EMA与FDA审评标准出现分歧，凸显全球疫苗监管差异，对Moderna及mRNA疫苗市场具有重大影响。",
+        "category": "监管审批"
+      },
+      {
+        "index": 12,
+        "title": "Lilly debuts Nvidia supercomputer with fanfare and focus on escaping traditional pharma lifecycle",
+        "importance": 5,
+        "reason": "全球首家市值万亿美元药企与AI巨头合作，代表AI驱动药物研发进入新阶段，可能重塑行业研发模式。",
+        "category": "商业动态"
+      },
+      {
+        "index": 6,
+        "title": "Generate:Biomedicines raises $400M IPO, CEO talks about AI's future in drug design",
+        "importance": 4,
+        "reason": "AI驱动生物技术公司完成近年最大IPO之一，显示资本市场对AI制药的高度关注和信心。",
+        "category": "商业动态"
+      },
+      {
+        "index": 11,
+        "title": "A new standard? Merck's Welireg combos deliver 1-2 punch to kidney cancer",
+        "importance": 4,
+        "reason": "默克肾癌联合疗法取得双重突破，可能改变透明细胞肾细胞癌治疗格局，具有重要临床意义。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "涉及基因疗法（如UniQure亨廷顿病疗法）、RNA靶向疗法（如Atrium心血管疾病项目）、双特异性抗体（Astellas-Vir合作）及AI驱动药物设计（Generate:Biomedicines、礼来合作）等多个前沿领域，显示行业向精准化和技术融合方向发展。",
+      "临床试验": "关键进展包括默克Welireg肾癌联合疗法阳性数据、诺华Rhapsido在食物过敏的II期积极结果、Padcev-Keytruda组合在膀胱癌的进一步成功，以及礼来GLP-1口服药头对头试验优于诺和诺德产品，但副作用更高。"
+    },
+    "tomorrow_watch": "关注FDA对UniQure基因疗法的进一步表态、Protagonist Therapeutics血液学资产rusfertide的审批决定、Ascendis Pharma软骨发育不全药物在欧洲的审评进展，以及AI制药公司Generate:Biomedicines上市后的股价表现和市场反应。"
+  }
+}
