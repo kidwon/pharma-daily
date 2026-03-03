@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-02",
+  "generated_at": "2026-03-03T04:13:51.183739",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260302/daily.md",
+    "html": "docs/20260302/index.html",
+    "directory": "docs/20260302"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于基因疗法监管挑战与罕见病药物进展。FDA对UniQure亨廷顿病基因疗法提出随机对照试验要求，引发行业对监管标准的讨论；同时，Ascendis Pharma的软骨发育不全药物获得FDA批准，标志着罕见病治疗领域竞争加剧。此外，AI在药物研发中的应用继续受到资本关注，Generate:Biomedicines完成4亿美元IPO。",
+    "top_news": [
+      {
+        "index": 5,
+        "title": "UniQure says FDA prefers randomized trial for Huntington's treatment",
+        "importance": 5,
+        "reason": "FDA对基因疗法提出严格的随机对照试验要求，可能重塑神经退行性疾病治疗药物的开发路径与监管标准。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Ascendis wins FDA approval for achondroplasia drug, waits on EU action",
+        "importance": 5,
+        "reason": "FDA批准首个每周一次给药的软骨发育不全治疗药物，将开启罕见病治疗市场的三强竞争格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Boehringer's Hernexeos secures speedy first-line expansion in FDA's 2nd national priority nod",
+        "importance": 4,
+        "reason": "Boehringer的Hernexeos在非小细胞肺癌罕见肿瘤类型中快速扩大适应症，显示FDA对突破性疗法的加速审批趋势。",
+        "category": "监管审批"
+      },
+      {
+        "index": 7,
+        "title": "Generate:Biomedicines raises $400M IPO, CEO talks about AI's future in drug design",
+        "importance": 4,
+        "reason": "AI驱动生物技术公司完成近年来最大规模IPO之一，凸显资本市场对AI药物设计领域的持续信心。",
+        "category": "商业动态"
+      },
+      {
+        "index": 9,
+        "title": "A new standard? Merck's Welireg combos deliver 1-2 punch to kidney cancer",
+        "importance": 4,
+        "reason": "默克Welireg组合疗法在肾细胞癌中取得双重突破，可能改变透明细胞肾细胞癌的治疗标准。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "基因疗法（UniQure亨廷顿病治疗）、RNA疗法（Atrium针对罕见心脏病）、双特异性抗体（Candid免疫疾病治疗）及AI驱动药物发现（Generate:Biomedicines）等领域均有进展，显示行业向精准化与技术创新持续迈进。",
+      "临床试验": "关键III期数据频出：United Therapeutics肺动脉高压药物III期成功；Padcev-Keytruda组合在膀胱癌一线治疗中再获阳性数据；Novartis的Rhapsido在食物过敏II期研究中显示潜力，为后续适应症扩展奠定基础。"
+    },
+    "tomorrow_watch": "需关注FDA对UniQure基因疗法随机试验要求的后续行业反应，以及Ascendis新药上市后的市场竞争态势；同时，AI在药物研发中的实际应用进展与监管机构对新型疗法（如自身免疫CAR-T）的审批框架演变值得持续观察。"
+  }
+}
