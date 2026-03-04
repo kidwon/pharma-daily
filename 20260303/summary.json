@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-03",
+  "generated_at": "2026-03-04T04:08:41.526896",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260303/daily.md",
+    "html": "docs/20260303/index.html",
+    "directory": "docs/20260303"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与基因疗法领域。FDA对UniQure亨廷顿病基因疗法提出随机对照试验要求，引发行业对基因疗法审批标准的关注；同时，Ascendis Pharma的侏儒症新药Yuviwel获批，为罕见病治疗带来新选择。此外，GLP-1类药物在心血管领域的新机制研究及默克肾癌组合疗法突破也值得关注。",
+    "top_news": [
+      {
+        "index": 26,
+        "title": "UniQure says FDA wants another study of Huntington’s gene therapy",
+        "importance": 5,
+        "reason": "FDA对基因疗法提出严格的随机对照试验要求，可能重塑基因疗法审批标准，影响整个行业研发策略。",
+        "category": "监管审批"
+      },
+      {
+        "index": 21,
+        "title": "Ascendis gains more altitude with FDA approval for dwarfism drug Yuviwel",
+        "importance": 5,
+        "reason": "FDA批准首个每周注射一次的侏儒症治疗药物，为罕见病领域带来重要新疗法，并可能改变市场竞争格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "A new standard? Merck's Welireg combos deliver 1-2 punch to kidney cancer",
+        "importance": 4,
+        "reason": "默克肾癌组合疗法在临床试验中取得突破性进展，可能重塑肾细胞癌治疗标准。",
+        "category": "临床试验"
+      },
+      {
+        "index": 19,
+        "title": "GLP-1s support heart attack recovery in rodents by relaxing tight blood vessels",
+        "importance": 4,
+        "reason": "GLP-1类药物在心血管保护机制上的新发现，为其拓展适应症提供重要科学依据。",
+        "category": "新药研发"
+      },
+      {
+        "index": 2,
+        "title": "Esperion pays $75M-plus to acquire Corstasis and newly approved Enbumyst",
+        "importance": 4,
+        "reason": "Esperion以7500万美元首付款收购Corstasis及其已获批鼻喷雾剂Enbumyst，显示企业通过收购加速产品线拓展的战略。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发领域重点关注GLP-1类药物在心血管保护机制的新发现、诺华Rhapsido在食物过敏适应症的拓展潜力，以及Atrium从Avidity分拆后专注于罕见心脏病RNA疗法的战略布局。",
+      "临床试验": "临床试验方面，默克Welireg组合疗法在肾癌治疗中展现突破性疗效，United Therapeutics的肺动脉高压药物ralinepag III期研究成功，Intellia基因编辑疗法心脏适应症的III期试验获FDA解除暂停。"
+    },
+    "tomorrow_watch": "需持续关注FDA对基因疗法审批标准的进一步表态，特别是对UniQure亨廷顿病疗法的最终要求；同时留意GLP-1类药物在心血管领域临床研究的后续进展，以及各药企对FDA近期罕见病药物审批态度变化的应对策略。"
+  }
+}
