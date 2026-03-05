@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-04",
+  "generated_at": "2026-03-05T04:11:26.532541",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260304/daily.md",
+    "html": "docs/20260304/index.html",
+    "directory": "docs/20260304"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与商业合作两大主线。FDA对GLP-1药物复合制剂展开新一轮打击，发出30封警告信，同时多家公司面临审批挑战或获批喜讯。商业方面，赛诺菲以15.3亿美元获得中国生物制药首创JAK/ROCK抑制剂全球权益，成为今日最大交易。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Sanofi strikes $1.5B global licensing deal for Sino Biopharm's first-in-class JAK/ROCK asset",
+        "importance": 5,
+        "reason": "涉及超15亿美元的重大全球授权交易，涉及首创药物，标志大型药企对中国创新资产的认可。",
+        "category": "商业动态"
+      },
+      {
+        "index": 16,
+        "title": "FDA ramps up crackdown on GLP-1 drug compounding with fresh batch of 30 warning letters",
+        "importance": 5,
+        "reason": "FDA大规模打击GLP-1药物复合制剂，涉及30家公司，对热门药物市场秩序和患者安全有重大影响。",
+        "category": "政策法规"
+      },
+      {
+        "index": 25,
+        "title": "Ascendis wins FDA approval of dwarfism drug",
+        "importance": 5,
+        "reason": "FDA批准新的侏儒症治疗药物，为患者提供新的治疗选择，并将在竞争激烈的市场中展开角逐。",
+        "category": "监管审批"
+      },
+      {
+        "index": 12,
+        "title": "United Therapeutics to take pulmonary hypertension drug to FDA for approval",
+        "importance": 4,
+        "reason": "肺动脉高压药物III期研究成功，计划今年提交FDA审批，潜在2027年上市，是重要研发进展。",
+        "category": "临床试验"
+      },
+      {
+        "index": 18,
+        "title": "FDA’s CRLs reveal critical errors in AstraZeneca’s Saphnelo data, efficacy doubts for GSK’s Exdensur",
+        "importance": 4,
+        "reason": "FDA披露对阿斯利康和GSK的完整回复函细节，揭示了关键数据缺陷和疗效疑虑，对两家巨头有重要影响。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态包括首创JAK/ROCK抑制剂授权、新型ATTc疗法全球试验启动、卵巢癌疗法获得资助、以及多个基因疗法和罕见病药物的研发进展与挫折。",
+      "临床试验": "临床试验方面，United Therapeutics的肺动脉高压药物III期成功，Intellia将重启心脏病试验，HUTCHMED启动新型ATTc疗法的首次人体试验，同时也有试验因安全性问题被放弃。"
+    },
+    "tomorrow_watch": "需关注FDA对GLP-1复合制剂打击行动的后续影响、赛诺菲与中国生物制药合作的后续进展、以及United Therapeutics提交FDA审批的肺动脉高压药物的审评动态。此外，FDA高层人事变动（Butler退休）对机构运作的潜在影响也值得留意。"
+  }
+}
