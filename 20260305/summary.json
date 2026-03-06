@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-05",
+  "generated_at": "2026-03-06T04:09:03.705864",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260305/daily.md",
+    "html": "docs/20260305/index.html",
+    "directory": "docs/20260305"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与市场准入。FDA批准了多项重要药物，包括首个真正的GSK哮喘吸入剂仿制药、强生多发性骨髓瘤联合疗法以及Ascendis的侏儒症药物。同时，FDA加强了对GLP-1药物复配的监管，发出30封警告信，并公布了多项拒绝批准（CRL）的详细原因，显示监管审查趋严。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA gives Glenmark thumbs up for first 'true' generic version of GSK's asthma inhaler Flovent",
+        "importance": 5,
+        "reason": "首个真正的品牌哮喘吸入剂仿制药获批，可能显著降低患者成本并影响GSK市场份额。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Sanofi strikes $1.5B global licensing deal for Sino Biopharm's first-in-class JAK/ROCK asset",
+        "importance": 5,
+        "reason": "赛诺菲以15.3亿美元获得全球授权，涉及首创JAK/ROCK抑制剂，是大型跨国合作案例。",
+        "category": "商业动态"
+      },
+      {
+        "index": 3,
+        "title": "Galderma doubles Nemluvio peak sales projection to $4B-plus after strong atopic dermatitis launch year",
+        "importance": 4,
+        "reason": "Galderma将其特应性皮炎药物Nemluvio的峰值销售预测翻倍至超40亿美元，显示市场潜力巨大。",
+        "category": "市场分析"
+      },
+      {
+        "index": 16,
+        "title": "FDA approves teclistamab in combination with daratumumab hyaluronidase-fihj for relapsed or refractory multiple myeloma",
+        "importance": 5,
+        "reason": "FDA批准强生多发性骨髓瘤联合疗法作为二线治疗，是血液肿瘤领域的重要进展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 22,
+        "title": "FDA ramps up crackdown on GLP-1 drug compounding with fresh batch of 30 warning letters",
+        "importance": 4,
+        "reason": "FDA向30家远程医疗公司发出警告信，严厉打击GLP-1药物复配，凸显对药品质量和安全性的监管收紧。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态包括赛诺菲引进中国生物制药的首创JAK/ROCK抑制剂、Kyowa Kirin因安全性问题放弃湿疹药物、以及HUTCHMED启动新型ATTc疗法在实体瘤中的全球试验。",
+      "临床试验": "临床试验相关新闻包括Intellia将重启心脏病试验、PepGen的肌肉疾病II期试验被部分搁置、以及Theolytics获得800万欧元资助用于卵巢癌II期扩展试验。"
+    },
+    "tomorrow_watch": "明日值得关注FDA对GLP-1复配药物的进一步监管行动、诺和诺德因广告问题收到FDA无标题信函的后续发展，以及Disc Medicine在药物被拒后裁员20%对公司战略的影响。此外，中国挑战全球十大最贵药物的进展也值得持续关注。"
+  }
+}
