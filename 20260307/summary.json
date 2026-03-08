@@ -1,0 +1,58 @@
+{
+  "date": "2026-03-07",
+  "generated_at": "2026-03-08T04:10:44.820192",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260307/daily.md",
+    "html": "docs/20260307/index.html",
+    "directory": "docs/20260307"
+  },
+  "analysis": {
+    "overview": "2026-03-07 共获取 105 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "FDA gives Glenmark thumbs up for first 'true' generic version of GSK's asthma inhaler Flovent",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Pfizer breaks into obesity market in China with approval for Sciwind-partnered GLP-1",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "FDA to end 9-month advisory committee drought with April review of AstraZeneca’s oral SERD, Truqap",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "Galderma doubles Nemluvio peak sales projection to $4B-plus after strong atopic dermatitis launch year",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 43 条新闻",
+      "新药研发": "共 34 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
