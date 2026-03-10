@@ -1,0 +1,58 @@
+{
+  "date": "2026-03-10",
+  "generated_at": "2026-03-10T04:08:29.082274",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260310/daily.md",
+    "html": "docs/20260310/index.html",
+    "directory": "docs/20260310"
+  },
+  "analysis": {
+    "overview": "2026-03-10 共获取 105 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Spruce hooks a commercial chief to prep for rare disease launch",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Sotyktu take 2: BMS' first-in-class pill gains FDA nod to treat psoriatic arthritis",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "Novo's troubled Indiana plant claims another victim as FDA rejects Incyte's lung cancer application",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "Pfizer breaks into obesity market in China with approval for Sciwind-partnered GLP-1",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 43 条新闻",
+      "新药研发": "共 34 条新闻",
+      "商业动态": "共 8 条新闻",
+      "监管审批": "共 20 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
