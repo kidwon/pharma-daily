@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-11",
+  "generated_at": "2026-03-11T04:09:11.084447",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260311/daily.md",
+    "html": "docs/20260311/index.html",
+    "directory": "docs/20260311"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与临床试验进展。FDA批准了亚叶酸（leucovorin）用于罕见脑叶酸缺乏症，并发布了生物类似药简化测试指南草案。同时，Vertex和Xenon分别公布了肾病和癫痫药物的III期积极数据，而罗氏的乳腺癌药物在一线试验中失败。此外，Lonza以22亿美元出售其胶囊和健康成分业务，显示出行业整合趋势。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA approves leucovorin for ultrarare cerebral folate deficiency subset without clinical trial",
+        "importance": 5,
+        "reason": "FDA基于既有数据批准老药新用，为罕见病治疗开辟了快速通道，具有重要的监管先例意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 12,
+        "title": "Vertex reports Phase 3 win for kidney drug, will seek FDA approval",
+        "importance": 5,
+        "reason": "Vertex在囊性纤维化之外的关键疾病领域取得重大III期成功，有望拓展其产品管线并冲击巨大市场。",
+        "category": "临床试验"
+      },
+      {
+        "index": 14,
+        "title": "Roche’s big-hope breast cancer drug fails in crucial first-line trial",
+        "importance": 5,
+        "reason": "罗氏寄予厚望的潜在重磅乳腺癌药物在一线关键III期试验中失败，对公司未来营收预期造成重大打击。",
+        "category": "临床试验"
+      },
+      {
+        "index": 6,
+        "title": "Lonza sells capsule and health ingredients unit for $2.2B upfront",
+        "importance": 4,
+        "reason": "CDMO巨头Lonza以22亿美元出售重要业务部门，是行业供应链结构调整和战略聚焦的标志性事件。",
+        "category": "商业动态"
+      },
+      {
+        "index": 20,
+        "title": "FDA unveils 4th revision of draft guidance for looser biosimilar testing requirements",
+        "importance": 4,
+        "reason": "FDA进一步简化生物类似药开发要求，旨在降低开发成本、促进竞争，对生物类似药市场发展有长期影响。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态包括HUTCHMED启动新型ATTc疗法HMPL‑A580在实体瘤中的全球I/IIa期试验，以及Theolytics获得800万欧元资助用于卵巢癌药物研究。",
+      "临床试验": "临床试验方面，Vertex肾病药物和Xenon癫痫药物均取得积极III期结果，而罗氏乳腺癌药物在一线试验中失败。Lundbeck也提前完成了多系统萎缩症（MSA）全球III期试验的患者随机分组。"
+    },
+    "tomorrow_watch": "需关注FDA官员Vinay Prasad离职后，疫苗及细胞基因疗法监管部门的后续人事安排及其政策影响。同时，应留意因诺和诺德印第安纳州工厂问题而收到完全回应函（CRL）的Incyte公司，其后续解决策略及PD-1抑制剂Zynyz的审批进展。"
+  }
+}
