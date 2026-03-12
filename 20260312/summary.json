@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-12",
+  "generated_at": "2026-03-12T04:12:50.035689",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260312/daily.md",
+    "html": "docs/20260312/index.html",
+    "directory": "docs/20260312"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与临床试验突破。FDA批准了叶酸（leucovorin）用于超罕见脑叶酸缺乏症，并放宽了生物类似药测试要求；Vertex和Xenon分别报告了肾病和癫痫药物的III期成功数据。礼来宣布在中国投资30亿美元扩大口服GLP-1产能，显示肥胖症药物市场竞争加剧。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA approves leucovorin for ultrarare cerebral folate deficiency subset without clinical trial",
+        "importance": 5,
+        "reason": "FDA基于现有数据批准老药新用，为超罕见病提供治疗选择，体现了监管灵活性。",
+        "category": "监管审批"
+      },
+      {
+        "index": 11,
+        "title": "Vertex reports Phase 3 win for kidney drug, will seek FDA approval",
+        "importance": 5,
+        "reason": "Vertex在囊性纤维化之外取得重大肾病药物III期成功，有望拓展其疾病领域布局。",
+        "category": "临床试验"
+      },
+      {
+        "index": 16,
+        "title": "Lilly beefs up oral GLP-1 capacity with $3B manufacturing pledge in China",
+        "importance": 5,
+        "reason": "礼来巨额投资中国产能，为口服GLP-1药物上市做准备，凸显全球肥胖症药物市场竞争白热化。",
+        "category": "商业动态"
+      },
+      {
+        "index": 12,
+        "title": "Xenon gets Phase 3 win with epilepsy drug, setting up FDA approval filing",
+        "importance": 4,
+        "reason": "Xenon的癫痫药物III期数据优异，为FDA申报奠定基础，是神经疾病领域的重要进展。",
+        "category": "临床试验"
+      },
+      {
+        "index": 19,
+        "title": "FDA unveils 4th revision of draft guidance for looser biosimilar testing requirements",
+        "importance": 4,
+        "reason": "FDA进一步简化生物类似药开发要求，旨在降低开发成本、促进市场竞争。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发进展有限，主要关注点在于老药新用（如leucovorin）和已有药物的新适应症拓展（如Sotyktu获批用于银屑病关节炎）。",
+      "临床试验": "临床试验领域亮点突出：Vertex肾病药物和Xenon癫痫药物均取得积极III期结果；UCB的Bimzelx在头对头试验中优于Skyrizi。"
+    },
+    "tomorrow_watch": "需关注Vertex和Xenon提交FDA申请后的进展，以及礼来、诺和诺德在GLP-1领域产能扩张和监管警告（Novo Nordisk警告信）的后续影响。此外，FDA新合并的不良事件数据库（AEM）的实施细节也值得留意。"
+  }
+}
