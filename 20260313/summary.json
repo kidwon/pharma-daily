@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-13",
+  "generated_at": "2026-03-13T04:12:08.419194",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260313/daily.md",
+    "html": "docs/20260313/index.html",
+    "directory": "docs/20260313"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于罕见病药物开发与监管审批，FDA批准了叶酸缺乏症药物新适应症，并发布了多项监管新规。同时，GLP-1药物市场竞争加剧，礼来宣布在中国投资30亿美元扩大口服GLP-1产能，诺和诺德则因生产问题收到FDA警告信。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA approves leucovorin for ultrarare cerebral folate deficiency subset without clinical trial",
+        "importance": 5,
+        "reason": "FDA基于已有数据批准罕见病药物新适应症，体现了监管灵活性，对罕见病药物开发具有重要示范意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 18,
+        "title": "Lilly beefs up oral GLP-1 capacity with $3B manufacturing pledge in China",
+        "importance": 5,
+        "reason": "礼来在中国投资30亿美元扩大口服GLP-1产能，这是GLP-1市场竞争白热化的关键信号，将重塑全球肥胖症治疗市场格局。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "Rare disease drug sales to surge past $400B by 2032 despite FDA volatility: Evaluate report",
+        "importance": 4,
+        "reason": "罕见病药物市场预计到2032年将突破4000亿美元，凸显了该领域巨大的商业潜力和持续的投资吸引力。",
+        "category": "市场分析"
+      },
+      {
+        "index": 11,
+        "title": "Vertex reports Phase 3 win for kidney drug, will seek FDA approval",
+        "importance": 4,
+        "reason": "Vertex在囊性纤维化之外的关键肾病药物III期试验成功，标志着该公司向新疾病领域扩张的重要里程碑。",
+        "category": "临床试验"
+      },
+      {
+        "index": 20,
+        "title": "Novo Nordisk's US headquarters under fire in latest FDA warning letter",
+        "importance": 4,
+        "reason": "诺和诺德美国总部收到FDA警告信，可能影响其GLP-1药物的生产和供应，对当前火热的减肥药市场构成潜在风险。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发进展集中在罕见病和肿瘤领域，包括叶酸缺乏症药物新适应症获批、UCB的Bimzelx在银屑病关节炎头对头试验中击败Skyrizi、以及Incyte晚期肛门癌疗法在欧洲获批。",
+      "临床试验": "临床试验方面，Vertex肾病药物III期成功、Xenon癫痫药物数据超预期、Lundbeck完成MSA试验患者随机化、Aplagon启动外周动脉疾病IIa期试验，显示出多个疾病领域的积极进展。"
+    },
+    "tomorrow_watch": "需重点关注FDA对诺和诺德警告信的后续处理进展、礼来口服GLP-1药物orforglipron的后续开发及产能建设动态，以及罕见病药物审批新范式可能引发的行业讨论和仿制药/复合药安全问题（如礼来对GLP-1仿制药的警告）。"
+  }
+}
