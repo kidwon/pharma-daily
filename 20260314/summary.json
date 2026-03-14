@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-14",
+  "generated_at": "2026-03-14T04:11:03.016186",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260314/daily.md",
+    "html": "docs/20260314/index.html",
+    "directory": "docs/20260314"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅药物的研发进展与监管动向。礼来宣布在中国投资30亿美元扩大口服GLP-1产能，凸显了肥胖症药物市场的持续火热；同时，FDA发布了新的生物类似药指南，旨在加速市场竞争以降低药价。此外，Vertex在肾脏病药物上取得III期成功，而Immutep的LAG-3药物在肺癌III期试验中失败，反映了免疫疗法领域的挑战与不确定性。",
+    "top_news": [
+      {
+        "index": 21,
+        "title": "Lilly beefs up oral GLP-1 capacity with $3B manufacturing pledge in China",
+        "importance": 5,
+        "reason": "礼来巨额投资扩大口服GLP-1产能，将显著影响全球肥胖症药物市场格局。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "Immutep's LAG-3 drug fails Phase 3 lung cancer study",
+        "importance": 4,
+        "reason": "LAG-3作为PD-1/CTLA-4之后备受期待的下一代检查点抑制剂，其III期失败对免疫肿瘤学领域是重大挫折。",
+        "category": "临床试验"
+      },
+      {
+        "index": 25,
+        "title": "New FDA guidance could elevate pharma’s biosimilar market",
+        "importance": 4,
+        "reason": "FDA发布新指南以加速生物类似药审批，可能显著促进市场竞争并降低美国药品价格。",
+        "category": "政策法规"
+      },
+      {
+        "index": 11,
+        "title": "Vertex reports Phase 3 win for kidney drug, will seek FDA approval",
+        "importance": 4,
+        "reason": "Vertex在囊性纤维化之外的新疾病领域（肾脏病）取得III期成功，有望拓展其产品管线。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "Rare disease drug sales to surge past $400B by 2032 despite FDA volatility: Evaluate report",
+        "importance": 4,
+        "reason": "报告预测罕见病药物市场将突破4000亿美元，揭示了该领域巨大的增长潜力，尽管面临监管不确定性。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态包括：GSK的RSV疫苗Arexvy获FDA扩大适用人群；一款中国细胞疗法获FDA试验许可，显示中国生物技术生态系统的进步；以及UCB的Bimzelx在头对头试验中优于Skyrizi。",
+      "临床试验": "临床试验方面，Vertex肾脏病药物III期成功与Immutep的LAG-3药物III期失败形成鲜明对比。此外，Aplagon和Lundbeck分别在其II期和III期试验中取得进展。"
+    },
+    "tomorrow_watch": "需关注FDA对礼来关于GLP-1仿制品安全性质疑的回应，以及Vertex肾脏病药物后续的上市申请进展。同时，FDA新推出的统一不良事件监测系统（AEMS）的初期运行效果也值得观察。"
+  }
+}
