@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-15",
+  "generated_at": "2026-03-15T04:31:52.728734",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260315/daily.md",
+    "html": "docs/20260315/index.html",
+    "directory": "docs/20260315"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅药物的研发进展与监管动向。礼来宣布在中国投资30亿美元扩大口服GLP-1产能，凸显了肥胖症药物市场的激烈竞争与全球化布局。同时，FDA发布了多项重要举措，包括整合不良事件监测系统以提升监管效率，以及GSK的RSV疫苗Arexvy获得扩大适应症批准。",
+    "top_news": [
+      {
+        "index": 20,
+        "title": "Lilly beefs up oral GLP-1 capacity with $3B manufacturing pledge in China",
+        "importance": 5,
+        "reason": "礼来巨额投资扩大口服GLP-1产能，将深刻影响全球肥胖症药物市场竞争格局与供应链。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "Rare disease drug sales to surge past $400B by 2032 despite FDA volatility: Evaluate report",
+        "importance": 5,
+        "reason": "报告预测罕见病药物市场将突破4000亿美元，是未来十年行业增长的核心驱动力之一。",
+        "category": "市场分析"
+      },
+      {
+        "index": 18,
+        "title": "FDA rolls out new streamlined adverse event monitoring system, eyes $120M in savings",
+        "importance": 4,
+        "reason": "FDA整合不良事件监测系统是重大的监管效率提升举措，将优化全行业安全监控流程。",
+        "category": "政策法规"
+      },
+      {
+        "index": 1,
+        "title": "Immutep's LAG-3 drug fails Phase 3 lung cancer study",
+        "importance": 4,
+        "reason": "LAG-3抑制剂III期失败，标志着继PD-1/CTLA-4后寻找下一个重磅检查点抑制剂的努力遭遇重大挫折。",
+        "category": "临床试验"
+      },
+      {
+        "index": 13,
+        "title": "GSK catches up to Pfizer, Moderna with FDA expansion for Arexvy",
+        "importance": 4,
+        "reason": "GSK的RSV疫苗适应症扩大至年轻高危成人，巩固了其在竞争激烈的RSV疫苗市场中的地位。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "中国生物科技公司Unixell在细胞疗法领域获得FDA试验许可，标志着中国生物技术生态系统的进步。此外，UCB的Bimzelx在头对头试验中击败Skyrizi，展示了其在银屑病关节炎领域的潜力。",
+      "临床试验": "关键III期试验结果主导今日动态，包括Immutep的LAG-3药物在肺癌III期研究中失败，以及Lundbeck在多系统萎缩症（MSA）的III期研究中提前完成患者随机分组。"
+    },
+    "tomorrow_watch": "需持续关注礼来口服GLP-1药物orforglipron的产能建设进展及其对全球供应链的影响。同时，FDA新整合的不良事件监测系统的具体实施细节与行业反馈值得留意。此外，罕见病药物市场的高增长预测是否会吸引更多资本和研发投入转向该领域，也是重要观察点。"
+  }
+}
