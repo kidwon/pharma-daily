@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-16",
+  "generated_at": "2026-03-16T04:39:17.508206",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260316/daily.md",
+    "html": "docs/20260316/index.html",
+    "directory": "docs/20260316"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅药物的研发进展与监管动向。礼来宣布在中国投资30亿美元扩大口服GLP-1产能，凸显了肥胖症药物市场的激烈竞争与全球供应链布局。同时，FDA发布了新的生物类似药指南并整合了不良事件监测系统，预示着监管环境的变化将影响行业未来走向。",
+    "top_news": [
+      {
+        "index": 20,
+        "title": "Lilly beefs up oral GLP-1 capacity with $3B manufacturing pledge in China",
+        "importance": 5,
+        "reason": "礼来巨额投资扩大口服GLP-1产能，将深刻影响全球肥胖症药物市场竞争格局与供应链。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "Immutep's LAG-3 drug fails Phase 3 lung cancer study",
+        "importance": 4,
+        "reason": "LAG-3抑制剂III期肺癌研究失败，标志着继PD-1/CTLA-4后下一个重要检查点抑制剂探索的重大挫折。",
+        "category": "临床试验"
+      },
+      {
+        "index": 24,
+        "title": "New FDA guidance could elevate pharma’s biosimilar market",
+        "importance": 4,
+        "reason": "FDA发布新指南以加速生物类似药市场发展，可能对美国药品定价和市场竞争产生深远影响。",
+        "category": "政策法规"
+      },
+      {
+        "index": 5,
+        "title": "Bimzelx tops Skyrizi in head-to-head psoriatic arthritis trial",
+        "importance": 4,
+        "reason": "UCB的Bimzelx在头对头试验中击败Skyrizi，是首个在银屑病关节炎中显示优于IL-23抑制剂的生物制剂，可能重塑治疗格局。",
+        "category": "临床试验"
+      },
+      {
+        "index": 26,
+        "title": "FDA to unify agency’s ‘fragmented’ safety surveillance system",
+        "importance": 4,
+        "reason": "FDA整合分散的安全监测系统为统一平台，旨在提升监管效率并大幅节约成本，是重要的监管基础设施升级。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发领域喜忧参半。一方面，UCB的Bimzelx在头对头试验中取得积极结果；另一方面，Immutep的LAG-3抑制剂III期失败，以及GSK一款老药被批准用于超罕见脑病而非自闭症，反映了研发路径的多样性与不确定性。",
+      "临床试验": "临床试验方面出现关键数据。Immutep的LAG-3抑制剂III期肺癌研究失败是重大挫折。UCB的Bimzelx在银屑病关节炎头对头试验中击败Skyrizi，结果积极。此外，Aplagon和Lundbeck的临床试验也取得了阶段性进展。"
+    },
+    "tomorrow_watch": "需持续关注礼来在中国扩大GLP-1产能的具体规划及其对全球供应链的影响。同时，FDA新生物类似药指南的细则及其对市场准入和定价的实际影响值得深入分析。此外，Immutep LAG-3失败后，行业对下一代检查点抑制剂的研发策略调整也值得观察。"
+  }
+}
