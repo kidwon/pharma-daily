@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-17",
+  "generated_at": "2026-03-17T04:18:01.018569",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260317/daily.md",
+    "html": "docs/20260317/index.html",
+    "directory": "docs/20260317"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于多个关键领域：罕见病药物市场预计到2032年将突破4000亿美元，显示该领域持续增长潜力；FDA推出统一的不良事件监测系统，预计五年内节省1.2亿美元，提升监管效率；中国生物技术公司在细胞疗法和环状RNA疗法领域取得进展，获得FDA临床试验许可，显示全球竞争力提升。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "Rare disease drug sales to surge past $400B by 2032 despite FDA volatility: Evaluate report",
+        "importance": 5,
+        "reason": "罕见病药物市场预测突破4000亿美元，显示巨大增长潜力和行业长期趋势。",
+        "category": "市场分析"
+      },
+      {
+        "index": 18,
+        "title": "FDA rolls out new streamlined adverse event monitoring system, eyes $120M in savings",
+        "importance": 5,
+        "reason": "FDA推出统一不良事件监测系统，预计五年节省1.2亿美元，显著提升监管效率和成本控制。",
+        "category": "政策法规"
+      },
+      {
+        "index": 1,
+        "title": "Immutep's LAG-3 drug fails Phase 3 lung cancer study",
+        "importance": 4,
+        "reason": "LAG-3抑制剂III期肺癌试验失败，影响免疫检查点抑制剂领域研发前景。",
+        "category": "临床试验"
+      },
+      {
+        "index": 10,
+        "title": "China startup CirCode gets clearance for trial of circular RNA therapy",
+        "importance": 4,
+        "reason": "中国初创公司获FDA批准开展环状RNA疗法临床试验，显示新兴技术领域的全球竞争力。",
+        "category": "新药研发"
+      },
+      {
+        "index": 12,
+        "title": "Bayer heads to regulators with nondiabetic kidney disease trial win for Kerendia",
+        "importance": 4,
+        "reason": "拜耳Kerendia在非糖尿病慢性肾病III期试验成功，即将提交监管申请，拓展适应症市场。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "中国生物技术公司在细胞疗法和环状RNA疗法领域取得进展，Unixell和CirCode获FDA临床试验许可；CytomX报告ADC药物在结直肠癌的后期数据；GLP-1仿制药安全问题引发关注。",
+      "临床试验": "Immutep的LAG-3抑制剂III期肺癌试验失败；拜耳Kerendia在非糖尿病慢性肾病试验成功；礼来Ebglyss在湿疹III期试验阳性，可能拓展至儿童患者；Aplagon启动外周动脉疾病IIa期试验。"
+    },
+    "tomorrow_watch": "关注FDA对CDMO Simtra的警告信和Hyloris制造问题相关CRL的后续影响；GSK的RSV疫苗Arexvy获批扩展适应症后的市场表现；礼来针对GLP-1仿制药安全问题的监管行动进展；中国生物技术公司全球临床试验的加速趋势。"
+  }
+}
