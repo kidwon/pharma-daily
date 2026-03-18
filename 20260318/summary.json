@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-18",
+  "generated_at": "2026-03-18T04:24:07.772228",
+  "theme": "minimal",
+  "total_items": 102,
+  "files": {
+    "markdown": "docs/20260318/daily.md",
+    "html": "docs/20260318/index.html",
+    "directory": "docs/20260318"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于关键临床试验结果与监管进展。LAG-3抑制剂III期肺癌研究失败，对免疫治疗领域造成打击；GSK的RSV疫苗Arexvy获FDA扩大适应症，增强其市场竞争力；中国生物技术公司在细胞/基因疗法及mRNA领域持续获得FDA临床试验许可，显示其全球研发影响力提升。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Immutep's LAG-3 drug fails Phase 3 lung cancer study",
+        "importance": 5,
+        "reason": "LAG-3作为PD-1/CTLA-4之后备受期待的下一代检查点抑制剂，其III期失败对肿瘤免疫治疗领域是重大挫折。",
+        "category": "临床试验"
+      },
+      {
+        "index": 18,
+        "title": "Bayer heads to regulators with nondiabetic kidney disease trial win for Kerendia",
+        "importance": 5,
+        "reason": "Kerendia在非糖尿病慢性肾病III期试验成功，有望显著扩大其市场潜力，是心肾代谢领域的重要进展。",
+        "category": "临床试验"
+      },
+      {
+        "index": 19,
+        "title": "GSK catches up to Pfizer, Moderna with FDA expansion for Arexvy",
+        "importance": 4,
+        "reason": "GSK的RSV疫苗获FDA批准扩大至18-49岁高危人群，增强了其在竞争激烈的RSV疫苗市场中的地位。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "With FDA go ahead, a China biotech notches a first in cell therapy testing",
+        "importance": 4,
+        "reason": "中国生物科技公司Unixell在细胞疗法领域获得FDA试验许可，标志着中国创新药企在全球前沿疗法研发中取得突破。",
+        "category": "新药研发"
+      },
+      {
+        "index": 10,
+        "title": "China mRNA therapy startup Innorna to test gout treatment in US",
+        "importance": 4,
+        "reason": "中国mRNA初创公司Innorna获FDA批准在美国开展痛风mRNA疗法I期试验，展示了中国在下一代疗法平台上的全球布局。",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发领域活跃，中国生物技术公司表现突出，在细胞疗法（Unixell）、mRNA疗法（Innorna）和环状RNA疗法（CirCode）等多个前沿平台获得FDA临床试验许可，显示其创新能力和全球化步伐加速。",
+      "临床试验": "今日临床试验结果喜忧参半。重大失败包括Immutep的LAG-3抑制剂III期肺癌研究失败；积极进展包括Bayer的Kerendia在非糖尿病肾病III期试验成功，以及礼来的Ebglyss在特应性皮炎儿童患者中取得积极III期结果。"
+    },
+    "tomorrow_watch": "需持续关注LAG-3抑制剂III期失败后，该靶点及组合疗法的后续研发策略调整；GSK Arexvy扩大适应症后的市场表现及对RSV疫苗竞争格局的影响；以及中国生物科技公司（如Unixell, Innorna, CirCode）在美国开展的早期临床试验进展。"
+  }
+}
