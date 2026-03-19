@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-19",
+  "generated_at": "2026-03-19T04:23:08.748105",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260319/daily.md",
+    "html": "docs/20260319/index.html",
+    "directory": "docs/20260319"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在重磅新药获批和监管政策变化。强生（J&J）的口服银屑病药物Icotyde获得FDA批准，有望颠覆数十亿美元的生物制剂市场；同时，FDA更新了多项监管政策，包括放宽再生医学先进疗法（RMAT）的认定门槛和鼓励减少动物试验。此外，中国生物科技公司Excalipoint和Innorna分别获得大额融资和FDA临床试验许可，显示中国创新药企的国际化进展。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "J&J wins FDA nod for psoriasis pill that aims to compete with top-selling injections",
+        "importance": 5,
+        "reason": "首个口服IL-23抑制剂获批，可能颠覆银屑病注射药物市场，预计峰值销售额超50亿美元。",
+        "category": "监管审批"
+      },
+      {
+        "index": 13,
+        "title": "FDA opens door to RMAT designations for therapies on clinical hold",
+        "importance": 4,
+        "reason": "FDA放宽RMAT认定门槛，允许处于临床暂停的疗法申请，可能加速再生医学疗法开发。",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "Chinese biotech startup Excalipoint banks $69M for next-gen T cell engagers",
+        "importance": 4,
+        "reason": "中国生物科技公司获得近7000万美元融资，用于开发下一代T细胞衔接器，是近年来中国初创企业最大融资之一。",
+        "category": "商业动态"
+      },
+      {
+        "index": 14,
+        "title": "FDA seeks to encourage fewer animal studies with new draft guidance",
+        "importance": 4,
+        "reason": "FDA发布新指南草案鼓励减少动物试验，可能改变临床前安全评估范式。",
+        "category": "政策法规"
+      },
+      {
+        "index": 24,
+        "title": "Bayer heads to regulators with nondiabetic kidney disease trial win for Kerendia",
+        "importance": 4,
+        "reason": "拜耳非糖尿病慢性肾病III期试验成功，为Kerendia拓展新适应症铺平道路。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "强生口服银屑病药物Icotyde获批，成为首个口服IL-23抑制剂；Crossbow融资7700万美元开发新型癌症免疫疗法；Xaira发布AI模型X-Cell用于预测虚拟细胞。",
+      "临床试验": "拜耳Kerendia在非糖尿病慢性肾病III期试验中成功；礼来Ebglyss在特应性皮炎III期试验中取得阳性结果，可能扩展至儿童患者；Aspen Neuroscience公布帕金森病干细胞疗法积极数据。"
+    },
+    "tomorrow_watch": "关注强生Icotyde获批后的市场反应和定价策略；FDA新监管政策（RMAT认定、动物试验指南）对行业的具体影响；中国生物科技公司（如Excalipoint、Innorna）的后续研发进展和国际合作动态。"
+  }
+}
