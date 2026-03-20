@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-20",
+  "generated_at": "2026-03-20T04:14:07.124945",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260320/daily.md",
+    "html": "docs/20260320/index.html",
+    "directory": "docs/20260320"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅新药获批与监管政策变化。强生（J&J）的口服IL-23抑制剂Icotyde获得FDA批准，有望颠覆银屑病注射药物市场；诺和诺德（Novo Nordisk）利用优先审评券加速获批高剂量Wegovy，进一步巩固其在减肥药领域的竞争地位。同时，FDA发布新指南鼓励减少动物试验，并放宽再生医学先进疗法（RMAT）的认定标准，显示监管环境正朝着更灵活、创新的方向演进。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "J&J wins FDA nod for psoriasis pill that aims to compete with top-selling injections",
+        "importance": 5,
+        "reason": "首个口服IL-23抑制剂获批，有望颠覆数十亿美元的银屑病注射药物市场，销售峰值预计超50亿美元。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Novo wins FDA approval for high-dose Wegovy under commissioner's voucher",
+        "importance": 5,
+        "reason": "利用优先审评券加速获批高剂量Wegovy，是诺和诺德在竞争白热化的GLP-1减肥药市场中巩固优势的关键举措。",
+        "category": "监管审批"
+      },
+      {
+        "index": 20,
+        "title": "FDA seeks to encourage fewer animal studies with new draft guidance",
+        "importance": 4,
+        "reason": "FDA发布期待已久的指导草案，旨在推动减少动物试验，可能对全行业早期研发策略产生深远影响。",
+        "category": "政策法规"
+      },
+      {
+        "index": 19,
+        "title": "FDA opens door to RMAT designations for therapies on clinical hold",
+        "importance": 4,
+        "reason": "FDA放宽政策，允许处于临床暂停阶段的疗法申请RMAT认定，为面临挑战的小型生物技术公司提供了关键支持。",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "Collegium is acquiring Corium's approved ADHD drug for $650M",
+        "importance": 4,
+        "reason": "高达6.5亿美元（外加1.35亿美元里程碑付款）的收购案，显著加强了Collegium在ADHD治疗领域的商业产品组合。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发领域活跃，涉及多个治疗领域。中国初创公司Excalipoint获得6900万美元融资用于开发下一代T细胞衔接器；BioVie计划分拆并IPO以开发肝病新制剂；Crossbow筹集7700万美元推进新型癌症免疫疗法；Congruence为其首款药物启动人体试验并融资4000万美元。",
+      "临床试验": "临床试验方面，辉瑞（Pfizer）的PARP抑制剂Talzenna在前列腺癌的III期试验中取得积极结果，旨在拓展其应用范围；礼来（Eli Lilly）的“三重G”药物在糖尿病III期试验中显示出与Mounjaro相当的降糖效果；Aspen Neuroscience公布了其干细胞衍生疗法治疗帕金森病的积极I/II期数据。"
+    },
+    "tomorrow_watch": "1. 强生口服银屑病药Icotyde获批后的市场初步反应及定价策略。\n2. 诺和诺德高剂量Wegovy上市后，与礼来Zepbound等竞品的市场份额动态。\n3. FDA关于减少动物试验的新指南草案引发的行业讨论及潜在替代方法的进展。\n4. 阿斯利康（AstraZeneca）宣布在上海建设细胞疗法生产基地和研发中心，后续投资细节及对中国市场的影响。\n5. 阿尔德斯（Aldeyra）在收到FDA拒绝后，其股价暴跌的后续发展及公司应对策略。"
+  }
+}
