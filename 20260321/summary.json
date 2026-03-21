@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-21",
+  "generated_at": "2026-03-21T04:04:38.950673",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260321/daily.md",
+    "html": "docs/20260321/index.html",
+    "directory": "docs/20260321"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于肥胖症与代谢疾病领域的重大进展，其中Rhythm Pharma的Imcivree获得FDA批准用于脑损伤相关肥胖症，成为该领域的首个疗法；诺和诺德的高剂量Wegovy也通过优先审评券快速获批。此外，强生首款口服银屑病药物Icotyde获批，以及GSK的罕见肝病药物linerixibat获准，均显示出监管审批的活跃态势。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Rhythm's Imcivree scores 'transformative' FDA approval in brain damage-related obesity",
+        "importance": 5,
+        "reason": "首个获批用于获得性下丘脑肥胖的药物，潜在市场超10亿美元，是肥胖症治疗领域的重大突破。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Novo wins FDA approval for high-dose Wegovy under commissioner's voucher",
+        "importance": 5,
+        "reason": "GLP-1重磅药物Wegovy的高剂量版本通过优先审评券快速获批，将加剧与礼来的市场竞争。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "STAT+: J&J wins approval for first-of-its-kind psoriasis pill",
+        "importance": 5,
+        "reason": "强生首款口服银屑病药物获批，有望颠覆数十亿美元的生物制剂市场，是治疗模式的重大转变。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Collegium is acquiring Corium's approved ADHD drug for $650M",
+        "importance": 4,
+        "reason": "6.5亿美元收购已获批的ADHD药物Azstarys，是重要的商业并购，将显著增强收购方在神经疾病领域的产品组合。",
+        "category": "商业动态"
+      },
+      {
+        "index": 16,
+        "title": "Earendil Labs, an AI-powered drugmaker, hauls in $787M",
+        "importance": 4,
+        "reason": "AI驱动的生物技术公司获得7.87亿美元巨额融资，并与赛诺菲达成合作，标志着AI在药物研发中的投资热度持续高涨。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态相对较少，但AI药物研发公司Earendil Labs的近20条管线显示出该领域的创新活力。",
+      "临床试验": "礼来的三重激动剂（triple-G）在糖尿病III期试验中显示出与Mounjaro相当的降糖效果；辉瑞的PARP抑制剂Talzenna在前列腺癌III期试验中取得积极结果，旨在拓展至更早期治疗线。"
+    },
+    "tomorrow_watch": "需关注诺和诺德GLP-1药物在印度专利到期后，仿制药上市对全球市场格局的潜在冲击；以及阿斯利康在中国上海投资建设细胞疗法制造与研发中心的后续进展，这反映了跨国药企在中国生物制造领域的重要布局。"
+  }
+}
