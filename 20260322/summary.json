@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-22",
+  "generated_at": "2026-03-22T04:20:11.002513",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260322/daily.md",
+    "html": "docs/20260322/index.html",
+    "directory": "docs/20260322"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与商业合作两大领域。FDA批准了多款重要新药，包括Rhythm Pharma的Imcivree用于脑损伤相关肥胖、GSK的Linerixibat用于罕见肝病瘙痒，以及强生的首创口服银屑病药Icotyde，这些批准有望重塑相关治疗领域。同时，诺和诺德利用优先审评券快速获批高剂量Wegovy，以及Collegium以6.5亿美元收购Corium的ADHD药物Azstarys，显示出市场对重磅产品的持续争夺与布局。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Rhythm's Imcivree scores 'transformative' FDA approval in brain damage-related obesity",
+        "importance": 5,
+        "reason": "FDA首次批准用于获得性下丘脑肥胖的药物，市场潜力超10亿美元，是治疗领域的重大突破。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Novo wins FDA approval for high-dose Wegovy under commissioner's voucher",
+        "importance": 5,
+        "reason": "诺和诺德利用优先审评券快速获批高剂量Wegovy，有助于其在竞争激烈的GLP-1市场中巩固地位。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "STAT+: J&J wins approval for first-of-its-kind psoriasis pill",
+        "importance": 5,
+        "reason": "强生获批首创口服银屑病药，有望颠覆数十亿美元规模的注射剂市场，是治疗模式的重大转变。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Collegium is acquiring Corium's approved ADHD drug for $650M",
+        "importance": 4,
+        "reason": "高达6.5亿美元的前期交易，是重要的商业并购，旨在加强Collegium在ADHD领域的产品组合。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "After Alfasigma's GSK licensing deal, Lynavoy picks up FDA nod in rare liver disease",
+        "importance": 4,
+        "reason": "FDA批准首个用于原发性胆汁性胆管炎患者胆汁淤积性瘙痒的药物，解决了未满足的临床需求。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态相对较少，但AI制药公司Earendil Labs获得7.87亿美元巨额融资，用于推进近20个药物管线，显示出AI在药物发现领域的持续热度。",
+      "临床试验": "礼来的三重激动剂（triple-G）在2型糖尿病III期试验中显示出与Mounjaro相当的降糖效果；辉瑞的PARP抑制剂Talzenna在前列腺癌III期试验中取得积极结果，旨在拓展其适应症至更早期治疗线。"
+    },
+    "tomorrow_watch": "需关注诺和诺德司美格鲁肽（Ozempic/Wegovy）在印度专利到期后，40多家仿制药企推出廉价版本对全球GLP-1市场格局的潜在冲击。同时，阿斯利康宣布在上海投资建设细胞疗法制造与研发中心，其后续进展值得留意。此外，FDA对UniQure亨廷顿病基因疗法的审评争议（STAT+报道提及）可能持续发酵，需关注其监管动态。"
+  }
+}
