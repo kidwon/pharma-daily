@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-23",
+  "generated_at": "2026-03-23T04:27:37.037217",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260323/daily.md",
+    "html": "docs/20260323/index.html",
+    "directory": "docs/20260323"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅新药获批与市场格局变化。FDA批准了多款具有里程碑意义的药物，包括首个治疗获得性下丘脑肥胖症的药物Imcivree、首个治疗原发性胆汁性胆管炎相关瘙痒的药物Linerixibat，以及强生首款口服银屑病药Icotyde。同时，诺和诺德高剂量Wegovy的快速获批及GLP-1类药物在印度专利到期，预示着减肥药市场竞争将加剧。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Rhythm's Imcivree scores 'transformative' FDA approval in brain damage-related obesity",
+        "importance": 5,
+        "reason": "FDA批准首个治疗获得性下丘脑肥胖症的药物，开辟了超10亿美元的新市场。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Novo wins FDA approval for high-dose Wegovy under commissioner's voucher",
+        "importance": 5,
+        "reason": "诺和诺德高剂量Wegovy通过优先审评券快速获批，将加剧与礼来在减肥药市场的竞争。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "STAT+: J&J wins approval for first-of-its-kind psoriasis pill",
+        "importance": 5,
+        "reason": "强生首款口服银屑病药获批，可能颠覆数十亿美元的生物制剂市场格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 17,
+        "title": "With Novo's semaglutide going off patent, Indian drugmakers set to launch their cheaper generics",
+        "importance": 4,
+        "reason": "诺和诺德GLP-1药物在印度专利到期，40多家仿制药企将推出廉价版本，可能重塑全球市场。",
+        "category": "市场分析"
+      },
+      {
+        "index": 13,
+        "title": "Earendil Labs, an AI-powered drugmaker, hauls in $787M",
+        "importance": 4,
+        "reason": "AI生物技术公司Earendil Labs融资7.87亿美元，创下巨额融资记录，凸显AI在药物研发中的热度。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发进展显著，包括礼来“三重激动剂”在糖尿病III期试验中显示出与Mounjaro相当的降糖效果，以及辉瑞PARP抑制剂Talzenna在前列腺癌III期试验中取得积极数据，为扩大适应症奠定基础。",
+      "临床试验": "临床试验方面，Congruence Therapeutics为其首款药物启动人体试验，并融资4000万美元。此外，FDA发布了关于昂丹司琼QT间期延长风险的新安全信息，提醒临床关注。"
+    },
+    "tomorrow_watch": "值得关注的事项包括：FDA关于优先审评券试点项目的公开会议反馈征集进展；Sarepta可能就杜氏肌营养不良症外显子跳跃药物寻求完全批准；以及阿斯利康在上海建设细胞疗法制造与研发中心的后续投资细节。"
+  }
+}
