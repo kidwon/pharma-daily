@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-24",
+  "generated_at": "2026-03-24T04:18:32.491696",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260324/daily.md",
+    "html": "docs/20260324/index.html",
+    "directory": "docs/20260324"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅新药获批与市场扩张。Rhythm Pharma的Imcivree获得FDA批准用于脑损伤相关肥胖，成为该领域首个疗法；诺和诺德的高剂量Wegovy通过优先审评券快速获批，进一步巩固其在减肥药市场的地位。同时，多家跨国药企（阿斯利康、诺华、礼来）宣布加大在华投资，凸显中国市场战略重要性。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Rhythm's Imcivree scores 'transformative' FDA approval in brain damage-related obesity",
+        "importance": 5,
+        "reason": "首个获批用于获得性下丘脑肥胖的药物，开辟超10亿美元新市场。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Novo wins FDA approval for high-dose Wegovy under commissioner's voucher",
+        "importance": 5,
+        "reason": "高剂量Wegovy快速获批，将加剧与礼来的GLP-1市场竞争。",
+        "category": "监管审批"
+      },
+      {
+        "index": 16,
+        "title": "Novartis joins Lilly, AZ in China expansion with $480M commitment to boost manufacturing, R&D",
+        "importance": 4,
+        "reason": "诺华加入在华大规模投资行列，显示跨国药企持续加码中国研发与制造。",
+        "category": "商业动态"
+      },
+      {
+        "index": 7,
+        "title": "STAT+: J&J wins approval for first-of-its-kind psoriasis pill",
+        "importance": 4,
+        "reason": "强生获批首款口服银屑病药，可能颠覆数十亿美元的生物制剂市场。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "Earendil Labs, an AI-powered drugmaker, hauls in $787M",
+        "importance": 4,
+        "reason": "AI生物技术公司获巨额融资，管线近20个药物并与赛诺菲合作，显示AI制药持续受资本追捧。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "涉及多个领域突破，包括首个脑损伤相关肥胖药（Imcivree）、首款口服银屑病药（J&J）、以及AI驱动的新药发现平台（Earendil Labs）取得进展。",
+      "临床试验": "多项中期数据公布，如Apogee的湿疹药物II期维持数据积极，Dizal的一线肺癌III期研究成功，显示多个治疗领域竞争激烈。"
+    },
+    "tomorrow_watch": "关注FDA优先审评券计划的公开听证会反馈（6月12日举行），以及诺和诺德司美格鲁肽专利在印度到期后，40多家仿制药企推出廉价版本可能引发的全球GLP-1市场竞争格局变化。"
+  }
+}
