@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-25",
+  "generated_at": "2026-03-25T04:20:59.394387",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260325/daily.md",
+    "html": "docs/20260325/index.html",
+    "directory": "docs/20260325"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于新药研发进展与监管动向。Karyopharm的骨髓纤维化III期试验结果喜忧参半，而Apogee的湿疹药物中期数据表现积极，可能挑战Dupixent的市场地位。同时，FDA加强了对氯氮平便秘风险的警告，并罕见公开印度制药工厂的违规照片，显示监管趋严。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Karyopharm, looking to jump-start Xpovio, reports mixed results in myelofibrosis",
+        "importance": 4,
+        "reason": "关键III期试验结果将影响骨髓纤维化一线治疗格局及Xpovio的商业前景",
+        "category": "临床试验"
+      },
+      {
+        "index": 3,
+        "title": "Apogee strengthens case for longer-lasting eczema drug",
+        "importance": 4,
+        "reason": "积极的II期维持数据可能颠覆中重度湿疹市场，挑战Dupixent等现有疗法",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "La FDA refuerza la advertencia de que el estreñimiento no tratado causado por el medicamento para tratar la esquizofrenia clozapina (Clozaril) puede provocar graves problemas intestinales",
+        "importance": 4,
+        "reason": "FDA加强氯氮平（Clozaril）严重肠道风险警告，影响广泛使用的精神分裂症药物安全性管理",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "Earendil Labs, an AI-powered drugmaker, hauls in $787M",
+        "importance": 4,
+        "reason": "AI制药公司获巨额融资并与赛诺菲合作，凸显AI在药物发现中的资本热度与战略价值",
+        "category": "商业动态"
+      },
+      {
+        "index": 25,
+        "title": "FDA posts photos of Indian drugmaking facility cited in warning letter",
+        "importance": 4,
+        "reason": "FDA罕见公开印度制药工厂违规照片，表明对全球供应链质量监管的强硬态度升级",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "AI制药公司Earendil Labs获巨额融资，管线近20个药物；Gilead以巨额预付款押注Ouro Medicines的自身免疫项目；多家公司（如Dizal、Immutrin）在肺癌、ATTR-CM等领域推进候选药物。",
+      "临床试验": "Karyopharm骨髓纤维化III期试验数据混合；Apogee湿疹药物II期维持数据积极，显示长效给药潜力；Ondine的Steriwave III期试验入组接近完成。"
+    },
+    "tomorrow_watch": "关注FDA关于国家优先审评券计划的公开听证会筹备进展，以及各大药企（如诺华、礼来、阿斯利康）在中国市场扩张战略的后续落地情况。"
+  }
+}
