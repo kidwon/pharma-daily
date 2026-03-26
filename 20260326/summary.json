@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26T04:31:51.554356",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260326/daily.md",
+    "html": "docs/20260326/index.html",
+    "directory": "docs/20260326"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅收购、关键新药获批及重要临床试验数据。默克以67亿美元收购Terns Pharmaceuticals，强化其肿瘤管线；Denali Therapeutics的Hunter综合征药物获得FDA加速批准，为罕见病领域带来突破；Corcept的卵巢癌新药Lifyorli提前获批，成为同类首创疗法。",
+    "top_news": [
+      {
+        "index": 5,
+        "title": "Merck to buy Terns for $6.7B, taking a leukemia drug that could challenge Novartis' Scemblix",
+        "importance": 5,
+        "reason": "默克以67亿美元现金收购Terns，是今日最大规模交易，旨在获得挑战诺华Scemblix的慢性髓性白血病药物，显著强化其肿瘤管线。",
+        "category": "商业动态"
+      },
+      {
+        "index": 3,
+        "title": "FDA approves Denali's Hunter syndrome drug, handing rare disease community a win",
+        "importance": 5,
+        "reason": "Denali的Hunter综合征酶替代疗法获FDA批准，是在一系列罕见病候选药物遭拒后取得的重大胜利，具有重要临床意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Corcept's lead drug bounces back from FDA snub with different approval as Lifyorli in ovarian cancer",
+        "importance": 4,
+        "reason": "Corcept的同类首创药物Lifyorli获FDA批准用于卵巢癌，标志着其在遭遇监管挫折后成功转型，成为该领域的重要新选择。",
+        "category": "监管审批"
+      },
+      {
+        "index": 1,
+        "title": "Karyopharm, looking to jump-start Xpovio, reports mixed results in myelofibrosis",
+        "importance": 4,
+        "reason": "Karyopharm公布其药物Xpovio联合Jakafi治疗骨髓纤维化的关键III期混合结果，对药物前景和公司战略有重要影响。",
+        "category": "临床试验"
+      },
+      {
+        "index": 29,
+        "title": "STAT+: Novartis picks up experimental breast cancer therapy for $2B",
+        "importance": 4,
+        "reason": "诺华以20亿美元收购Synnovation的实验性乳腺癌疗法，是今日另一项重大交易，旨在加强其肿瘤研发管线。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态活跃，涉及多个疾病领域。Denali的Hunter综合征酶替代疗法Avlayah和Corcept的卵巢癌新药Lifyorli获批，成为亮点。此外，Apogee Therapeutics的湿疹长效疗法、Immutrin的ATTR-CM药物以及Ondine的Steriwave均取得研发进展。",
+      "临床试验": "关键临床试验数据集中发布。Karyopharm公布了Xpovio联合Jakafi治疗骨髓纤维化的III期混合结果。Apogee Therapeutics的湿疹药物II期数据显示其长效潜力。诺和诺德公布了其中国来源的三重G激动剂的降糖数据。"
+    },
+    "tomorrow_watch": "需关注默克收购Terns的后续整合细节及对慢性髓性白血病市场竞争格局的影响；Denali的Hunter综合征药物获批后的市场准入和定价策略；Karyopharm就骨髓纤维化混合数据与监管机构的讨论方向；以及FDA对ImmunityBio警告信的后续处理及行业营销合规性审查趋势。"
+  }
+}
