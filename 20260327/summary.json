@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-27",
+  "generated_at": "2026-03-27T04:33:28.536517",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260327/daily.md",
+    "html": "docs/20260327/index.html",
+    "directory": "docs/20260327"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在FDA审批与大型并购。Denali Therapeutics的Hunter综合征药物Avlayah获得FDA加速批准，为罕见病领域带来积极信号；默克宣布以67亿美元收购Terns Pharmaceuticals，强化其肿瘤管线。同时，Corcept Therapeutics的卵巢癌药物Lifyorli提前获批，而行业对FDA'美国优先'收费提案的反弹以及UCB在美建设20亿美元生物制剂工厂等动态也备受关注。",
+    "top_news": [
+      {
+        "index": 6,
+        "title": "Merck to buy Terns for $6.7B, taking a leukemia drug that could challenge Novartis' Scemblix",
+        "importance": 5,
+        "reason": "默克以67亿美元现金收购Terns，是今日最大并购案，旨在获得挑战诺华Scemblix的CML药物，显著强化其肿瘤管线。",
+        "category": "商业动态"
+      },
+      {
+        "index": 3,
+        "title": "FDA approves Denali's Hunter syndrome drug, handing rare disease community a win",
+        "importance": 5,
+        "reason": "Denali的Hunter综合征酶替代疗法Avlayah获FDA批准，打破了近期罕见病药物屡遭拒批的趋势，具有重要行业象征意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Corcept's lead drug bounces back from FDA snub with different approval as Lifyorli in ovarian cancer",
+        "importance": 4,
+        "reason": "Corcept的核心药物relacorilant（商品名Lifyorli）获FDA批准用于卵巢癌，较预期提前数月，是该公司的重要里程碑。",
+        "category": "监管审批"
+      },
+      {
+        "index": 1,
+        "title": "Karyopharm, looking to jump-start Xpovio, reports mixed results in myelofibrosis",
+        "importance": 4,
+        "reason": "Karyopharm公布了Xpovio联合Jakafi用于一线骨髓纤维化的III期试验混合结果，对药物未来商业前景有重要影响。",
+        "category": "临床试验"
+      },
+      {
+        "index": 4,
+        "title": "Biopharma industry pushes back on FDA's 'America First' user fee proposals",
+        "importance": 4,
+        "reason": "生物制药行业集体反对FDA新一轮用户收费协议中的'美国优先'提案，可能影响未来行业监管与创新环境。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态活跃，Denali的Hunter综合征酶替代疗法Avlayah和Corcept的卵巢癌药物Lifyorli获批是亮点。此外，Immutrin融资8700万美元推进ATTR-CM药物，以及Ondine的Steriwave III期试验入组达93%，显示多个治疗领域均有进展。",
+      "临床试验": "临床试验方面，Karyopharm公布了Xpovio联合Jakafi治疗骨髓纤维化的关键III期试验混合结果，数据好坏参半。Novo Nordisk则公布了其中国来源的三重激动剂（triple-G）的更多降糖数据。"
+    },
+    "tomorrow_watch": "明日值得关注默克收购Terns的后续市场反应及潜在竞购可能；继续关注FDA对Denali的Avlayah批准后行业对罕见病审批标准变化的讨论；留意Corcept的Lifyorli获批后市场准入与商业发布计划；以及生物制药行业与FDA就用户收费提案的进一步博弈动态。"
+  }
+}
