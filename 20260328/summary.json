@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-28",
+  "generated_at": "2026-03-28T04:20:52.048678",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260328/daily.md",
+    "html": "docs/20260328/index.html",
+    "directory": "docs/20260328"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与商业并购两大领域。FDA批准了多款重要药物，包括诺和诺德的首款周用胰岛素、Denali的Hunter综合征疗法以及Rocket的基因疗法，同时默克宣布以67亿美元收购Terns Pharmaceuticals，引发市场关注。此外，行业对FDA的'美国优先'用户费用提案表示反对，反映了政策环境的变化。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "FDA approves Novo Nordisk's once-weekly insulin",
+        "importance": 5,
+        "reason": "首款FDA批准的周用胰岛素，为2型糖尿病患者提供革命性治疗方案，市场潜力巨大。",
+        "category": "监管审批"
+      },
+      {
+        "index": 11,
+        "title": "STAT+: Pharmalittle: We’re reading about a Merck acquisition, the rise of former Loxo execs at Lilly, and more",
+        "importance": 5,
+        "reason": "默克以67亿美元收购Terns Pharmaceuticals，涉及有前景的白血病治疗药物，是今年大型并购之一。",
+        "category": "商业动态"
+      },
+      {
+        "index": 19,
+        "title": "FDA clears Denali drug in ‘clear step’ for rare disease biotechs",
+        "importance": 5,
+        "reason": "Denali的Hunter综合征疗法获批，打破了FDA近期对罕见病药物的严格立场，具有行业风向标意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Rocket plots measured trajectory for new gene therapy Kresladi after clearance to launch from FDA",
+        "importance": 4,
+        "reason": "FDA加速批准Rocket的基因疗法Kresladi，用于治疗罕见免疫疾病，是基因治疗领域的重要进展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 8,
+        "title": "Biopharma industry pushes back on FDA's 'America First' user fee proposals",
+        "importance": 4,
+        "reason": "生物制药行业反对FDA的'美国优先'用户费用提案，可能影响全球药物审批与行业成本结构。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "诺华以高达20亿美元收购Excellergy，获取下一代Xolair候选药物；Corcept的Lifyorli获批用于卵巢癌，成为同类首创药物；多款GLP-1仿制药进入印度市场。",
+      "临床试验": "Karyopharm公布了Xpovio联合Jakafi治疗骨髓纤维化的III期试验混合结果；Ondine的Steriwave III期试验入组率达93%，接近FDA提交阶段。"
+    },
+    "tomorrow_watch": "关注默克收购Terns的后续市场反应及潜在竞购可能；留意FDA对'美国优先'提案的行业反馈进展；追踪诺和诺德周用胰岛素上市后的初期市场表现。"
+  }
+}
