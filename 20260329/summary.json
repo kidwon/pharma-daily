@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T04:36:44.498316",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260329/daily.md",
+    "html": "docs/20260329/index.html",
+    "directory": "docs/20260329"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于多项重磅监管审批与大型并购交易。FDA批准了诺和诺德的首款每周一次胰岛素、Rocket的基因疗法Kresladi以及Denali的Hunter综合征药物，标志着糖尿病、基因治疗和罕见病领域的重要进展。同时，默克宣布以67亿美元收购Terns Pharmaceuticals，CVC资本提出126亿美元收购Recordati，显示行业整合加速。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "FDA approves Novo Nordisk's once-weekly insulin",
+        "importance": 5,
+        "reason": "首款美国获批的每周一次胰岛素，为2型糖尿病治疗带来突破性便利性提升",
+        "category": "监管审批"
+      },
+      {
+        "index": 12,
+        "title": "STAT+: Pharmalittle: We’re reading about a Merck acquisition, the rise of former Loxo execs at Lilly, and more",
+        "importance": 5,
+        "reason": "默克以67亿美元收购Terns Pharmaceuticals，涉及有前景的白血病治疗药物，是近期最大并购之一",
+        "category": "商业动态"
+      },
+      {
+        "index": 5,
+        "title": "Recordati confirms it's weighing CVC Capital buyout offer of $12.6B",
+        "importance": 5,
+        "reason": "CVC资本提出126亿美元收购意大利制药公司Recordati剩余股份，是欧洲制药行业重大并购案",
+        "category": "商业动态"
+      },
+      {
+        "index": 3,
+        "title": "Rocket plots measured trajectory for new gene therapy Kresladi after clearance to launch from FDA",
+        "importance": 4,
+        "reason": "FDA加速批准Rocket的基因疗法Kresladi，用于治疗儿童罕见免疫疾病，是基因治疗领域重要进展",
+        "category": "监管审批"
+      },
+      {
+        "index": 7,
+        "title": "FDA approves Denali's Hunter syndrome drug, handing rare disease community a win",
+        "importance": 4,
+        "reason": "FDA批准Denali的Hunter综合征酶替代疗法，打破近期罕见病药物连续被拒趋势，具有标志性意义",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "诺华以高达20亿美元收购Excellergy，获得Xolair后继药物；Corcept的Lifyorli获FDA批准用于卵巢癌，成为同类首创药物；Tanabe Pharma公布针对罕见光痛疾病的III期试验阳性数据。",
+      "临床试验": "Karyopharm公布Xpovio联合Jakafi用于一线骨髓纤维化的III期试验混合结果；Ondine的Steriwave III期试验达到93%入组里程碑；AnaptysBio分拆生物技术业务成立新公司First Tracks Biotherapeutics。"
+    },
+    "tomorrow_watch": "关注Takeda新任CEO Julie Kim将如何推进公司13亿美元重组计划的具体细节；观察印度GLP-1仿制药市场混乱局面后续发展；追踪FDA'美国优先'用户费用提案引发的行业反弹后续影响。"
+  }
+}
