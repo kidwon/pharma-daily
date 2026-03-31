@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-31",
+  "generated_at": "2026-03-31T04:35:54.815207",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260331/daily.md",
+    "html": "docs/20260331/index.html",
+    "directory": "docs/20260331"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅新药获批与大型资本运作。FDA批准了诺和诺德的首款每周一次胰岛素、Rocket的基因疗法以及Denali的罕见病药物，标志着糖尿病、基因治疗和罕见病领域的重要进展。同时，默克以67亿美元收购Terns、武田启动13亿美元重组以及黑石筹集63亿美元生命科学基金，显示出行业整合与资本活跃度持续高涨。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "FDA approves Novo Nordisk's once-weekly insulin",
+        "importance": 5,
+        "reason": "首个美国批准的每周一次胰岛素，可能改变2型糖尿病治疗格局",
+        "category": "监管审批"
+      },
+      {
+        "index": 12,
+        "title": "STAT+: Pharmalittle: We’re reading about a Merck acquisition, the rise of former Loxo execs at Lilly, and more",
+        "importance": 5,
+        "reason": "默克以67亿美元收购Terns，是近期最大规模并购之一",
+        "category": "商业动态"
+      },
+      {
+        "index": 26,
+        "title": "Blackstone raises $6.3B life sciences fund in record fundraising haul",
+        "importance": 5,
+        "reason": "黑石筹集63亿美元创纪录生命科学基金，显示资本对行业信心",
+        "category": "商业动态"
+      },
+      {
+        "index": 8,
+        "title": "FDA approves Denali's Hunter syndrome drug, handing rare disease community a win",
+        "importance": 4,
+        "reason": "FDA在近期罕见病药物审批趋严背景下批准该疗法，具有象征意义",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "Rocket plots measured trajectory for new gene therapy Kresladi after clearance to launch from FDA",
+        "importance": 4,
+        "reason": "基因疗法获加速批准，为罕见免疫疾病儿童患者提供新选择",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "肥胖症药物竞争加剧（Kailera IPO），诺华收购Excellergy以开发Xolair后继药物，礼来与Insilico合作推进AI药物发现。",
+      "临床试验": "United Therapeutics的Tyvaso在特发性肺纤维化中取得第二个III期成功，赛诺菲的OX40单抗在湿疹III期试验中数据不及预期，田边制药针对光暴露疼痛罕见病的药物III期试验结果积极。"
+    },
+    "tomorrow_watch": "关注Kailera肥胖症药物IPO进展、武田重组对业务的具体影响、以及赛诺菲OX40单抗后续开发策略是否会调整。此外，默克收购Terns后对白血病治疗管线的整合也值得留意。"
+  }
+}
