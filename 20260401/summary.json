@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-01",
+  "generated_at": "2026-04-01T04:46:51.469776",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260401/daily.md",
+    "html": "docs/20260401/index.html",
+    "directory": "docs/20260401"
+  },
+  "analysis": {
+    "overview": "2026年4月1日，制药行业并购活动异常活跃，总金额超过250亿美元，其中Biogen以56亿美元收购Apellis、礼来以63亿美元收购Centessa最为瞩目。同时，诺和诺德推出Wegovy订阅服务，标志着减肥药市场进入新的商业模式探索阶段。监管方面，FDA对Amgen的Tavneos发出严重肝损伤及死亡风险警告，引发安全关注。",
+    "top_news": [
+      {
+        "index": 8,
+        "title": "Pharma goes on $25.5B, eight-day acquisition spree",
+        "importance": 5,
+        "reason": "行业在八天内达成总额高达255亿美元的并购交易，显示资本活跃度和行业整合加速。",
+        "category": "商业动态"
+      },
+      {
+        "index": 28,
+        "title": "Biogen to acquire Apellis for $5.6B",
+        "importance": 5,
+        "reason": "Biogen以56亿美元收购Apellis，是其新任CEO战略转型的关键一步，旨在加强免疫学和肾脏疾病管线。",
+        "category": "商业动态"
+      },
+      {
+        "index": 29,
+        "title": "Eli Lilly to buy Centessa for $6.3B to get sleep disorder drug",
+        "importance": 5,
+        "reason": "礼来利用GLP-1收入进行其多年来最大收购，以63亿美元获得睡眠障碍和神经系统疾病实验药物，拓展治疗领域。",
+        "category": "商业动态"
+      },
+      {
+        "index": 26,
+        "title": "FDA identifies eight deaths tied to Amgen's Tavneos",
+        "importance": 5,
+        "reason": "FDA明确将8例死亡与Amgen的自身免疫治疗药物Tavneos相关联，并报告70多例严重肝损伤，涉及重大药物安全事件。",
+        "category": "监管审批"
+      },
+      {
+        "index": 27,
+        "title": "A new way to sell weight loss drugs?",
+        "importance": 4,
+        "reason": "诺和诺德为Wegovy推出订阅服务，这是减肥药销售模式的首次创新尝试，可能重塑该领域的商业格局。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态包括：Enveda的湿疹药物公布积极临床数据；Rocket的基因疗法Kresladi获FDA加速批准；首款tRNA疗法获准进入临床试验；礼来与Insilico达成超20亿美元AI药物发现合作。",
+      "临床试验": "今日临床试验关键结果包括：United Therapeutics的Tyvaso在特发性肺纤维化（IPF）第二个III期试验成功；Idorsia的失眠药Quviviq在儿童适应症II期试验中获胜；Sanofi的湿疹药物（靶向OX40）在三项III期研究中达到主要终点，但存在安全性和疗效疑问。"
+    },
+    "tomorrow_watch": "需重点关注FDA对Amgen Tavneos安全警告的后续监管行动及市场反应；大型并购（如Biogen-Apellis， Lilly-Centessa）的后续整合细节及对相关公司股价的影响；诺和诺德Wegovy订阅模式的市场初期反馈；以及United Therapeutics基于Tyvaso的积极IPF数据向FDA提交补充申请的计划进展。"
+  }
+}
