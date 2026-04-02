@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T04:29:11.899405",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260402/daily.md",
+    "html": "docs/20260402/index.html",
+    "directory": "docs/20260402"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在GLP-1口服药物竞争白热化，礼来（Eli Lilly）的肥胖症口服药Foundayo（orforglipron）获FDA批准，将与诺和诺德（Novo Nordisk）的Wegovy口服药展开激烈市场争夺。同时，行业并购活跃，多家药企在八天内达成总额高达255亿美元的收购交易，显示行业整合加速。监管方面，FDA对Amgen的Tavneos发出严重肝损伤及死亡病例警告，并对多款生物制剂的推广材料发出罕见警告信。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Lilly answers Novo's GLP-1 pill with highly anticipated FDA nod for Foundayo",
+        "importance": 5,
+        "reason": "礼来首款口服GLP-1受体激动剂获批，标志着肥胖症治疗领域进入口服药双巨头竞争时代，市场格局将重塑。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Pharma goes on $25.5B, eight-day acquisition spree",
+        "importance": 5,
+        "reason": "行业在短时间内爆发巨额并购交易，总额超250亿美元，反映了药企通过并购快速补充管线、扩大规模的强烈趋势。",
+        "category": "商业动态"
+      },
+      {
+        "index": 6,
+        "title": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+        "importance": 5,
+        "reason": "礼来肥胖症口服药正式获批，与诺和诺德形成直接竞争，这是当前最热门的治疗领域之一，商业影响巨大。",
+        "category": "监管审批"
+      },
+      {
+        "index": 17,
+        "title": "FDA flags serious liver injury cases, 8 deaths with ‘reasonable’ link to Amgen's Tavneos",
+        "importance": 4,
+        "reason": "FDA对已上市药物Tavneos发出严重安全性警告，涉及多例肝损伤及死亡，可能影响该药的临床应用和监管审查趋势。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Rocket plots measured trajectory for new gene therapy Kresladi after clearance to launch from FDA",
+        "importance": 4,
+        "reason": "Rocket公司的基因疗法获FDA加速批准，用于治疗儿童疾病，代表了基因治疗领域的重要进展和商业化尝试。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态活跃，涉及多个前沿领域。礼来和诺和诺德在口服GLP-1药物上展开直接竞争。基因疗法方面，Rocket公司的Kresladi获批，AviadoBio的基因疗法虽未被Astellas行权但获非营利资金支持继续推进。此外，United Therapeutics的Tyvaso在IPF（特发性肺纤维化）上取得III期成功，Idorsia的失眠药Quviviq在儿童适应症上取得II期试验胜利，显示研发管线向新适应症和患者群体拓展。",
+      "临床试验": "今日临床试验相关新闻主要聚焦于后期试验的积极结果和监管提交。United Therapeutics宣布Tyvaso在IPF的第二个III期试验成功，为其向FDA提交申请铺平道路。Idorsia公布了其失眠药Quviviq在儿童患者中的II期试验胜利。另一方面，FDA因CMC（化学、制造和控制）相关问题，延长了对Orca Bio细胞疗法Orca-T的审查期，凸显了生产工艺数据在监管审批中的关键作用。"
+    },
+    "tomorrow_watch": "明日值得关注的事项包括：1) 礼来与诺和诺德在口服GLP-1药物市场上的初步竞争态势和定价策略；2) 巨额并购交易（如Biogen收购Apellis）的后续整合细节及对相关公司股价的影响；3) FDA对Amgen的Tavneos及多款生物制剂推广材料的调查和监管行动的后续发展；4) 诺和诺德因生产问题导致工厂裁员及药品被拒的连锁反应是否会波及其他合作公司；5) FDA局长提出的简化新药临床试验数据要求的计划具体如何落地，及其对行业研发效率的潜在影响。"
+  }
+}
