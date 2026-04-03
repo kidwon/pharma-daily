@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-03",
+  "generated_at": "2026-04-03T04:29:49.822901",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260403/daily.md",
+    "html": "docs/20260403/index.html",
+    "directory": "docs/20260403"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在礼来（Eli Lilly）的GLP-1口服减肥药Foundayo（orforglipron）获得FDA批准，标志着其与诺和诺德（Novo Nordisk）在减肥药市场的竞争正式进入口服剂型新阶段。同时，监管动态活跃，FDA对Orca Bio细胞疗法审查延期、对安进（Amgen）Tavneos发出肝损伤警告，行业并购方面则有百健（Biogen）以56亿美元收购Apellis。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Lilly answers Novo's GLP-1 pill with highly anticipated FDA nod for Foundayo",
+        "importance": 5,
+        "reason": "礼来首款口服GLP-1减肥药获批，将重塑百亿美元减肥药市场竞争格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+        "importance": 5,
+        "reason": "礼来与诺和诺德在口服减肥药市场正面交锋，是年度最重磅商业与研发事件之一。",
+        "category": "市场分析"
+      },
+      {
+        "index": 11,
+        "title": "Lilly's obesity pill Foundayo gains early blockbuster forecast as analysts float 5M+ prescriptions in 2026",
+        "importance": 5,
+        "reason": "分析师预测Foundayo上市首年处方量超500万，预示其将迅速成为重磅炸弹药物。",
+        "category": "市场分析"
+      },
+      {
+        "index": 16,
+        "title": "Biogen, eyeing swift commercial tailwind, ponies up $5.6B for Apellis and its 2 approved meds",
+        "importance": 5,
+        "reason": "百健56亿美元收购Apellis，是近期最大规模并购之一，旨在强化免疫学管线并获取即期收入。",
+        "category": "商业动态"
+      },
+      {
+        "index": 13,
+        "title": "FDA extends review of Orca Bio’s novel cell therapy for blood cancers",
+        "importance": 4,
+        "reason": "FDA对血液癌细胞疗法Orca-T的审查延期，凸显细胞疗法CMC环节的复杂性与监管审慎。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "礼来口服GLP-1减肥药Foundayo获批是核心进展；Kygevvi在欧洲获批成为首个TK2d疗法；Aspect Biosystems获资推进糖尿病细胞疗法；CRISPR个体化疗法面临挑战。",
+      "临床试验": "Immunovant眼科药物III期失败；Beam镰状细胞病数据在NEJM发表；Lipocine产后抑郁药III期失败；阿斯利康（AstraZeneca）肝癌疗法取得积极结果。"
+    },
+    "tomorrow_watch": "需关注礼来与诺和诺德在口服GLP-1药物上的市场与宣传战后续；FDA局长Makary提出的简化新药临床试验数据要求的政策动向；以及诺和诺德因生产问题在印第安纳州裁员对供应链的潜在影响。"
+  }
+}
