@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T04:16:58.543237",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260404/daily.md",
+    "html": "docs/20260404/index.html",
+    "directory": "docs/20260404"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在礼来（Eli Lilly）口服减肥药Foundayo（orforglipron）获FDA批准，标志着GLP-1口服药物市场竞争正式开启，与诺和诺德（Novo Nordisk）形成直接对抗。FDA监管动态频繁，包括对Leqembi的监测要求更新、对Tavneos肝损伤风险的警示，以及行业对FDA政策方向不确定性的担忧。此外，行业整体研发管线出现30年来首次收缩，引发对创新可持续性的关注。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Lilly answers Novo's GLP-1 pill with highly anticipated FDA nod for Foundayo",
+        "importance": 5,
+        "reason": "礼来口服GLP-1减肥药获批，开启与诺和诺德的口服减肥药市场竞争，预计将成为重磅炸弹。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+        "importance": 5,
+        "reason": "FDA批准礼来减肥药，与诺和诺德形成直接竞争，重塑百亿美元减肥药市场格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 15,
+        "title": "Biopharma R&D pipeline shrinks for 1st time in 30 years: report",
+        "importance": 4,
+        "reason": "生物制药研发管线30年来首次收缩，可能预示着行业创新面临结构性挑战。",
+        "category": "新药研发"
+      },
+      {
+        "index": 23,
+        "title": "FDA, after turbulent year, leaves drugmakers guessing on its direction",
+        "importance": 4,
+        "reason": "FDA领导层频繁变动和决策反复，导致行业对其监管方向感到不确定，影响研发和审批策略。",
+        "category": "政策法规"
+      },
+      {
+        "index": 17,
+        "title": "Lilly's obesity pill Foundayo gains early blockbuster forecast as analysts float 5M+ prescriptions in 2026",
+        "importance": 4,
+        "reason": "分析师预测礼来Foundayo在2026年处方量将超500万，早期即被视为潜在重磅炸弹，凸显市场巨大潜力。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "行业研发管线出现30年来首次收缩（Citeline报告），引发对创新可持续性的担忧。同时，个体化CRISPR疗法面临挑战，FDA计划简化新药试验启动流程以应对竞争。",
+      "临床试验": "Immunovant眼科药物III期研究失败导致股价大跌；Beam镰状细胞病数据在NEJM发表；Lipocine产后抑郁药物III期失败；Orca Bio细胞疗法审批遭FDA延期。"
+    },
+    "tomorrow_watch": "需持续关注礼来与诺和诺德在口服GLP-1药物市场上的直接竞争态势，包括市场准入、定价和处方数据。同时，FDA对Amgen的Tavneos肝损伤风险的进一步评估，以及FDA在简化新药试验流程（应对中国竞争）和罕见病创新中心等政策方面的具体动向也值得密切关注。"
+  }
+}
