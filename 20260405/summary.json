@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-05",
+  "generated_at": "2026-04-05T04:36:03.188223",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260405/daily.md",
+    "html": "docs/20260405/index.html",
+    "directory": "docs/20260405"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在GLP-1口服减肥药市场的激烈竞争，礼来（Eli Lilly）的orforglipron（商品名Foundayo）获得FDA批准，成为继诺和诺德（Novo Nordisk）之后第二款口服GLP-1药物，标志着减肥药市场从注射剂向口服剂型扩展。同时，FDA对GLP-1类药物潜在自杀风险进行初步评估，以及行业面临研发管线收缩、监管不确定性增加等挑战。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Lilly answers Novo's GLP-1 pill with highly anticipated FDA nod for Foundayo",
+        "importance": 5,
+        "reason": "礼来口服GLP-1减肥药获批，将直接挑战诺和诺德，开启口服减肥药市场竞争新阶段。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+        "importance": 5,
+        "reason": "FDA批准礼来减肥药，与诺和诺德形成直接竞争，预计将重塑百亿美元减肥药市场格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 7,
+        "title": "Update on FDA’s ongoing evaluation of reports of suicidal thoughts or actions in patients taking a certain type of medicines approved for type 2 diabetes and obesity",
+        "importance": 4,
+        "reason": "FDA对GLP-1类药物潜在自杀风险进行评估，可能影响该类药物的安全标签和市场使用。",
+        "category": "政策法规"
+      },
+      {
+        "index": 15,
+        "title": "Biopharma R&D pipeline shrinks for 1st time in 30 years: report",
+        "importance": 4,
+        "reason": "30年来首次出现研发管线收缩，反映行业研发效率挑战和外部压力。",
+        "category": "新药研发"
+      },
+      {
+        "index": 23,
+        "title": "FDA, after turbulent year, leaves drugmakers guessing on its direction",
+        "importance": 4,
+        "reason": "FDA领导层变动和决策不确定性增加，给制药行业带来监管风险。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "行业研发管线30年来首次收缩，礼来与Insilico达成AI合作，Aspect Biosystems获政府资助开发糖尿病细胞疗法，但CRISPR个性化疗法面临挑战。",
+      "临床试验": "Immunovant眼科药物III期失败，Beam镰状细胞病数据在NEJM发表，Lipocine产后抑郁药物III期失败，AstraZeneca肝癌药物取得积极结果。"
+    },
+    "tomorrow_watch": "关注礼来与诺和诺德在口服GLP-1减肥药市场上的后续营销策略和临床数据对比；FDA对GLP-1类药物自杀风险的进一步评估结果；以及行业对FDA监管方向不确定性的应对措施。"
+  }
+}
