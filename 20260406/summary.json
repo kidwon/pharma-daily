@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-06",
+  "generated_at": "2026-04-06T04:43:34.632253",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260406/daily.md",
+    "html": "docs/20260406/index.html",
+    "directory": "docs/20260406"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在礼来（Eli Lilly）口服减肥药Foundayo（orforglipron）获FDA批准，标志着GLP-1口服药物市场竞争正式开启，与诺和诺德（Novo Nordisk）形成直接对抗。同时，FDA对GLP-1类药物潜在自杀风险进行初步评估，以及行业整体研发管线出现30年来首次收缩，引发广泛关注。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Lilly answers Novo's GLP-1 pill with highly anticipated FDA nod for Foundayo",
+        "importance": 5,
+        "reason": "礼来口服GLP-1减肥药获批，是首个通过FDA争议性优先审评券计划的新分子实体，标志着口服减肥药市场竞争格局的重大转变。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+        "importance": 5,
+        "reason": "礼来口服减肥药获批，直接与诺和诺德形成激烈竞争，将重塑数百亿美元规模的减肥药市场格局。",
+        "category": "市场分析"
+      },
+      {
+        "index": 7,
+        "title": "Update on FDA’s ongoing evaluation of reports of suicidal thoughts or actions in patients taking a certain type of medicines approved for type 2 diabetes and obesity",
+        "importance": 4,
+        "reason": "FDA对GLP-1类糖尿病和肥胖症药物潜在自杀风险的持续评估，可能影响该类重磅药物的市场前景和监管要求。",
+        "category": "政策法规"
+      },
+      {
+        "index": 15,
+        "title": "Biopharma R&D pipeline shrinks for 1st time in 30 years: report",
+        "importance": 4,
+        "reason": "行业研发管线30年来首次收缩，反映了研发效率、成本压力或策略调整等深层次挑战。",
+        "category": "新药研发"
+      },
+      {
+        "index": 26,
+        "title": "Novo and Lilly battle over GLP-1 claims only a head-to-head trial can answer",
+        "importance": 4,
+        "reason": "诺和诺德与礼来就各自口服GLP-1药物的疗效展开公开较量，凸显了该领域竞争的激烈程度，未来头对头试验是关键。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "行业研发管线出现30年来首次收缩；多个临床试验遭遇失败（如Immunovant眼科药III期失败、Lipocine产后抑郁药III期失败）；个体化CRISPR疗法面临挑战；FDA计划简化新药临床试验启动的数据要求以应对竞争。",
+      "临床试验": "Immunovant眼科药III期研究失败；Beam镰状细胞病数据在NEJM发表；Orca Bio细胞疗法审评延期；辉瑞/BioNTech因入组率低暂停COVID疫苗研究；Lipocine口服brexanolone治疗产后抑郁III期失败。"
+    },
+    "tomorrow_watch": "需关注礼来口服减肥药Foundayo上市后的早期处方数据及市场反应；FDA对GLP-1类药物自杀风险评估的进一步结论；诺和诺德与礼来在口服GLP-1领域营销与数据战的后续发展；以及FDA领导层变动和决策风格对行业带来的不确定性影响。"
+  }
+}
