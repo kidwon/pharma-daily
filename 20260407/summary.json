@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-07",
+  "generated_at": "2026-04-07T04:32:23.947446",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260407/daily.md",
+    "html": "docs/20260407/index.html",
+    "directory": "docs/20260407"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在GLP-1口服减肥药市场的激烈竞争，礼来（Eli Lilly）的Foundayo获得FDA批准，与诺和诺德（Novo Nordisk）形成直接对抗。同时，并购活动持续活跃，Neurocrine以29亿美元收购Soleno Therapeutics，显示罕见病领域仍是交易热点。此外，FDA预算提案及临床试验改革动向也引发行业关注。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Lilly answers Novo's GLP-1 pill with highly anticipated FDA nod for Foundayo",
+        "importance": 5,
+        "reason": "FDA批准首个GLP-1口服减肥药，标志着百亿美元减肥药市场进入口服时代，礼来与诺和诺德竞争白热化。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Neurocrine, eying ‘blockbuster in the making,’ strikes its largest-ever M&A deal with $2.9B Soleno buyout",
+        "importance": 5,
+        "reason": "29亿美元收购罕见病药企Soleno，是近期生物制药领域最大并购之一，凸显罕见病赛道价值。",
+        "category": "商业动态"
+      },
+      {
+        "index": 6,
+        "title": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+        "importance": 5,
+        "reason": "礼来口服减肥药获批，直接挑战诺和诺德，可能重塑全球减肥药市场格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 21,
+        "title": "Lilly's obesity pill Foundayo gains early blockbuster forecast as analysts float 5M+ prescriptions in 2026",
+        "importance": 4,
+        "reason": "分析师预测Foundayo 2026年处方量超500万，预示其可能成为重磅炸弹药物，市场潜力巨大。",
+        "category": "市场分析"
+      },
+      {
+        "index": 10,
+        "title": "FDA floats new clinical trial reforms; Takeda punts Denali brain drug",
+        "importance": 4,
+        "reason": "FDA提出临床试验改革方案，旨在加速早期药物研发，可能影响行业研发效率与成本。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "礼来GLP-1口服减肥药Foundayo获批，成为市场焦点；Immunovant眼科药物III期失败，Lipocine产后抑郁药物III期未达终点，显示研发风险；Amgen甲状腺眼病药物Tepezza皮下注射版本III期成功，可能改善给药便利性。",
+      "临床试验": "Immunovant眼科药物III期研究失败导致股价下跌；Beam镰状细胞病数据在NEJM发表；辉瑞/BioNTech因入组率低暂停COVID疫苗研究；多项III期结果（成功/失败）影响公司估值与研发方向。"
+    },
+    "tomorrow_watch": "关注诺和诺德对礼来口服减肥药获批的进一步市场回应及数据对比；FDA临床试验改革提案的行业反馈；并购市场是否延续活跃态势（如Neurocrine收购后整合）；特朗普政府提议的HHS预算削减及100%药品关税政策对行业供应链的潜在影响。"
+  }
+}
