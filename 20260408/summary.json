@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08T04:35:47.022802",
+  "theme": "minimal",
+  "total_items": 102,
+  "files": {
+    "markdown": "docs/20260408/daily.md",
+    "html": "docs/20260408/index.html",
+    "directory": "docs/20260408"
+  },
+  "analysis": {
+    "overview": "今日制药行业呈现活跃的并购与重磅新药获批态势。礼来（Eli Lilly）的肥胖症口服药获FDA批准，将与诺和诺德（Novo Nordisk）展开激烈竞争，标志着GLP-1口服药物市场进入新阶段。同时，吉利德（Gilead）以31.5亿美元收购Tubulis，以及Neurocrine以29亿美元收购Soleno，延续了2026年初以来的大型并购热潮，显示行业正通过外部创新强化肿瘤与罕见病管线。",
+    "top_news": [
+      {
+        "index": 5,
+        "title": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+        "importance": 5,
+        "reason": "FDA批准礼来口服肥胖症药物，将重塑数百亿美元规模的GLP-1市场格局，引发与诺和诺德的直接竞争。",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "Gilead continues dealmaking streak with $3.15B Tubulis buy for ADCs",
+        "importance": 5,
+        "reason": "吉利德以超30亿美元收购ADC平台公司，是其2026年第三笔收购，显著加强肿瘤管线并押注下一代抗体偶联药物技术。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "Neurocrine, eying ‘blockbuster in the making,’ strikes its largest-ever M&A deal with $2.9B Soleno buyout",
+        "importance": 5,
+        "reason": "Neurocrine以29亿美元进行史上最大收购，瞄准潜在重磅罕见病药物，反映中型生物制药公司通过并购实现快速扩张的趋势。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "FDA Approves First Generic Dapagliflozin Tablets",
+        "importance": 4,
+        "reason": "FDA批准首款达格列净仿制药，将降低心衰住院风险药物的可及性，影响糖尿病治疗市场的竞争与定价。",
+        "category": "监管审批"
+      },
+      {
+        "index": 18,
+        "title": "March M&A surge triggers high expectations for 2026",
+        "importance": 4,
+        "reason": "三月两周内完成七笔交易总值290亿美元，显示2026年可能成为并购大年，预示行业整合与管线补充的加速。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "礼来肥胖症口服药获批成为焦点，同时赛诺菲（Sanofi）双特异性抗体Lunsekimig在哮喘和鼻息肉试验中成功，但在湿疹试验中未达终点，显示免疫疗法研发的复杂性。",
+      "临床试验": "安进（Amgen）Tepezza皮下注射版在甲状腺眼病III期试验中取得积极结果，可能改善给药便利性并扩大市场需求；ARPA-H资助1亿美元用于骨关节炎再生医学临床试验，推动新型疗法探索。"
+    },
+    "tomorrow_watch": "需关注礼来口服肥胖药Foundayo的市场初期表现及处方量预测（新闻22），以及FDA寻求立法授权以打击误导性直接面向消费者（DTC）广告的进展（新闻15），后者可能影响药企营销策略。此外，特朗普政府提议2027年削减HHS预算12%（新闻3）及对进口药品加征100%关税（新闻21）的政策动向，可能对行业成本与供应链产生长期影响。"
+  }
+}
