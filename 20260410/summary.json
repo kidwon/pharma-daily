@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-10",
+  "generated_at": "2026-04-10T04:46:21.174273",
+  "theme": "minimal",
+  "total_items": 102,
+  "files": {
+    "markdown": "docs/20260410/daily.md",
+    "html": "docs/20260410/index.html",
+    "directory": "docs/20260410"
+  },
+  "analysis": {
+    "overview": "今日制药行业呈现活跃的并购与融资态势，其中Gilead Sciences以31亿美元收购ADC专家Tubulis，以及Neurocrine Biosciences以29亿美元收购Soleno，标志着大型药企正通过并购积极拓展管线。同时，FDA监管动态频出，包括提议撤市Makena、寻求对误导性DTC广告的立法监管权，以及计划对堕胎药米非司酮进行新的安全性研究。",
+    "top_news": [
+      {
+        "index": 10,
+        "title": "Gilead continues M&A surge with $3.1B deal for ADC specialist Tubulis",
+        "importance": 5,
+        "reason": "Gilead今年第三笔重大收购，涉资31亿美元，旨在加强其ADC技术平台和肿瘤管线，是其向HIV以外领域扩张战略的关键一步。",
+        "category": "商业动态"
+      },
+      {
+        "index": 3,
+        "title": "Neurocrine, eying ‘blockbuster in the making,’ strikes its largest-ever M&A deal with $2.9B Soleno buyout",
+        "importance": 5,
+        "reason": "Neurocrine Biosciences以29亿美元收购Soleno，是其史上最大并购案，反映了行业对罕见病和内分泌领域资产的强烈兴趣。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "FDA CDER proposed that Makena (hydroxyprogesterone caproate injection) be withdrawn from the market",
+        "importance": 5,
+        "reason": "FDA提议撤市已获批药物Makena，因其上市后研究未能验证临床获益，这是监管机构基于真实世界证据进行严格审评的典型案例。",
+        "category": "监管审批"
+      },
+      {
+        "index": 17,
+        "title": "FDA seeks legislative teeth to bite back against misleading DTC drug ads",
+        "importance": 4,
+        "reason": "FDA寻求新的立法权力以打击误导性直接面向消费者的药品广告，此举可能对药企的市场营销策略产生深远影响。",
+        "category": "政策法规"
+      },
+      {
+        "index": 27,
+        "title": "STAT+: 5 years after lupus breakthrough, CAR-T is still surprising autoimmunity researchers",
+        "importance": 4,
+        "reason": "CAR-T疗法在自身免疫性疾病领域持续取得缓解，并引发大量实验和投资，代表了细胞疗法向非肿瘤适应症拓展的重要趋势。",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "CAR-T疗法在自身免疫病领域（如狼疮）持续取得突破，引发投资热潮；抗衰老基因疗法（Life Biosciences）和关节再生医学获得大额资助，显示前沿领域热度不减。",
+      "临床试验": "Amgen公布了Tepezza皮下注射剂型在甲状腺眼病中的积极III期数据；Vanda启动其新获批晕动病药物Nereus在GLP-1使用者中的III期研究，关注药物联用新场景。"
+    },
+    "tomorrow_watch": "关注FDA对Makena撤市提案的后续进展及行业反应；持续追踪Gilead、Neurocrine等大型并购案的整合动向；留意Avalyn Pharma等生物技术公司IPO进程对市场情绪的影响。"
+  }
+}
