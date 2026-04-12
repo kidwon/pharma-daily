@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-12",
+  "generated_at": "2026-04-12T04:45:37.747770",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260412/daily.md",
+    "html": "docs/20260412/index.html",
+    "directory": "docs/20260412"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于监管审批与资本运作。FDA再次拒绝Replimune的溶瘤病毒疗法，凸显监管审慎态度；Avalyn Pharma计划IPO以推进吸入式肺纤维化药物的III期试验，反映生物科技公司寻求公共市场融资的趋势。此外，吉利德通过收购拓展肿瘤与免疫管线，CAR-T疗法在实体瘤和自身免疫病领域持续取得进展。",
+    "top_news": [
+      {
+        "index": 3,
+        "title": "FDA rejects Replimune cancer therapy, saying company didn't resolve trial doubts",
+        "importance": 5,
+        "reason": "FDA再次拒绝溶瘤病毒疗法，凸显监管对临床试验数据严谨性的坚持，可能影响同类疗法审批路径。",
+        "category": "监管审批"
+      },
+      {
+        "index": 1,
+        "title": "Avalyn plans IPO to fund phase 3 trials of inhaled versions of approved respiratory drugs",
+        "importance": 4,
+        "reason": "生物科技公司通过IPO为关键III期试验融资，反映市场对改良型吸入制剂在肺纤维化领域潜力的关注。",
+        "category": "商业动态"
+      },
+      {
+        "index": 5,
+        "title": "Gilead takes another big swing at expanding beyond HIV",
+        "importance": 4,
+        "reason": "吉利德年内投入约110亿美元进行三次收购，加速向肿瘤和免疫领域转型，重塑公司战略布局。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "Oricell closes a ‘pre-IPO’ megaround to aim CAR-T at solid tumors",
+        "importance": 4,
+        "reason": "中国生物科技公司Oricell获大额融资推进CAR-T实体瘤疗法，有望成为首个肝癌CAR-T疗法，代表技术前沿突破。",
+        "category": "新药研发"
+      },
+      {
+        "index": 22,
+        "title": "5 years after lupus breakthrough, CAR-T is still surprising autoimmunity researchers",
+        "importance": 4,
+        "reason": "CAR-T在自身免疫病领域持续取得缓解，引发大量实验与投资，拓展了细胞疗法的应用边界。",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "CAR-T疗法在实体瘤（如Oricell针对肝癌）和自身免疫病领域取得显著进展；吸入制剂改良（Avalyn）和抗衰老基因疗法（Life Biosciences）等新兴方向获得关注。",
+      "临床试验": "Vanda启动针对GLP-1使用者的晕动病药物III期试验，体现伴随用药场景的临床探索；Avalyn计划推进吸入制剂的III期试验，关键临床阶段融资活跃。"
+    },
+    "tomorrow_watch": "关注AACR会议（4月17日开始）的肿瘤学最新数据发布；FDA对AI医疗设备监管立场的后续影响；以及特朗普预算中“美国优先”药品生产政策提案的行业反响。"
+  }
+}
