@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-13",
+  "generated_at": "2026-04-13T04:57:37.338190",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260413/daily.md",
+    "html": "docs/20260413/index.html",
+    "directory": "docs/20260413"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于IPO融资热潮与监管审批挑战。Avalyn Pharma、Oricell、Seaport、Hemab等多家生物技术公司积极寻求上市，为晚期临床试验筹集资金；同时，FDA再次拒绝Replimune的溶瘤病毒疗法，凸显监管审评的严格性。此外，CAR-T疗法在实体瘤和自身免疫病领域的进展、FDA政策动向及行业并购活动也值得关注。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA rejects Replimune cancer therapy, saying company didn't resolve trial doubts",
+        "importance": 5,
+        "reason": "FDA再次拒绝一款备受关注的溶瘤病毒疗法，凸显监管机构对临床试验数据严谨性的坚持，可能影响同类疗法的审评路径。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Oricell closes a ‘pre-IPO’ megaround to aim CAR-T at solid tumors",
+        "importance": 5,
+        "reason": "中国生物技术公司Oricell完成超1.1亿美元融资，推进针对肝癌等实体瘤的CAR-T疗法，若成功将成为该领域首款疗法。",
+        "category": "新药研发"
+      },
+      {
+        "index": 3,
+        "title": "Avalyn plans IPO to fund phase 3 trials of inhaled versions of approved respiratory drugs",
+        "importance": 4,
+        "reason": "Avalyn Pharma计划通过IPO为吸入式肺纤维化药物的III期试验融资，代表改良型新药在呼吸疾病领域的重要布局。",
+        "category": "临床试验"
+      },
+      {
+        "index": 4,
+        "title": "Gilead takes another big swing at expanding beyond HIV",
+        "importance": 4,
+        "reason": "吉利德今年已投入约110亿美元进行三项收购，强化肿瘤和免疫学管线，显示大型药企通过并购转型的战略动向。",
+        "category": "商业动态"
+      },
+      {
+        "index": 5,
+        "title": "FDA backs proposals to entice pharma companies to test, make drugs domestically",
+        "importance": 4,
+        "reason": "FDA支持通过关税和激励措施鼓励制药公司在美本土研发和生产药物，反映政策层面对供应链安全的关注。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "CAR-T疗法在实体瘤（如Oricell针对肝癌的GPC3靶点疗法）和自身免疫病领域持续取得进展；吸入式制剂（Avalyn）等改良型新药受到关注。",
+      "临床试验": "多家公司（如Avalyn、Seaport、Hemab）寻求融资以推进关键III期试验；Vanda启动针对GLP-1用药患者的晕动症药物III期研究。"
+    },
+    "tomorrow_watch": "关注即将召开的AACR（4月17日开始）和ASCO（5月底）肿瘤学会议的前瞻性数据披露；留意FDA对AI医疗设备监管政策的后续动向及更多IPO定价消息。"
+  }
+}
