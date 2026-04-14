@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T04:44:12.883779",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260414/daily.md",
+    "html": "docs/20260414/index.html",
+    "directory": "docs/20260414"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于多个关键领域：FDA批准了首个FSGS治疗药物Filspari，这是肾病治疗的重要里程碑；CAR-T疗法在实体瘤和自身免疫病领域取得显著进展，包括BioNTech的HER2 ADC成功和Oricell针对肝癌的CAR-T融资；同时，FDA监管趋严，Replimune的黑色素瘤疗法再次被拒，引发行业关注。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Despite uncertainties, Travere’s Filspari emerges as first FDA-approved FSGS treatment",
+        "importance": 5,
+        "reason": "首个FDA批准的FSGS（局灶节段性肾小球硬化）治疗药物，填补了该疾病领域的治疗空白。",
+        "category": "监管审批"
+      },
+      {
+        "index": 12,
+        "title": "BioNTech's HER2 ADC succeeds in Phase 2 study, FDA filing planned",
+        "importance": 4,
+        "reason": "BioNTech的HER2抗体药物偶联物（ADC）在二期试验中取得积极数据，计划向FDA提交申请，挑战Enhertu的市场地位。",
+        "category": "临床试验"
+      },
+      {
+        "index": 4,
+        "title": "Oricell closes a ‘pre-IPO’ megaround to aim CAR-T at solid tumors",
+        "importance": 4,
+        "reason": "中国生物科技公司Oricell完成超1.1亿美元融资，推进针对实体瘤（如肝癌）的CAR-T疗法，是细胞疗法向实体瘤拓展的重要进展。",
+        "category": "商业动态"
+      },
+      {
+        "index": 6,
+        "title": "FDA rejects Replimune cancer therapy, saying company didn't resolve trial doubts",
+        "importance": 4,
+        "reason": "FDA再次拒绝Replimune的溶瘤病毒疗法，凸显监管机构对临床试验数据质量和一致性的严格要求，对行业有警示作用。",
+        "category": "监管审批"
+      },
+      {
+        "index": 30,
+        "title": "5 years after lupus breakthrough, CAR-T is still surprising autoimmunity researchers",
+        "importance": 4,
+        "reason": "CAR-T疗法在自身免疫病（如狼疮）领域持续取得突破，引发大量实验和投资，拓展了细胞疗法的应用边界。",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "CAR-T疗法在实体瘤（如肝癌）和自身免疫病领域取得显著进展；BioNTech的HER2 ADC显示出挑战现有疗法的潜力；Revolution Medicines的RAS抑制剂在胰腺癌三期试验中使生存期翻倍。",
+      "临床试验": "多个关键二期/三期试验公布积极数据，包括BioNTech的HER2 ADC、Allogene的'现货型'CAR-T、Revolution Medicines的胰腺癌药物等，为后续监管提交奠定基础。"
+    },
+    "tomorrow_watch": "关注即将开始的AACR（美国癌症研究协会）年会（4月17日）可能披露的新药研发数据；留意FDA对Replimune拒批事件的后续影响及公司应对措施；观察更多生物科技公司（如Avalyn, Seaport, Hemab）的IPO动态及市场反应。"
+  }
+}
