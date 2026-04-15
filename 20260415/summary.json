@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T04:45:24.188983",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260415/daily.md",
+    "html": "docs/20260415/index.html",
+    "directory": "docs/20260415"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在监管审批与临床数据上。Travere的Filspari获得FDA批准成为首个FSGS治疗药物，是罕见肾病领域的重大突破；同时FDA对礼来新获批的肥胖药Foundayo提出额外安全性数据要求，显示监管机构对药物风险的持续关注。此外，CAR-T、ADC和RAS抑制剂等前沿疗法也公布了积极的临床数据。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Despite uncertainties, Travere’s Filspari emerges as first FDA-approved FSGS treatment",
+        "importance": 5,
+        "reason": "Filspari获得FDA批准成为首个FSGS治疗药物，是罕见肾病领域的里程碑，预计带来数十亿美元市场机会。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Updated: FDA asks for data on Lilly’s Foundayo to assess heart, liver risks",
+        "importance": 5,
+        "reason": "FDA要求礼来提供新获批肥胖药Foundayo的额外安全性数据，涉及心血管和肝脏风险，可能影响重磅药物的市场前景。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Allogene’s first cut of data on ‘off-the-shelf’ CAR-T shows promise",
+        "importance": 4,
+        "reason": "Allogene的现货型CAR-T疗法在II期试验中显示出积极疗效，超过半数患者达到完全缓解，是细胞疗法领域的重要进展。",
+        "category": "临床试验"
+      },
+      {
+        "index": 12,
+        "title": "BioNTech's HER2 ADC succeeds in Phase 2 study, FDA filing planned",
+        "importance": 4,
+        "reason": "BioNTech的HER2抗体偶联药物在II期试验中取得成功，计划向FDA提交申请，有望挑战Enhertu在HER2阳性癌症治疗中的地位。",
+        "category": "临床试验"
+      },
+      {
+        "index": 13,
+        "title": "Revolution Medicines' pancreatic cancer drug doubles survival time in Phase 3",
+        "importance": 5,
+        "reason": "Revolution Medicines的RAS抑制剂在胰腺癌III期试验中将生存期翻倍，是靶向RAS通路的重要突破，计划提交上市申请。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态活跃，涉及多个前沿领域。BioNTech的HER2 ADC和Revolution Medicines的RAS抑制剂均取得积极临床数据，显示ADC和靶向RAS通路仍是研发热点。此外，Allogene的现货型CAR-T和Replimune的溶瘤病毒疗法也备受关注。",
+      "临床试验": "多项关键临床试验数据公布。Allogene的现货型CAR-T在淋巴瘤II期试验中疗效显著；BioNTech的HER2 ADC在II期试验中达到主要终点；Revolution Medicines的RAS抑制剂在胰腺癌III期试验中大幅延长生存期。这些数据为后续监管提交和商业化奠定了基础。"
+    },
+    "tomorrow_watch": "明日值得关注AACR会议（4月17日开始）上可能公布的最新肿瘤学研究成果；FDA对礼来Foundayo安全性数据的进一步要求及公司回应；以及Travere对Filspari在FSGS市场推广策略的更多细节。"
+  }
+}
