@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T04:50:13.257409",
+  "theme": "minimal",
+  "total_items": 101,
+  "files": {
+    "markdown": "docs/20260416/daily.md",
+    "html": "docs/20260416/index.html",
+    "directory": "docs/20260416"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于FDA监管行动与重磅药物进展。FDA批准了Travere的Filspari成为首个治疗FSGS的药物，并针对礼来新获批的减肥药Foundayo要求补充心脏和肝脏安全性数据。同时，FDA正加强对未报告临床试验结果的监管，并计划重新分类多肽药物，显示出监管环境的持续演变。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA approves Travere's Filspari as first drug for the kidney disease FSGS",
+        "importance": 5,
+        "reason": "首个治疗FSGS的药物获批，填补了该罕见肾病领域的治疗空白，市场潜力巨大。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Updated: FDA asks for data on Lilly’s Foundayo to assess heart, liver risks",
+        "importance": 5,
+        "reason": "FDA对礼来重磅减肥新药的安全性提出质疑并要求补充数据，可能影响其市场推广和竞争格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "STAT+: FDA pushes drugmakers to report missing clinical trial results",
+        "importance": 4,
+        "reason": "FDA大规模敦促药企报告缺失的临床试验结果，显示监管机构对数据透明度的强化。",
+        "category": "政策法规"
+      },
+      {
+        "index": 22,
+        "title": "Updated: FDA will reclassify at least a dozen peptides, teeing up potential telehealth win",
+        "importance": 4,
+        "reason": "FDA计划重新分类多肽药物，可能为远程医疗和该药物市场带来重大商业机会。",
+        "category": "政策法规"
+      },
+      {
+        "index": 2,
+        "title": "Allogene’s first cut of data on ‘off-the-shelf’ CAR-T shows promise",
+        "importance": 4,
+        "reason": "异体现成CAR-T疗法早期数据积极，展示了该领域的重要技术进展。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态包括Terremoto Biosciences融资1.08亿美元推进小分子药物进入人体试验，以及Obsidian与Galera通过反向合并推进细胞疗法。",
+      "临床试验": "临床试验方面，礼来的Jaypirca在CLL的III期试验中取得积极结果，Allogene的异体现成CAR-T疗法也公布了有前景的早期II期数据。"
+    },
+    "tomorrow_watch": "需关注FDA对礼来Foundayo安全性数据要求的后续进展，以及FDA重新分类多肽药物的具体细节和潜在市场影响。同时，强生等大药企的季度业绩和管线更新也值得持续追踪。"
+  }
+}
