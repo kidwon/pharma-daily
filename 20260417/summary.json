@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T04:48:44.060891",
+  "theme": "minimal",
+  "total_items": 95,
+  "files": {
+    "markdown": "docs/20260417/daily.md",
+    "html": "docs/20260417/index.html",
+    "directory": "docs/20260417"
+  },
+  "analysis": {
+    "overview": "今日制药行业焦点集中在FDA监管动态与重磅药物进展。FDA批准了首个针对局灶节段性肾小球硬化症（FSGS）的治疗药物Filspari，并针对礼来新获批的肥胖症药物Foundayo提出额外安全性数据要求，凸显监管机构对药物安全性的持续关注。同时，FDA宣布将重新分类至少12种肽类药物，可能为相关市场带来重大变化。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "First FDA-Approved Treatment for Patients with Focal Segmental Glomerulosclerosis—A Rare Kidney Condition",
+        "importance": 5,
+        "reason": "FDA批准首个针对罕见肾病FSGS的药物Filspari，为患者提供新治疗选择，并预计带来30亿美元市场机会。",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "FDA asks for data on Lilly’s Foundayo to assess heart, liver risks",
+        "importance": 5,
+        "reason": "FDA要求礼来提供其新获批重磅肥胖症药物Foundayo的心血管和肝脏风险数据，可能影响该药物的市场推广和后续适应症扩展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "UPDATED: Heeding RFK Jr.'s call, FDA reclassifies 12 unapproved peptides ahead of advisory committee meeting",
+        "importance": 4,
+        "reason": "FDA响应HHS部长呼吁，计划重新分类至少12种肽类药物，可能为肽类化合物市场创造重大商业机会。",
+        "category": "政策法规"
+      },
+      {
+        "index": 7,
+        "title": "Lilly’s Jaypirca shows fixed-duration power in ‘ambitious’ phase 3 CLL trial win",
+        "importance": 4,
+        "reason": "礼来BTK抑制剂Jaypirca在慢性淋巴细胞白血病III期试验中取得积极结果，巩固其在血液肿瘤领域的地位。",
+        "category": "临床试验"
+      },
+      {
+        "index": 20,
+        "title": "Kailera nets $625M in one of biotech’s biggest-ever IPOs",
+        "importance": 4,
+        "reason": "肥胖症药物开发商Kailera完成6.25亿美元IPO，为近年来生物技术领域最大规模IPO之一，反映市场对代谢疾病领域的持续热情。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "重点关注罕见肾病、肥胖症、阿尔茨海默病和血液肿瘤领域的新药进展，包括Filspari的FSGS新适应症获批、礼来Foundayo的糖尿病适应症扩展计划，以及阿尔茨海默病抗淀粉样蛋白药物的疗效争议。",
+      "临床试验": "礼来Jaypirca在CLL的III期试验取得积极结果，Foundayo的心血管安全性试验数据支持其向糖尿病适应症扩展，这些关键临床数据直接影响药物审批和市场前景。"
+    },
+    "tomorrow_watch": "需关注FDA对礼来Foundayo安全性数据要求的后续进展，以及肽类药物重新分类的咨询委员会会议准备情况。同时，观察Kailera等肥胖症药物开发商的股价表现和市场反应，以及阿尔茨海默病抗淀粉样蛋白药物的疗效争议是否会引发更广泛的行业讨论。"
+  }
+}
