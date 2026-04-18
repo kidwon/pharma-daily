@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18T04:31:45.539890",
+  "theme": "minimal",
+  "total_items": 96,
+  "files": {
+    "markdown": "docs/20260418/daily.md",
+    "html": "docs/20260418/index.html",
+    "directory": "docs/20260418"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重磅新药获批与监管动向。FDA批准了首个针对局灶节段性肾小球硬化症（FSGS）的治疗药物Filspari，同时礼来公司的口服减肥药Foundayo在糖尿病心血管安全性试验中取得积极数据，为后续适应症扩展铺平道路。此外，FDA正推动临床试验结果透明度，并对加速审批路径提出更高证据标准要求。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "First FDA-Approved Treatment for Patients with Focal Segmental Glomerulosclerosis—A Rare Kidney Condition",
+        "importance": 5,
+        "reason": "FDA批准首个针对罕见肾病FSGS的治疗药物Filspari，填补临床空白",
+        "category": "监管审批"
+      },
+      {
+        "index": 24,
+        "title": "Lilly’s new obesity pill passes heart safety test in diabetes",
+        "importance": 5,
+        "reason": "礼来口服减肥药Foundayo在糖尿病心血管安全性试验中降低16%风险，为糖尿病适应症申报奠定基础",
+        "category": "临床试验"
+      },
+      {
+        "index": 9,
+        "title": "FDA pushes drugmakers to report missing clinical trial results",
+        "importance": 4,
+        "reason": "FDA要求2200多家公司提交缺失的临床试验结果，否则可能面临罚款，推动行业透明度",
+        "category": "政策法规"
+      },
+      {
+        "index": 10,
+        "title": "FDA's accelerated approval pathway needs stronger transparency, evidence standards: ICER",
+        "importance": 4,
+        "reason": "ICER报告建议FDA加强加速审批路径的证据标准和透明度要求，可能影响未来审批政策",
+        "category": "政策法规"
+      },
+      {
+        "index": 22,
+        "title": "Kailera nets $625M in one of biotech’s biggest-ever IPOs",
+        "importance": 4,
+        "reason": "Kailera完成6.25亿美元IPO，创生物科技领域历史最高纪录，显示投资者对肥胖药物赛道的热情",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Travere的Filspari获FDA批准用于FSGS，礼来口服减肥药Foundayo展示心血管安全性数据，UCB以12亿美元收购Neurona布局细胞疗法，抗淀粉样蛋白阿尔茨海默病药物疗效再受质疑",
+      "临床试验": "礼来Foundayo在糖尿病心血管安全性试验中降低16%风险，Revolution Medicines胰腺癌III期数据积极推动收购传闻，礼来tirzepatide与诺和诺德semaglutide在减重和肌肉流失方面的对比研究引发关注"
+    },
+    "tomorrow_watch": "关注FDA对礼来Foundayo肝脏安全性数据的进一步要求及公司回应，FDA肽类药物重新分类的咨询委员会会议进展，以及Kailera上市后股价表现和肥胖药物管线推进计划。"
+  }
+}
