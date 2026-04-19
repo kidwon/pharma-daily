@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T04:49:47.532885",
+  "theme": "minimal",
+  "total_items": 96,
+  "files": {
+    "markdown": "docs/20260419/daily.md",
+    "html": "docs/20260419/index.html",
+    "directory": "docs/20260419"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于多个重磅领域：FDA批准首个局灶节段性肾小球硬化症（FSGS）疗法Filspari，为罕见肾病治疗带来突破；礼来肥胖新药Foundayo面临FDA安全性数据要求，同时其糖尿病适应症研究取得积极进展；FDA加强对临床试验结果透明度的监管，要求数千家公司报告缺失数据。此外，基因治疗先驱获突破奖、肽类药物监管调整及大型IPO事件也备受关注。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "First FDA-Approved Treatment for Patients with Focal Segmental Glomerulosclerosis—A Rare Kidney Condition",
+        "importance": 5,
+        "reason": "FDA批准首个FSGS罕见肾病疗法，填补治疗空白并具有重要临床意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "STAT+: Pharmalittle: We’re reading about FDA seeking more data on a Lilly obesity pill, a pharma 340B win, and more",
+        "importance": 5,
+        "reason": "FDA要求礼来提供肥胖新药Foundayo的肝脏安全性数据，可能影响该重磅药物的市场前景。",
+        "category": "监管审批"
+      },
+      {
+        "index": 8,
+        "title": "Revolution Medicines' buyout price soars after pancreatic cancer win",
+        "importance": 5,
+        "reason": "Revolution Medicines胰腺癌III期试验成功推动收购估值飙升，成为肿瘤治疗领域重大突破。",
+        "category": "临床试验"
+      },
+      {
+        "index": 10,
+        "title": "STAT+: FDA pushes drugmakers to report missing clinical trial results",
+        "importance": 4,
+        "reason": "FDA强制要求报告近30%缺失的临床试验结果，加强行业透明度监管。",
+        "category": "政策法规"
+      },
+      {
+        "index": 23,
+        "title": "Kailera nets $625M in one of biotech’s biggest-ever IPOs",
+        "importance": 5,
+        "reason": "Kailera完成6.25亿美元IPO创生物科技领域纪录，显示肥胖药物赛道持续受资本追捧。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "基因治疗先驱获突破奖彰显领域重要性；抗淀粉样蛋白阿尔茨海默病药物疗效再遭质疑；UCB以12亿美元收购Neurona布局癫痫细胞疗法；礼来替尔泊肽与诺和诺德司美格鲁肽的肌肉流失对比研究引发关注。",
+      "临床试验": "Revolution Medicines胰腺癌III期数据优异；礼来Foundayo糖尿病适应症研究通过心脏安全性测试；Teva长效精神分裂症药物提交FDA审查；Replimune黑色素瘤药物遭FDA二次拒绝后裁员。"
+    },
+    "tomorrow_watch": "重点关注FDA对礼来Foundayo安全性数据的后续要求及公司回应；关注肽类药物咨询委员会会议前的监管动态变化；追踪Kailera上市后股价表现及肥胖管线进展；留意FDA临床试验透明度政策的执行进展及行业反馈。"
+  }
+}
