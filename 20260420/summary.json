@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T04:56:42.506872",
+  "theme": "minimal",
+  "total_items": 97,
+  "files": {
+    "markdown": "docs/20260420/daily.md",
+    "html": "docs/20260420/index.html",
+    "directory": "docs/20260420"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态聚焦于重大监管审批与临床突破。FDA批准了首个针对局灶节段性肾小球硬化症（FSGS）的治疗药物Filspari，同时UCB以高达12亿美元收购Neurona Therapeutics，押注细胞疗法治疗癫痫。此外，FDA加强了对临床试验结果透明度的监管，要求数千家公司报告缺失数据。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "First FDA-Approved Treatment for Patients with Focal Segmental Glomerulosclerosis—A Rare Kidney Condition",
+        "importance": 5,
+        "reason": "FDA批准首个针对罕见肾病FSGS的治疗药物，填补临床空白，具有里程碑意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 9,
+        "title": "UCB plots epilepsy expansion with $650M Neurona cell therapy acquisition",
+        "importance": 5,
+        "reason": "UCB以高达12亿美元收购Neurona，布局癫痫细胞疗法，是近期大型神经科学领域交易。",
+        "category": "商业动态"
+      },
+      {
+        "index": 10,
+        "title": "Revolution Medicines' buyout price soars after pancreatic cancer win",
+        "importance": 5,
+        "reason": "Revolution Medicines胰腺癌III期数据成功，显著提升其收购估值，显示KRAS靶点重大临床突破。",
+        "category": "临床试验"
+      },
+      {
+        "index": 12,
+        "title": "FDA pushes drugmakers to report missing clinical trial results",
+        "importance": 4,
+        "reason": "FDA要求2200多家公司报告缺失的临床试验结果，否则面临罚款，是加强行业透明度的重大监管行动。",
+        "category": "政策法规"
+      },
+      {
+        "index": 24,
+        "title": "Kailera nets $625M in one of biotech’s biggest-ever IPOs",
+        "importance": 5,
+        "reason": "Kailera完成6.25亿美元IPO，创生物科技领域历史纪录，显示市场对肥胖症药物管线的强烈信心。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "基因疗法先驱获突破奖；KRAS抑制剂在肺癌领域展现新希望；抗淀粉样蛋白阿尔茨海默病药物疗效再遭质疑；GSK推进ADC药物进入多个III期试验。",
+      "临床试验": "Revolution Medicines胰腺癌III期数据成功；礼来肥胖新药Foundayo通过糖尿病心脏安全性测试，为拓展适应症铺路；多项基因与细胞疗法进入临床阶段。"
+    },
+    "tomorrow_watch": "关注FDA加速审批路径透明度改革讨论的后续影响；留意礼来对FDA关于Foundayo安全性信息要求的正式回应；追踪Kailera创纪录IPO后的市场表现及肥胖管线进展。"
+  }
+}
