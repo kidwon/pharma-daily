@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T04:47:22.621855",
+  "theme": "minimal",
+  "total_items": 98,
+  "files": {
+    "markdown": "docs/20260421/daily.md",
+    "html": "docs/20260421/index.html",
+    "directory": "docs/20260421"
+  },
+  "analysis": {
+    "overview": "今日制药行业聚焦于细胞与基因疗法领域的重大进展，礼来以高达70亿美元收购Kelonia Therapeutics强化体内细胞治疗能力，UCB以6.5亿美元收购Neurona Therapeutics拓展癫痫细胞疗法管线。同时，FDA监管动态活跃，包括重新分类多肽药物、加速迷幻药审查以及要求加强临床试验透明度。",
+    "top_news": [
+      {
+        "index": 3,
+        "title": "Lilly boosts ‘in vivo’ cell therapy capabilities with Kelonia buyout",
+        "importance": 5,
+        "reason": "礼来高达70亿美元的收购显著强化其在细胞治疗领域的布局，涉及重大资本与战略方向。",
+        "category": "商业动态"
+      },
+      {
+        "index": 8,
+        "title": "UCB plots epilepsy expansion with $650M Neurona cell therapy acquisition",
+        "importance": 5,
+        "reason": "UCB以6.5亿美元收购Neurona，进军癫痫细胞疗法，是神经疾病治疗领域的重要交易。",
+        "category": "商业动态"
+      },
+      {
+        "index": 9,
+        "title": "Revolution Medicines' buyout price soars after pancreatic cancer win",
+        "importance": 5,
+        "reason": "胰腺癌III期试验成功显著提升公司估值，可能引发超300亿美元收购，是肿瘤领域的重大突破。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "UPDATED: Heeding RFK Jr.'s call, FDA reclassifies 12 unapproved peptides ahead of advisory committee meeting",
+        "importance": 4,
+        "reason": "FDA重新分类12种未批准多肽，涉及监管政策重大调整，可能影响复方药物市场。",
+        "category": "政策法规"
+      },
+      {
+        "index": 25,
+        "title": "Trump, FDA plan to expedite psychedelic development",
+        "importance": 4,
+        "reason": "特朗普政府推动FDA加速迷幻药审查，是精神疾病治疗领域的重要政策动向。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "基因疗法先驱获突破奖，KRAS靶向药物在肺癌中展现新前景，抗淀粉样蛋白阿尔茨海默病药物疗效再受质疑。",
+      "临床试验": "Revolution Medicines胰腺癌III期数据成功，Nektar脱发药物扩展研究显示持续疗效，默克合作伙伴公布双特异性抗体初步人体数据。"
+    },
+    "tomorrow_watch": "关注FDA关于多肽药物咨询委员会会议的后续进展，以及礼来对Kelonia收购后体内细胞治疗管线的整合策略；同时留意迷幻药加速审批政策的具体实施细节及行业反应。"
+  }
+}
