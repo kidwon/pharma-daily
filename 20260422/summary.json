@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T04:45:38.583478",
+  "theme": "minimal",
+  "total_items": 96,
+  "files": {
+    "markdown": "docs/20260422/daily.md",
+    "html": "docs/20260422/index.html",
+    "directory": "docs/20260422"
+  },
+  "analysis": {
+    "overview": "今日制药行业呈现活跃的并购与研发突破态势。礼来以高达70亿美元收购Kelonia Therapeutics，显著增强其体内细胞治疗能力，而UCB则以6.5亿美元收购Neurona Therapeutics以拓展其癫痫治疗管线。同时，默沙东的HIV新药Idvynso获得FDA批准，为其在HIV市场注入新动力，但其肾癌药物Welireg在一线治疗中遭遇挫折，引发市场关注。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Lilly boosts ‘in vivo’ cell therapy capabilities with Kelonia buyout",
+        "importance": 5,
+        "reason": "礼来高达70亿美元的收购案，显著强化其在细胞治疗领域的战略布局，涉及多发性骨髓瘤等重大疾病。",
+        "category": "商业动态"
+      },
+      {
+        "index": 7,
+        "title": "UCB plots epilepsy expansion with $650M Neurona cell therapy acquisition",
+        "importance": 4,
+        "reason": "UCB以6.5亿美元收购Neurona，旨在拓展其临床阶段癫痫治疗产品组合，是细胞治疗领域的重要交易。",
+        "category": "商业动态"
+      },
+      {
+        "index": 8,
+        "title": "Merck amps up presence in HIV treatment market with FDA nod for novel combo pill Idvynso",
+        "importance": 5,
+        "reason": "默沙东每日一次HIV新药Idvynso获FDA批准，提供了新的作用机制，有望重塑HIV治疗市场格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "In a Merck Litespark shocker, Welireg triplet misses the mark in first-line kidney cancer",
+        "importance": 4,
+        "reason": "默沙东的潜在重磅药物Welireg在一线肾癌治疗中失败，错失巨大市场机会，并对竞争格局产生影响。",
+        "category": "临床试验"
+      },
+      {
+        "index": 22,
+        "title": "'It's just the beginning' for pancreatic cancer's long-awaited breakthrough",
+        "importance": 5,
+        "reason": "报道了胰腺癌治疗领域期待已久的突破性进展，可能像赫赛汀改变乳腺癌一样重塑该疾病治疗范式。",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发领域亮点频出，重点关注胰腺癌治疗突破（daraxonrasib）、KRAS靶点药物的迭代进展以及脱发药物（Nektar）的积极扩展研究数据。",
+      "临床试验": "临床试验结果喜忧参半，阿斯利康的Ultomiris在IgAN肾病III期试验中成功，而默沙东的Welireg在一线肾癌组合疗法中失败，同时有PD-1xVEGF双抗的早期人体数据公布。"
+    },
+    "tomorrow_watch": "需持续关注礼来收购Kelonia后体内细胞治疗管线的整合进展，默沙东Welireg肾癌试验失败后的后续开发策略调整，以及胰腺癌突破性疗法daraxonrasib的后续临床数据披露。此外，特朗普政府关于加速迷幻药审查的行政命令可能引发的政策与监管变化也值得留意。"
+  }
+}
