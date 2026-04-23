@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T04:49:13.337650",
+  "theme": "minimal",
+  "total_items": 94,
+  "files": {
+    "markdown": "docs/20260423/daily.md",
+    "html": "docs/20260423/index.html",
+    "directory": "docs/20260423"
+  },
+  "analysis": {
+    "overview": "今日制药行业呈现多元化动态，其中生物类似药领域迎来重大整合，Amneal以11亿美元收购Kashiv BioSciences，标志着生物类似药进入“黄金时代”。同时，默克公司HIV新药Idvynso获FDA批准，为其在HIV治疗市场增添新武器。此外，礼来以32.5亿美元收购Kelonia Therapeutics，显示出细胞与基因治疗领域的持续热度。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Amneal seizes 'golden era' for biosims with $1.1B Kashiv buyout",
+        "importance": 5,
+        "reason": "11亿美元收购案标志着生物类似药领域进入整合与扩张的关键阶段",
+        "category": "商业动态"
+      },
+      {
+        "index": 8,
+        "title": "Merck amps up presence in HIV treatment market with FDA nod for novel combo pill Idvynso",
+        "importance": 5,
+        "reason": "FDA批准新型每日一次HIV组合疗法，为默克在竞争激烈的HIV市场提供新增长点",
+        "category": "监管审批"
+      },
+      {
+        "index": 25,
+        "title": "Kelonia investor Venrock will clear a 45-fold return on startup's sale to Lilly",
+        "importance": 5,
+        "reason": "礼来以32.5亿美元收购Kelonia Therapeutics，凸显细胞与基因治疗领域的高估值与战略重要性",
+        "category": "商业动态"
+      },
+      {
+        "index": 9,
+        "title": "AstraZeneca eyes 5th Ultomiris indication after kidney disease trial win",
+        "importance": 4,
+        "reason": "Ultomiris在罕见肾病IgAN的III期试验中取得积极结果，有望扩展其适应症范围",
+        "category": "临床试验"
+      },
+      {
+        "index": 10,
+        "title": "In a Merck Litespark shocker, Welireg triplet misses the mark in first-line kidney cancer",
+        "importance": 4,
+        "reason": "默克Welireg在一线肾癌治疗中失败，可能影响其成为重磅炸弹药物的潜力",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发领域关注点包括KRAS靶点药物进展、胰腺癌新药daraxonrasib的早期积极数据，以及RIPK1靶点研发遇冷（礼来终止与Rigel的合作）。",
+      "临床试验": "临床试验方面，阿斯利康Ultomiris在IgAN肾病III期试验成功，默克Welireg在一线肾癌组合疗法中失败，Nektar脱发药物在扩展研究中显示持续疗效。"
+    },
+    "tomorrow_watch": "需关注默克Welireg在一线肾癌试验失败后的后续策略调整，以及FDA对药企联合请愿要求改革药品拒绝信公开做法的回应。此外，特朗普政府关于加速迷幻药研发的承诺可能引发政策讨论。"
+  }
+}
