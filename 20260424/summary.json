@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T04:53:13.833424",
+  "theme": "minimal",
+  "total_items": 97,
+  "files": {
+    "markdown": "docs/20260424/daily.md",
+    "html": "docs/20260424/index.html",
+    "directory": "docs/20260424"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，Regeneron的听力损失基因疗法获FDA批准，成为首个获批的此类疗法，标志着基因治疗领域的重大突破。同时，Amneal以11亿美元收购Kashiv，押注生物类似药的“黄金时代”，而Merck的Welireg在肾癌一线治疗中失败，凸显了肿瘤药物研发的高风险。此外，FDA面临制药行业对其公开拒绝信函做法的批评，以及中国生物技术崛起的讨论，成为政策与竞争格局的焦点。",
+    "top_news": [
+      {
+        "index": 3,
+        "title": "FDA approves Regeneron’s hearing loss gene therapy",
+        "importance": 5,
+        "reason": "首个获批的听力损失基因疗法，开创了基因治疗新领域，具有里程碑意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Amneal seizes 'golden era' for biosims with $1.1B Kashiv buyout",
+        "importance": 5,
+        "reason": "11亿美元收购案凸显生物类似药市场进入高速增长期，对行业格局影响重大。",
+        "category": "商业动态"
+      },
+      {
+        "index": 17,
+        "title": "In a Merck Litespark shocker, Welireg triplet misses the mark in first-line kidney cancer",
+        "importance": 5,
+        "reason": "Merck重磅药物Welireg在关键III期试验中失败，失去数十亿美元市场机会，对肿瘤领域影响深远。",
+        "category": "临床试验"
+      },
+      {
+        "index": 1,
+        "title": "FDA citizen petition calls on agency to tighten up CRL disclosure practices",
+        "importance": 4,
+        "reason": "制药行业首次联合施压FDA改革拒绝信函公开政策，可能影响监管透明度和行业合规。",
+        "category": "政策法规"
+      },
+      {
+        "index": 10,
+        "title": "RFK Jr. says China is 'eating our lunch' in biotech advances",
+        "importance": 4,
+        "reason": "美国卫生部长公开承认中国在生物技术领域的领先地位，引发对全球竞争格局的讨论。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Regeneron的基因疗法Otarmeni获批治疗遗传性听力损失，Roche的口服SERD药物giredestrant有望成为其史上最大产品，Merck的Welireg在肾癌一线治疗中失败，Novo Nordisk的口服semaglutide在青少年糖尿病试验中取得阳性结果。",
+      "临床试验": "Merck的Welireg联合疗法在肾癌一线治疗中未达主要终点，AstraZeneca的Ultomiris在IgA肾病III期试验中成功，Revolution的疗法在早期胰腺癌中显示潜力，Moderna启动mRNA禽流感疫苗III期试验。"
+    },
+    "tomorrow_watch": "关注Regeneron基因疗法上市后的定价与患者可及性，以及FDA对制药行业请愿的回应；同时，Merck Welireg失败后对肾癌治疗格局的影响，以及Amneal收购Kashiv后生物类似药市场的竞争动态。"
+  }
+}
