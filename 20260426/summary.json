@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T04:57:28.204345",
+  "theme": "minimal",
+  "total_items": 99,
+  "files": {
+    "markdown": "docs/20260426/daily.md",
+    "html": "docs/20260426/index.html",
+    "directory": "docs/20260426"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，Regeneron的听力损失基因疗法获FDA批准，成为首个获批的此类疗法，具有里程碑意义。同时，Avalyn Pharma计划通过IPO融资1.82亿美元推进呼吸疾病药物后期研究，而FDA在CRL披露和迷幻药优先审评券方面的新举措引发行业关注。",
+    "top_news": [
+      {
+        "index": 5,
+        "title": "FDA approves Regeneron’s hearing loss gene therapy",
+        "importance": 5,
+        "reason": "首个获批的遗传性听力损失基因疗法，具有突破性意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 1,
+        "title": "Avalyn aims for $182M IPO to fund phase 3 trials of reformulated respiratory drugs",
+        "importance": 4,
+        "reason": "1.82亿美元IPO规模较大，将推动呼吸疾病药物后期临床。",
+        "category": "商业动态"
+      },
+      {
+        "index": 3,
+        "title": "FDA citizen petition calls on agency to tighten up CRL disclosure practices",
+        "importance": 4,
+        "reason": "制药行业首次公开批评FDA的CRL披露做法，可能影响监管透明度。",
+        "category": "政策法规"
+      },
+      {
+        "index": 4,
+        "title": "Sanofi MS drug rejected in US gets an endorsement in Europe",
+        "importance": 4,
+        "reason": "Sanofi的MS药物在美被拒后在欧获推荐，凸显跨区域监管差异。",
+        "category": "监管审批"
+      },
+      {
+        "index": 26,
+        "title": "FDA unveils three psychedelic-focused commissioner vouchers",
+        "importance": 4,
+        "reason": "FDA首次发放迷幻药优先审评券，可能加速该领域药物开发。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Roche的口服SERD药物giredestrant有望成为公司史上最大产品，尽管存在数据担忧；Revolution的胰腺癌早期数据显示出潜力。",
+      "临床试验": "Novo Nordisk的口服semaglutide在青少年糖尿病试验中取得阳性结果，有望扩展适应症；Moderna启动mRNA禽流感疫苗III期试验。"
+    },
+    "tomorrow_watch": "关注FDA对CRL披露改革的回应，以及Avalyn IPO的定价和市场反应。"
+  }
+}
