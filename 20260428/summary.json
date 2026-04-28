@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T05:29:18.898335",
+  "theme": "minimal",
+  "total_items": 100,
+  "files": {
+    "markdown": "docs/20260428/daily.md",
+    "html": "docs/20260428/index.html",
+    "directory": "docs/20260428"
+  },
+  "analysis": {
+    "overview": "今日制药行业迎来多项重大突破，包括Intellia的体内CRISPR疗法首次在III期试验成功、Sun Pharma以117.5亿美元收购Organon成为年度最大交易，以及Regeneron的听力损失基因疗法获FDA批准。这些事件标志着基因编辑、并购和基因治疗领域的里程碑式进展。",
+    "top_news": [
+      {
+        "index": 3,
+        "title": "Intellia's in vivo CRISPR therapy first to succeed in Phase 3",
+        "importance": 5,
+        "reason": "这是体内CRISPR疗法首次在III期试验中成功，为基因编辑技术商业化铺平道路，具有里程碑意义。",
+        "category": "临床试验"
+      },
+      {
+        "index": 5,
+        "title": "Sun Pharma strikes biopharma's largest deal of '26 with $11.75B buyout of Organon",
+        "importance": 5,
+        "reason": "117.5亿美元收购是2026年生物制药领域最大交易，显著改变行业格局。",
+        "category": "商业动态"
+      },
+      {
+        "index": 9,
+        "title": "FDA approves Regeneron’s hearing loss gene therapy",
+        "importance": 5,
+        "reason": "首个获批的听力损失基因疗法，标志着基因治疗在罕见病领域的重大突破。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Q&A: Intellia CEO talks first Phase 3 CRISPR readout and what’s next",
+        "importance": 4,
+        "reason": "Intellia的CRISPR疗法III期成功是基因编辑领域的关键进展，CEO访谈提供未来方向。",
+        "category": "临床试验"
+      },
+      {
+        "index": 1,
+        "title": "Avalyn aims for $182M IPO to fund phase 3 trials of reformulated respiratory drugs",
+        "importance": 4,
+        "reason": "1.82亿美元IPO规模较大，用于推进呼吸药物III期试验，反映生物技术融资回暖。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Roche和Lilly等公司推进新药管线，包括口服SERD和JAK抑制剂，但面临数据不确定性和竞争压力。",
+      "临床试验": "Intellia的CRISPR疗法在III期成功，Veradermics的口服Rogaine在II/III期试验中取得阳性结果，显示基因编辑和脱发治疗领域的进展。"
+    },
+    "tomorrow_watch": "关注Intellia CRISPR疗法后续FDA沟通及股价反应；Sun Pharma收购Organon的监管审批进展；以及Roche和Lilly新药数据的市场反馈。"
+  }
+}
