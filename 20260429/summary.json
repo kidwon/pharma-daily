@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T05:24:37.531359",
+  "theme": "minimal",
+  "total_items": 100,
+  "files": {
+    "markdown": "docs/20260429/daily.md",
+    "html": "docs/20260429/index.html",
+    "directory": "docs/20260429"
+  },
+  "analysis": {
+    "overview": "今日制药行业迎来多项重大突破与监管动态，其中Intellia的体内CRISPR疗法首次在III期试验中成功，标志着基因编辑技术的重要里程碑；同时，Sun Pharma以117.5亿美元收购Organon，成为今年生物制药领域最大交易；FDA则因数据操纵问题提议撤销Amgen的Tavneos批准，并推出实时临床试验数据收集计划。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "Intellia's in vivo CRISPR therapy first to succeed in Phase 3",
+        "importance": 5,
+        "reason": "体内CRISPR疗法首次III期成功，为基因编辑领域开创先河，有望获得FDA批准。",
+        "category": "临床试验"
+      },
+      {
+        "index": 8,
+        "title": "Sun Pharma strikes biopharma's largest deal of '26 with $11.75B buyout of Organon",
+        "importance": 5,
+        "reason": "117.5亿美元收购成为今年最大生物制药交易，重塑行业格局。",
+        "category": "商业动态"
+      },
+      {
+        "index": 18,
+        "title": "FDA turns up heat on Amgen, proposing to rescind approval of Tavneos",
+        "importance": 5,
+        "reason": "FDA因数据操纵提议撤销已批准药物，凸显监管对数据诚信的严格态度。",
+        "category": "监管审批"
+      },
+      {
+        "index": 13,
+        "title": "FDA debuts plan to collect real-time clinical trial data",
+        "importance": 4,
+        "reason": "FDA启动实时数据收集试点，有望加速临床试验进程，改变药物开发模式。",
+        "category": "政策法规"
+      },
+      {
+        "index": 7,
+        "title": "AZ's Breztri nabs FDA asthma nod, adding fuel to blockbuster launch",
+        "importance": 4,
+        "reason": "Breztri获批哮喘适应症，为阿斯利康重磅产品增添新增长动力。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Intellia的体内CRISPR疗法在遗传性血管性水肿III期试验中成功，Veradermics的口服脱发药物获阳性数据，Lilly收购Ajax以开发更好的JAK药物。",
+      "临床试验": "Intellia的CRISPR疗法III期成功是最大亮点；FDA启动实时数据收集试点；Mundipharma和CorMedix的Rezzayo在预防真菌感染试验中获胜。"
+    },
+    "tomorrow_watch": "关注FDA对Intellia CRISPR疗法的审评进展，以及Sun Pharma收购Organon后的整合计划；同时留意阿斯利康camizestrant和Truqap的咨询委员会会议结果。"
+  }
+}
