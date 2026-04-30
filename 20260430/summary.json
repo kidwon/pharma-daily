@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T05:28:50.104746",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260430/daily.md",
+    "html": "docs/20260430/index.html",
+    "directory": "docs/20260430"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，FDA宣布启动实时临床试验数据审查试点项目，有望加速药物开发；同时，Sun Pharma以117.5亿美元收购Organon，成为2026年生物制药领域最大交易。此外，FDA对AstraZeneca的camizestrant和Truqap表达担忧，并提议撤销Amgen的Tavneos批准，监管审查力度加大。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA launches effort to speed up clinical trials, using AI",
+        "importance": 5,
+        "reason": "FDA启动实时临床试验数据审查试点，可能根本改变药物开发流程，影响深远。",
+        "category": "政策法规"
+      },
+      {
+        "index": 8,
+        "title": "Sun Pharma strikes biopharma's largest deal of '26 with $11.75B buyout of Organon",
+        "importance": 5,
+        "reason": "117.5亿美元收购是2026年生物制药领域最大交易，重塑行业格局。",
+        "category": "商业动态"
+      },
+      {
+        "index": 5,
+        "title": "FDA flags concerns for AstraZeneca's camizestrant, Truqap ahead of advisory committee meeting",
+        "importance": 4,
+        "reason": "FDA对AZ两款癌症药物表达担忧，影响其审批前景及公司管线价值。",
+        "category": "监管审批"
+      },
+      {
+        "index": 27,
+        "title": "FDA turns up heat on Amgen, proposing to rescind approval of Tavneos",
+        "importance": 4,
+        "reason": "FDA提议撤销Tavneos批准，指控数据操纵，凸显监管对数据完整性的严格审查。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "AbbVie outlines Skyrizi defense against new J&J plaque psoriasis rival Icotyde",
+        "importance": 4,
+        "reason": "Skyrizi一季度销售增长30.9%至44.8亿美元，面临新竞争，市场格局关键变化。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Kahimmune与Gustave Roussy合作开发新抗原疗法；Theolytics卵巢癌疗法进入临床；BioDuro与CTI合作加速临床前开发。",
+      "临床试验": "FDA启动实时数据审查试点，AZ和Amgen参与；GSK CEO暗示若III期失败将重组团队；Mundipharma的Rezzayo在预防真菌感染试验中获胜。"
+    },
+    "tomorrow_watch": "关注FDA对AstraZeneca camizestrant和Truqap的顾问委员会会议结果，以及GSK关键III期数据公布对团队重组的影响。"
+  }
+}
