@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T05:40:11.626674",
+  "theme": "minimal",
+  "total_items": 107,
+  "files": {
+    "markdown": "docs/20260501/daily.md",
+    "html": "docs/20260501/index.html",
+    "directory": "docs/20260501"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态活跃，IPO市场持续火热，Seaport Therapeutics和Hemab Therapeutics等公司共融资5.56亿美元，Avalyn Pharma也以3亿美元IPO上市。FDA在临床试验创新方面迈出重要一步，启动实时数据审查试点，同时其肿瘤学顾问委员会对阿斯利康的camizestrant试验结果提出质疑。并购方面，Chiesi以19亿美元收购KalVista，凸显罕见病药物领域的吸引力。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Two biotechs raise a combined $556M in latest spurt of IPOs",
+        "importance": 5,
+        "reason": "IPO市场活跃，融资规模大，反映投资者对生物技术行业的信心。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "FDA's oncology advisors vote against 'new paradigm' in AstraZeneca trial",
+        "importance": 5,
+        "reason": "FDA顾问委员会对阿斯利康关键III期试验结果投反对票，可能影响药物审批路径。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "FDA commissioner: ‘Smarter,’ real-time clinical trials could transform drug development",
+        "importance": 5,
+        "reason": "FDA推动实时临床试验，有望缩短开发周期，改变行业范式。",
+        "category": "政策法规"
+      },
+      {
+        "index": 4,
+        "title": "Chiesi to buy KalVista in $1.9B deal for rare disease drug",
+        "importance": 5,
+        "reason": "19亿美元收购案凸显罕见病药物市场价值，是本周第五起生物技术收购。",
+        "category": "商业动态"
+      },
+      {
+        "index": 5,
+        "title": "Avalyn heads to Nasdaq with oversized $300M IPO to fund reformulated respiratory drugs",
+        "importance": 4,
+        "reason": "3亿美元IPO超额募资，用于呼吸疾病药物后期研究，显示市场对改良型药物的兴趣。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Kahimmune Therapeutics与Gustave Roussy合作推进新抗原疗法候选药物；Theolytics卵巢癌疗法进入临床试验。",
+      "临床试验": "FDA启动实时临床试验数据审查试点，阿斯利康和安进参与；阿斯利康camizestrant试验遭顾问委员会质疑。"
+    },
+    "tomorrow_watch": "关注FDA对阿斯利康camizestrant和Truqap的最终决定，以及Avalyn Pharma IPO后的市场表现。"
+  }
+}
