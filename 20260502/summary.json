@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T04:57:37.802923",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260502/daily.md",
+    "html": "docs/20260502/index.html",
+    "directory": "docs/20260502"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态活跃，多起大型IPO和并购事件凸显市场信心，同时FDA在加速审批和临床试验创新方面释放积极信号。新药获批方面，Pfizer和Arvinas的PROTAC乳腺癌药物Veppanu获加速批准，成为首个上市的PROTAC药物，但商业化前景存疑。",
+    "top_news": [
+      {
+        "index": 10,
+        "title": "Arvinas’ ‘Protac’ breast cancer drug cleared by FDA",
+        "importance": 5,
+        "reason": "首个PROTAC药物获批，标志着蛋白降解疗法从概念到临床的重大突破。",
+        "category": "监管审批"
+      },
+      {
+        "index": 30,
+        "title": "Fierce Pharma Asia—Sun’s $11.75B Organon buy; Astellas’ Xtandi peak; BeOne’s PD-1xVEGF bet",
+        "importance": 5,
+        "reason": "Sun Pharma以117.5亿美元收购Organon，是当日最大并购交易，显著影响全球仿制药和女性健康市场格局。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "Two biotechs raise a combined $556M in latest spurt of IPOs",
+        "importance": 4,
+        "reason": "Seaport和Hemab的IPO共融资5.56亿美元，显示生物技术资本市场强劲复苏。",
+        "category": "商业动态"
+      },
+      {
+        "index": 6,
+        "title": "Look out Rexulti, Axsome's Auvelity has its nod for Alzheimer's agitation",
+        "importance": 4,
+        "reason": "Auvelity获批第二个适应症（阿尔茨海默病激越），为患者提供新治疗选择，并挑战现有市场领导者。",
+        "category": "监管审批"
+      },
+      {
+        "index": 14,
+        "title": "STAT+: FDA launches effort to speed up clinical trials, using AI",
+        "importance": 4,
+        "reason": "FDA启动利用AI实时监控临床试验的倡议，有望缩短试验周期，改变药物开发模式。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "PROTAC药物Veppanu获批是蛋白降解领域的里程碑；Axsome的Auvelity获批新适应症；Ionis等RNA疗法公司推进管线。",
+      "临床试验": "FDA肿瘤学顾问委员会投票反对阿斯利康口服SERD camizestrant的III期试验，认为未显示临床意义；FDA启动AI实时监控临床试验，提高效率。"
+    },
+    "tomorrow_watch": "关注Avalyn Pharma IPO后股价表现及市场对吸入式呼吸药物的反应；Pfizer和Arvinas的Veppanu商业化合作进展；以及Samsung Biologics罢工对CDMO供应链的潜在影响。"
+  }
+}
