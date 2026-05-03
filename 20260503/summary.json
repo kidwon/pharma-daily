@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T05:28:45.407411",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260503/daily.md",
+    "html": "docs/20260503/index.html",
+    "directory": "docs/20260503"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，多项重大事件集中爆发：FDA批准了首个PROTAC药物Veppanu（Arvinas/Pfizer）用于乳腺癌，同时批准了Axsome的Auvelity用于阿尔茨海默病激越；生物技术IPO市场持续火热，Avalyn Pharma以3亿美元超募IPO登陆纳斯达克；FDA宣布启动AI驱动的实时临床试验数据审查计划，旨在加速药物开发。",
+    "top_news": [
+      {
+        "index": 10,
+        "title": "Arvinas’ ‘Protac’ breast cancer drug cleared by FDA",
+        "importance": 5,
+        "reason": "首个PROTAC技术药物获批，标志着蛋白降解疗法里程碑式突破。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Look out Rexulti, Axsome's Auvelity has its nod for Alzheimer's agitation",
+        "importance": 5,
+        "reason": "Auvelity获批第二个适应症（阿尔茨海默病激越），开辟新市场并挑战现有药物。",
+        "category": "监管审批"
+      },
+      {
+        "index": 8,
+        "title": "Avalyn heads to Nasdaq with oversized $300M IPO to fund reformulated respiratory drugs",
+        "importance": 4,
+        "reason": "3亿美元超募IPO显示投资者对呼吸疾病药物开发的高度信心。",
+        "category": "商业动态"
+      },
+      {
+        "index": 3,
+        "title": "Opinion: FDA commissioner: ‘Smarter,’ real-time clinical trials could transform drug development",
+        "importance": 4,
+        "reason": "FDA宣布启动AI实时数据审查计划，可能根本性改变临床试验模式。",
+        "category": "政策法规"
+      },
+      {
+        "index": 13,
+        "title": "STAT+: FDA wants to exclude weight loss drugs from a compounding list",
+        "importance": 4,
+        "reason": "FDA拟将GLP-1药物从复方名单移除，影响减肥药市场供应格局。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "PROTAC技术首次获批（Veppanu），蛋白降解疗法进入商业化阶段；Axsome的Auvelity拓展至阿尔茨海默病激越，展示老药新用潜力。",
+      "临床试验": "FDA启动AI实时数据审查试点，与阿斯利康、安进合作，旨在缩短试验周期；AstraZeneca的camizestrant在FDA肿瘤顾问委员会中遭遇负面投票。"
+    },
+    "tomorrow_watch": "关注Veppanu上市后市场接受度及Arvinas/Pfizer寻找商业化合作伙伴的进展；Avalyn Pharma上市首日股价表现；FDA关于GLP-1复方名单的最终决定及行业反应。"
+  }
+}
