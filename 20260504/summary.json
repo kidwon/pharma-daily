@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T05:33:31.557355",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260504/daily.md",
+    "html": "docs/20260504/index.html",
+    "directory": "docs/20260504"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，FDA批准了首个PROTAC药物Veppanu用于乳腺癌，标志着蛋白降解疗法里程碑；同时，多家生物技术公司成功IPO，融资总额超8.5亿美元，显示资本市场回暖。此外，FDA宣布利用AI实时监控临床试验以加速开发，并计划将GLP-1药物从短缺清单中移除，影响深远。",
+    "top_news": [
+      {
+        "index": 10,
+        "title": "Arvinas’ ‘Protac’ breast cancer drug cleared by FDA",
+        "importance": 5,
+        "reason": "首个PROTAC药物获批，开创蛋白降解疗法新纪元，具有里程碑意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 12,
+        "title": "Seaport, Hemab price IPOs, while Avalyn soars in Nasdaq debut",
+        "importance": 5,
+        "reason": "三家公司IPO融资超8.5亿美元，显示生物技术资本市场强劲复苏。",
+        "category": "商业动态"
+      },
+      {
+        "index": 13,
+        "title": "STAT+: FDA wants to exclude weight loss drugs from a compounding list",
+        "importance": 4,
+        "reason": "移除GLP-1药物短缺状态将影响仿制药和复合药市场，对诺和诺德和礼来有利。",
+        "category": "政策法规"
+      },
+      {
+        "index": 14,
+        "title": "STAT+: FDA launches effort to speed up clinical trials, using AI",
+        "importance": 4,
+        "reason": "FDA利用AI实时监控临床试验，有望缩短开发周期，改变行业范式。",
+        "category": "政策法规"
+      },
+      {
+        "index": 6,
+        "title": "Look out Rexulti, Axsome's Auvelity has its nod for Alzheimer's agitation",
+        "importance": 4,
+        "reason": "Auvelity获批新适应症，为阿尔茨海默病激越提供新疗法，市场潜力大。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Arvinas的PROTAC药物Veppanu获批，标志蛋白降解疗法进入临床；Axsome的Auvelity获批阿尔茨海默病激越新适应症；Kahimmune与Gustave Roussy合作开发新抗原疗法。",
+      "临床试验": "FDA启动AI实时监控临床试验计划，旨在加速开发；Moderna与FDA讨论新冠疫苗IV期数据；Theolytics卵巢癌疗法进入二期试验。"
+    },
+    "tomorrow_watch": "关注Veppanu上市后市场接受度及Pfizer/Arvinas寻找商业化伙伴的进展；Avalyn Pharma上市后股价表现；FDA移除GLP-1药物短缺清单的正式公告及市场反应。"
+  }
+}
