@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T04:59:06.881073",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260505/daily.md",
+    "html": "docs/20260505/index.html",
+    "directory": "docs/20260505"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，FDA批准了首个PROTAC药物Veppanu（Arvinas/Pfizer）用于乳腺癌，同时加速推进临床试验改革，旨在利用AI实现实时数据监测。此外，GLP-1药物在管线价值上首次超越肿瘤学，成为行业新焦点。",
+    "top_news": [
+      {
+        "index": 6,
+        "title": "Arvinas’ ‘Protac’ breast cancer drug cleared by FDA",
+        "importance": 5,
+        "reason": "首个PROTAC药物获批，标志着蛋白降解疗法里程碑式突破。",
+        "category": "监管审批"
+      },
+      {
+        "index": 24,
+        "title": "GLP-1 boom pushes oncology off top spot for late-stage pipeline value: Deloitte",
+        "importance": 5,
+        "reason": "Deloitte报告显示GLP-1药物管线价值首次超越肿瘤学，重塑行业格局。",
+        "category": "市场分析"
+      },
+      {
+        "index": 3,
+        "title": "FDA commissioner: ‘Smarter,’ real-time clinical trials could transform drug development",
+        "importance": 4,
+        "reason": "FDA提出实时临床试验改革，有望大幅缩短药物开发周期。",
+        "category": "政策法规"
+      },
+      {
+        "index": 1,
+        "title": "Two biotechs raise a combined $556M in latest spurt of IPOs",
+        "importance": 4,
+        "reason": "Seaport和Hemab的IPO显示生物技术资本市场持续回暖。",
+        "category": "商业动态"
+      },
+      {
+        "index": 4,
+        "title": "Look out Rexulti, Axsome's Auvelity has its nod for Alzheimer's agitation",
+        "importance": 4,
+        "reason": "Auvelity获批阿尔茨海默病激越新适应症，开辟新市场。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "PROTAC技术迎来首个获批药物Veppanu，同时Celcuity的gedatolisib在PIK3CA突变乳腺癌中取得阳性III期结果。",
+      "临床试验": "FDA推动实时临床试验改革，利用AI监测数据，并计划加速试验阶段转换。"
+    },
+    "tomorrow_watch": "关注FDA对GLP-1药物短缺状态的最终裁定，以及Arvinas/Pfizer为Veppanu寻找商业化合作伙伴的进展。"
+  }
+}
