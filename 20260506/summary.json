@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T05:27:33.103591",
+  "theme": "minimal",
+  "total_items": 100,
+  "files": {
+    "markdown": "docs/20260506/daily.md",
+    "html": "docs/20260506/index.html",
+    "directory": "docs/20260506"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态丰富，Cytokinetics的Myqorzo在非梗阻性肥厚型心肌病III期试验中取得成功，有望成为首个获批疗法；Axsome的Auvelity获FDA批准用于阿尔茨海默病激越，峰值销售预测上调至80亿美元；FDA批准了首个PROTAC药物Veppanu用于乳腺癌，但商业前景存疑。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Cytokinetics' Myqorzo succeeds in landmark cardiomyopathy trial",
+        "importance": 5,
+        "reason": "III期试验成功，有望成为首个非梗阻性肥厚型心肌病药物，开辟数十亿美元市场。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "After Alzheimer's agitation nod, Axsome jacks up Auvelity's peak sales projection to $8B",
+        "importance": 5,
+        "reason": "FDA批准新适应症后，峰值销售预测大幅上调至80亿美元，显示巨大商业潜力。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Arvinas’ ‘Protac’ breast cancer drug cleared by FDA",
+        "importance": 5,
+        "reason": "首个PROTAC药物获批，具有里程碑意义，但商业前景不确定。",
+        "category": "监管审批"
+      },
+      {
+        "index": 8,
+        "title": "FDA wants to exclude weight loss drugs from a compounding list",
+        "importance": 4,
+        "reason": "FDA拟将GLP-1药物从复方名单移除，影响减肥药市场格局。",
+        "category": "政策法规"
+      },
+      {
+        "index": 19,
+        "title": "Cardio drug developer Esperion to go private in potential $1.1B buyout by ArchiMed",
+        "importance": 4,
+        "reason": "11亿美元收购案，反映心血管药物领域并购活跃。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "多个新药取得进展，包括Cytokinetics的Myqorzo在心肌病领域、Madrigal在MASH领域的扩展，以及Kyverna的CAR-T疗法向自身免疫疾病推进。",
+      "临床试验": "Cytokinetics的Myqorzo III期试验成功是今日亮点；Celcuity的gedatolisib在乳腺癌中显示阳性结果；Summit的试验因中期分析受挫。"
+    },
+    "tomorrow_watch": "关注FDA对GLP-1复方名单的最终决定、Pfizer和Arvinas的Veppanu商业化合作伙伴寻找进展，以及BioNTech裁员对制造能力的影响。"
+  }
+}
