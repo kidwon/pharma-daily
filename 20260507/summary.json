@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T05:30:25.460997",
+  "theme": "minimal",
+  "total_items": 101,
+  "files": {
+    "markdown": "docs/20260507/daily.md",
+    "html": "docs/20260507/index.html",
+    "directory": "docs/20260507"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态丰富，Cytokinetics的Myqorzo在非梗阻性肥厚型心肌病III期试验中取得成功，有望成为首个获批疗法；礼来追加45亿美元投资扩大美国制造产能，凸显本土化生产趋势；FDA将GLP-1药物从503B复方名单中移除，影响减肥药市场格局。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Cytokinetics' Myqorzo succeeds in landmark cardiomyopathy trial",
+        "importance": 5,
+        "reason": "Myqorzo在非梗阻性肥厚型心肌病III期试验成功，有望成为首个获批疗法，开辟数十亿美元市场。",
+        "category": "临床试验"
+      },
+      {
+        "index": 3,
+        "title": "Lilly to invest $4.5B more into massive Indiana manufacturing complex",
+        "importance": 5,
+        "reason": "礼来追加45亿美元投资，累计超500亿美元用于美国制造，反映制药业本土化重大趋势。",
+        "category": "商业动态"
+      },
+      {
+        "index": 8,
+        "title": "FDA wants to exclude weight loss drugs from a compounding list",
+        "importance": 5,
+        "reason": "FDA移除GLP-1药物从复方名单，影响减肥药市场供应和价格，对诺和诺德和礼来有利。",
+        "category": "政策法规"
+      },
+      {
+        "index": 22,
+        "title": "Cytokinetics heart drug scores in closely watched trial",
+        "importance": 4,
+        "reason": "Myqorzo成功区分于BMS的Camzyos，为非梗阻性肥厚型心肌病提供新选择，市场潜力巨大。",
+        "category": "临床试验"
+      },
+      {
+        "index": 7,
+        "title": "Bayer to buy Perfuse for up to $2.45B, bolstering eye drug pipeline",
+        "importance": 4,
+        "reason": "拜耳以24.5亿美元收购Perfuse，加强眼科管线，是近年最大药企收购之一。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Cytokinetics的Myqorzo在非梗阻性肥厚型心肌病III期成功，Kyverna推进CAR-T治疗自身免疫疾病，ParcelBio获1300万美元种子轮开发mRNA疗法。",
+      "临床试验": "Myqorzo的III期试验是今日焦点，FDA推出1天评估试点以优化检查资源，同时发布临床试验日信息。"
+    },
+    "tomorrow_watch": "关注Cytokinetics Myqorzo的监管申请进展，以及礼来制造投资对供应链的影响；FDA移除GLP-1药物复方名单后的市场反应；拜耳收购Perfuse的后续整合。"
+  }
+}
