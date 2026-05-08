@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T04:52:27.454799",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260508/daily.md",
+    "html": "docs/20260508/index.html",
+    "directory": "docs/20260508"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态活跃，Cytokinetics在非梗阻性肥厚型心肌病III期试验中取得成功，有望成为首个获批疗法；Angelini以41亿美元收购Catalyst Pharmaceuticals，强化神经疾病管线；礼来追加45亿美元投资印第安纳州生产基地，显示美国制造业扩张趋势。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Cytokinetics' Myqorzo succeeds in landmark cardiomyopathy trial",
+        "importance": 5,
+        "reason": "III期试验成功，有望成为首个获批的非梗阻性肥厚型心肌病治疗药物，具有里程碑意义。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "Angelini fortifies neurology portfolio with $4.1B buyout of Catalyst",
+        "importance": 5,
+        "reason": "41亿美元收购案，显著增强神经疾病管线并扩大美国市场准入。",
+        "category": "商业动态"
+      },
+      {
+        "index": 5,
+        "title": "Lilly to invest $4.5B more into massive Indiana manufacturing complex",
+        "importance": 4,
+        "reason": "45亿美元追加投资，反映美国制造业回流趋势，对供应链有重大影响。",
+        "category": "商业动态"
+      },
+      {
+        "index": 4,
+        "title": "FDA to reconsider shock rejection of cell therapy Ebvallo. Could uniQure be next?",
+        "importance": 4,
+        "reason": "FDA重新考虑细胞疗法，可能影响基因治疗审批标准，具有监管先例意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "Bayer to buy Perfuse for up to $2.45B, bolstering eye drug pipeline",
+        "importance": 4,
+        "reason": "拜耳多年后首次重大收购，24.5亿美元布局眼科药物管线。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Cytokinetics的Myqorzo在肥厚型心肌病III期试验成功，有望成为首个获批药物；Kyverna接近CAR-T疗法在自身免疫疾病的首个批准。",
+      "临床试验": "FDA重新考虑Atara/Pierre Fabre的T细胞疗法，基于III期研究；FDA启动溶酶体疾病预联盟，推动临床试验创新。"
+    },
+    "tomorrow_watch": "关注FDA对Ebvallo细胞疗法的最终决定，以及Odyssey Therapeutics IPO后的市场表现。"
+  }
+}
