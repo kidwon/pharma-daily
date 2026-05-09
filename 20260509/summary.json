@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T05:21:02.862765",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260509/daily.md",
+    "html": "docs/20260509/index.html",
+    "directory": "docs/20260509"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，Angelini Pharma以41亿美元收购Catalyst Pharmaceuticals，强化罕见神经疾病药物组合；同时，特朗普计划解雇FDA局长Marty Makary，引发监管不确定性。此外，FDA重新考虑此前拒绝的细胞疗法Ebvallo，以及Bayer以24.5亿美元收购Perfuse拓展眼科管线，成为行业焦点。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Angelini fortifies neurology portfolio with $4.1B buyout of Catalyst",
+        "importance": 5,
+        "reason": "41亿美元收购案是当日最大交易，显著增强罕见神经疾病药物管线，并扩大美国市场准入。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "Trump plans to fire FDA chief Marty Makary: report",
+        "importance": 5,
+        "reason": "FDA局长被解雇将引发监管领导层变动，影响审批流程和行业信心。",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "FDA to reconsider shock rejection of cell therapy Ebvallo. Could uniQure be next?",
+        "importance": 4,
+        "reason": "FDA重新评估此前拒绝的细胞疗法，可能为类似疗法打开审批新路径。",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "Bayer to buy Perfuse for up to $2.45B, bolstering eye drug pipeline",
+        "importance": 4,
+        "reason": "24.5亿美元收购是Bayer多年来的重大交易，强化眼科药物管线。",
+        "category": "商业动态"
+      },
+      {
+        "index": 5,
+        "title": "FDA approves zenocutuzumab-zbco for advanced, unresectable or metastatic cholangiocarcinoma",
+        "importance": 5,
+        "reason": "新药获批为胆管癌患者提供新治疗选择，是当日重要监管里程碑。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "ParcelBio获1300万美元种子资金，开发新型mRNA疗法；Madrigal的Rezdiffra MASH药物第一季度销售额超预期。",
+      "临床试验": "FDA重新考虑Atara/Pierre Fabre的T细胞疗法，基于III期试验数据；Summit的PD-1xVEGF研究在中期分析中意外未达终点。"
+    },
+    "tomorrow_watch": "关注FDA局长解雇事件的后续进展，以及FDA对Ebvallo和uniQure细胞疗法的重新评估结果。同时，留意Bayer收购Perfuse的完成情况，以及Gilead的Yeztugo销售预测上调是否持续。"
+  }
+}
