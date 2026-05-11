@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T05:57:36.017113",
+  "theme": "minimal",
+  "total_items": 103,
+  "files": {
+    "markdown": "docs/20260511/daily.md",
+    "html": "docs/20260511/index.html",
+    "directory": "docs/20260511"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态频繁，Angelini Pharma以41亿美元收购Catalyst Pharmaceuticals，强化罕见神经疾病药物组合；同时，特朗普计划解雇FDA局长Marty Makary，引发监管不确定性。此外，FDA重新考虑此前拒绝的细胞疗法，并批准了zenocutuzumab-zbco用于胆管癌。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Angelini fortifies neurology portfolio with $4.1B buyout of Catalyst",
+        "importance": 5,
+        "reason": "41亿美元收购案，显著增强罕见神经疾病药物管线，并拓展美国市场。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "Trump plans to fire FDA chief Marty Makary: report",
+        "importance": 5,
+        "reason": "FDA局长被解雇将导致监管领导层变动，影响未来审批和政策方向。",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "FDA to reconsider shock rejection of cell therapy Ebvallo. Could uniQure be next?",
+        "importance": 4,
+        "reason": "FDA重新评估此前拒绝的细胞疗法，可能为其他类似疗法打开绿灯。",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "FDA approves zenocutuzumab-zbco for advanced, unresectable or metastatic cholangiocarcinoma",
+        "importance": 5,
+        "reason": "新药获批用于胆管癌，为患者提供新治疗选择。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Bayer to buy Perfuse for up to $2.45B, bolstering eye drug pipeline",
+        "importance": 4,
+        "reason": "拜耳24.5亿美元收购Perfuse，加强眼科药物管线，是近年最大收购之一。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "今日新药研发动态包括Angelini收购Catalyst获得三种罕见神经疾病药物，以及拜耳收购Perfuse加强眼科管线。",
+      "临床试验": "无显著临床试验相关新闻。"
+    },
+    "tomorrow_watch": "关注FDA局长解雇事件的后续发展，以及FDA对细胞疗法Ebvallo的重新评估结果。"
+  }
+}
