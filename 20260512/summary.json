@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T05:37:29.446189",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260512/daily.md",
+    "html": "docs/20260512/index.html",
+    "directory": "docs/20260512"
+  },
+  "analysis": {
+    "overview": "今日制药行业动荡不安，CSL因收购Vifor后业绩不佳下调营收预期并计提50亿美元减值，股价跌至九年新低；同时，特朗普计划解雇FDA局长Marty Makary，引发监管不确定性。此外，FDA重新考虑此前拒绝的细胞疗法Ebvallo，为行业带来一丝希望。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "CSL slashes revenue projection and takes $5B impairment as interim CEO flags R&D misses, market erosion",
+        "importance": 5,
+        "reason": "CSL大幅下调营收预期并计提50亿美元减值，股价跌至九年新低，反映大型并购后整合失败的风险。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "UPDATED—Trump plans to fire FDA chief Marty Makary: report",
+        "importance": 5,
+        "reason": "FDA局长被解雇将导致监管领导层真空，影响审批效率和行业信心。",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "FDA to reconsider shock rejection of cell therapy Ebvallo. Could uniQure be next?",
+        "importance": 4,
+        "reason": "FDA重新考虑此前拒绝的细胞疗法，可能为类似疗法打开审批通道，影响基因和细胞治疗领域。",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "Daiichi Sankyo posts 'extraordinary loss' of nearly $1B",
+        "importance": 4,
+        "reason": "第一三共因过度承诺ADC产能而计提近10亿美元损失，凸显产能规划风险。",
+        "category": "商业动态"
+      },
+      {
+        "index": 5,
+        "title": "Gilead cranks up Yeztugo first-year sales forecast to $1B on 'unprecedented launch trajectory'",
+        "importance": 4,
+        "reason": "吉利德上调长效PrEP注射剂首年销售预测至10亿美元，显示市场强劲需求。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "FDA重新考虑Ebvallo细胞疗法审批，可能推动基因和细胞治疗研发；同时，Tazverik因血液癌风险自愿撤市，提醒安全性问题。",
+      "临床试验": "Summit的PD-1xVEGF试验在中期分析中意外未达终点，引发关注。",
+      "监管审批": "FDA局长被解雇计划引发监管不确定性；FDA重新评估Ebvallo并延迟Leqembi皮下注射剂决定；Bizengri获优先审批。",
+      "商业动态": "CSL和第一三共分别因并购和产能规划失误遭受重大损失；Angelini以41亿美元收购Catalyst；礼来追加45亿美元扩产。",
+      "市场分析": "吉利德上调Yeztugo销售预测至10亿美元；CSL下调营收预期；第一三共设2030年190亿美元营收目标。",
+      "政策法规": "特朗普计划解雇FDA局长；最高法院审理米非司酮远程医疗案；FDA提出性别规则变更引发争议。"
+    },
+    "tomorrow_watch": "关注FDA局长Makary被解雇的最终决定及其对审批流程的影响；CSL和第一三共的股价走势及后续战略调整；FDA对Ebvallo重新审评的进展。"
+  }
+}
