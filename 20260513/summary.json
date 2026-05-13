@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T05:47:33.162310",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260513/daily.md",
+    "html": "docs/20260513/index.html",
+    "directory": "docs/20260513"
+  },
+  "analysis": {
+    "overview": "今日制药行业动荡加剧：FDA局长Marty Makary在多方压力下辞职，引发监管不确定性；CSL因研发失误和市场侵蚀大幅下调营收预期并计提50亿美元减值；Alkermes通过收购Avadel获得的睡眠障碍药物Lumryz在III期试验中取得积极结果，显示出并购价值。",
+    "top_news": [
+      {
+        "index": 3,
+        "title": "UPDATED—Trump plans to fire FDA chief Marty Makary: report",
+        "importance": 5,
+        "reason": "FDA局长被解职或辞职将直接影响药品审批速度和监管方向，属于重大政策变动。",
+        "category": "政策法规"
+      },
+      {
+        "index": 2,
+        "title": "CSL slashes revenue projection and takes $5B impairment as interim CEO flags R&D misses, market erosion",
+        "importance": 5,
+        "reason": "CSL大幅下调营收并计提50亿美元减值，反映大型生物技术公司面临的研发和市场双重压力。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "Alkermes’ Lumryz hits phase 3 mark in another sleep disorder, fueling momentum from $2.4B Avadel acquisition",
+        "importance": 4,
+        "reason": "Lumryz在另一睡眠障碍的III期成功，验证了24亿美元收购Avadel的战略价值。",
+        "category": "临床试验"
+      },
+      {
+        "index": 20,
+        "title": "Bristol Myers, Hengrui join forces in drugmaking alliance worth up to $15.2 billion",
+        "importance": 4,
+        "reason": "百时美施贵宝与恒瑞医药达成高达152亿美元的合作，凸显中外药企合作趋势。",
+        "category": "商业动态"
+      },
+      {
+        "index": 21,
+        "title": "Lilly to invest extra $4.5B across Indiana manufacturing",
+        "importance": 4,
+        "reason": "礼来追加45亿美元投资扩产，反映减肥药市场需求旺盛及产能竞争加剧。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Arvinas和辉瑞将新获批的PROTAC乳腺癌药物权益转让给Rigel，显示该药物商业前景不明；Bayer CEO表示将谨慎但积极地重返并购市场；Daiichi Sankyo发布五年计划，目标跻身全球肿瘤药前五。",
+      "临床试验": "Alkermes的Lumryz在发作性睡病III期试验中达到主要终点；FDA推迟了皮下注射Leqembi的审批决定至8月24日。"
+    },
+    "tomorrow_watch": "关注FDA局长辞职后代理局长Diamantas的监管动向，以及CSL股价是否进一步下跌；同时留意Bristol Myers与恒瑞合作的具体细节披露。"
+  }
+}
