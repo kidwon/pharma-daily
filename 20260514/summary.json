@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T05:46:03.308489",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260514/daily.md",
+    "html": "docs/20260514/index.html",
+    "directory": "docs/20260514"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态频繁，FDA局长Marty Makary辞职引发监管不确定性，同时多起重大并购与合作重塑行业格局，包括BMS与恒瑞医药价值152亿美元的合作、Alkermes的Lumryz在嗜睡症III期成功等。",
+    "top_news": [
+      {
+        "index": 17,
+        "title": "FDA Commissioner Marty Makary to resign, capping turbulent tenure",
+        "importance": 5,
+        "reason": "FDA局长辞职直接影响监管政策走向，引发行业不确定性。",
+        "category": "政策法规"
+      },
+      {
+        "index": 23,
+        "title": "Bristol Myers, Hengrui join forces in drugmaking alliance worth up to $15.2 billion",
+        "importance": 5,
+        "reason": "超大规模跨国合作，涉及13个药物，凸显中国药企全球影响力。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "Alkermes’ Lumryz hits phase 3 mark in another sleep disorder, fueling momentum from $2.4B Avadel acquisition",
+        "importance": 5,
+        "reason": "Lumryz在另一睡眠障碍中III期成功，验证23.7亿美元收购价值。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "BeOne's Venclexta challenger Beqalzi nets FDA approval as first BCL-2 for mantle cell lymphoma",
+        "importance": 5,
+        "reason": "首个针对套细胞淋巴瘤的BCL-2抑制剂获批，挑战重磅药物Venclexta。",
+        "category": "监管审批"
+      },
+      {
+        "index": 28,
+        "title": "Five burning Qs for Isomorphic Labs after $2.1B raise for AI biotech",
+        "importance": 4,
+        "reason": "AI制药公司Isomorphic Labs完成21亿美元B轮融资，创行业纪录。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "BeOne的Beqalzi获FDA批准用于套细胞淋巴瘤，成为首个BCL-2抑制剂；Alkermes的Lumryz在嗜睡症III期成功，拓展适应症。",
+      "临床试验": "Alkermes的Lumryz在另一睡眠障碍III期达到主要终点；Novo Nordisk的口服semaglutide在III期显示显著减重效果。",
+      "监管审批": "FDA批准Inqovi联合venetoclax用于新诊断AML；Beqalzi获批；Bizengri获优先审评用于罕见胆管癌。",
+      "商业动态": "BMS与恒瑞医药达成152亿美元合作；Isomorphic Labs完成21亿美元B轮融资；BioMarin完成48亿美元收购Amicus并整合；Bayer计划重返并购；CSL下调营收预期并计提50亿美元减值。",
+      "市场分析": "Bayer的Eylea因生物类似药竞争销售下降24%；Daiichi Sankyo计划2030年肿瘤药销售额达150亿美元。",
+      "政策法规": "FDA局长Marty Makary辞职，引发监管不确定性；FDA对BeOne的Brukinsa广告发出警告信。"
+    },
+    "tomorrow_watch": "关注FDA局长辞职后临时领导层的政策连续性，以及BMS与恒瑞医药合作的具体细节披露。"
+  }
+}
