@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T05:53:33.672227",
+  "theme": "minimal",
+  "total_items": 106,
+  "files": {
+    "markdown": "docs/20260515/daily.md",
+    "html": "docs/20260515/index.html",
+    "directory": "docs/20260515"
+  },
+  "analysis": {
+    "overview": "今日制药行业重大动态包括：FDA局长Marty Makary辞职引发领导层真空，行业不确定性增加；BeOne Medicines的BCL-2抑制剂Beqalzi获FDA批准，挑战Venclexta在血液肿瘤领域的地位；Alkermes通过收购Avadel获得的Lumryz在嗜睡症III期试验成功，推动其睡眠障碍管线发展。此外，AstraZeneca的Imfinzi在膀胱癌III期试验中展现与Keytruda竞争的实力，而Bristol Myers与恒瑞医药达成价值152亿美元的合作，凸显中美药企合作趋势。",
+    "top_news": [
+      {
+        "index": 17,
+        "title": "FDA Commissioner Marty Makary to resign, capping turbulent tenure",
+        "importance": 5,
+        "reason": "FDA局长辞职导致领导层真空，直接影响监管决策和行业信心，是重大政策事件。",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "BeOne's Venclexta challenger Beqalzi nets FDA approval as first BCL-2 for mantle cell lymphoma",
+        "importance": 5,
+        "reason": "新药获批是重大突破，Beqalzi作为首个针对套细胞淋巴瘤的BCL-2抑制剂，有望改变治疗格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 1,
+        "title": "Alkermes’ Lumryz hits phase 3 mark in another sleep disorder, fueling momentum from $2.4B Avadel acquisition",
+        "importance": 4,
+        "reason": "Lumryz在嗜睡症III期试验成功，验证了24亿美元收购的价值，推动睡眠障碍领域管线。",
+        "category": "临床试验"
+      },
+      {
+        "index": 22,
+        "title": "Bristol Myers, Hengrui join forces in drugmaking alliance worth up to $15.2 billion",
+        "importance": 4,
+        "reason": "152亿美元的合作是大型商业动态，反映中美药企合作趋势，影响全球研发格局。",
+        "category": "商业动态"
+      },
+      {
+        "index": 7,
+        "title": "AstraZeneca scores with Imfinzi in another bladder cancer trial, rivaling Merck's Keytruda",
+        "importance": 4,
+        "reason": "Imfinzi在膀胱癌III期试验阳性结果，巩固其与Keytruda的竞争地位，影响免疫治疗市场。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "BeOne Medicines的BCL-2抑制剂Beqalzi获FDA批准，挑战Venclexta；Biogen的tau靶向阿尔茨海默病药物II期试验未达主要终点，但显示疗效信号；Encoded Therapeutics的基因疗法在Dravet综合征中显著减少癫痫发作。",
+      "临床试验": "Alkermes的Lumryz在嗜睡症III期试验成功；AstraZeneca的Imfinzi在膀胱癌III期试验中展现积极结果；Novo Nordisk的口服semaglutide在III期试验中实现显著减重；Regenxbio的杜氏肌营养不良基因疗法达到关键试验终点，计划2027年申请FDA批准。"
+    },
+    "tomorrow_watch": "关注FDA领导层变动后续，尤其是Richard Pazdur是否被提名为新局长；Beqalzi获批后市场反应及对Venclexta的竞争影响；Bristol Myers与恒瑞医药合作的具体条款和管线进展；以及Regenxbio基因疗法安全性数据的进一步解读。"
+  }
+}
