@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T05:25:22.825147",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260516/daily.md",
+    "html": "docs/20260516/index.html",
+    "directory": "docs/20260516"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，FDA批准了多项新药和适应症，包括Enhertu用于HER2阳性早期乳腺癌、首个Simponi可互换生物类似药，以及Tecentriq联合ctDNA检测用于膀胱癌辅助治疗。同时，FDA领导层动荡加剧，CDER负责人Høeg离职，行业对监管不确定性表示担忧。此外，Takeda宣布裁员4500人，BMS与恒瑞达成150亿美元合作，显示行业整合与成本削减趋势。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA approves two separate indications for fam-trastuzumab deruxtecan-nxki in HER2-positive early-stage breast cancer",
+        "importance": 5,
+        "reason": "Enhertu获批两项早期乳腺癌适应症，是HER2靶向治疗的重大扩展，影响广泛患者群体。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "FDA approves first interchangeable biosimilars to Simponi and Simponi Aria (golimumab) to treat rheumatoid arthritis and ulcerative colitis",
+        "importance": 5,
+        "reason": "首个可互换生物类似药获批，将显著降低自身免疫疾病治疗成本，推动生物类似药市场发展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Roche's ctDNA-guided approach in post-surgical bladder cancer pays off with Tecentriq nod",
+        "importance": 5,
+        "reason": "Tecentriq联合ctDNA检测获批用于膀胱癌辅助治疗，开创精准医疗新范式，具有里程碑意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "CDER chief Høeg fired from FDA as other top roles turn over",
+        "importance": 4,
+        "reason": "FDA高层持续动荡，CDER负责人离职加剧监管不确定性，影响行业信心和审批流程。",
+        "category": "政策法规"
+      },
+      {
+        "index": 5,
+        "title": "Fierce Pharma Asia—BMS-Hengrui's $15B deal; Takeda’s 4.5K layoffs; Daiichi’s oncology ambition",
+        "importance": 5,
+        "reason": "BMS与恒瑞150亿美元合作是近年最大交易之一，Takeda大规模裁员显示行业重组趋势。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "BeOne的BCL-2抑制剂Beqalzi获批用于套细胞淋巴瘤，挑战Venclexta；BridgeBio关注ATTR-CM对女性的影响；Merck KGaA强调通过并购充实早期管线。",
+      "临床试验": "Novo Nordisk口服semaglutide在3期试验中显著减重；Biogen抗tau阿尔茨海默病药物2期未达主要终点但显示疗效信号；Encoded基因疗法在Dravet综合征中减少癫痫发作76%。"
+    },
+    "tomorrow_watch": "关注FDA领导层变动后续，特别是Pazdur是否被提名为新局长；BMS-恒瑞合作细节及Takeda裁员对行业影响；Enhertu新适应症的市场反应及ctDNA检测在膀胱癌中的推广进展。"
+  }
+}
