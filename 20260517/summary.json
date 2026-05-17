@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T05:47:06.004087",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260517/daily.md",
+    "html": "docs/20260517/index.html",
+    "directory": "docs/20260517"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，FDA批准了多款新药及适应症，包括Enhertu用于HER2阳性早期乳腺癌、Tecentriq用于肌层浸润性膀胱癌的辅助治疗，以及首个Simponi可互换生物类似药。同时，FDA高层人事变动引发行业关注，Marty Makary辞职后CDER负责人Tracy Beth Høeg也面临离职，领导层空缺带来政策不确定性。此外，Takeda宣布裁员4500人、BMS与恒瑞达成150亿美元合作等商业动态也备受瞩目。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA approves two separate indications for fam-trastuzumab deruxtecan-nxki in HER2-positive early-stage breast cancer",
+        "importance": 5,
+        "reason": "Enhertu获批用于HER2阳性早期乳腺癌两个新适应症，是重磅药物的重要扩展，影响广泛。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "FDA approves first interchangeable biosimilars to Simponi and Simponi Aria (golimumab) to treat rheumatoid arthritis and ulcerative colitis",
+        "importance": 5,
+        "reason": "首个Simponi可互换生物类似药获批，将显著降低治疗成本，对风湿和消化疾病领域影响深远。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "After Makary departure, CDER chief Tracy Beth Høeg likely headed out at FDA: report",
+        "importance": 5,
+        "reason": "FDA高层连续离职，领导层真空可能影响监管决策和行业信心，是重大政策事件。",
+        "category": "政策法规"
+      },
+      {
+        "index": 4,
+        "title": "Fierce Pharma Asia—BMS-Hengrui's $15B deal; Takeda’s 4.5K layoffs; Daiichi’s oncology ambition",
+        "importance": 5,
+        "reason": "BMS与恒瑞150亿美元合作是近年最大交易之一，Takeda大规模裁员标志行业重组趋势。",
+        "category": "商业动态"
+      },
+      {
+        "index": 5,
+        "title": "Roche's ctDNA-guided approach in post-surgical bladder cancer pays off with Tecentriq nod",
+        "importance": 4,
+        "reason": "Tecentriq联合ctDNA检测获批用于膀胱癌辅助治疗，标志着精准医疗在术后管理中的突破。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "BeOne的BCL-2抑制剂Beqalzi获批用于套细胞淋巴瘤，挑战Venclexta；Regenxbio计划提交Duchenne基因疗法上市申请；Candel公布前列腺癌药物长期数据。",
+      "临床试验": "Novo Nordisk口服司美格鲁肽III期减重数据积极；AstraZeneca的Imfinzi在膀胱癌III期试验中与Keytruda竞争；Encoded基因疗法在Dravet综合征中减少76%癫痫发作。"
+    },
+    "tomorrow_watch": "关注FDA领导层变动后续，尤其是新任专员人选及CDER负责人最终去向；BMS-恒瑞合作细节披露及Takeda裁员执行进展；Enhertu新适应症市场反应及生物类似药Immgolis的定价策略。"
+  }
+}
