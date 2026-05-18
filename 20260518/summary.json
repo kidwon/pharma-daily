@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T06:11:35.821378",
+  "theme": "minimal",
+  "total_items": 105,
+  "files": {
+    "markdown": "docs/20260518/daily.md",
+    "html": "docs/20260518/index.html",
+    "directory": "docs/20260518"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，FDA批准了多项新药和适应症，包括Enhertu用于HER2阳性早期乳腺癌、首个Simponi生物类似药以及BCL-2抑制剂Beqalzi。同时，FDA领导层动荡加剧，继Makary辞职后CDER负责人Høeg也被解职，引发行业不确定性。此外，Takeda宣布裁员4500人，BMS与恒瑞达成150亿美元合作，显示行业整合与重组趋势。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA approves two separate indications for fam-trastuzumab deruxtecan-nxki in HER2-positive early-stage breast cancer",
+        "importance": 5,
+        "reason": "Enhertu获批两项新适应症，是HER2阳性早期乳腺癌治疗的重要进展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "BeOne's Venclexta challenger Beqalzi nets FDA approval as first BCL-2 for mantle cell lymphoma",
+        "importance": 5,
+        "reason": "首个针对套细胞淋巴瘤的BCL-2抑制剂获批，有望挑战市场领导者Venclexta。",
+        "category": "监管审批"
+      },
+      {
+        "index": 14,
+        "title": "Fierce Pharma Asia—BMS-Hengrui's $15B deal; Takeda’s 4.5K layoffs; Daiichi’s oncology ambition",
+        "importance": 5,
+        "reason": "BMS与恒瑞达成150亿美元合作，是近期最大交易之一，Takeda裁员4500人显示行业重组。",
+        "category": "商业动态"
+      },
+      {
+        "index": 26,
+        "title": "CDER chief Høeg fired from FDA as other top roles turn over",
+        "importance": 5,
+        "reason": "FDA药物评估中心主任被解职，加剧领导层真空，影响监管稳定性和行业信心。",
+        "category": "政策法规"
+      },
+      {
+        "index": 3,
+        "title": "Roche's ctDNA-guided approach in post-surgical bladder cancer pays off with Tecentriq nod",
+        "importance": 4,
+        "reason": "Tecentriq联合ctDNA指导的精准治疗获批，代表个性化医疗在膀胱癌领域的突破。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "多项新药获批，包括Enhertu用于早期乳腺癌、Beqalzi用于套细胞淋巴瘤，以及Tecentriq联合ctDNA指导的膀胱癌治疗。此外，口服司美格鲁肽在III期试验中显示显著减重效果。",
+      "临床试验": "AstraZeneca的Imfinzi在膀胱癌III期试验中取得阳性结果，挑战Keytruda；Candel Therapeutics的前列腺癌药物公布长期数据；Encoded Therapeutics的基因疗法在Dravet综合征中减少76%癫痫发作。"
+    },
+    "tomorrow_watch": "关注FDA领导层变动后续，尤其是Pazdur是否接受专员提名；Takeda裁员和BMS-恒瑞合作对行业格局的影响；以及Aardvark的Prader-Willi药物临床暂停后是否调整开发计划。"
+  }
+}
