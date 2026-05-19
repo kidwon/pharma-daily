@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T06:05:35.383035",
+  "theme": "minimal",
+  "total_items": 100,
+  "files": {
+    "markdown": "docs/20260519/daily.md",
+    "html": "docs/20260519/index.html",
+    "directory": "docs/20260519"
+  },
+  "analysis": {
+    "overview": "今日制药行业迎来多项重大监管审批，包括阿斯利康的baxdrostat（Baxfendy）获批治疗高血压、Enhertu获批用于早期乳腺癌，以及罗氏Tecentriq联合ctDNA检测获批用于膀胱癌。同时，FDA高层持续动荡，CDER和CBER负责人相继离职，引发行业关注。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "AstraZeneca notches key FDA nod in hypertension, with an approval sweetener for Fasenra too",
+        "importance": 5,
+        "reason": "阿斯利康baxdrostat获批是高血压领域近几十年的新机制药物，预计年销售额超50亿美元，具有重大商业和临床意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Daiichi, AstraZeneca’s Enhertu breaks into early breast cancer with dual FDA approvals",
+        "importance": 5,
+        "reason": "Enhertu获批早期乳腺癌适应症，将已超50亿美元年销售额的超级重磅炸弹推向更大市场，但辅助治疗标签受限。",
+        "category": "监管审批"
+      },
+      {
+        "index": 6,
+        "title": "Roche's ctDNA-guided approach in post-surgical bladder cancer pays off with Tecentriq nod",
+        "importance": 4,
+        "reason": "FDA批准Tecentriq联合Natera Signatera ctDNA检测用于膀胱癌术后治疗，标志着精准医疗在肿瘤辅助治疗中的重要进展。",
+        "category": "监管审批"
+      },
+      {
+        "index": 19,
+        "title": "UPDATED: After Makary departure, acting CDER chief Høeg and CBER's Szarama exit top FDA posts",
+        "importance": 5,
+        "reason": "FDA高层持续动荡，CDER和CBER负责人相继离职，可能影响未来药品审评效率和监管方向。",
+        "category": "政策法规"
+      },
+      {
+        "index": 8,
+        "title": "Merck ADC, licensed from China, hits mark in first big global trial",
+        "importance": 4,
+        "reason": "默沙东从科伦博泰引进的ADC在首个全球III期试验中成功，对默沙东实现700亿美元销售目标至关重要。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "阿斯利康的baxdrostat（Baxfendy）作为新型醛固酮合酶抑制剂获批，为高血压治疗提供新机制；Enhertu扩展至早期乳腺癌，进一步巩固其ADC领导地位。",
+      "临床试验": "默沙东的ADC sac-TMT在子宫内膜癌III期试验中取得阳性结果，是首个全球III期胜利；Regeneron的LAG-3抑制剂fianlimab在黑色素瘤III期试验中未达主要终点，LAG-3靶点再遭挫折。"
+    },
+    "tomorrow_watch": "关注FDA高层变动后对后续审批节奏的影响，以及Regeneron是否调整其LAG-3项目策略。"
+  }
+}
