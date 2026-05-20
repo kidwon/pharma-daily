@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T06:05:43.391024",
+  "theme": "minimal",
+  "total_items": 99,
+  "files": {
+    "markdown": "docs/20260520/daily.md",
+    "html": "docs/20260520/index.html",
+    "directory": "docs/20260520"
+  },
+  "analysis": {
+    "overview": "今日制药行业迎来多项重大进展，阿斯利康的高血压新药Baxdrostat（Baxfendy）获FDA批准，成为首个获批的醛固酮合酶抑制剂，有望成为重磅炸弹；同时，其ADC药物Enhertu在早期乳腺癌获两项新批准，进一步巩固其市场地位。此外，默沙东的ADC药物sac-TMT在首个全球III期试验中取得阳性结果，为该公司2030年营收目标注入强心剂。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "AstraZeneca notches key FDA nod in hypertension, with an approval sweetener for Fasenra too",
+        "importance": 5,
+        "reason": "首个获批的醛固酮合酶抑制剂，有望成为数十亿美元的重磅炸弹，对高血压治疗格局产生重大影响。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Daiichi, AstraZeneca’s Enhertu breaks into early breast cancer with dual FDA approvals",
+        "importance": 5,
+        "reason": "Enhertu在早期乳腺癌获批，扩展其适应症至更早期患者，年销售额已超50亿美元，市场潜力巨大。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Merck ADC, licensed from China, hits mark in first big global trial",
+        "importance": 5,
+        "reason": "默沙东ADC药物sac-TMT在首个全球III期试验成功，为其2030年700亿美元营收目标提供关键支持。",
+        "category": "临床试验"
+      },
+      {
+        "index": 15,
+        "title": "Novo Nordisk data shows oral semaglutide delivers significant weight loss in phase 3 trial",
+        "importance": 4,
+        "reason": "口服司美格鲁肽在III期试验中显示显著减重效果，有望扩大其在肥胖症市场的应用。",
+        "category": "临床试验"
+      },
+      {
+        "index": 20,
+        "title": "Høeg fired in latest FDA shakeup; 20 people die after taking Amgen drug",
+        "importance": 4,
+        "reason": "FDA高层动荡及Amgen药物安全事件引发行业关注，可能影响监管政策和药物安全审查。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "Relay Therapeutics的PI3Kα抑制剂在罕见血管疾病II期研究中达到疗效标准，拓展了该药物的研发前景；UCB的bimekizumab在银屑病关节炎中显示头对头优越性。",
+      "临床试验": "默沙东ADC药物sac-TMT在子宫内膜癌全球III期试验中取得阳性结果；诺和诺德口服司美格鲁肽在III期减重试验中表现显著；BioMarin的罕见病酶替代疗法在III期试验中未显示临床获益。"
+    },
+    "tomorrow_watch": "关注FDA高层变动（Makary辞职、Høeg被解雇）对后续审批流程的影响；Regeneron的LAG-3抑制剂fianlimab在黑色素瘤III期失败后，其后续研发策略调整；以及Amgen药物Tavneos在日本肝毒性报告后的监管动态。"
+  }
+}
