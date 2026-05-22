@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T06:04:39.039924",
+  "theme": "minimal",
+  "total_items": 104,
+  "files": {
+    "markdown": "docs/20260522/daily.md",
+    "html": "docs/20260522/index.html",
+    "directory": "docs/20260522"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态丰富，阿斯利康在高血压领域获得FDA批准，同时其ADC药物Enhertu在早期乳腺癌治疗中取得双批准，展现了强劲的研发实力。此外，中国药企在ASCO 2026上的表现备受关注，而FDA领导层变动和特朗普政府扩大药品采购平台等政策动态也引发行业热议。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "AstraZeneca notches key FDA nod in hypertension, with an approval sweetener for Fasenra too",
+        "importance": 5,
+        "reason": "阿斯利康的高血压新药baxdrostat获得FDA批准，这是first-in-class药物，具有重大临床和市场意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Daiichi, AstraZeneca’s Enhertu breaks into early breast cancer with dual FDA approvals",
+        "importance": 5,
+        "reason": "Enhertu获得两项早期乳腺癌FDA批准，进一步扩大其适应症范围，有望推动销售额大幅增长。",
+        "category": "监管审批"
+      },
+      {
+        "index": 7,
+        "title": "China’s drugmakers to take the stage at #ASCO26",
+        "importance": 4,
+        "reason": "中国药企在ASCO 2026上展示关键数据，标志着中国生物技术公司全球影响力的提升。",
+        "category": "新药研发"
+      },
+      {
+        "index": 10,
+        "title": "ASCO: Merck, Kelun's sac-TMT ADC combo beats Keytruda by 65% on progression in first-line lung cancer",
+        "importance": 5,
+        "reason": "Merck与科伦的ADC联合疗法在一线肺癌中显著优于Keytruda，可能改变治疗标准。",
+        "category": "临床试验"
+      },
+      {
+        "index": 30,
+        "title": "STAT+: Supreme Court rejects challenge to Medicare drug price negotiation",
+        "importance": 5,
+        "reason": "最高法院驳回对Medicare药品价格谈判的挑战，对制药行业定价策略产生深远影响。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "中国药企在ASCO 2026上展示多项重要数据，如Akeso的HARMONi-6试验；Incyte与AI公司合作推动药物发现；Parabilis计划IPO以开发'不可成药'靶点。",
+      "临床试验": "UCB的bimekizumab在银屑病关节炎中显示头对头优越性；Merck与科伦的ADC联合疗法在一线肺癌中显著优于Keytruda；Immunovant的关节炎试验数据推动股价上涨。"
+    },
+    "tomorrow_watch": "关注ASCO 2026上中国药企的详细数据发布，以及FDA领导层变动对审批流程的潜在影响。"
+  }
+}
