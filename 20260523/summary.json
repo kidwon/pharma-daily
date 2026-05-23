@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T05:38:15.953572",
+  "theme": "minimal",
+  "total_items": 102,
+  "files": {
+    "markdown": "docs/20260523/daily.md",
+    "html": "docs/20260523/index.html",
+    "directory": "docs/20260523"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，阿斯利康与第一三共的TROP2 ADC药物Datroway获FDA批准用于一线三阴性乳腺癌，成为该领域的首个获批疗法，同时欧洲CHMP对阿斯利康另一款乳腺癌药物给予积极意见，与FDA咨询委员会的负面意见形成对比。此外，默克与科伦博泰的sac-TMT ADC在ASCO 2026前公布一线肺癌数据，显著优于Keytruda，中国药企在ASCO上的表现备受关注。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA grants Daiichi Sankyo and AstraZeneca’s Datroway a key breast cancer approval",
+        "importance": 5,
+        "reason": "Datroway获批一线三阴性乳腺癌，是TROP2 ADC在该适应症的首个FDA批准，具有重大临床和商业意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "AstraZeneca, Daiichi beat Gilead to first-line TNBC with FDA nod for Datroway",
+        "importance": 5,
+        "reason": "Datroway在TROP2 ADC三药竞争中率先获批，改变了TNBC一线治疗格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 13,
+        "title": "ASCO: Merck, Kelun's sac-TMT ADC combo beats Keytruda by 65% on progression in first-line lung cancer",
+        "importance": 5,
+        "reason": "sac-TMT联合Keytruda在一线肺癌中降低65%疾病进展风险，数据极具突破性，可能重塑肺癌治疗标准。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "Europe's CHMP gives thumbs up to AZ's breast cancer drug after thumbs down from FDA adcomm",
+        "importance": 4,
+        "reason": "欧洲CHMP对阿斯利康乳腺癌药物给予积极意见，与FDA咨询委员会意见分歧，凸显跨区域监管差异。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "China’s drugmakers to take the stage at #ASCO26",
+        "importance": 4,
+        "reason": "中国药企在ASCO 2026上展示关键数据，标志中国创新药全球影响力提升。",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "中国药企如Akeso将在ASCO 2026展示关键数据，默克与科伦博泰的sac-TMT ADC在肺癌中表现优异，Novartis探索Avidity技术超越肌营养不良症的应用。",
+      "临床试验": "UCB的bimekizumab在银屑病关节炎中显示头对头优势，KOALA试验启动首个靶向KMA的CAR-T疗法在多发性骨髓瘤中的I期研究。",
+      "监管审批": "FDA批准Datroway用于TNBC和Gilead的Hepcludex用于丁型肝炎，欧洲CHMP支持阿斯利康乳腺癌药物，FDA还批准了阿斯利康的Baxfendy用于高血压。",
+      "商业动态": "RA Capital设立7500万美元生物技术SPAC，Parabilis计划IPO以追求‘不可成药’靶点，Incyte签署AI合作协议。",
+      "市场分析": "大型药企Q1销售增长，Lilly、AbbVie等实现两位数增长，Novo Nordisk表现落后。",
+      "政策法规": "美国最高法院驳回对医保药品价格谈判的挑战，FDA领导层变动引发混乱，药企加强知识产权保护以应对中国竞争。"
+    },
+    "tomorrow_watch": "关注ASCO 2026即将公布的更多关键数据，特别是Akeso的HARMONi-6试验结果；以及Datroway获批后对Gilead和默克TROP2 ADC管线的影响。"
+  }
+}
