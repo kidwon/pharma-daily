@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T06:00:10.953364",
+  "theme": "minimal",
+  "total_items": 102,
+  "files": {
+    "markdown": "docs/20260524/daily.md",
+    "html": "docs/20260524/index.html",
+    "directory": "docs/20260524"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，阿斯利康与第一三共的TROP2 ADC药物Datroway获FDA批准用于一线三阴性乳腺癌，成为该领域首个获批药物，同时欧洲CHMP对阿斯利康另一乳腺癌药物给予积极意见，与FDA咨询委员会意见相左。此外，默沙东与科伦博泰的TROP2 ADC联合Keytruda在肺癌中显示显著疗效，中国药企在ASCO大会前夕备受关注。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA grants Daiichi Sankyo and AstraZeneca’s Datroway a key breast cancer approval",
+        "importance": 5,
+        "reason": "Datroway获批一线三阴性乳腺癌，是TROP2 ADC在该适应症的首个批准，具有里程碑意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "AstraZeneca, Daiichi beat Gilead to first-line TNBC with FDA nod for Datroway",
+        "importance": 5,
+        "reason": "强调Datroway在TROP2 ADC三线竞争中率先获批，对市场格局影响重大。",
+        "category": "监管审批"
+      },
+      {
+        "index": 12,
+        "title": "ASCO: Merck, Kelun's sac-TMT ADC combo beats Keytruda by 65% on progression in first-line lung cancer",
+        "importance": 5,
+        "reason": "sac-TMT联合Keytruda在一线肺癌中降低65%疾病进展风险，数据极具突破性。",
+        "category": "临床试验"
+      },
+      {
+        "index": 2,
+        "title": "Europe's CHMP gives thumbs up to AZ's breast cancer drug after thumbs down from FDA adcomm",
+        "importance": 4,
+        "reason": "欧洲CHMP对阿斯利康乳腺癌药物给予积极意见，与FDA咨询委员会意见分歧，凸显监管差异。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "China’s drugmakers to take the stage at #ASCO26",
+        "importance": 4,
+        "reason": "中国药企在ASCO大会前夕备受关注，反映中国创新药全球影响力上升。",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "中国药企在ASCO大会前夕表现活跃，Akeso等公司备受关注；诺华探索Avidity科学在肌营养不良症以外的应用。",
+      "临床试验": "默沙东与科伦博泰的sac-TMT ADC联合Keytruda在一线肺癌中显示65%的疾病进展风险降低，数据亮眼；UCB的bimekizumab在银屑病关节炎中显示头对头优势。",
+      "监管审批": "FDA批准Datroway用于一线三阴性乳腺癌，同时批准Gilead的Hepcludex治疗丁型肝炎；欧洲CHMP对阿斯利康乳腺癌药物给予积极意见，与FDA意见相左。",
+      "商业动态": "RA Capital设立7500万美元生物科技SPAC；Parabilis融资8亿美元后寻求IPO；Incyte签署AI合作协议。",
+      "市场分析": "大型药企Q1销售增长，礼来、艾伯维、强生、阿斯利康领跑；生物科技IPO平均融资额超2.86亿美元。",
+      "政策法规": "美国最高法院驳回对医保药品价格谈判的挑战；FDA发布新指南文件及BsUFA IV计划。"
+    },
+    "tomorrow_watch": "关注ASCO 2026年会即将公布的更多关键数据，特别是Akeso的HARMONi-6试验结果；同时留意FDA对阿斯利康乳腺癌药物Etcamah的最终决定及市场反应。"
+  }
+}
