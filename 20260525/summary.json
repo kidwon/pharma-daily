@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T06:25:34.313268",
+  "theme": "minimal",
+  "total_items": 78,
+  "files": {
+    "markdown": "docs/20260525/daily.md",
+    "html": "docs/20260525/index.html",
+    "directory": "docs/20260525"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，阿斯利康在乳腺癌和高血压领域获得关键监管进展，同时与第一三共的TROP2 ADC在TNBC一线治疗中率先获FDA批准，标志着ADC竞争格局的重大变化。此外，默沙东与科伦博泰的sac-TMT ADC在肺癌中展现出显著疗效，进一步巩固了ADC在肿瘤治疗中的核心地位。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Europe's CHMP gives thumbs up to AZ's breast cancer drug after thumbs down from FDA adcomm",
+        "importance": 5,
+        "reason": "EMA对阿斯利康乳腺癌新药的积极意见与FDA的负面意见形成鲜明对比，凸显监管分歧，对药物全球市场前景影响重大。",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "AstraZeneca, Daiichi beat Gilead to first-line TNBC with FDA nod for Datroway",
+        "importance": 5,
+        "reason": "Datroway成为首个获批用于一线三阴性乳腺癌的TROP2 ADC，标志着ADC领域重大突破，并重塑市场竞争格局。",
+        "category": "新药研发"
+      },
+      {
+        "index": 9,
+        "title": "ASCO: Merck, Kelun's sac-TMT ADC combo beats Keytruda by 65% on progression in first-line lung cancer",
+        "importance": 5,
+        "reason": "sac-TMT联合Keytruda在一线肺癌中降低65%疾病进展风险，数据极为亮眼，有望改变标准治疗。",
+        "category": "临床试验"
+      },
+      {
+        "index": 6,
+        "title": "AstraZeneca wins US approval for first-in-class Baxfendy in hypertension",
+        "importance": 4,
+        "reason": "Baxfendy作为first-in-class高血压新药获批，为高血压治疗提供新机制选择，具有重要临床意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 19,
+        "title": "STAT+: Supreme Court rejects challenge to Medicare drug price negotiation",
+        "importance": 5,
+        "reason": "最高法院驳回对Medicare药品价格谈判的挑战，对制药行业定价策略和商业模式产生深远影响。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "ADC领域竞争白热化，阿斯利康/第一三共的Datroway率先获批一线TNBC，默沙东/科伦博泰的sac-TMT在肺癌中展现惊人疗效，TROP2靶点成为焦点。",
+      "临床试验": "UCB的bimekizumab在银屑病关节炎中显示头对头优越性；BioMarin的Voxzogo在矮小症中获阳性III期结果，支持标签扩展。"
+    },
+    "tomorrow_watch": "关注ASCO 2026年会更多关键数据披露，特别是sac-TMT的详细结果；以及最高法院裁决后制药公司对Medicare谈判的后续法律行动和市场反应。"
+  }
+}
