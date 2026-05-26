@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T06:04:52.031091",
+  "theme": "minimal",
+  "total_items": 72,
+  "files": {
+    "markdown": "docs/20260526/daily.md",
+    "html": "docs/20260526/index.html",
+    "directory": "docs/20260526"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，阿斯利康在乳腺癌领域取得重大进展，其TROP2 ADC药物Datroway获FDA批准用于一线三阴性乳腺癌，同时欧洲CHMP对其另一款乳腺癌新药给予积极意见。此外，默沙东与科伦博泰的TROP2 ADC联合Keytruda在肺癌一线治疗中展现显著疗效，成为ASCO 2026的亮点。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "AstraZeneca, Daiichi beat Gilead to first-line TNBC with FDA nod for Datroway",
+        "importance": 5,
+        "reason": "FDA批准首个用于一线三阴性乳腺癌的TROP2 ADC，具有里程碑意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 1,
+        "title": "Europe's CHMP gives thumbs up to AZ's breast cancer drug after thumbs down from FDA adcomm",
+        "importance": 5,
+        "reason": "欧洲CHMP对阿斯利康乳腺癌新药给予积极意见，与FDA咨询委员会意见相左，凸显监管分歧。",
+        "category": "监管审批"
+      },
+      {
+        "index": 9,
+        "title": "ASCO: Merck, Kelun's sac-TMT ADC combo beats Keytruda by 65% on progression in first-line lung cancer",
+        "importance": 5,
+        "reason": "默沙东与科伦博泰的TROP2 ADC联合Keytruda在肺癌一线治疗中显著降低疾病进展风险65%，数据亮眼。",
+        "category": "临床试验"
+      },
+      {
+        "index": 6,
+        "title": "AstraZeneca wins US approval for first‑in‑class Baxfendy in hypertension",
+        "importance": 4,
+        "reason": "FDA批准首创新药Baxfendy用于高血压，为患者提供新治疗选择。",
+        "category": "监管审批"
+      },
+      {
+        "index": 11,
+        "title": "Lilly, AbbVie, J&J, AZ lead an uptick in Big Pharma Q1 growth, with Novo again bringing up the rear",
+        "importance": 4,
+        "reason": "大型药企Q1销售增长趋势明显，反映行业整体回暖。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "阿斯利康的Baxfendy（高血压）和Datroway（乳腺癌）获批，默沙东与科伦博泰的TROP2 ADC在肺癌中展现潜力，BioMarin的Voxzogo有望扩大适应症。",
+      "临床试验": "UCB的bimekizumab在银屑病关节炎中显示头对头优势，Parabilis针对‘不可成药’靶点的药物推进至IPO阶段，Immunovant关节炎数据推动股价上涨。"
+    },
+    "tomorrow_watch": "关注ASCO 2026年会公布的更多临床数据，特别是默沙东与科伦博泰的TROP2 ADC详细结果，以及FDA对阿斯利康乳腺癌新药Etcamah的最终决定。"
+  }
+}
