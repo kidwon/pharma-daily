@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T06:18:27.369655",
+  "theme": "minimal",
+  "total_items": 72,
+  "files": {
+    "markdown": "docs/20260527/daily.md",
+    "html": "docs/20260527/index.html",
+    "directory": "docs/20260527"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，阿斯利康/第一三共的TROP2 ADC Datroway获FDA批准用于一线三阴性乳腺癌，成为该领域首个获批药物；同时，欧洲CHMP对阿斯利康的乳腺癌新药给予积极意见，与FDA咨询委员会的否定形成对比。礼来以近40亿美元收购三家疫苗公司，大举进军传染病领域，而FDA则对未获批的GLP-1减肥药发出警告。",
+    "top_news": [
+      {
+        "index": 3,
+        "title": "AstraZeneca, Daiichi beat Gilead to first-line TNBC with FDA nod for Datroway",
+        "importance": 5,
+        "reason": "Datroway获批一线三阴性乳腺癌，是TROP2 ADC在该适应症的首个批准，具有里程碑意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "Lilly dives into vaccine research with 3 biotech buyouts",
+        "importance": 5,
+        "reason": "礼来近40亿美元收购三家疫苗公司，标志着其大举进入传染病疫苗领域，战略意义重大。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "Europe's CHMP gives thumbs up to AZ's breast cancer drug after thumbs down from FDA adcomm",
+        "importance": 4,
+        "reason": "欧洲CHMP对阿斯利康乳腺癌新药给予积极意见，与FDA的否定形成关键分歧，影响全球监管策略。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "FDA’s Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+        "importance": 4,
+        "reason": "FDA对未获批GLP-1减肥药发出警告，涉及公共健康安全，可能影响市场格局。",
+        "category": "政策法规"
+      },
+      {
+        "index": 11,
+        "title": "ASCO: Merck, Kelun's sac-TMT ADC combo beats Keytruda by 65% on progression in first-line lung cancer",
+        "importance": 4,
+        "reason": "默沙东/科伦博泰的ADC联合Keytruda在一线肺癌中降低65%进展风险，数据亮眼，有望改变治疗标准。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "礼来通过收购三家疫苗公司（Curevo、LimmaTech、Vaccine Co.）构建传染病管线，同时其基因编辑疗法在胆固醇降低方面取得积极早期数据。",
+      "临床试验": "默沙东/科伦博泰的sac-TMT ADC联合Keytruda在一线肺癌中显示65%的进展风险降低；BioMarin的Voxzogo在III期试验中取得超预期结果，支持适应症扩展。",
+      "监管审批": "FDA批准Datroway用于一线三阴性乳腺癌，批准Gilead的Hepcludex用于丁型肝炎；欧洲CHMP对阿斯利康乳腺癌新药给予积极意见，但FDA咨询委员会此前持否定态度。",
+      "商业动态": "礼来以近40亿美元收购三家疫苗公司；Lantheus可能被Curium以70亿美元收购；RA Capital设立7500万美元生物科技SPAC。",
+      "市场分析": "大型药企Q1销售增长，8家Top 25公司实现两位数增长，Novo Nordisk表现垫底。",
+      "政策法规": "FDA对未获批GLP-1减肥药发出警告，并更新苯二氮卓类药物的黑框警告，强调滥用和依赖风险。"
+    },
+    "tomorrow_watch": "关注ASCO 2026年会即将公布的更多关键临床试验数据，特别是默沙东/科伦博泰ADC的详细结果；以及礼来疫苗收购交易的后续整合进展。"
+  }
+}
