@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T06:09:28.795649",
+  "theme": "minimal",
+  "total_items": 69,
+  "files": {
+    "markdown": "docs/20260528/daily.md",
+    "html": "docs/20260528/index.html",
+    "directory": "docs/20260528"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，AstraZeneca与Daiichi Sankyo的TROP2 ADC药物Datroway获FDA批准用于一线三阴性乳腺癌，成为该领域首个获批药物，标志着乳腺癌治疗格局的重大变化。同时，FDA对AstraZeneca的乳腺癌口服药camizestrant做出延迟审批决定，而欧洲CHMP则对其另一款新药给予积极意见，显示监管路径的分歧。此外，礼来以近40亿美元收购三家生物技术公司进军疫苗领域，以及Lantheus可能被Curium以70亿美元收购，凸显行业并购活跃。",
+    "top_news": [
+      {
+        "index": 3,
+        "title": "AstraZeneca, Daiichi beat Gilead to first-line TNBC with FDA nod for Datroway",
+        "importance": 5,
+        "reason": "FDA批准Datroway用于一线三阴性乳腺癌，是TROP2 ADC在该适应症的首个获批药物，具有里程碑意义。",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "Lilly dives into vaccine research with 3 biotech buyouts",
+        "importance": 5,
+        "reason": "礼来以近40亿美元收购三家疫苗公司，标志着其大举进军传染病疫苗领域，战略意义重大。",
+        "category": "商业动态"
+      },
+      {
+        "index": 16,
+        "title": "Radiopharmaceutical outfit Lantheus mulls potential $7B takeover by Curium: Bloomberg",
+        "importance": 5,
+        "reason": "潜在70亿美元收购交易将重塑放射制药行业格局，规模巨大。",
+        "category": "商业动态"
+      },
+      {
+        "index": 2,
+        "title": "Europe's CHMP gives thumbs up to AZ's breast cancer drug after thumbs down from FDA adcomm",
+        "importance": 4,
+        "reason": "欧洲CHMP对AstraZeneca乳腺癌新药给予积极意见，与FDA咨询委员会否定意见形成对比，凸显监管分歧。",
+        "category": "监管审批"
+      },
+      {
+        "index": 10,
+        "title": "Early data for heart drug affirm Lilly’s billion-dollar bet on Verve",
+        "importance": 4,
+        "reason": "礼来基因编辑疗法早期数据降低胆固醇62%，验证其10亿美元收购Verve的决策，为心血管疾病治疗带来新希望。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "多个新药取得进展，包括AstraZeneca/Daiichi的Datroway获批、礼来基因编辑疗法早期数据积极、Apogee湿疹药物获Blackstone支持进入III期。",
+      "临床试验": "Akeso的ivonescimab将在ASCO公布关键数据，Merck与Kelun的sac-TMT三项III期试验阳性，Viridian眼药与药明生物达成供应协议。"
+    },
+    "tomorrow_watch": "关注AstraZeneca camizestrant的FDA延迟审批后续进展，以及ASCO会议上Akeso ivonescimab数据的详细解读。同时，Lantheus与Curium的收购谈判是否正式宣布值得留意。"
+  }
+}
