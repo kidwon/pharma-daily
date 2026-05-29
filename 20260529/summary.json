@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T06:11:35.352608",
+  "theme": "minimal",
+  "total_items": 70,
+  "files": {
+    "markdown": "docs/20260529/daily.md",
+    "html": "docs/20260529/index.html",
+    "directory": "docs/20260529"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，FDA批准了阿斯利康的Imfinzi用于膀胱癌新适应症，同时礼来通过收购三家生物技术公司大举进军疫苗领域。此外，FDA对阿斯利康的乳腺癌药物camizestrant做出延迟决定，而CVS恢复礼来肥胖药Zepbound的覆盖，凸显了市场对GLP-1类药物的持续关注。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "AstraZeneca gains 2nd bladder cancer nod in key expansion for Imfinzi",
+        "importance": 5,
+        "reason": "FDA批准Imfinzi用于膀胱癌新适应症，这是免疫治疗领域的重大进展，直接影响市场竞争格局。",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Lilly dives into vaccine research with 3 biotech buyouts",
+        "importance": 5,
+        "reason": "礼来以近40亿美元收购三家生物技术公司，标志着其战略性地进入疫苗和传染病领域，是重大商业动态。",
+        "category": "商业动态"
+      },
+      {
+        "index": 14,
+        "title": "FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote",
+        "importance": 4,
+        "reason": "FDA延迟决定对阿斯利康乳腺癌药物camizestrant的审批，影响其上市进程和患者治疗选择。",
+        "category": "监管审批"
+      },
+      {
+        "index": 9,
+        "title": "CVS restores coverage of Eli Lilly obesity med Zepbound, adds new pill Foundayo",
+        "importance": 4,
+        "reason": "CVS恢复Zepbound覆盖并新增口服药，直接影响肥胖药物市场准入和患者可及性。",
+        "category": "商业动态"
+      },
+      {
+        "index": 8,
+        "title": "Early data for heart drug affirm Lilly’s billion-dollar bet on Verve",
+        "importance": 4,
+        "reason": "礼来基因编辑疗法早期数据积极，支持其10亿美元投资，为心血管疾病治疗带来新希望。",
+        "category": "临床试验"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "礼来通过收购三家生物技术公司（Curevo、LimmaTech、Vaccine Co.）进军疫苗研发，同时其基因编辑疗法在胆固醇降低方面显示积极早期数据。Kailera的三靶点肥胖药物在早期试验中展现潜力。",
+      "临床试验": "Apogee的湿疹药物获得Blackstone支持并进入III期；Kailera的肥胖药物早期数据积极；礼来的基因编辑疗法在I期试验中降低胆固醇62%。"
+    },
+    "tomorrow_watch": "关注ASCO会议上Akeso的ivonescimab在非小细胞肺癌中的Harmoni-6结果，以及FDA对Viridian眼药的最终决定。此外，Lantheus与Curium的潜在70亿美元收购谈判进展也值得留意。"
+  }
+}
