@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T05:46:19.068723",
+  "theme": "minimal",
+  "total_items": 74,
+  "files": {
+    "markdown": "docs/20260530/daily.md",
+    "html": "docs/20260530/index.html",
+    "directory": "docs/20260530"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，ASCO年会前夕多项关键数据公布，包括BMS的多发性骨髓瘤和辉瑞的肺癌数据。监管方面，FDA对阿斯利康乳腺癌药物camizestrant的审批延迟，同时批准了艾伯维的又一ImmunoGen资产。商业动态上，辉瑞与信达生物达成百亿美元级癌症药物合作，CVS恢复礼来减肥药Zepbound的覆盖。",
+    "top_news": [
+      {
+        "index": 30,
+        "title": "Pfizer, Innovent strike $10B cancer drug deal",
+        "importance": 5,
+        "reason": "涉及百亿美元级别的跨国合作，涵盖12个抗体药物，对全球肿瘤药物格局产生重大影响。",
+        "category": "商业动态"
+      },
+      {
+        "index": 1,
+        "title": "AstraZeneca gains 2nd bladder cancer nod in key expansion for Imfinzi",
+        "importance": 5,
+        "reason": "Imfinzi获批成为膀胱癌首个免疫联合疗法，直接挑战Keytruda地位，是PD-L1领域的重大突破。",
+        "category": "监管审批"
+      },
+      {
+        "index": 11,
+        "title": "FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote",
+        "importance": 5,
+        "reason": "FDA延迟审批意味着camizestrant前景不明，对阿斯利康乳腺癌管线构成重大不确定性。",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: At ASCO, positive data for Bristol in multiple myeloma and Pfizer in lung cancer",
+        "importance": 4,
+        "reason": "ASCO年会上BMS和辉瑞公布积极数据，为多发性骨髓瘤和肺癌治疗带来新希望，影响临床实践。",
+        "category": "临床试验"
+      },
+      {
+        "index": 6,
+        "title": "CVS restores coverage of Eli Lilly obesity med Zepbound, adds new pill Foundayo",
+        "importance": 4,
+        "reason": "CVS恢复覆盖Zepbound并新增口服药，显著扩大患者可及性，对减肥药市场格局产生重要影响。",
+        "category": "市场分析"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "辉瑞与信达生物达成百亿美元合作，涉及12个抗体药物；Viridian与药明生物达成眼科药物供应协议；Lantheus可能被Curium以70亿美元收购，凸显放射性药物领域热度。",
+      "临床试验": "ASCO年会前夕，BMS多发性骨髓瘤和辉瑞肺癌数据积极；Dizal在EGFR外显子20肺癌中挑战强生；Akeso的ivonescimab将在ASCO全体会议接受审查。"
+    },
+    "tomorrow_watch": "关注ASCO年会正式开幕后更多关键数据披露，尤其是Akeso的ivonescimab和Merck的‘基石’癌症药物数据。同时，FDA对Replimune癌症药物的第三次审批决定以及FDA领导层变动对审批速度的影响值得持续跟踪。"
+  }
+}
