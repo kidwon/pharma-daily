@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T06:16:36.605112",
+  "theme": "minimal",
+  "total_items": 76,
+  "files": {
+    "markdown": "docs/20260531/daily.md",
+    "html": "docs/20260531/index.html",
+    "directory": "docs/20260531"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，ASCO年会前夕多项关键临床数据公布，包括阿斯利康Imfinzi获批膀胱癌新适应症、辉瑞Talzenna联合疗法在前列腺癌中取得III期胜利。同时，FDA监管动态复杂，既有对阿斯利康乳腺癌药物camizestrant的审批延迟，也有对Replimune和Outlook等公司被拒药物的重新考虑。此外，GLP-1产业链持续扩张，CordenPharma加码多肽CDMO产能。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "AstraZeneca gains 2nd bladder cancer nod in key expansion for Imfinzi",
+        "importance": 5,
+        "reason": "FDA批准Imfinzi用于膀胱癌新适应症，使其成为首个联合标准疗法的免疫疗法，直接挑战Keytruda市场地位。",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "ASCO: Pfizer one-ups J&J with Talzenna combo's broad castration-sensitive prostate cancer win",
+        "importance": 5,
+        "reason": "Talzenna联合Xtandi在III期试验中取得广泛前列腺癌适应症胜利，有望改变一线治疗格局。",
+        "category": "临床试验"
+      },
+      {
+        "index": 13,
+        "title": "FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote",
+        "importance": 4,
+        "reason": "FDA因咨询委员会反对而推迟camizestrant审批决定，影响阿斯利康乳腺癌管线关键资产。",
+        "category": "监管审批"
+      },
+      {
+        "index": 8,
+        "title": "CVS restores coverage of Eli Lilly obesity med Zepbound, adds new pill Foundayo",
+        "importance": 4,
+        "reason": "CVS恢复覆盖Zepbound并新增口服药Foundayo，显著扩大肥胖药物可及性，影响市场格局。",
+        "category": "商业动态"
+      },
+      {
+        "index": 11,
+        "title": "GLP-1 manufacturer CordenPharma strikes deal for peptide CDMO, lining up new production sites in US and China",
+        "importance": 4,
+        "reason": "CordenPharma收购多肽CDMO并扩建中美产能，反映GLP-1药物供应链持续扩张趋势。",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "多款药物在ASCO前夕公布积极数据，包括Dizal针对EGFR外显子20突变肺癌的小分子药物挑战J&J，以及Revolution Medicines的胰腺癌药物daraxonrasib即将提交FDA申请。",
+      "临床试验": "辉瑞Talzenna联合疗法在前列腺癌III期试验成功，Incyte的Monjuvi联合方案在弥漫大B细胞淋巴瘤一线治疗中展现优势，BMS在多发性骨髓瘤和辉瑞在肺癌领域也有积极数据。"
+    },
+    "tomorrow_watch": "关注ASCO年会正式开幕后，Akeso的ivonescimab在非小细胞肺癌一线治疗中的Harmoni-6数据公布，以及FDA对Replimune和Outlook被拒药物的最终决定。"
+  }
+}
