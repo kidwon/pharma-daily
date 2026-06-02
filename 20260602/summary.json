@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T06:40:03.647698",
+  "theme": "minimal",
+  "total_items": 76,
+  "files": {
+    "markdown": "docs/20260602/daily.md",
+    "html": "docs/20260602/index.html",
+    "directory": "docs/20260602"
+  },
+  "analysis": {
+    "overview": "今日制药行业聚焦于ASCO 2026年会上的多项关键临床数据，包括Revolution Medicines在胰腺癌领域的突破性RAS抑制剂数据、辉瑞在前列腺癌领域的积极结果，以及默沙东与Akeso在肺癌领域的竞争。此外，FDA领导层变动和监管不确定性成为行业关注焦点，同时CVS恢复礼来肥胖药Zepbound的覆盖也引发市场关注。",
+    "top_news": [
+      {
+        "index": 16,
+        "title": "‘Unprecedented’ Revolution data point to paradigm shift in pancreatic cancer",
+        "importance": 5,
+        "reason": "胰腺癌领域突破性数据，可能改变治疗范式，具有重大临床意义。",
+        "category": "临床试验"
+      },
+      {
+        "index": 4,
+        "title": "ASCO: Pfizer one-ups J&J with Talzenna combo's broad castration-sensitive prostate cancer win",
+        "importance": 5,
+        "reason": "辉瑞Talzenna组合在广泛去势敏感性前列腺癌中取得III期胜利，有望扩大适应症，影响数十亿美元市场。",
+        "category": "临床试验"
+      },
+      {
+        "index": 11,
+        "title": "ASCO: Akeso’s ivonescimab bests PD-1 inhibitor in lung cancer chemo combos, slashing death risk by 34%",
+        "importance": 5,
+        "reason": "Akeso的双特异性抗体在肺癌一线治疗中击败PD-1抑制剂，死亡风险降低34%，具有重大临床和商业潜力。",
+        "category": "临床试验"
+      },
+      {
+        "index": 12,
+        "title": "CVS restores coverage of Eli Lilly obesity med Zepbound, adds new pill Foundayo",
+        "importance": 4,
+        "reason": "CVS恢复礼来肥胖药Zepbound覆盖，影响数百万患者用药可及性，对减肥药市场格局产生重要影响。",
+        "category": "商业动态"
+      },
+      {
+        "index": 18,
+        "title": "Can a chaotic FDA still deliver on faster drug development?",
+        "importance": 4,
+        "reason": "FDA领导层变动和内部混乱引发对药物审批速度的担忧，直接影响行业监管环境和研发策略。",
+        "category": "政策法规"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "ASCO年会展示了多个新药进展，包括Revolution Medicines的RAS抑制剂在胰腺癌中的突破、Akeso的PD-1xVEGF双抗在肺癌中的优异数据，以及辉瑞Talzenna组合在前列腺癌中的成功。",
+      "临床试验": "多项关键III期数据公布：Revolution Medicines的daraxonrasib在胰腺癌中显示前所未有的疗效；辉瑞Talzenna组合扩大前列腺癌适应症；Akeso ivonescimab在肺癌中击败标准疗法。"
+    },
+    "tomorrow_watch": "关注ASCO年会后续数据发布，特别是默沙东sac-TMT的III期项目缺失环节的潜在填补，以及FDA在领导层动荡下对Revolution Medicines胰腺癌药物审批的回应。"
+  }
+}
