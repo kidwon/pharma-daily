@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T06:50:37.311893",
+  "theme": "minimal",
+  "total_items": 76,
+  "files": {
+    "markdown": "docs/20260603/daily.md",
+    "html": "docs/20260603/index.html",
+    "directory": "docs/20260603"
+  },
+  "analysis": {
+    "overview": "今日制药行业动态密集，ASCO 2026年会成为焦点，多项重磅癌症数据公布，包括辉瑞Talzenna联合疗法在前列腺癌中的III期胜利、Incyte的Monjuvi在弥漫大B细胞淋巴瘤中的积极结果，以及Revolution Medicines在胰腺癌领域的突破。同时，监管方面，FDA拒绝了Cingulate的ADHD药物申请，并批准了盐野义的COVID-19预防药物Xocova。商业动态上，Servier以27亿美元收购Edgewise Therapeutics，进军肌肉萎缩症领域。",
+    "top_news": [
+      {
+        "index": 2,
+        "title": "ASCO: Pfizer one-ups J&J with Talzenna combo's broad castration-sensitive prostate cancer win",
+        "importance": 5,
+        "reason": "辉瑞Talzenna联合Xtandi在III期试验中取得广泛去势敏感性前列腺癌胜利，有望扩大适应症，改变治疗格局。",
+        "category": "临床试验"
+      },
+      {
+        "index": 12,
+        "title": "Servier buys into muscular dystrophy with potentially $2.7B deal",
+        "importance": 5,
+        "reason": "Servier以27亿美元收购Edgewise Therapeutics，进军肌肉萎缩症领域，显示罕见病领域的高价值交易。",
+        "category": "商业动态"
+      },
+      {
+        "index": 7,
+        "title": "Shionogi's COVID antiviral Xocova passes muster with FDA as post-exposure preventative",
+        "importance": 4,
+        "reason": "盐野义COVID-19药物Xocova获FDA批准用于暴露后预防，填补了预防性治疗空白。",
+        "category": "监管审批"
+      },
+      {
+        "index": 9,
+        "title": "ASCO: Akeso’s ivonescimab bests PD-1 inhibitor in lung cancer chemo combos, slashing death risk by 34%",
+        "importance": 4,
+        "reason": "康方生物ivonescimab在肺癌化疗联合中击败PD-1抑制剂，死亡风险降低34%，显示双抗潜力。",
+        "category": "临床试验"
+      },
+      {
+        "index": 1,
+        "title": "ADHD drug delivery specialist Cingulate hit with manufacturing-related FDA rejection",
+        "importance": 4,
+        "reason": "Cingulate因生产问题遭FDA拒绝，凸显制造合规性对药物获批的关键影响。",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "新药研发": "ASCO年会推动多项新药进展，包括辉瑞Talzenna组合、康方生物ivonescimab和Revolution Medicines的RAS抑制剂。Servier以27亿美元收购Edgewise，拓展肌肉萎缩症管线。",
+      "临床试验": "多项III期数据公布：辉瑞Talzenna在前列腺癌、Incyte Monjuvi在DLBCL、Gilead Livdelzi在原发性胆汁性胆管炎中均达主要终点。Revolution Medicines的daraxonrasib在胰腺癌中展现突破性疗效。"
+    },
+    "tomorrow_watch": "关注ASCO年会后续数据解读，特别是Revolution Medicines的RAS抑制剂详细数据及Merck是否填补sac-TMT III期项目空白。同时，观察Eli Lilly对340B医院的数据提交截止日（6月8日）的后续反应，以及FDA关于ICH S7A安全药理学新方法论的研讨会动态。"
+  }
+}
