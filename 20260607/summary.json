@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T06:22:27.725394",
+  "theme": "minimal",
+  "total_items": 80,
+  "files": {
+    "markdown": "docs/20260607/daily.md",
+    "html": "docs/20260607/index.html",
+    "directory": "docs/20260607"
+  },
+  "analysis": {
+    "overview": "2026-06-07 共获取 80 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "At first public hearing for FDA’s CNPV program, industry support meets ‘deep concern’ from experts",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "FDA issues untitled letter after finding ‘eye-catching graphics’ in promotional emails",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "NewLimit’s $435M megaround; Lilly’s busy dealmaking week",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 4,
+        "title": "Competitive Generic Therapy Approvals",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Accelerating Product Development for Pediatric Systemic Lupus Erythematosus (SLE) - 07/30/2026",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 43 条新闻",
+      "新药研发": "共 10 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 7 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
