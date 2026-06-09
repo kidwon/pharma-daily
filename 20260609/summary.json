@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T06:07:14.104224",
+  "theme": "minimal",
+  "total_items": 80,
+  "files": {
+    "markdown": "docs/20260609/daily.md",
+    "html": "docs/20260609/index.html",
+    "directory": "docs/20260609"
+  },
+  "analysis": {
+    "overview": "2026-06-09 共获取 80 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "At first public hearing for FDA’s CNPV program, industry support meets ‘deep concern’ from experts",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Approved Drugs: Questions and Answers",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Roche stakes $700M on Nurix’s protein-degrading drug",
+        "importance": 3,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 4,
+        "title": "FDA/Health and Environmental Sciences Institute/Safety Pharmacology Society Hybrid Workshop: ICH S7A and New Approach Methodologies (NAMs) in Safety Pharmacology - 07/28/2026",
+        "importance": 3,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Johnson & Johnson reports phase 2 data showing nipocalimab reduced SLE disease activity",
+        "importance": 3,
+        "reason": "来自 Pharma Times",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 42 条新闻",
+      "监管审批": "共 20 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
