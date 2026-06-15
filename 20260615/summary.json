@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T07:17:58.267381",
+  "theme": "minimal",
+  "total_items": 78,
+  "files": {
+    "markdown": "docs/20260615/daily.md",
+    "html": "docs/20260615/index.html",
+    "directory": "docs/20260615"
+  },
+  "analysis": {
+    "overview": "2026-06-15 共获取 78 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "J&amp;J eyes rare disease expansion for blockbuster-to-be Imaavy with trial win",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "FDA hearing on Amgen's Tavneos will include findings from an independent review",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Parabilis sets a record with a $670M biotech IPO",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 4,
+        "title": "STAT+: GSK to buy Nuvalent, maker of targeted cancer drugs, for $10.6B",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "FDA Approves Drug for Pediatric Stage 3 Type I Diabetes",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 40 条新闻",
+      "新药研发": "共 10 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
