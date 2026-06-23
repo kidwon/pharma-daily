@@ -1,0 +1,57 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T06:04:38.488357",
+  "theme": "minimal",
+  "total_items": 68,
+  "files": {
+    "markdown": "docs/20260623/daily.md",
+    "html": "docs/20260623/index.html",
+    "directory": "docs/20260623"
+  },
+  "analysis": {
+    "overview": "2026-06-23 共获取 68 条制药行业新闻，涵盖 3 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Withdrawn | Cancer Accelerated Approvals",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Despite 'decent' data, Verastem rethinks options for approved oncology combo in pancreatic cancer",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "'Biopharma ecosystem is back to full health,' fueled by M&amp;A: PwC",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "FDA Actions to Accelerate and Modernize Early and Late-Stage Clinical Development",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "Understanding the Risks of Compounded Drugs",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "监管审批": "共 20 条新闻",
+      "综合": "共 38 条新闻",
+      "新药研发": "共 10 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
