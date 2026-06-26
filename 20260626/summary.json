@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T06:08:42.753137",
+  "theme": "minimal",
+  "total_items": 79,
+  "files": {
+    "markdown": "docs/20260626/daily.md",
+    "html": "docs/20260626/index.html",
+    "directory": "docs/20260626"
+  },
+  "analysis": {
+    "overview": "2026-06-26 共获取 79 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Ionis scores transformational FDA label expansion for Tryngolza",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "FDA Approves First Treatment Shown to Reduce the Risk of Acute Pancreatitis in Adults with Severe Hypertriglyceridemia",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "FDA approves sacituzumab govitecan-hziy as monotherapy and in combination with pembrolizumab for first-line treatment of triple-negative breast cancer",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "Oncology (Cancer)/Hematologic Malignancies Approval Notifications",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "NICE recommends MSD’s pembrolizumab for locally advanced cervical cancer",
+        "importance": 4,
+        "reason": "来自 Pharma Times",
+        "category": "商业动态"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 43 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 6 条新闻",
+      "新药研发": "共 10 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
