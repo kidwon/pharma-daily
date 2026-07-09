@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T06:02:47.505285",
+  "theme": "minimal",
+  "total_items": 76,
+  "files": {
+    "markdown": "docs/20260709/daily.md",
+    "html": "docs/20260709/index.html",
+    "directory": "docs/20260709"
+  },
+  "analysis": {
+    "overview": "2026-07-09 共获取 76 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "STAT+: Pharmalittle: We’re reading about a Novartis acquisition, Republicans backing clinical trial diversity, and more",
+        "importance": 5,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "FDA approves Vera’s dual-target Trutakna, setting up IgAN market battle with Novartis, Otsuka",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Real Chemistry snaps up Spurwing Communications, launches new Asia Pacific hub",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "FDA deepens Vertex's Casgevy label, opening treatment for patients as young as 2",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: Pharmalittle: We’re reading about a Vera kidney drug approval, a U.K. Enhertu pricing deal, and more",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 38 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 8 条新闻",
+      "新药研发": "共 10 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
