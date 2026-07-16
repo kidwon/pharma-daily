@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T04:58:10.547938",
+  "theme": "minimal",
+  "total_items": 78,
+  "files": {
+    "markdown": "docs/20260716/daily.md",
+    "html": "docs/20260716/index.html",
+    "directory": "docs/20260716"
+  },
+  "analysis": {
+    "overview": "2026-07-16 共获取 78 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "No patent protection for Stelara? No problem for J&amp;J as Tremfya fills the void",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Kelun scores sac-TMT win in first-line NSCLC population missing from Merck’s massive phase 3 program",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "With FDA approval for its breast cancer blockbuster hopeful, Celcuity could ‘belong in the hands’ of a Big Pharma",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "Natural Disaster Preparedness and Response | Drugs",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "An Enduring Mission in a New Era: The FDA Public Health Pillars",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 40 条新闻",
+      "监管审批": "共 20 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
