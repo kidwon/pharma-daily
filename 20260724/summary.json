@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T05:18:17.638234",
+  "theme": "minimal",
+  "total_items": 81,
+  "files": {
+    "markdown": "docs/20260724/daily.md",
+    "html": "docs/20260724/index.html",
+    "directory": "docs/20260724"
+  },
+  "analysis": {
+    "overview": "2026-07-24 共获取 81 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "GSK secures first lung cancer approval as FDA clears Jideytro in quick payoff from Nuvalent deal",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Look out Ionis, here comes Arrowhead with promising hypertriglyceridemia data",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "UPDATE: Peptides favored on 1st day of closely watched FDA compounding adcomm",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "FDA calls out Sanofi emails for giving 'misleading impression' of Beyfortus use in RSV",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "Novartis CEO brushes off oral PCSK9 competition as Leqvio drives Q2 growth",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 43 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 8 条新闻",
+      "监管审批": "共 20 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
