@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T04:56:06.117617",
+  "theme": "minimal",
+  "total_items": 80,
+  "files": {
+    "markdown": "docs/20260730/daily.md",
+    "html": "docs/20260730/index.html",
+    "directory": "docs/20260730"
+  },
+  "analysis": {
+    "overview": "2026-07-30 共获取 80 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA approves Otsuka’s ADHD drug Simtriyo, teeing up its ‘next major CNS launch’",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Peptide adcomm Day 2: Emideltide voted down in panel's 1st pushback",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Amgen hands in data package in hopes of FDA hearing for Tavneos defense",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "FDA reviewers criticize Replimune drug; ProMIS climbs on Alzheimer’s data",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 42 条新闻",
+      "新药研发": "共 10 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
