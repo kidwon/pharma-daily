@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T05:25:39.122714",
+  "theme": "minimal",
+  "total_items": 75,
+  "files": {
+    "markdown": "docs/20260802/daily.md",
+    "html": "docs/20260802/index.html",
+    "directory": "docs/20260802"
+  },
+  "analysis": {
+    "overview": "2026-08-02 共获取 75 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Fierce Pharma Asia—Legend CEO exits; Merck’s hush-hush PD-1xVEGF plan; Otsuka’s novel ADHD nod",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "AbbVie's Skyrizi shrugs off new competition as it thrives in growing psoriasis market",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Booming Dupixent sales fuel Regeneron's biggest quarter since pandemic",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "Oncology (Cancer)/Hematologic Malignancies Approval Notifications",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "FDA approves lutetium Lu 177 vipivotide tetraxetan with androgen receptor pathway inhibitor therapy for metastatic androgen pathway modulation-naïve or -sensitive prostate cancer",
+        "importance": 4,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 37 条新闻",
+      "监管审批": "共 20 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
