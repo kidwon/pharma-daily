@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T05:12:23.859998",
+  "theme": "minimal",
+  "total_items": 81,
+  "files": {
+    "markdown": "docs/20260805/daily.md",
+    "html": "docs/20260805/index.html",
+    "directory": "docs/20260805"
+  },
+  "analysis": {
+    "overview": "2026-08-05 共获取 81 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "As FDA makes Lipfendra poster child of CNPV pilot, Merck charts long-term path for first PCSK9 pill",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Curium strikes up to $8B deal for radiopharma rival Lantheus",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "AbbVie's Skyrizi shrugs off new competition as it thrives in growing psoriasis market",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled.",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: Is there a pharma mega-merger in the making?",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 43 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 8 条新闻",
+      "监管审批": "共 20 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
