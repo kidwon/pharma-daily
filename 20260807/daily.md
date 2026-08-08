@@ -1,8 +1,8 @@
 # 制药日报 Pharma Daily
 
 **日期**: 2026-08-07
-**更新时间**: 2026-08-07 04:23
-**新闻数量**: 82
+**更新时间**: 2026-08-08 03:22
+**新闻数量**: 80
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### 今日概览
 
-2026-08-07 共获取 82 条制药行业新闻，涵盖 4 个类别。
+2026-08-07 共获取 80 条制药行业新闻，涵盖 4 个类别。
 
 ### 🔥 重点新闻
 
@@ -20,25 +20,25 @@
    - 类别: 综合
    - 来自 STAT News - Pharma
 
-**2. Replimune secures FDA approval for melanoma therapy Tudriqev after long regulatory battle** ⭐⭐⭐⭐
+**2. Fierce Pharma Asia—Takeda’s historic narcolepsy nod; Daiichi’s accounting error; Astellas’ revenue beat** ⭐⭐⭐⭐
    - 类别: 综合
    - 来自 FiercePharma
 
-**3. Takeda gains FDA nod for first-in-class narcolepsy treatment Orzeyful** ⭐⭐⭐⭐
+**3. UPDATED: Replimune secures FDA approval for melanoma therapy Tudriqev after long regulatory battle** ⭐⭐⭐⭐
    - 类别: 综合
    - 来自 FiercePharma
 
-**4. Gilead’s HIV PrEP franchise hits $1B quarterly sales, but analysts question Yeztugo durability** ⭐⭐⭐⭐
+**4. Takeda gains FDA nod for first-in-class narcolepsy treatment Orzeyful** ⭐⭐⭐⭐
    - 类别: 综合
    - 来自 FiercePharma
 
-**5. As FDA makes Lipfendra poster child of CNPV pilot, Merck charts long-term path for first PCSK9 pill** ⭐⭐⭐⭐
+**5. Gilead’s HIV PrEP franchise hits $1B quarterly sales, but analysts question Yeztugo durability** ⭐⭐⭐⭐
    - 类别: 综合
    - 来自 FiercePharma
 
 ### 📁 分类摘要
 
-**综合** (): 共 44 条新闻
+**综合** (): 共 42 条新闻
 **新药研发** (Drug R&D): 共 10 条新闻
 **监管审批** (Regulatory): 共 20 条新闻
 **商业动态** (Business/M&A): 共 8 条新闻
@@ -54,7 +54,7 @@
 
 | 类别 | 数量 |
 |------|------|
-| 综合 (综合) | 44 |
+| 综合 (综合) | 42 |
 | 新药研发 (Drug R&D) | 10 |
 | 监管审批 (Regulatory) | 20 |
 | 商业动态 (Business/M&A) | 8 |
@@ -75,7 +75,19 @@
 
 ---
 
-### 🇺🇸 Replimune secures FDA approval for melanoma therapy Tudriqev after long regulatory battle
+### 🇺🇸 Fierce Pharma Asia—Takeda’s historic narcolepsy nod; Daiichi’s accounting error; Astellas’ revenue beat
+
+- **来源**: FiercePharma
+- **时间**: 2026-08-06 15:04
+- **重要性**: ⭐⭐⭐⭐
+
+> Takeda's first-in-class orexin treatment won an FDA nod for narcolepsy. Daiichi Sankyo faced investor pushback after admitting to an accounting error. Astellas booked a new quarterly revenue record. And more.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/takeda-historic-narcolepsy-nod-daiichi-accounting-error-astellas-revenue-beat)
+
+---
+
+### 🇺🇸 UPDATED: Replimune secures FDA approval for melanoma therapy Tudriqev after long regulatory battle
 
 - **来源**: FiercePharma
 - **时间**: 2026-08-06 16:48
@@ -111,18 +123,6 @@
 
 ---
 
-### 🇺🇸 As FDA makes Lipfendra poster child of CNPV pilot, Merck charts long-term path for first PCSK9 pill
-
-- **来源**: FiercePharma
-- **时间**: 2026-08-04 14:39
-- **重要性**: ⭐⭐⭐⭐
-
-> The PCSK9 cholesterol drug class has long been viewed as one of the biggest hype-to-disappointment stories in pharmaceutical history. Merck aims to flip that narrative with Lipfendra, betting the first-ever oral option can finally unlock the market’s full potential with support from regulators and doctors.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/fda-makes-lipfendra-poster-child-cnpv-pilot-merck-charts-long-term-path-first-pcsk9-pill)
-
----
-
 ### 🇺🇸 STAT+: Is there a pharma mega-merger in the making?
 
 - **来源**: STAT News - Pharma
@@ -135,15 +135,51 @@
 
 ---
 
-### 🇺🇸 In a first, Otsuka’s Voyxact stabilizes IgAN patients’ kidney function decline to normal levels
+### 🇺🇸 Novo Nordisk makes Omnicom agency of record for US media buying
 
 - **来源**: FiercePharma
-- **时间**: 2026-08-03 15:44
+- **时间**: 2026-08-07 09:44
 - **重要性**: ⭐⭐⭐
 
-> In a milestone for IgA nephropathy, Otsuka’s Voyxact has shown for the first time in a phase 3 trial that a drug can stabilize patients’ kidney function decline to the normal rate seen in healthy adults.
+> Novo Nordisk has made Omnicom the agency of record for U.S. media buying, ending the drugmaker’s six-year partnership with WPP’s Wavemaker.
 
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/first-otsuka-voyxact-stabilizes-igan-patients-kidney-function-decline-normal-levels)
+🔗 [阅读原文](https://www.fiercepharma.com/marketing/novo-nordisk-makes-omnicom-agency-record-us-media-buying)
+
+---
+
+### 🇺🇸 Lilly's Zepbound remains physicians' favorite, even as oral obesity launches alter landscape
+
+- **来源**: FiercePharma
+- **时间**: 2026-08-07 10:53
+- **重要性**: ⭐⭐
+
+> Injected weight loss drugs remain favored over newer oral treatments by a significant margin, with Eli Lilly’s Zepbound leading the pack, according to a survey of healthcare specialists by Spherix Global Insights.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/even-launch-obesity-pills-lillys-zepbound-remains-overwhelming-favorite-among-physicians)
+
+---
+
+### 🇺🇸 ‘It’s been a roller coaster’: Novo Nordisk’s CFO reflects on ‘pressure’ to drive growth
+
+- **来源**: FiercePharma
+- **时间**: 2026-08-05 09:44
+- **重要性**: ⭐⭐
+
+> Novo Nordisk CFO Karsten Munk Knudsen spoke to Fierce the morning the company unveiled its second-quarter earnings, reflecting on Novo’s “roller coaster” financial journey, the pressure of navigating its shifting fortunes and why he remains optimistic about CagriSema.
+
+🔗 [阅读原文](https://www.fiercepharma.com/biotech/its-been-rollercoaster-novo-nordisks-cfo-reflects-pressure-drive-growth)
+
+---
+
+### 🇺🇸 VerilyMe, Bausch + Lomb visualize dry eye education in new collaboration
+
+- **来源**: FiercePharma
+- **时间**: 2026-08-06 21:35
+- **重要性**: ⭐⭐
+
+> The partnership marks Bausch + Lomb's foray into the digital and AI healthcare space.
+
+🔗 [阅读原文](https://www.fiercepharma.com/marketing/verilyme-bausch-lomb-visualize-dry-eye-education-new-collaboration)
 
 ---
 
@@ -183,27 +219,15 @@
 
 ---
 
-### 🇺🇸 Pfizer unveils additional $2.5B in planned cost savings through 2029
+### 🇺🇸 Is the biotech capital of the world moving?
 
-- **来源**: FiercePharma
-- **时间**: 2026-08-04 10:04
+- **来源**: STAT News - Pharma
+- **时间**: 2026-08-07 12:51
 - **重要性**: ⭐⭐
 
-> Pfizer will reduce its costs by $2.5 billion in another round of cutbacks, which will begin next year and run through 2029. The additional cost savings swell Pfizer's program to $9.7 billion in reductions.
+> Replimune finally wins FDA approval, the role of tau in Alzheimer's, and more biotech news from The Readout
 
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/pfizer-unveils-additional-25b-planned-cost-savings-through-2029)
-
----
-
-### 🇺🇸 Jazz to withdraw Zepzelca with FDA in second-line small cell lung cancer
-
-- **来源**: FiercePharma
-- **时间**: 2026-08-04 09:01
-- **重要性**: ⭐⭐
-
-> After a yearslong struggle, Jazz Pharmaceuticals has called time on Zepzelca as a second-line treatment for small cell lung cancer.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/jazz-withdraw-zepzelca-fda-second-line-small-cell-lung-cancer)
+🔗 [阅读原文](https://www.statnews.com/2026/08/07/biotech-news-boston-kendall-square-losing-ground-in-sf/?utm_campaign=rss)
 
 ---
 
@@ -267,18 +291,6 @@
 
 ---
 
-### 🇺🇸 STAT+: Pharmalittle: We’re reading about a Novo setback, support for Replimune’s melanoma drug, and more
-
-- **来源**: STAT News - Pharma
-- **时间**: 2026-07-31 13:28
-- **重要性**: ⭐⭐
-
-> An FDA advisory panel recommended use of an experimental Replimune treatment for advanced melanoma that the agency has rejected twice
-
-🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/07/31/novo-setback-fda-panel-endorses-replimune-melanoma-drug/?utm_campaign=rss)
-
----
-
 ### 🇺🇸 AstraZeneca, CSPC to form joint venture for biologics manufacturing
 
 - **来源**: FiercePharma
@@ -300,6 +312,28 @@
 > With a second delayed report of a child's death in China, criticism is rising of a looser form of clinical trial. One expert: what "bothers me is the lack of&#8230;
 
 🔗 [阅读原文](https://www.statnews.com/2026/08/05/china-clinical-trial-fatality-safety-questions-investigator-led-studies/?utm_campaign=rss)
+
+---
+
+### 🇺🇸 AbbVie’s Skyrizi retakes edge in pharma’s July ad spending league
+
+- **来源**: FiercePharma
+- **时间**: 2026-08-07 04:24
+
+> AbbVie retook the top spot from rival J&amp;J and its immunology drug Tremfya in July’s top TV drug ad spending rankings.
+
+🔗 [阅读原文](https://www.fiercepharma.com/marketing/abbvies-skyrizi-back-leading-drug-pharmas-ad-spending-league-july)
+
+---
+
+### 🇺🇸 Fresenius Kabi recalls mislabeled morphine lot that could cause overdose death
+
+- **来源**: FiercePharma
+- **时间**: 2026-08-07 09:18
+
+> Fresenius Kabi voluntarily recalled one lot of morphine sulfate injection due to a labeling mix-up with prefilled syringes of dilaudid that could trigger an overdose resulting in severe respiratory distress or death.
+
+🔗 [阅读原文](https://www.fiercepharma.com/manufacturing/fresenius-kabi-recalls-mislabeled-morphine-lot-could-cause-overdose-death)
 
 ---
 
@@ -391,58 +425,25 @@
 
 ---
 
-### 🇺🇸 Amgen rides Repatha renaissance as cardio wins keep cholesterol med's momentum rolling
+### 🇺🇸 STAT+: Up and down the ladder: The latest comings and goings
 
-- **来源**: FiercePharma
-- **时间**: 2026-08-04 13:51
+- **来源**: STAT News - Pharma
+- **时间**: 2026-08-07 16:38
 
-> As Amgen’s flagship PCSK9 cholesterol drug Repatha enjoys a bit of a renaissance on the back of impressive cardiovascular risk reduction data last year, the company is confident it can keep that momentum running well past the end of the decade.
+> From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
 
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/amgen-rides-repatha-renaissance-cardio-wins-keep-cholesterol-meds-momentum-rolling)
-
----
-
-### 🇺🇸 Drugmakers don’t have ‘duty to innovate’, California court rules, backing Gilead in HIV drug litigation
-
-- **来源**: FiercePharma
-- **时间**: 2026-08-04 14:34
-
-> Years of litigation surrounding Gilead Sciences’ tenofivor-based HIV treatments have come to an end, with the California Supreme Court taking Gilead’s side in a ruling that sets a key precedent for innovative drugmakers.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/drugmakers-dont-have-duty-innovate-california-supreme-court-rules-backing-gilead-after-years)
+🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/08/07/up-and-down-ladder-latest-comings-and-goings-jobs-pharma-biotech/?utm_campaign=rss)
 
 ---
 
-### 🇺🇸 J&amp;J innovative medicine chief Jennifer Taubert to retire, handing reins to North America head
+### 🇺🇸 STAT+: Pharmalittle: We’re reading about Replimune’s melanoma drug, a Medicare policy change, and more
 
-- **来源**: FiercePharma
-- **时间**: 2026-08-04 10:36
+- **来源**: STAT News - Pharma
+- **时间**: 2026-08-07 13:18
 
-> Johnson &amp; Johnson has named Tom Cavanaugh as the next leader of its innovative medicines business, beginning Sept. 1, 2026.
+> Eli Lilly and Novo Nordisk convinced a federal judge to toss an antitrust lawsuit by a compound pharmacy
 
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/jj-innovative-medicine-chief-jennifer-taubert-retire-handing-reins-north-america-head)
-
----
-
-### 🇺🇸 'Better every quarter': Bayer CEO stays course on turnaround plan as pharma sales underwhelm in Q2
-
-- **来源**: FiercePharma
-- **时间**: 2026-08-04 10:03
-
-> With Bayer’s pharma sales growth lagging behind its crop science and consumer health divisions in the second quarter, analysts once again raised the possibility of major changes to the German conglomerate’s group structure.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/better-every-quarter-bayer-ceo-stays-course-turnaround-plan-pharma-sales-underwhelm-q2)
-
----
-
-### 🇺🇸 Fiercest Women in Life Sciences 2026: Nominations open now
-
-- **来源**: FiercePharma
-- **时间**: 2026-08-03 11:25
-
-> Who should be a 2026 Fiercest Woman in Life Sciences? Nominations are open for women making an impact across pharma, biotech, medtech and beyond. The deadline is Sept. 18.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/fiercest-women-life-sciences-2026-nominations-open-now)
+🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/08/07/replimune-melanoma-drug-medicare-policy-change/?utm_campaign=rss)
 
 ---
 
@@ -545,28 +546,6 @@
 
 ---
 
-### 🇺🇸 STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals
-
-- **来源**: STAT News - Pharma
-- **时间**: 2026-07-31 17:02
-
-> The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.
-
-🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss)
-
----
-
-### 🇺🇸 STAT+: Up and down the ladder: The latest comings and goings
-
-- **来源**: STAT News - Pharma
-- **时间**: 2026-07-31 14:47
-
-> From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
-
-🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/07/31/up-and-down-the-ladder-latest-comings-and-goings-jobs/?utm_campaign=rss)
-
----
-
 ## 新药研发 | Drug R&D
 
 ### 🇺🇸 Takeda approval ushers in new wave of sleep drugs
@@ -602,6 +581,30 @@
 > Braveheart is one of five biotechnology firms that made plans to price an IPO this week. They could collectively raise more than $1 billion from public investors.
 
 🔗 [阅读原文](https://www.biopharmadive.com/news/braveheart-cardiac-drugs-ipo-pricing/826973/)
+
+---
+
+### 🇺🇸 ‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-07 14:02
+- **重要性**: ⭐⭐
+
+> Early indicators from a compassionate use plan led analysts to hike projections for daraxonrasib. Elsewhere, Intellia believes it&rsquo;s answered a key safety question and Arrowhead moved to catch a rival.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/)
+
+---
+
+### 🇺🇸 Latigo IPO raises nearly $350M for pain drug development
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-07 12:00
+- **重要性**: ⭐⭐
+
+> The company could rival Vertex and Lilly in the burgeoning market for non-opioid, ion-channel-blocking pain drugs. Its offering also adds to a recent and significant uptick in large biotech IPOs.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/latigo-ipo-public-biotech-pain-drug-nasdaq/827300/)
 
 ---
 
@@ -662,28 +665,6 @@
 
 ---
 
-### 🇺🇸 Lilly climbs, Novo falls as obesity drug battle intensifies
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-05 15:22
-
-> A research disappointment and a miss on Wegovy pill sales hurt Novo, while Lilly&rsquo;s injectable franchise once again surpassed analyst expectations.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/lilly-novo-earnings-2q-2026-wegovy-pill-foundayo-obesity/827027/)
-
----
-
-### 🇺🇸 Earnings roundup: Gilead’s ‘uncertain’ future, Pfizer’s crossroads and Merck’s PCSK9 launch
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-05 15:00
-
-> Some analysts see warning signs in crucial drug launches from Gilead and Merck, while an important trial readout could change Pfizer&rsquo;s growth trajectory.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/pfizer-merck-gilead-earnings-2q-2026-analysis/827029/)
-
----
-
 ## 监管审批 | Regulatory
 
 ### 🇺🇸 Oncology (Cancer)/Hematologic Malignancies Approval Notifications
@@ -710,15 +691,39 @@
 
 ---
 
-### 🇺🇸 FDA’s Actions to Address Unapproved Thyroid Medications
+### 🇺🇸 Ongoing | Cancer Accelerated Approvals
 
 - **来源**: FDA News
-- **时间**: 2026-08-06 12:15
-- **重要性**: ⭐⭐⭐⭐
+- **时间**: 2026-08-07 15:12
+- **重要性**: ⭐⭐⭐
 
-> FDA’s Actions to Address Unapproved Thyroid Medications
+> This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.
 
-🔗 [阅读原文](http://www.fda.gov/drugs/enforcement-activities-fda/fdas-actions-address-unapproved-thyroid-medications)
+🔗 [阅读原文](http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals)
+
+---
+
+### 🇺🇸 Nonprescription Drug Product with an Additional Condition for Nonprescription Use
+
+- **来源**: FDA News
+- **时间**: 2026-08-07 16:04
+- **重要性**: ⭐⭐
+
+> The FDA is announcing the availability of the proposed rule Nonprescription Drug Product with an Additional Condition for Nonprescription Use (Docket No. FDA-2021-N-0862). The proposed rule, if finalized, would establish requirements for a nonprescription drug product that has an additional conditi
+
+🔗 [阅读原文](http://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/nonprescription-drug-product-additional-condition-nonprescription-use)
+
+---
+
+### 🇺🇸 Drugs@FDA Data Files
+
+- **来源**: FDA News
+- **时间**: 2026-08-07 13:58
+- **重要性**: ⭐⭐
+
+> Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)
+
+🔗 [阅读原文](http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)
 
 ---
 
@@ -746,39 +751,59 @@
 
 ---
 
-### 🇺🇸 Communicating Drug Interaction and QTc Information in the U.S. Prescribing Information - 09/23/2026
+### 🇺🇸 M11 Clinical Electronic Structured Harmonised Protocol
 
 - **来源**: FDA News
-- **时间**: 2026-08-06 17:37
-- **重要性**: ⭐⭐
+- **时间**: 2026-08-07 16:10
+- **重要性**: ⭐
 
-> The first session of this webinar will discuss the draft guidance for industry: Drug Interaction Information in Human Prescription Drug and Biological Product Labeling; the second will discuss the guidance for industry: QTc Information in Human Prescription Drug and Biological Product Labeling.
+> M11 Clinical Electronic Structured Harmonised Protocol
 
-🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/communicating-drug-interaction-and-qtc-information-us-prescribing-information-09232026)
+🔗 [阅读原文](http://www.fda.gov/regulatory-information/search-fda-guidance-documents/m11-clinical-electronic-structured-harmonised-protocol)
 
 ---
 
-### 🇺🇸 Exemptions under the Drug Supply Chain Security Act
+### 🇺🇸 COVID-19 Real World Data (RWD) Data Elements Harmonization Project
 
 - **来源**: FDA News
-- **时间**: 2026-08-06 13:55
-- **重要性**: ⭐⭐
+- **时间**: 2026-08-07 17:59
 
-> FDA is issuing exemptions from certain requirements of section 582 of the FD&amp;C Act to small business dispensers (e.g. pharmacies), and where applicable their trading partners, until November 27, 2027. This exemption allows time to complete the small dispensers assessment , publish the final assessme
+> Harmonize a list of COVID-19 data elements with several Common Data Models (CDMs) and open standards
 
-🔗 [阅读原文](http://www.fda.gov/drugs/drug-supply-chain-security-act-dscsa/exemptions-under-drug-supply-chain-security-act)
+🔗 [阅读原文](http://www.fda.gov/drugs/coronavirus-covid-19-drugs/covid-19-real-world-data-rwd-data-elements-harmonization-project)
 
 ---
 
-### 🇺🇸 Generic Drugs Forum (GDF) 2026 - 04/22/2026
+### 🇺🇸 Sunscreen Meetings
 
 - **来源**: FDA News
-- **时间**: 2026-08-06 13:13
-- **重要性**: ⭐⭐
+- **时间**: 2026-08-07 16:27
 
-> FDA's annual Generic Drugs Forum is a two-day event designed to facilitate the development and approval of safe, effective, and high-quality generic medicines. Join us April 22-23, 2026.
+> Sunscreen Meetings
 
-🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/generic-drugs-forum-gdf-2026-04222026)
+🔗 [阅读原文](http://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/sunscreen-meetings)
+
+---
+
+### 🇺🇸 Over-the-Counter (OTC) Drug Review | OTC Monograph Reform in the CARES Act
+
+- **来源**: FDA News
+- **时间**: 2026-08-07 16:08
+
+> Information about Over-the-Counter (OTC) Monograph Reform
+
+🔗 [阅读原文](http://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/over-counter-otc-drug-review-otc-monograph-reform-cares-act)
+
+---
+
+### 🇺🇸 Generic Drug Facilities, Sites and Organization Lists
+
+- **来源**: FDA News
+- **时间**: 2026-08-07 14:02
+
+> Generic Drug Facilities, Sites and Organization Lists
+
+🔗 [阅读原文](http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists)
 
 ---
 
@@ -867,50 +892,6 @@
 > Data Descriptions updated (February 24, 2017)
 
 🔗 [阅读原文](http://www.fda.gov/drugs/drug-approvals-and-databases/orange-book-data-files)
-
----
-
-### 🇺🇸 CDER Small Business and Industry Assistance (SBIA) Learn
-
-- **来源**: FDA News
-- **时间**: 2026-08-06 17:38
-
-> SBIA Learn offers a variety of multimedia resources to provide information that is comprehensive, interactive, and easily accessible to small pharmaceutical business and industry.
-
-🔗 [阅读原文](http://www.fda.gov/drugs/cder-small-business-industry-assistance-sbia/cder-small-business-and-industry-assistance-sbia-learn)
-
----
-
-### 🇺🇸 CDER Small Business & Industry Assistance (SBIA)
-
-- **来源**: FDA News
-- **时间**: 2026-08-06 17:38
-
-> A Comprehensive Resource for Information on Human Drug Development in Regulation
-
-🔗 [阅读原文](http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia)
-
----
-
-### 🇺🇸 Generic Drug Facilities, Sites and Organization Lists
-
-- **来源**: FDA News
-- **时间**: 2026-08-06 16:06
-
-> Generic Drug Facilities, Sites and Organization Lists
-
-🔗 [阅读原文](http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists)
-
----
-
-### 🇺🇸 Drug Supply Chain Security Act (DSCSA) Assessment of Small Dispensers
-
-- **来源**: FDA News
-- **时间**: 2026-08-06 13:56
-
-> The Drug Supply Chain Security Act (DSCSA) recognizes the role of small dispensers in the drug supply chain. Learn more.
-
-🔗 [阅读原文](http://www.fda.gov/drugs/drug-supply-chain-security-act-dscsa/drug-supply-chain-security-act-dscsa-assessment-small-dispensers)
 
 ---
 
@@ -1012,4 +993,4 @@
 
 *Generated by Pharma Daily - 制药资讯聚合系统*
 
-*2026-08-07 04:23:36*
+*2026-08-08 03:22:44*
