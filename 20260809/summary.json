@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-10T03:50:48.202977",
+  "theme": "minimal",
+  "total_items": 81,
+  "files": {
+    "markdown": "docs/20260809/daily.md",
+    "html": "docs/20260809/index.html",
+    "directory": "docs/20260809"
+  },
+  "analysis": {
+    "overview": "2026-08-09 共获取 81 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "STAT+: Two FDA approvals — a new drug and a new vaccine",
+        "importance": 5,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Fierce Pharma Asia—Takeda’s historic narcolepsy nod; Daiichi’s accounting error; Astellas’ revenue beat",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "UPDATED: Replimune secures FDA approval for melanoma therapy Tudriqev after long regulatory battle",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "Takeda gains FDA nod for first-in-class narcolepsy treatment Orzeyful",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "Gilead’s HIV PrEP franchise hits $1B quarterly sales, but analysts question Yeztugo durability",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 42 条新闻",
+      "新药研发": "共 10 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 9 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
