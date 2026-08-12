@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T04:04:07.200148",
+  "theme": "minimal",
+  "total_items": 79,
+  "files": {
+    "markdown": "docs/20260812/daily.md",
+    "html": "docs/20260812/index.html",
+    "directory": "docs/20260812"
+  },
+  "analysis": {
+    "overview": "2026-08-12 共获取 79 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Unapproved in US for decades, levosimendan stumbles in phase 3 as Tenax eyes narrow FDA path",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "STAT+: Two FDA approvals — a new drug and a new vaccine",
+        "importance": 5,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Fierce Pharma Asia—Takeda’s historic narcolepsy nod; Daiichi’s accounting error; Astellas’ revenue beat",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "UPDATED: Replimune secures FDA approval for melanoma therapy Tudriqev after long regulatory battle",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "Takeda gains FDA nod for first-in-class narcolepsy treatment Orzeyful",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 41 条新闻",
+      "新药研发": "共 10 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
