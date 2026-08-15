@@ -1,8 +1,8 @@
 # 制药日报 Pharma Daily
 
 **日期**: 2026-08-14
-**更新时间**: 2026-08-14 04:05
-**新闻数量**: 75
+**更新时间**: 2026-08-15 02:48
+**新闻数量**: 77
 
 ---
 
@@ -12,36 +12,36 @@
 
 ### 今日概览
 
-2026-08-14 共获取 75 条制药行业新闻，涵盖 4 个类别。
+2026-08-14 共获取 77 条制药行业新闻，涵盖 4 个类别。
 
 ### 🔥 重点新闻
 
-**1. Unapproved in US for decades, levosimendan stumbles in phase 3 as Tenax eyes narrow FDA path** ⭐⭐⭐⭐⭐
+**1. BMS bags first FDA approval for CELMoD franchise with Zenbexus multiple myeloma nod** ⭐⭐⭐⭐⭐
    - 类别: 综合
    - 来自 FiercePharma
 
-**2. Oncology (Cancer)/Hematologic Malignancies Approval Notifications** ⭐⭐⭐⭐
-   - 类别: 监管审批
-   - 来自 FDA News
-
-**3. FDA Actions to Accelerate and Modernize Early and Late-Stage Clinical Development** ⭐⭐⭐⭐
-   - 类别: 监管审批
-   - 来自 FDA News
-
-**4. Kupando doses first patient in phase 1 trial** ⭐⭐⭐
-   - 类别: 商业动态
-   - 来自 Pharma Times
-
-**5. AZ's blood pressure newcomer Baxfendy fails to meet cost-effectiveness bar, ICER says** ⭐⭐
+**2. Unapproved in US for decades, levosimendan stumbles in phase 3 as Tenax eyes narrow FDA path** ⭐⭐⭐⭐⭐
    - 类别: 综合
    - 来自 FiercePharma
+
+**3. Withdrawn | Cancer Accelerated Approvals** ⭐⭐⭐⭐⭐
+   - 类别: 监管审批
+   - 来自 FDA News
+
+**4. Bristol Myers wins ‘milestone’ FDA approval of myeloma drug acquired from Celgene** ⭐⭐⭐⭐
+   - 类别: 新药研发
+   - 来自 BioPharma Dive
+
+**5. Capricor shares spike on CEO comments; Cytokinetics sues Bristol Myers** ⭐⭐⭐⭐
+   - 类别: 新药研发
+   - 来自 BioPharma Dive
 
 ### 📁 分类摘要
 
-**综合** (): 共 37 条新闻
+**综合** (): 共 39 条新闻
 **监管审批** (Regulatory): 共 20 条新闻
-**商业动态** (Business/M&A): 共 8 条新闻
 **新药研发** (Drug R&D): 共 10 条新闻
+**商业动态** (Business/M&A): 共 8 条新闻
 
 ### 🔮 明日关注
 
@@ -54,14 +54,26 @@
 
 | 类别 | 数量 |
 |------|------|
-| 综合 (综合) | 37 |
+| 综合 (综合) | 39 |
 | 监管审批 (Regulatory) | 20 |
-| 商业动态 (Business/M&A) | 8 |
 | 新药研发 (Drug R&D) | 10 |
+| 商业动态 (Business/M&A) | 8 |
 
 ---
 
 ## 综合 | 综合
+
+### 🇺🇸 BMS bags first FDA approval for CELMoD franchise with Zenbexus multiple myeloma nod
+
+- **来源**: FiercePharma
+- **时间**: 2026-08-14 09:33
+- **重要性**: ⭐⭐⭐⭐⭐
+
+> In a historic breakthrough for targeted protein degradation, BMS has secured the first FDA approval for a CELMoD therapy with the clearance of Zenbexus (iberdomide), marking the first multiple myeloma approval driven directly by minimal residual disease as a surrogate endpoint.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/bms-bags-first-fda-approval-celmod-franchise-zenbexus-multiple-myeloma-nod)
+
+---
 
 ### 🇺🇸 Unapproved in US for decades, levosimendan stumbles in phase 3 as Tenax eyes narrow FDA path
 
@@ -72,6 +84,42 @@
 > Nearly three decades after its failed bid for FDA approval, the cardiovascular drug levosimendan is still struggling to secure a decisive clinical win to enter the U.S. market.
 
 🔗 [阅读原文](https://www.fiercepharma.com/pharma/unapproved-us-decades-levosimendan-stumbles-phase-3-tenax-eyes-narrow-fda-path)
+
+---
+
+### 🇺🇸 STAT+: Pharmalittle: We’re reading about a lawsuit over lab tests for meds, a Bristol myeloma drug, and more
+
+- **来源**: STAT News - Pharma
+- **时间**: 2026-08-14 14:00
+- **重要性**: ⭐⭐⭐⭐
+
+> The FDA approved a Bristol oral treatment for advanced multiple myeloma, marking the debut of a new class of medicine for the blood cancer
+
+🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/08/14/lab-tests-lawsuit-bristol-multiple-myeloma-drug-approved/?utm_campaign=rss)
+
+---
+
+### 🇺🇸 Fierce Pharma Asia—Legend’s first profit; Taiho, Cullinan’s EGFR win; WuXi AppTec’s reprieve
+
+- **来源**: FiercePharma
+- **时间**: 2026-08-13 21:27
+- **重要性**: ⭐⭐⭐
+
+> As Legend Biotech became profitable, the company is navigating Carvykti's next phase of growth. Taiho and Cullinan's EGFR candidate delivered a phase 3 win. WuXi AppTec won a preliminary injunction against the Defense Department's black list designation. And more.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/legend-first-profit-taiho-cullinan-egfr-win-wuxi-apptec-reprieve)
+
+---
+
+### 🇺🇸 It's BMS vs. Celgene investors once more after US appeals court revives lawsuit
+
+- **来源**: FiercePharma
+- **时间**: 2026-08-14 11:01
+- **重要性**: ⭐⭐
+
+> A U.S. appeals court has revived a lawsuit filed by Celgene shareholders that accuses Bristol Myers Squibb of slow-playing the approval of blood cancer drug Breyanzi to avoid paying out a more than $6 billion contingent value right.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/its-bms-vs-celgene-investors-again-after-us-appeals-court-ruling)
 
 ---
 
@@ -159,39 +207,15 @@
 
 ---
 
-### 🇺🇸 Bristol Myers Squibb lays out plan for $2.3B manufacturing facility in Houston
+### 🇺🇸 STAT+: Drug-testing lab that has sparked controversy sues group that develops drug standards over criticism
 
-- **来源**: FiercePharma
-- **时间**: 2026-08-10 10:40
+- **来源**: STAT News - Pharma
+- **时间**: 2026-08-14 13:23
 - **重要性**: ⭐⭐
 
-> Bristol Myers Squibb has laid out plans for a $2.3 billion manufacturing facility in Houston, set for completion in 2030. The plant will cover 600,000 square feet and employ nearly 500 people.
+> A lab that tussled with regulators over impurities found in widely used medicines has accused U.S. Pharmacopeia of making false and misleading remarks about its methods.
 
-🔗 [阅读原文](https://www.fiercepharma.com/manufacturing/bristol-myers-squibb-lays-out-plan-23b-manufacturing-facility-houston)
-
----
-
-### 🇺🇸 Scholar Rock ditches Novo’s legacy Catalent plant in FDA refiling of SMA drug
-
-- **来源**: FiercePharma
-- **时间**: 2026-08-10 10:09
-- **重要性**: ⭐⭐
-
-> Scholar Rock has dropped Novo Nordisk’s troubled Catalent facility as a contract manufacturer in its FDA refiling for apitegromab, a spinal muscular atrophy candidate, after a recent inspection of the plant was classified as “Official Action Indicated.”
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug)
-
----
-
-### 🇺🇸 Lilly's Zepbound remains physicians' favorite, even as oral obesity launches alter landscape
-
-- **来源**: FiercePharma
-- **时间**: 2026-08-07 10:53
-- **重要性**: ⭐⭐
-
-> Injected weight loss drugs remain favored over newer oral treatments by a significant margin, with Eli Lilly’s Zepbound leading the pack, according to a survey of healthcare specialists by Spherix Global Insights.
-
-🔗 [阅读原文](https://www.fiercepharma.com/pharma/even-launch-obesity-pills-lillys-zepbound-remains-overwhelming-favorite-among-physicians)
+🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/08/14/controversial-lab-sues-usp-for-disparaging-its-testing-methods/?utm_campaign=rss)
 
 ---
 
@@ -243,15 +267,25 @@
 
 ---
 
-### 🇺🇸 Is the biotech capital of the world moving?
+### 🇺🇸 Tavneos trial flagged for 'serious breaches' of protocol as EU regulators dissect market withdrawal decision
 
-- **来源**: STAT News - Pharma
-- **时间**: 2026-08-07 12:51
-- **重要性**: ⭐⭐
+- **来源**: FiercePharma
+- **时间**: 2026-08-14 10:45
 
-> Replimune finally wins FDA approval, the role of tau in Alzheimer's, and more biotech news from The Readout
+> With the European Union formally reversing its marketing authorization for the rare-disease med Tavneos last week, regulators in the bloc are laying out their concerns about the data backing the complement inhibitor in greater detail.
 
-🔗 [阅读原文](https://www.statnews.com/2026/08/07/biotech-news-boston-kendall-square-losing-ground-in-sf/?utm_campaign=rss)
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/tavneos-pivotal-trial-flagged-serious-breaches-protocol-eu-regulators-dissect-market)
+
+---
+
+### 🇺🇸 A genomics library for the AI era
+
+- **来源**: FiercePharma
+- **时间**: 2026-08-14 09:45
+
+> This week on "The Top Line," Fierce’s Fraiser Kansteiner sits down with Andy Deubler, chief business and administrative officer at Regeneron Genetics Center, to discuss the role RGC plays in the larger Regeneron model, as well as where the center could be headed as drug development pushes into new technological frontiers.
+
+🔗 [阅读原文](https://www.fiercepharma.com/pharma/genomics-library-ai-era)
 
 ---
 
@@ -354,14 +388,25 @@
 
 ---
 
-### 🇺🇸 Quanterix hires GE Healthcare, Exact Sciences alum as chief commercial officer
+### 🇺🇸 STAT+: Up and down the ladder: The latest comings and goings
 
-- **来源**: FiercePharma
-- **时间**: 2026-08-10 09:08
+- **来源**: STAT News - Pharma
+- **时间**: 2026-08-14 16:20
 
-> Quanterix has hired medtech veteran Jim Gute as chief commercial officer, bringing him over from Exact Sciences after an earlier 18-year career at GE Healthcare.
+> From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
 
-🔗 [阅读原文](https://www.fiercepharma.com/marketing/quanterix-hires-ge-healthcare-exact-sciences-alum-new-chief-commercial-officer)
+🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss)
+
+---
+
+### 🇺🇸 STAT+: PBMs agree to display TrumpRx drug prices
+
+- **来源**: STAT News - Pharma
+- **时间**: 2026-08-14 15:55
+
+> Bristol's Zenbexus wins accelerated approval, Novartis wins UK patent fight over Entresto, and more biotech news from The Readout
+
+🔗 [阅读原文](https://www.statnews.com/2026/08/14/biotech-news-pbms-agree-to-display-trumprx-drug-prices/?utm_campaign=rss)
 
 ---
 
@@ -464,29 +509,19 @@
 
 ---
 
-### 🇺🇸 STAT+: Up and down the ladder: The latest comings and goings
-
-- **来源**: STAT News - Pharma
-- **时间**: 2026-08-07 16:38
-
-> From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
-
-🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/08/07/up-and-down-ladder-latest-comings-and-goings-jobs-pharma-biotech/?utm_campaign=rss)
-
----
-
-### 🇺🇸 STAT+: Pharmalittle: We’re reading about Replimune’s melanoma drug, a Medicare policy change, and more
-
-- **来源**: STAT News - Pharma
-- **时间**: 2026-08-07 13:18
-
-> Eli Lilly and Novo Nordisk convinced a federal judge to toss an antitrust lawsuit by a compound pharmacy
-
-🔗 [阅读原文](https://www.statnews.com/pharmalot/2026/08/07/replimune-melanoma-drug-medicare-policy-change/?utm_campaign=rss)
-
----
-
 ## 监管审批 | Regulatory
+
+### 🇺🇸 Withdrawn | Cancer Accelerated Approvals
+
+- **来源**: FDA News
+- **时间**: 2026-08-14 14:32
+- **重要性**: ⭐⭐⭐⭐⭐
+
+> This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have been subsequently withdrawn, and are therefore, no longer FDA-approved.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/resources-information-approved-drugs/withdrawn-cancer-accelerated-approvals)
+
+---
 
 ### 🇺🇸 Oncology (Cancer)/Hematologic Malignancies Approval Notifications
 
@@ -512,15 +547,63 @@
 
 ---
 
+### 🇺🇸 Addressing the Public Health Effects of Opioid Medications - 09/09/2026
+
+- **来源**: FDA News
+- **时间**: 2026-08-14 20:41
+- **重要性**: ⭐⭐⭐
+
+> On September 9, 2026, the U.S. Food and Drug Administration, in partnership with the Reagan-Udall Foundation for the FDA (Foundation), will convene a public meeting to hear public comments on perspectives regarding the use of opioid medications for the management of pain and addiction.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/addressing-public-health-effects-opioid-medications-09092026)
+
+---
+
 ### 🇺🇸 What's New Related to Drugs
 
 - **来源**: FDA News
-- **时间**: 2026-08-13 20:02
+- **时间**: 2026-08-14 20:49
 - **重要性**: ⭐⭐
 
 > Want to know what's new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.
 
 🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs)
+
+---
+
+### 🇺🇸 The Center for Research on Complex Generics
+
+- **来源**: FDA News
+- **时间**: 2026-08-14 18:37
+- **重要性**: ⭐⭐
+
+> FDA awards a 5-year grant to the University of Maryland and the University of Michigan to establish a Center for Research on Complex Generics (CRCG).
+
+🔗 [阅读原文](http://www.fda.gov/drugs/guidance-compliance-regulatory-information/center-research-complex-generics)
+
+---
+
+### 🇺🇸 FDA/Center for Research on Complex Generics (CRCG) Workshop on Advancing Bioequivalence Frameworks for Inhalation Drug Products: Optimizing In Vitro, In Vivo, and In Silico Methods - 10/14/2026
+
+- **来源**: FDA News
+- **时间**: 2026-08-14 18:17
+- **重要性**: ⭐⭐
+
+> Advancing Bioequivalence Frameworks for Inhalation Drug Products: Optimizing In Vitro, In Vivo, and In Silico Methods, October 14-15, 2026.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/fdacenter-research-complex-generics-crcg-workshop-advancing-bioequivalence-frameworks-inhalation)
+
+---
+
+### 🇺🇸 Drugs@FDA Data Files
+
+- **来源**: FDA News
+- **时间**: 2026-08-14 13:28
+- **重要性**: ⭐⭐
+
+> Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)
+
+🔗 [阅读原文](http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)
 
 ---
 
@@ -560,30 +643,6 @@
 
 ---
 
-### 🇺🇸 Drugs@FDA Data Files
-
-- **来源**: FDA News
-- **时间**: 2026-08-13 14:12
-- **重要性**: ⭐⭐
-
-> Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)
-
-🔗 [阅读原文](http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)
-
----
-
-### 🇺🇸 Nonprescription Drug Product with an Additional Condition for Nonprescription Use
-
-- **来源**: FDA News
-- **时间**: 2026-08-13 14:01
-- **重要性**: ⭐⭐
-
-> The FDA is announcing the availability of the proposed rule Nonprescription Drug Product with an Additional Condition for Nonprescription Use (Docket No. FDA-2021-N-0862). The proposed rule, if finalized, would establish requirements for a nonprescription drug product that has an additional conditi
-
-🔗 [阅读原文](http://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/nonprescription-drug-product-additional-condition-nonprescription-use)
-
----
-
 ### 🇺🇸 Phase 1 Investigational New Drug (IND) Navigator
 
 - **来源**: FDA News
@@ -593,6 +652,50 @@
 > The Phase 1 IND Navigator provides the tools, guidances, and regulatory expertise you need to prepare and submit an successful Investigational New Drug (IND) application.
 
 🔗 [阅读原文](http://www.fda.gov/industry/phase-1-investigational-new-drug-ind-navigator)
+
+---
+
+### 🇺🇸 Generic Drug User Fee Amendments
+
+- **来源**: FDA News
+- **时间**: 2026-08-14 19:26
+
+> This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.
+
+🔗 [阅读原文](http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments)
+
+---
+
+### 🇺🇸 Generic Drug Facilities, Sites and Organization Lists
+
+- **来源**: FDA News
+- **时间**: 2026-08-14 13:58
+
+> Generic Drug Facilities, Sites and Organization Lists
+
+🔗 [阅读原文](http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists)
+
+---
+
+### 🇺🇸 Container Closure Systems for Human Drugs and Biological Products
+
+- **来源**: FDA News
+- **时间**: 2026-08-14 13:53
+
+> Container Closure Systems for Human Drugs and Biological Products
+
+🔗 [阅读原文](http://www.fda.gov/regulatory-information/search-fda-guidance-documents/container-closure-systems-human-drugs-and-biological-products)
+
+---
+
+### 🇺🇸 Public Meeting on the Recommendations for Reauthorization of the Prescription Drug User Fee Act (PDUFA) - 09/16/2026
+
+- **来源**: FDA News
+- **时间**: 2026-08-14 13:32
+
+> The Food and Drug Administration is announcing a public meeting to discuss proposed recommendations for the reauthorization of the Prescription Drug User Fee Act (PDUFA) for fiscal years (FYs) 2028 through 2032.
+
+🔗 [阅读原文](http://www.fda.gov/drugs/news-events-human-drugs/public-meeting-recommendations-reauthorization-prescription-drug-user-fee-act-pdufa-09162026)
 
 ---
 
@@ -640,80 +743,121 @@
 
 ---
 
-### 🇺🇸 Condition-Specific Meeting Reports and Other Information Related to Patients' Experience
+## 新药研发 | Drug R&D
 
-- **来源**: FDA News
-- **时间**: 2026-08-13 17:48
+### 🇺🇸 Bristol Myers wins ‘milestone’ FDA approval of myeloma drug acquired from Celgene
 
-> This webpage provides links to certain publicly available external reports and resources relating to patient experience data. The patient community, patient advocates, researchers, drug developers, and federal agencies may find these materials useful.
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-14 16:02
+- **重要性**: ⭐⭐⭐⭐
 
-🔗 [阅读原文](http://www.fda.gov/industry/prescription-drug-user-fee-amendments/condition-specific-meeting-reports-and-other-information-related-patients-experience)
+> The clearance of Zenbexus is the first for a group of protein-degrading &ldquo;CELMoD&rdquo; medicines that could help Bristol Myers rejuvenate a key drug franchise.
 
----
-
-### 🇺🇸 Recently Issued Guidance Documents
-
-- **来源**: FDA News
-- **时间**: 2026-08-13 17:07
-
-> This page lists Recently Issued CBER and Cross-Center Guidance Documents.
-
-🔗 [阅读原文](http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-guidance-documents)
+🔗 [阅读原文](https://www.biopharmadive.com/news/bristol-myers-zenbexus-fda-multiple-myeloma-celmod-celgene/827912/)
 
 ---
 
-### 🇺🇸 Generic Drug Facilities, Sites and Organization Lists
+### 🇺🇸 Capricor shares spike on CEO comments; Cytokinetics sues Bristol Myers
 
-- **来源**: FDA News
-- **时间**: 2026-08-13 17:01
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-14 13:28
+- **重要性**: ⭐⭐⭐⭐
 
-> Generic Drug Facilities, Sites and Organization Lists
+> The FDA is &ldquo;willing to review&rdquo; an updated submission for Capricor&rsquo;s Duchenne cell therapy, its CEO said. Elsewhere, a heart drug battle spilled into court and Rigel priced the first &ldquo;Protac&rdquo; medicine.
 
-🔗 [阅读原文](http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists)
-
----
-
-### 🇺🇸 Generic Drug User Fee Amendments
-
-- **来源**: FDA News
-- **时间**: 2026-08-13 16:55
-
-> This page features news and information for industry and stakeholders about GDUFA, its fee structure, payment methods, and related information.
-
-🔗 [阅读原文](http://www.fda.gov/industry/fda-user-fee-programs/generic-drug-user-fee-amendments)
+🔗 [阅读原文](https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/)
 
 ---
 
-### 🇺🇸 Withdrawn and Expired Guidances | Drugs
+### 🇺🇸 Biotech initiatives pick up as more regions race to become hubs
 
-- **来源**: FDA News
-- **时间**: 2026-08-13 16:07
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-14 11:00
+- **重要性**: ⭐⭐
 
-> Withdrawn and Expired Guidances | Drugs
+> New government funding from Pennsylvania to Kansas City is strengthening biotech hubs &mdash; but experts say money alone won&rsquo;t determine where pharma builds next.
 
-🔗 [阅读原文](http://www.fda.gov/drugs/guidances-drugs/withdrawn-and-expired-guidances-drugs)
-
----
-
-### 🇺🇸 Information Regarding Insulin Storage and Switching Between Products in an Emergency
-
-- **来源**: FDA News
-- **时间**: 2026-08-13 14:51
-
-> Updated
-
-🔗 [阅读原文](http://www.fda.gov/drugs/emergency-preparedness-drugs/information-regarding-insulin-storage-and-switching-between-products-emergency)
+🔗 [阅读原文](https://www.biopharmadive.com/news/biotech-hub-race-investments-new-york-kansas-city-pennsylvania-central-virginia/827835/)
 
 ---
 
-### 🇺🇸 Laboratory Information Bulletins
+### 🇺🇸 New Taiho, Cullinan data heats up lung cancer drug battle
 
-- **来源**: FDA News
-- **时间**: 2026-08-13 14:48
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-13 16:05
+- **重要性**: ⭐⭐
 
-> Laboratory Information Bulletins available to the public
+> The findings position their drug, zipalertinib, as a threat to multiple approved medicines &mdash; while setting a bar for others in testing.
 
-🔗 [阅读原文](http://www.fda.gov/science-research/field-science-and-laboratories/laboratory-information-bulletins)
+🔗 [阅读原文](https://www.biopharmadive.com/news/taiho-cullinan-zipalertinib-egfr-exon20-lung-cancer-results/827785/)
+
+---
+
+### 🇺🇸 Psychedelics developer Definium scores more positive data for LSD pill
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-12 14:33
+- **重要性**: ⭐⭐
+
+> Results from a late-stage study focused on generalized anxiety disorder were a &ldquo;clean win&rdquo; to analysts, who believe Definium has a drug with multibillion-dollar sales potential.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/definium-lsd-psychedelics-trial-results-gad-anxiety/827669/)
+
+---
+
+### 🇺🇸 Silence cashes in on ‘differentiated’ data; UK reaffirms support for childhood vaccines
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-12 13:11
+- **重要性**: ⭐⭐
+
+> Some analysts believe Silence&rsquo;s polycythemia vera drug could be superior to a closely watched Takeda medicine. Elsewhere, the FDA spurned a radiopharmaceutical and AbCellera shares climbed to levels not seen since 2023.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/silence-divesiran-vaccines-itm-crl-abcellera-biomarin/827400/)
+
+---
+
+### 🇺🇸 PTC takes a chance on Sangamo’s Fabry disease gene therapy
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-13 15:10
+
+> Wall Street analysts view the deal as a risky, high-reward bet on a treatment that&rsquo;s nearing a possible regulatory approval and could be superior to existing medications.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/ptc-sangamo-fabry-gene-therapy-bankruptcy-sale-lilly/827767/)
+
+---
+
+### 🇺🇸 Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-12 15:19
+
+> Ahead of an approval filing, the drugmaker is amping up a fight against sellers who claim to offer versions of its highly anticipated &ldquo;triple-G&rdquo;&nbsp;weight loss medicine.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/)
+
+---
+
+### 🇺🇸 Boulevard starts up with $65M to pursue targeted autoimmune drugs
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-12 10:30
+
+> Co-founded by pioneering researcher Georg Schett and ex-Sanofi CSO Frank Nestle, the startup is advancing a trio of multifaceted antibodies with the potential to treat several immune diseases.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/boulevard-immune-drugs-igan-georg-schett/827583/)
+
+---
+
+### 🇺🇸 Ex-Legend CEO takes helm at biotech startup scouring the globe for drugs
+
+- **来源**: BioPharma Dive
+- **时间**: 2026-08-11 16:12
+
+> Ying Huang is now running K2 Therapeutics, which has licensed multiple prospects from China-based biotechs and is searching for more &ldquo;high-potential&rdquo; medicines.
+
+🔗 [阅读原文](https://www.biopharmadive.com/news/k2-ying-huang-biotech-startup-mpm-china-drugs/827544/)
 
 ---
 
@@ -815,126 +959,9 @@
 
 ---
 
-## 新药研发 | Drug R&D
-
-### 🇺🇸 New Taiho, Cullian data heats up lung cancer drug battle
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-13 16:05
-- **重要性**: ⭐⭐
-
-> The findings position their drug, zipalertinib, as a threat to multiple approved medicines &mdash; while setting a bar for others in testing.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/taiho-cullinan-zipalertinib-egfr-exon20-lung-cancer-results/827785/)
-
----
-
-### 🇺🇸 Psychedelics developer Definium scores more positive data for LSD pill
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-12 14:33
-- **重要性**: ⭐⭐
-
-> Results from a late-stage study focused on generalized anxiety disorder were a &ldquo;clean win&rdquo; to analysts, who believe Definium has a drug with multibillion-dollar sales potential.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/definium-lsd-psychedelics-trial-results-gad-anxiety/827669/)
-
----
-
-### 🇺🇸 Silence cashes in on ‘differentiated’ data; UK reaffirms support for childhood vaccines
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-12 13:11
-- **重要性**: ⭐⭐
-
-> Some analysts believe Silence&rsquo;s polycythemia vera drug could be superior to a closely watched Takeda medicine. Elsewhere, the FDA spurned a radiopharmaceutical and AbCellera shares climbed to levels not seen since 2023.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/silence-divesiran-vaccines-itm-crl-abcellera-biomarin/827400/)
-
----
-
-### 🇺🇸 Chasing Dupixent, a biotech aims to make better antibody drugs for eczema
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-11 13:40
-- **重要性**: ⭐⭐
-
-> Infinimmune, a California startup, is developing treatments it claims might last longer and be more effective than existing atopic dermatitis medications.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/infinimmune-atopic-dermatitis-series-a-financing-dupixent/827504/)
-
----
-
-### 🇺🇸 Epicrispr lands $90M to advance epigenetic editing drug for rare muscle disease
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-11 12:00
-- **重要性**: ⭐⭐
-
-> The startup has completed enrollment of an early-stage study testing a first-of-its-kind treatment for&nbsp;facioscapulohumeral muscular dystrophy, a disease targeted by many other drugmakers.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/epicrispr-series-c-epigenetic-editing-fshd/827340/)
-
----
-
-### 🇺🇸 PTC takes a chance on Sangamo’s Fabry disease gene therapy
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-13 15:10
-
-> Wall Street analysts view the deal as a risky, high-reward bet on a treatment that&rsquo;s nearing a possible regulatory approval and could be superior to existing medications.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/ptc-sangamo-fabry-gene-therapy-bankruptcy-sale-lilly/827767/)
-
----
-
-### 🇺🇸 Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-12 15:19
-
-> Ahead of an approval filing, the drugmaker is amping up a fight against sellers who claim to offer versions of its highly anticipated &ldquo;triple-G&rdquo;&nbsp;weight loss medicine.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/)
-
----
-
-### 🇺🇸 Boulevard starts up with $65M to pursue targeted autoimmune drugs
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-12 10:30
-
-> Co-founded by pioneering researcher Georg Schett and ex-Sanofi CSO Frank Nestle, the startup is advancing a trio of multifaceted antibodies with the potential to treat several immune diseases.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/boulevard-immune-drugs-igan-georg-schett/827583/)
-
----
-
-### 🇺🇸 Ex-Legend CEO takes helm at biotech startup scouring the globe for drugs
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-11 16:12
-
-> Ying Huang is now running K2 Therapeutics, which has licensed multiple prospects from China-based biotechs and is searching for more &ldquo;high-potential&rdquo; medicines.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/k2-ying-huang-biotech-startup-mpm-china-drugs/827544/)
-
----
-
-### 🇺🇸 Trump signs order seeking to upend childhood vaccine schedule
-
-- **来源**: BioPharma Dive
-- **时间**: 2026-08-11 11:43
-
-> The executive order &mdash; which wasn&rsquo;t accompanied by any new scientific evidence&nbsp;&mdash;&nbsp;aims to split the MMR vaccine into three separate shots and revives the administration&rsquo;s attempt to slim down the immunization schedule.
-
-🔗 [阅读原文](https://www.biopharmadive.com/news/trump-executive-order-childhood-vaccine-schedule-autism/827510/)
-
----
-
 
 ---
 
 *Generated by Pharma Daily - 制药资讯聚合系统*
 
-*2026-08-14 04:05:19*
+*2026-08-15 02:48:35*
