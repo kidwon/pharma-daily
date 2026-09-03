@@ -1,0 +1,58 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T06:49:30.076422",
+  "theme": "minimal",
+  "total_items": 79,
+  "files": {
+    "markdown": "docs/20260903/daily.md",
+    "html": "docs/20260903/index.html",
+    "directory": "docs/20260903"
+  },
+  "analysis": {
+    "overview": "2026-09-03 共获取 79 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "STAT+: Pharmalittle: We’re reading about a pancreatic cancer drug approval, a Trump deal with biotechs, and more",
+        "importance": 5,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Withdrawn | Cancer Accelerated Approvals",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "Takeda bolsters blood cancer portfolio with FDA nod for Mimrylo in polycythemia vera",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "FDA OKs Takeda, Protagonist drug for rare blood cancer",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: Pharmalittle: We’re reading about a Huntington’s gene therapy, Novo’s challenges, and more",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 41 条新闻",
+      "监管审批": "共 20 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
