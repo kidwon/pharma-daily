@@ -1,0 +1,58 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T06:39:39.094848",
+  "theme": "minimal",
+  "total_items": 80,
+  "files": {
+    "markdown": "docs/20260905/daily.md",
+    "html": "docs/20260905/index.html",
+    "directory": "docs/20260905"
+  },
+  "analysis": {
+    "overview": "2026-09-05 共获取 80 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA Approves First Drug to Treat Alexander Disease",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "Ionis’ ‘breakthrough’ Alexander disease approval establishes pillar of rare disease pipeline",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 4,
+        "title": "STAT+: FDA takes another look at botanical drugs",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "监管审批": "共 20 条新闻",
+      "综合": "共 42 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
