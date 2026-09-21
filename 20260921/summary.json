@@ -1,0 +1,58 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T07:35:52.121404",
+  "theme": "minimal",
+  "total_items": 82,
+  "files": {
+    "markdown": "docs/20260921/daily.md",
+    "html": "docs/20260921/index.html",
+    "directory": "docs/20260921"
+  },
+  "analysis": {
+    "overview": "2026-09-21 共获取 82 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA Expedited Investigational New Drug (IND) Pilot Program",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "FDA approves imlunestrant in combination with abemaciclib for ER-positive, HER2-negative, ESR1-mutated advanced or metastatic breast cancer",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "FDA approves Ultragenyx’s gene therapy Fayuvi for rare neurodegenerative disorder",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "Bayer’s Kerendia secures FDA nod as first drug in 30 years for Type 1 diabetes-associated kidney disease",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "BMS, Ono take Amgen to task as FDA's Opdivo biosimilar decision looms",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "监管审批": "共 20 条新闻",
+      "综合": "共 43 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 9 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
