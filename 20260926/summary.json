@@ -1,0 +1,58 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T07:03:14.954981",
+  "theme": "minimal",
+  "total_items": 81,
+  "files": {
+    "markdown": "docs/20260926/daily.md",
+    "html": "docs/20260926/index.html",
+    "directory": "docs/20260926"
+  },
+  "analysis": {
+    "overview": "2026-09-26 共获取 81 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Fierce Pharma Asia—Lilly’s $3.35B InnoCare deal; Korea’s breakthrough; China’s 5-year biotech plan",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Merck reveals study success, and possible safety worries, for eye drug hopeful",
+        "importance": 5,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 3,
+        "title": "Elevar wins FDA nod for bile duct cancer drug Lyrfigtu, a first for a Korean firm",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "RNAi drug specialist ADARx raises $446M IPO",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 5,
+        "title": "Grail multicancer detection test wins FDA advisers’ backing",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 43 条新闻",
+      "新药研发": "共 10 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
