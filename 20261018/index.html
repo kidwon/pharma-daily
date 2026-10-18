@@ -1,0 +1,1878 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>制药日报 - 2026-10-18</title>
+    <style>
+        :root, [data-theme="minimal"] {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f5f5f7;
+            --text-primary: #1d1d1f;
+            --text-secondary: #86868b;
+            --accent: #0071e3;
+            --accent-hover: #0077ed;
+            --border: #d2d2d7;
+            --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+            --header-bg: transparent;
+            --header-text: var(--text-primary);
+        }
+
+        [data-theme="pharma-blue"] {
+            --bg-primary: #f0f4f8;
+            --bg-secondary: #ffffff;
+            --text-primary: #2d3748;
+            --text-secondary: #718096;
+            --accent: #2b6cb0;
+            --accent-hover: #2c5282;
+            --border: #e2e8f0;
+            --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --header-bg: linear-gradient(135deg, #1a365d 0%, #2b6cb0 100%);
+            --header-text: #ffffff;
+        }
+
+        [data-theme="warm"] {
+            --bg-primary: #faf8f5;
+            --bg-secondary: #ffffff;
+            --text-primary: #451a03;
+            --text-secondary: #78716c;
+            --accent: #d97706;
+            --accent-hover: #b45309;
+            --border: #e7e5e4;
+            --card-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+            --header-bg: transparent;
+            --header-text: var(--text-primary);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 0 22px;
+        }
+
+        /* Header */
+        header {
+            padding: 80px 0 60px;
+            text-align: center;
+        }
+
+        .logo {
+            font-size: 48px;
+            margin-bottom: 16px;
+        }
+
+        h1 {
+            font-size: 48px;
+            font-weight: 600;
+            letter-spacing: -0.02em;
+            margin-bottom: 8px;
+        }
+
+        .subtitle {
+            font-size: 21px;
+            color: var(--text-secondary);
+            font-weight: 400;
+        }
+
+        /* Stats */
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 48px;
+            padding: 32px 0;
+            margin: 40px 0;
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 32px;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+
+        /* Analysis Section */
+        .analysis {
+            background: var(--bg-secondary);
+            border-radius: 18px;
+            padding: 32px;
+            margin-bottom: 48px;
+        }
+
+        .analysis h2 {
+            font-size: 24px;
+            margin-bottom: 16px;
+        }
+
+        .analysis-content {
+            font-size: 17px;
+            line-height: 1.7;
+            color: var(--text-secondary);
+        }
+
+        /* Category Section */
+        .category {
+            margin-bottom: 56px;
+        }
+
+        .category-header {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            margin-bottom: 24px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .category-title {
+            font-size: 28px;
+            font-weight: 600;
+        }
+
+        .category-title-en {
+            font-size: 17px;
+            color: var(--text-secondary);
+            font-weight: 400;
+        }
+
+        .category-count {
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            margin-left: auto;
+        }
+
+        /* News Card */
+        .news-card {
+            background: var(--bg-primary);
+            border: 1px solid var(--border);
+            border-radius: 18px;
+            padding: 28px;
+            margin-bottom: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .news-card:hover {
+            box-shadow: var(--card-shadow);
+            transform: translateY(-2px);
+        }
+
+        .news-card h3 {
+            font-size: 21px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            line-height: 1.4;
+        }
+
+        .news-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            margin-bottom: 16px;
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        .news-source {
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        .news-importance {
+            letter-spacing: 2px;
+        }
+
+        .news-summary {
+            font-size: 17px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+
+        .news-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 17px;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .news-link:hover {
+            color: var(--accent-hover);
+        }
+
+        .news-link::after {
+            content: "→";
+            transition: transform 0.2s;
+        }
+
+        .news-link:hover::after {
+            transform: translateX(4px);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 48px 0;
+            color: var(--text-secondary);
+            font-size: 14px;
+            border-top: 1px solid var(--border);
+            margin-top: 48px;
+        }
+
+        footer p {
+            margin-bottom: 8px;
+        }
+
+        /* Language Flag */
+        .lang-flag {
+            font-size: 16px;
+            margin-right: 8px;
+        }
+
+        /* Date Filter */
+        .date-filter {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 32px;
+        }
+
+        .date-btn {
+            padding: 8px 16px;
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            background: var(--bg-primary);
+            color: var(--text-secondary);
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-width: 70px;
+        }
+
+        .date-btn:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .date-btn.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: white;
+        }
+
+        .date-btn.weekend {
+            background: var(--bg-secondary);
+        }
+
+        .date-btn.weekend.active {
+            background: var(--accent);
+        }
+
+        .date-btn .weekday {
+            font-size: 12px;
+            opacity: 0.8;
+        }
+
+        .date-btn .date-display {
+            font-weight: 500;
+        }
+
+        .filter-count {
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 14px;
+            margin-bottom: 24px;
+        }
+
+        .news-card.hidden {
+            display: none;
+        }
+
+        /* Theme Switcher */
+        .theme-switcher {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 8px;
+            background: var(--bg-secondary);
+            padding: 8px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
+        }
+
+        .theme-btn {
+            width: 32px;
+            height: 32px;
+            border: 2px solid transparent;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+
+        .theme-btn:hover {
+            transform: scale(1.1);
+        }
+
+        .theme-btn.active {
+            border-color: var(--accent);
+        }
+
+        .theme-btn[data-theme="minimal"] {
+            background: linear-gradient(135deg, #ffffff 50%, #0071e3 50%);
+        }
+
+        .theme-btn[data-theme="pharma-blue"] {
+            background: linear-gradient(135deg, #1a365d 50%, #2b6cb0 50%);
+        }
+
+        .theme-btn[data-theme="warm"] {
+            background: linear-gradient(135deg, #faf8f5 50%, #d97706 50%);
+        }
+
+        /* Responsive */
+        @media (max-width: 734px) {
+            header {
+                padding: 48px 0 40px;
+            }
+
+            h1 {
+                font-size: 32px;
+            }
+
+            .subtitle {
+                font-size: 17px;
+            }
+
+            .stats-bar {
+                gap: 24px;
+            }
+
+            .stat-value {
+                font-size: 24px;
+            }
+
+            .category-title {
+                font-size: 24px;
+            }
+
+            .news-card {
+                padding: 20px;
+            }
+
+            .news-card h3 {
+                font-size: 19px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Theme Switcher -->
+    <div class="theme-switcher">
+        <button class="theme-btn active" data-theme="minimal" title="简约白"></button>
+        <button class="theme-btn" data-theme="pharma-blue" title="医药蓝"></button>
+        <button class="theme-btn" data-theme="warm" title="暖色调"></button>
+    </div>
+
+    <div class="container">
+        <header>
+            <div class="logo">💊</div>
+            <h1>制药日报</h1>
+            <p class="subtitle">Pharma Daily · 2026-10-18 <span style="font-size: 14px; opacity: 0.7;">(US Eastern / EDT)</span></p>
+        </header>
+
+        <div class="stats-bar">
+            <div class="stat">
+                <div class="stat-value">73</div>
+                <div class="stat-label">新闻总数</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">4</div>
+                <div class="stat-label">类别数</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">2026-10-18 06:56</div>
+                <div class="stat-label">更新时间</div>
+            </div>
+        </div>
+
+        <!-- Date Filter -->
+        <div class="date-filter">
+            <button class="date-btn active" data-filter="all">
+                <span class="weekday">全部</span>
+                <span class="date-display">All</span>
+            </button>
+            
+            <button class="date-btn " data-filter="2026-10-12">
+                <span class="weekday">周一</span>
+                <span class="date-display">10/12</span>
+            </button>
+            
+            <button class="date-btn " data-filter="2026-10-13">
+                <span class="weekday">周二</span>
+                <span class="date-display">10/13</span>
+            </button>
+            
+            <button class="date-btn " data-filter="2026-10-14">
+                <span class="weekday">周三</span>
+                <span class="date-display">10/14</span>
+            </button>
+            
+            <button class="date-btn " data-filter="2026-10-15">
+                <span class="weekday">周四</span>
+                <span class="date-display">10/15</span>
+            </button>
+            
+            <button class="date-btn " data-filter="2026-10-16">
+                <span class="weekday">周五</span>
+                <span class="date-display">10/16</span>
+            </button>
+            
+            <button class="date-btn weekend" data-filter="2026-10-17">
+                <span class="weekday">周六</span>
+                <span class="date-display">10/17</span>
+            </button>
+            
+            <button class="date-btn weekend" data-filter="2026-10-18">
+                <span class="weekday">周日</span>
+                <span class="date-display">10/18</span>
+            </button>
+            
+        </div>
+        <div class="filter-count" id="filterCount"></div>
+
+        
+        <section class="analysis">
+            <h2>📊 今日概览</h2>
+            <div class="analysis-content">
+                <h3>📊 AI 智能分析</h3>
+<h4>今日概览</h4>
+<p>2026-10-18 共获取 73 条制药行业新闻，涵盖 4 个类别。</p>
+<h4>🔥 重点新闻</h4>
+<p><strong>1. Fierce Pharma Asia—Roche’s $1.2B obesity deal; Asahi Kasei’s FDA nod; Verastem’s KRAS boon</strong> ⭐⭐⭐⭐⭐<br>
+   - 类别: 综合<br>
+   - 来自 FiercePharma</p>
+<p><strong>2. FDA Expedited Investigational New Drug (IND) Pilot Program</strong> ⭐⭐⭐⭐⭐<br>
+   - 类别: 监管审批<br>
+   - 来自 FDA News</p>
+<p><strong>3. Bespak and SNBL agree global access deal for FDA‑approved nasal device</strong> ⭐⭐⭐⭐⭐<br>
+   - 类别: 商业动态<br>
+   - 来自 Pharma Times</p>
+<p><strong>4. Roche makes class-first push into thyroid eye disease with new FDA nod for Enspryng</strong> ⭐⭐⭐⭐<br>
+   - 类别: 综合<br>
+   - 来自 FiercePharma</p>
+<p><strong>5. Galderma bulks up dermatology portfolio with $1.5B acquisition of Zo Skin Health</strong> ⭐⭐⭐⭐<br>
+   - 类别: 综合<br>
+   - 来自 FiercePharma</p>
+<h4>📁 分类摘要</h4>
+<p><strong>综合</strong> (): 共 35 条新闻<br>
+<strong>监管审批</strong> (Regulatory): 共 20 条新闻<br>
+<strong>商业动态</strong> (Business/M&A): 共 8 条新闻<br>
+<strong>新药研发</strong> (Drug R&D): 共 10 条新闻</p>
+<h4>🔮 明日关注</h4>
+<p>请关注各类临床试验数据更新和监管审批进展。</p>
+            </div>
+        </section>
+        
+
+        <main>
+            
+            <section class="category">
+                <div class="category-header">
+                    <h2 class="category-title">综合</h2>
+                    <span class="category-title-en"></span>
+                    <span class="category-count">35 条</span>
+                </div>
+
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Fierce Pharma Asia—Roche’s $1.2B obesity deal; Asahi Kasei’s FDA nod; Verastem’s KRAS boon
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-15 18:16</span>
+                        
+                        <span class="news-importance">⭐⭐⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Roche extended its China shopping spree with a $1 billion-plus obesity deal. Asahi Kasei&#39;s Hovilpri became the first HSV drug with a novel mechanism approved in nearly 30 years. Verastem&#39;s China-licensed KRAS G12D inhibitor showed strong early data in pancreatic cancer. And more.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/roche-12b-obesity-deal-asahi-kasei-fda-nod-verastem-kras-boon" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Roche makes class-first push into thyroid eye disease with new FDA nod for Enspryng
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-16 09:29</span>
+                        
+                        <span class="news-importance">⭐⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Some six years after scoring an initial FDA nod, Roche’s IL-6 receptor inhibitor Enspryng is muscling up to Amgen&#39;s Tepezza in a key eye disease arena.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/roche-makes-class-first-push-thyroid-eye-disease-new-fda-nod-enspryng" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Galderma bulks up dermatology portfolio with $1.5B acquisition of Zo Skin Health
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-14 10:04</span>
+                        
+                        <span class="news-importance">⭐⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Expanding its presence in dermatology, Cetaphil maker Galderma has agreed to acquire professional skincare shop Zo Skin Health for $1.5 billion.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/galderma-bulks-dermatology-portfolio-15b-acquisition-zo-skin-health" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        FDA clears ImmunityBio’s Anktiva expansion in bladder cancer after regulatory whiplash
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-14 16:54</span>
+                        
+                        <span class="news-importance">⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">To expand Anktiva’s label, the FDA adopted a new approach to how it evaluates treatments for BCG-unresponsive NMIBC. The new regulatory path essentially allowed ImmunityBio to bypass an expensive randomized phase 3 trial that competitor Johnson &amp;amp; Johnson is currently forced to grind through.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/fda-clears-immunitybio-anktiva-expansion-bladder-cancer-after-regulatory-whiplash" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Lilly&#39;s obesity pill, RevMed&#39;s pancreatic cancer breakthrough among slew of CHMP endorsements in Europe
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-16 11:15</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Across the pond, European regulators handed down a pair of pivotal approval recommendations this week, making way for a new front in Novo and Eli Lilly’s oral GLP-1 showdown and endorsing Revolution Medicines’ potential pancreatic cancer game changer.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/lillys-obesity-pill-revmeds-pancreatic-cancer-breakthrough-among-slew-chmp-endorsements" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        China looks to ban foreign acquisitions of critical biopharma platforms
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-16 10:40</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">As Washington ramps up efforts to tighten cross-border life sciences deals involving Chinese assets, Beijing is moving to tighten its own grip on biomedical innovation, rolling out a draft policy that would ban or restrict the export of key biopharmaceutical technologies.</p>
+                    
+                    <a href="https://www.fiercepharma.com/biotech/china-looks-ban-foreign-acquisitions-critical-biopharma-platforms" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Compass puts treatment-resistant depression on the map with first awareness day
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-15 05:51</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Compass Pathways has partnered with mental health organizations on the first-ever awareness day for treatment-resistant depression.</p>
+                    
+                    <a href="https://www.fiercepharma.com/marketing/compass-puts-treatment-resistant-depression-map-first-awareness-day" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Ultragenyx makes swift $413M return on FDA review vouchers after summer of gene therapy nods
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-14 16:22</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Hot off a pair of key FDA approvals this summer, rare disease specialist Ultragenyx has wasted little time cashing in on the priority review vouchers it earned from the green lights.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/ultragenyx-makes-swift-413m-return-fda-review-vouchers-after-summer-gene-therapy-nods" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        NantWorks&#39; Soon-Shiong puts chips behind manufacturing disruptors in new rounds for Prolific Machines, Multiply Labs
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-14 07:56</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">With demand for advanced manufacturing solutions mounting across the industry, the moment is ripe to capitalize on investor interest and build out toward a potential production paradigm shift.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/nantworks-soon-shiong-puts-chips-behind-manufacturing-disruptors-new-rounds-prolific" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: RevMed’s pancreatic cancer drug nears European approval
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-16 13:38</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines&#39; Rasonque for pancreatic cancer.</p>
+                    
+                    <a href="https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Pharmalittle: We’re reading about former FDA head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-15 13:31</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Three former FDA chiefs lit into the Trump administration, criticizing the now former FDA officials who oversaw a massive staff exodus</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: FDA adcomm members’ ties to industry under scrutiny
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-14 14:12</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group&amp;#8230;</p>
+                    
+                    <a href="https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-13">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-13 18:00</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Nearly 40% of FDA advisory committee meetings over a 20-year period included either a patient or consumer rep with active ties to an advocacy group funded by pharma companies.</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/10/13/many-patient-and-consumer-reps-on-fda-advisory-committees-ties-to-groups-funded-by-pharma/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-13">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: FTC demands Martin Shkreli divest his pharma stocks
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-13 14:31</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The FTC asked a federal court to hold Martin Shkreli in contempt for violating a court order banning him from working in the pharmaceutical industry</p>
+                    
+                    <a href="https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Isotope supplier NorthStar continues rise with partnership to tee up China radiopharmaceutical filings
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-15 08:02</span>
+                        
+                        <span class="news-importance">⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">As the momentum continues to pick up at NorthStar Medical Technologies, the radioisotope producer is strengthening ties in China, in a move that helps put its actinium-225 supplies on the map for local radiopharmaceutical filings.&amp;nbsp;</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/isotope-supplier-northstar-continues-rise-partnership-tee-china-radiopharmaceutical-filings" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        AbbVie marks calendar for ‘Time For Treks’ in National Park Foundation, CLL Society partnership
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-14 10:11</span>
+                        
+                        <span class="news-importance">⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">AbbVie&#39;s “Time For Treks” brings the chronic lymphocytic leukemia (CLL) community together for an outdoor gathering at Cabrillo National Monument, San Diego, on Oct. 17.</p>
+                    
+                    <a href="https://www.fiercepharma.com/marketing/abbvie-marks-calendar-time-treks-national-parks-foundation-cll-society-partnership" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Trump&#39;s pharma holdings surged as drugmakers benefited from Medicare price negotiation carveouts, Democrats allege
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-16 14:51</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">As midterms loom, Democrats on Congress’ Joint Economic Committee (JEC) are reviving concerns about the orphan drug carveout tucked into Republicans’ One Big Beautiful Bill Act, alleging that President Donald Trump accumulated millions of dollars in pharma stocks before and after the enactment of policies benefiting some of those same companies.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/trumps-pharma-holdings-boomed-medicare-price-negotiation-carveouts-democrats-allege" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Sanofi cycles deeper into sports marketing niche as Tour de France partner
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-16 11:31</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The French pharma will sponsor the prestigious white jersey, awarded to the best rider under 25, at both the Tour de France and the Tour de France Femmes in 2027.</p>
+                    
+                    <a href="https://www.fiercepharma.com/marketing/sanofi-cycles-deeper-athletic-marketing-niche-tour-de-france-partner" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Inside Teva&#39;s Weltruza launch and Novo&#39;s GLP-1 strategy
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-16 09:33</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">This week on &#34;The Top Line,&#34; we catch up with leaders from Teva and Novo to discuss new drug launches, growth opportunities and what&#39;s ahead for both companies.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/inside-tevas-weltruza-launch-and-novos-glp-1-strategy" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Kindeva lands $226M defense contract to supply nerve agent antidote in US
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-15 12:16</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Kindeva&#39;s Meridian was awarded a $226 million defense contract to supply the U.S. military with its self-injected nerve agent antidote and bolster national defense against chemical threats.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/kindeva-meridian-land-226m-defense-contract-supply-nerve-agent-antidote" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Par Health recalls 22 lots of IV blood thinner, its 3rd US product pull in a month
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-15 09:43</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Par Health issued a recall of 22 lots of the intravenous anticoagulant argatroban, the latest in a string of recent recalls related to IV-bag contamination risk.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/par-health-recalls-22-lots-iv-blood-thinner-its-3rd-recall-month" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        With new Omvoh analyses, Lilly argues &#39;higher bar&#39; for IBD treatment is within reach
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-15 10:48</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">In the fiercely competitive inflammatory bowel disease (IBD) market, Eli Lilly is making the case for its antibody Omvoh as a holistic solution for patients living with ulcerative colitis or Crohn’s disease—and one that could offer relief after other biologic drugs have failed, too.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/new-omvoh-analyses-lilly-argues-higher-bar-ibd-treatment-within-reach" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Gilead puts a timely spotlight on HIV prevention in Latino communities with &#39;Ahorita Mismo&#39; campaign
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-14 18:33</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Gilead&#39;s “Ahorita Mismo (Right Now!)” stars two popular Latino creators in a call-in podcast-themed spot looking to spark conversations around HIV prevention.</p>
+                    
+                    <a href="https://www.fiercepharma.com/marketing/gilead-puts-timely-spotlight-hiv-prevention-latino-communities-ahorita-mismo-campaign" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        United lands &#39;clear-cut win&#39; as Liquidia agrees to $380M settlement in Tyvaso patent infringement saga
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-14 10:16</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">With a years-long patent dispute between the two drugmakers finally put to bed—complete with a hefty settlement payout—United Therapeutics has clinched what one analyst calls a “clear-cut win” over lung disease rival Liquidia Technologies.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/united-lands-clearcut-win-liquidia-agrees-380m-settlement-tyvaso-patent-infringement-saga" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        FTC seeks sanctions against Martin Shkreli over alleged pharma ban violations
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-14 08:48</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The FTC alleges that “Pharma Bro” Martin Shkreli flagrantly traded pharmaceutical stocks on social media for three years, violating his lifetime ban from the industry.</p>
+                    
+                    <a href="https://www.fiercepharma.com/pharma/martin-shkreli-defied-lifetime-pharma-ban-ftc-calls-sanctions" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Sanofi dodges EU fine over alleged disparagement of CSL flu vaccine
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-14 07:19</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Sanofi has avoided a European Union fine after antitrust regulators accepted its commitments to address the alleged disparagement of CSL Seqirus’ rival flu vaccine.</p>
+                    
+                    <a href="https://www.fiercepharma.com/marketing/sanofi-dodges-eu-fine-over-alleged-disparagement-csl-flu-vaccine" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        GSK to lay off over 1,200 roles in Belgium as cost-saving program picks up steam
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FiercePharma</span>
+                        <span class="news-date">2026-10-14 06:39</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Up to 1,217 GSK employees in Belgium are at risk of losing their jobs as the Big Pharma rolls out its global cost-saving plans.</p>
+                    
+                    <a href="https://www.fiercepharma.com/biotech/gsk-lay-over-12k-roles-belgium-cost-saving-program-picks-steam" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Up and down the ladder: The latest comings and goings
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-16 14:00</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Pharmalittle: We’re reading about an HHS peptide push, Trump’s pharma stock holdings, and more
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-16 13:49</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/10/16/hhs-peptide-push-trump-pharma-stock-holdings/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-15 19:58</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.</p>
+                    
+                    <a href="https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-15 15:43</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Verastem Oncology reports encouraging early results for its KRAS G12D inhibitor, which it’s studying in more than 200 patients with advanced solid tumors like metastatic pancreatic ductal adenocarcinoma and non-small&amp;#8230;</p>
+                    
+                    <a href="https://www.statnews.com/2026/10/15/biotech-news-verastem-kras-inhibitor-shows-promise-in-pancreatic-cancer/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-14 20:16</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The Trump administration is delaying by 90 days a federal rule that could prevent Americans from obtaining prescription drugs from licensed international pharmacies.</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Pharmalittle: We’re reading about Sanofi settling an EU antitrust probe, ‘pharma bro’ Shkreli, and more
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-14 13:26</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The FTC asked a U.S. court to hold Martin Shkreli in contempt for “flagrantly” violating a court order banning him from working in the pharma industry</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-14 12:17</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">E.U. antitrust regulators accepted concessions from Sanofi to settle a probe into an allegedly “misleading” campaign that disparaged a rival flu vaccine.</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-13">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        STAT+: Pharmalittle: We’re reading about concerns over a rare disease drug, pharma payments to docs, and more
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">STAT News - Pharma</span>
+                        <span class="news-date">2026-10-13 13:29</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug</p>
+                    
+                    <a href="https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+            </section>
+            
+            <section class="category">
+                <div class="category-header">
+                    <h2 class="category-title">监管审批</h2>
+                    <span class="category-title-en">Regulatory</span>
+                    <span class="category-count">20 条</span>
+                </div>
+
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        FDA Expedited Investigational New Drug (IND) Pilot Program
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 19:25</span>
+                        
+                        <span class="news-importance">⭐⭐⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The FDA Expedited IND Pilot Program is an initiative under HHS Operation TrialBlazer designed to evaluate new approaches for accelerating first-in-human (FIH) clinical trials in the United States while maintaining FDA&#39;s rigorous standards for participant safety and scientific oversight.</p>
+                    
+                    <a href="http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Regulatory Pharmaceutical Fellowship Program
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 18:13</span>
+                        
+                        <span class="news-importance">⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Explore the FDA’s Regulatory Pharmaceutical Fellowship Program, a partnership with academia and industry, offering specialized training in regulatory science, policy, and drug development. Learn how to advance your career in the pharmaceutical field through this unique fellowship opportunity.</p>
+                    
+                    <a href="http://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/regulatory-pharmaceutical-fellowship-program" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Verified Clinical Benefit | Cancer Accelerated Approvals
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 17:54</span>
+                        
+                        <span class="news-importance">⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications with postmarketing trials that have verified clinical benefit and for which traditional approval has been subsequently granted for the specific indication.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/resources-information-approved-drugs/verified-clinical-benefit-cancer-accelerated-approvals" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Ongoing | Cancer Accelerated Approvals
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 17:24</span>
+                        
+                        <span class="news-importance">⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have postmarketing requirement(s) for ongoing clinical trial(s) to verify clinical benefit.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/resources-information-approved-drugs/ongoing-cancer-accelerated-approvals" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Expedited IND Rolling Submission Process and Program Structure
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 19:28</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">A majority of the Expedited IND Pilot will take place during the “Pre-IND” phase – the period of nonclinical development before the sponsor submits their official 30-day IND application.</p>
+                    
+                    <a href="http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Untitled Letters
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 19:00</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">These letters are supplied by the CDER Freedom of Information Office and only cover Office of Prescription Drug Promotion&#39;s untitled letters. FDA may have redacted or edited some of the letters to remove confidential information.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/warning-letters-and-notice-violation-letters-pharmaceutical-companies/untitled-letters" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Other | Cancer Accelerated Approvals
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 17:26</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">This listing includes accelerated approvals (AAs) for malignant hematology and oncology indications that have been granted for supportive care products and changes to dosing or formulation.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/resources-information-approved-drugs/other-cancer-accelerated-approvals" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        FDA Approves New Nonprescription Eye Drop for Relief of Eye Redness
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 14:18</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">CDER Statement: FDA Approves New Nonprescription Eye Drop for Relief of Eye Redness</p>
+                    
+                    <a href="http://www.fda.gov/drugs/drug-alerts-and-statements/fda-approves-new-nonprescription-eye-drop-relief-eye-redness" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Drugs@FDA Data Files
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 13:14</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Drugs@FDA Downloadable Data File in ZIP format, Data Definitions, and Entity Relationship Diagram (ERD)</p>
+                    
+                    <a href="http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        What&#39;s New Related to Drugs
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 12:46</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Want to know what&#39;s new on drugs from FDA? This page provides quick links to the latest on a variety of topics including: drug approvals, safety warnings, drug shortages, etc.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        10 Day Forecast may be harmful due to hidden ingredients
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-15 20:09</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The FDA is advising consumers not to purchase or use 10 Day Forecast, a product promoted and sold for sexual enhancement on various websites, including ebay.com, and possibly in some retail stores.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/medication-health-fraud-notifications/10-day-forecast-may-be-harmful-due-hidden-ingredients" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Counterfeit Versions of Eye Drops Found in Several States
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 20:07</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Counterfeit versions of over-the-counter eye drops have been found in Florida and Georgia in stores serving primarily Spanish-speaking customers. These products also may be in Louisiana, Mississippi, North Carolina and potentially other states.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/counterfeit-medicine/counterfeit-versions-eye-drops-found-several-states" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Expedited Investigational New Drug Pilot Program - Application Instructions
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 19:28</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The application will consist of two sections: 1) Sponsor and Investigative New Drug Information, and 2) Prospective Research Institution Qualifications.</p>
+                    
+                    <a href="http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-investigational-new-drug-pilot-program-application-instructions" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Sunscreen: How to Help Protect Your Skin from the Sun
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 18:37</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">How you use sunscreens, and what other protective measures you take, make a difference in how well you are able to protect yourself and your family from sunburn, skin cancer, early skin aging and other risks of overexposure to the sun.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/understanding-over-counter-medicines/sunscreen-how-help-protect-your-skin-sun" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Office of Generic Drugs | Offices and Divisions
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 17:28</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Generic Drugs Offices and Divisions</p>
+                    
+                    <a href="http://www.fda.gov/about-fda/cder-offices-and-divisions/office-generic-drugs-offices-and-divisions" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        What You Should Know about Eye Drops
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 15:48</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Ophthalmic drug products, such as eye drops, pose a heightened risk of harm to users because drugs applied to the eyes bypass some of the body’s natural defenses. Any drug used in the eyes must be sterile to reduce the risk of infection. Eye drops are available by prescription or sold as OTCs.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/buying-using-medicine-safely/what-you-should-know-about-eye-drops" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Counterfeit Medicine
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 15:02</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Counterfeit (fake or falsified) medicines may be harmful to your health because while being passed off as authentic, may contain the wrong ingredients, contain too much, too little or no active ingredient at all or contain other harmful ingredients.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/buying-using-medicine-safely/counterfeit-medicine" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        CDER Exclusivity Board
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 13:33</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">CDER Exclusivity Board</p>
+                    
+                    <a href="http://www.fda.gov/drugs/development-approval-process-drugs/cder-exclusivity-board" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Drug Alerts and Statements
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-16 12:33</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">See updates from CDER on fast-moving issues and learn about CDER&#39;s work to enhance public health</p>
+                    
+                    <a href="http://www.fda.gov/drugs/drug-safety-and-availability/drug-alerts-and-statements" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Sexual Enhancement and Energy Product Notifications
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">FDA News</span>
+                        <span class="news-date">2026-10-15 20:10</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Learn about the warnings for sexual enhancement and energy products that contain hidden drugs and other hidden ingredients.</p>
+                    
+                    <a href="http://www.fda.gov/drugs/medication-health-fraud-notifications/sexual-enhancement-and-energy-product-notifications" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+            </section>
+            
+            <section class="category">
+                <div class="category-header">
+                    <h2 class="category-title">商业动态</h2>
+                    <span class="category-title-en">Business/M&amp;A</span>
+                    <span class="category-count">8 条</span>
+                </div>
+
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Bespak and SNBL agree global access deal for FDA‑approved nasal device
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Pharma Times</span>
+                        <span class="news-date">2026-10-14 09:42</span>
+                        
+                        <span class="news-importance">⭐⭐⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Partnership expands Bespak’s intranasal dry powder capabilities</p>
+                    
+                    <a href="https://pharmatimes.com/news/bespak-and-snbl-agree-global-access-deal-for-fda-approved-nasal-device/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        RougeTx launches with $58 million series A financing for HHT therapy
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Pharma Times</span>
+                        <span class="news-date">2026-10-15 09:54</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">New company to advance first‑in‑class treatment</p>
+                    
+                    <a href="https://pharmatimes.com/news/rougetx-launches-with-58-million-series-a-financing-for-hht-therapy/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-12">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        SMC accepts vutrisiran for eligible patients in Scotland
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Pharma Times</span>
+                        <span class="news-date">2026-10-12 09:36</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">First long‑acting therapy targeting root cause of ATTR‑CM</p>
+                    
+                    <a href="https://pharmatimes.com/news/smc-accepts-vutrisiran-for-eligible-patients-in-scotland/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Lundbeck presents phase 1b data for Lu AF28996 in advanced Parkinson’s disease
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Pharma Times</span>
+                        <span class="news-date">2026-10-15 09:53</span>
+                        
+                        <span class="news-importance">⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Phase 2 development underway as DARE2 trial begins</p>
+                    
+                    <a href="https://pharmatimes.com/news/lundbeck-presents-phase-1b-data-for-lu-af28996-in-advanced-parkinsons-disease/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-12">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        NHS Blood and Transplant partners with Northwest Biotherapeutics
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Pharma Times</span>
+                        <span class="news-date">2026-10-12 09:33</span>
+                        
+                        <span class="news-importance">⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Collaboration to expand personalised cancer immunotherapy</p>
+                    
+                    <a href="https://pharmatimes.com/news/nhs-blood-and-transplant-partners-with-northwest-biotherapeutics/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        NEMLUVIO data show sustained three‑year responses in atopic dermatitis
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Pharma Times</span>
+                        <span class="news-date">2026-10-14 09:36</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">New long‑term results reinforce efficacy across AD and PN</p>
+                    
+                    <a href="https://pharmatimes.com/news/nemluvio-data-show-sustained-three-year-responses-in-atopic-dermatitis/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-13">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        SMC accepts AQUIPTA for eligible migraine patients in Scotland
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Pharma Times</span>
+                        <span class="news-date">2026-10-13 09:39</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">New option offers acute treatment for adults with migraine</p>
+                    
+                    <a href="https://pharmatimes.com/news/smc-accepts-aquipta-for-eligible-migraine-patients-in-scotland/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-13">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        MINT study results strengthen real‑world evidence for mogamulizumab
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">Pharma Times</span>
+                        <span class="news-date">2026-10-13 09:31</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Final analysis shows durable outcomes in MF and SS</p>
+                    
+                    <a href="https://pharmatimes.com/news/mint-study-results-strengthen-real-world-evidence-for-mogamulizumab/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+            </section>
+            
+            <section class="category">
+                <div class="category-header">
+                    <h2 class="category-title">新药研发</h2>
+                    <span class="category-title-en">Drug R&amp;D</span>
+                    <span class="category-count">10 条</span>
+                </div>
+
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Next-gen RNAi drugmaker City prices $200M IPO
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-10-16 10:33</span>
+                        
+                        <span class="news-importance">⭐⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The offering will support a trio of medicines in or nearing clinical testing, as well as earlier research into RNAi treatments that get into tissues outside the liver.&amp;nbsp;</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Iambic CEO on taking an AI drug company public
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-10-16 16:10</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&amp;rsquo;s role in drug development evolving.</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        FDA ‘reset’ continues with new plan for reviewing rare disease drugs
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-10-15 15:23</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">A revamped regulatory framework may give investors less of a &amp;ldquo;guessing game&amp;rdquo; as they weigh chances for drug approvals, one analyst said.</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/fda-rare-disease-framework-initiative-drug-development/833080/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Iambic, an AI drug discovery specialist, banks $150M in an IPO
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-10-15 00:08</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to &amp;ldquo;disrupt legacy drug discovery paradigms.&amp;rdquo;</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-10-14 15:54</span>
+                        
+                        <span class="news-importance">⭐⭐</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">In a first, a subcutaneously administered RNA interference medicine crossed into the brain and plummeted levels of a protein implicated in the disease.</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/arrowhead-rnai-alzheimers-tau-aro-mapt-study-results/832950/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        This week in charts: Moderna’s massive stock run
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-10-16 13:15</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The latest installment in BioPharma Dive&amp;rsquo;s&amp;nbsp;data visualization-focused series includes a look at Moderna&amp;rsquo;s meteoric rise in 2026 and a sudden deal surge from Roche.</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-16">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Biogen-backed Estuary nabs $93M for kidney disease gene therapy
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-10-16 10:30</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">The Series A round, which was led by RA Capital, will help fund the development of two genetic medicines designed to treat an inherited kidney disorder known as &amp;quot;ADPKD.&amp;quot;</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-15">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Belgian startup revives Galapagos CAR-T research
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-10-15 15:55</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Armed Cell Therapeutics, chaired by former Galapagos CEO Paul Stoffels, has assumed control of cell therapies the company&amp;nbsp;&amp;mdash; now known as Lakefront Biotherapeutics &amp;mdash;&amp;nbsp;divested in a strategic overhaul.</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        Verastem cancer drug shows early promise in small study
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-10-14 15:00</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Wall Street analysts believe Verastem&amp;rsquo;s drug to now be &amp;ldquo;competitive&amp;rdquo; in what&amp;rsquo;s quickly become one of the most active and crowded areas of oncology research.</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+                <article class="news-card" data-date="2026-10-14">
+                    <h3>
+                        <span class="lang-flag">🇺🇸</span>
+                        CVS to pay $315M to settle opioid prescribing allegations
+                    </h3>
+                    <div class="news-meta">
+                        <span class="news-source">BioPharma Dive</span>
+                        <span class="news-date">2026-10-14 14:45</span>
+                        
+                    </div>
+                    
+                    <p class="news-summary">Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and &amp;ldquo;strongly disagreed&amp;rdquo; with the case&amp;rsquo;s claims.</p>
+                    
+                    <a href="https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/" target="_blank" rel="noopener" class="news-link">阅读原文</a>
+                </article>
+                
+            </section>
+            
+        </main>
+
+        <footer>
+            <p>Generated by <strong>Pharma Daily</strong> - 制药资讯聚合系统</p>
+            <p>2026-10-18 06:56</p>
+        </footer>
+    </div>
+
+    <script>
+    (function() {
+        // ========== Theme Switcher ==========
+        const themeBtns = document.querySelectorAll('.theme-btn');
+        const savedTheme = localStorage.getItem('pharma-daily-theme') || 'minimal';
+
+        function setTheme(theme) {
+            document.body.setAttribute('data-theme', theme);
+            themeBtns.forEach(btn => {
+                btn.classList.toggle('active', btn.getAttribute('data-theme') === theme);
+            });
+            localStorage.setItem('pharma-daily-theme', theme);
+        }
+
+        // Apply saved theme on load
+        setTheme(savedTheme);
+
+        themeBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                setTheme(this.getAttribute('data-theme'));
+            });
+        });
+
+        // ========== Date Filter ==========
+        const filterBtns = document.querySelectorAll('.date-btn');
+        const newsCards = document.querySelectorAll('.news-card');
+        const filterCount = document.getElementById('filterCount');
+        const categories = document.querySelectorAll('.category');
+
+        function updateFilter(selectedDate) {
+            let visibleCount = 0;
+
+            newsCards.forEach(card => {
+                const cardDate = card.getAttribute('data-date');
+                if (selectedDate === 'all' || cardDate === selectedDate) {
+                    card.classList.remove('hidden');
+                    visibleCount++;
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+
+            // Hide empty categories
+            categories.forEach(category => {
+                const visibleCards = category.querySelectorAll('.news-card:not(.hidden)');
+                category.style.display = visibleCards.length > 0 ? 'block' : 'none';
+
+                // Update category count
+                const countSpan = category.querySelector('.category-count');
+                if (countSpan) {
+                    countSpan.textContent = visibleCards.length + ' 条';
+                }
+            });
+
+            // Update filter count display
+            if (selectedDate === 'all') {
+                filterCount.textContent = '';
+            } else {
+                filterCount.textContent = `显示 ${visibleCount} 条新闻`;
+            }
+        }
+
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                filterBtns.forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                updateFilter(this.getAttribute('data-filter'));
+            });
+        });
+    })();
+    </script>
+</body>
+</html>
