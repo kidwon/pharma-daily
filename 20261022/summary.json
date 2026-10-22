@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T07:03:34.898251",
+  "theme": "minimal",
+  "total_items": 77,
+  "files": {
+    "markdown": "docs/20261022/daily.md",
+    "html": "docs/20261022/index.html",
+    "directory": "docs/20261022"
+  },
+  "analysis": {
+    "overview": "2026-10-22 共获取 77 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 2,
+        "title": "FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "GSK brings promise of 'functional cure' to hepatitis B finish line with FDA nod for Hibsago",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "GSK’s Jemperli scores FDA approval in rectal cancer, backed by high complete response rate",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      }
+    ],
+    "category_summary": {
+      "监管审批": "共 20 条新闻",
+      "综合": "共 39 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
