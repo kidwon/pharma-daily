@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T08:35:20.454037",
+  "theme": "minimal",
+  "total_items": 77,
+  "files": {
+    "markdown": "docs/20261104/daily.md",
+    "html": "docs/20261104/index.html",
+    "directory": "docs/20261104"
+  },
+  "analysis": {
+    "overview": "2026-11-04 共获取 77 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Madrigal’s Rezdiffra storms past blockbuster milestone as CEO hails ‘accelerating’ MASH market",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Inovio’s DNA-based immunotherapy Voceryq approved by FDA for rare HPV airway disease",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Karyopharm files Chapter 11, lines up Ayrmid as lead bidder in planned merger",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: Who will get the first psychedelic approved?",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 39 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 8 条新闻",
+      "新药研发": "共 10 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
