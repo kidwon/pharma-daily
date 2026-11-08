@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T08:33:09.114756",
+  "theme": "minimal",
+  "total_items": 81,
+  "files": {
+    "markdown": "docs/20261108/daily.md",
+    "html": "docs/20261108/index.html",
+    "directory": "docs/20261108"
+  },
+  "analysis": {
+    "overview": "2026-11-08 共获取 81 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Madrigal’s Rezdiffra storms past blockbuster milestone as CEO hails ‘accelerating’ MASH market",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "FDA approves amivantamab-vmjw for EGFR exon 20 insertion-mutated non-small cell lung cancer indications",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 3,
+        "title": "FDA approves irinotecan liposome for first-line treatment of metastatic pancreatic adenocarcinoma",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 4,
+        "title": "FDA approves lazertinib with amivantamab-vmjw for non-small lung cancer",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "ANI makes $560M play for Egetis and its approved orphan drug Emcitate",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 43 条新闻",
+      "监管审批": "共 20 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 8 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
