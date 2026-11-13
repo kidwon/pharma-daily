@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T09:03:00.589364",
+  "theme": "minimal",
+  "total_items": 81,
+  "files": {
+    "markdown": "docs/20261113/daily.md",
+    "html": "docs/20261113/index.html",
+    "directory": "docs/20261113"
+  },
+  "analysis": {
+    "overview": "2026-11-13 共获取 81 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "J&amp;J readies Caplyta for FDA label expansion after 2nd phase 3 win in bipolar mania",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Beam’s base editing therapy for sickle cell hits goal in pivotal trial",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 3,
+        "title": "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "STAT+: Pharmalittle: We’re reading about an approval for novel drug for strokes, a warning for GLP-1 drugs, and more",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 44 条新闻",
+      "新药研发": "共 10 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 7 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
