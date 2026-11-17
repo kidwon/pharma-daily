@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T10:08:18.036816",
+  "theme": "minimal",
+  "total_items": 79,
+  "files": {
+    "markdown": "docs/20261117/daily.md",
+    "html": "docs/20261117/index.html",
+    "directory": "docs/20261117"
+  },
+  "analysis": {
+    "overview": "2026-11-17 共获取 79 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Roche’s Gazyva adds 3rd immune indication with first FDA nod for primary membranous nephropathy",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
+        "importance": 4,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 3,
+        "title": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: Pharmalittle: We’re reading about an approval for novel drug for strokes, a warning for GLP-1 drugs, and more",
+        "importance": 4,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 42 条新闻",
+      "新药研发": "共 10 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 7 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
