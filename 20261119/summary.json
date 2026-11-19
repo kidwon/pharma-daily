@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T09:51:38.973443",
+  "theme": "minimal",
+  "total_items": 78,
+  "files": {
+    "markdown": "docs/20261119/daily.md",
+    "html": "docs/20261119/index.html",
+    "directory": "docs/20261119"
+  },
+  "analysis": {
+    "overview": "2026-11-19 共获取 78 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Beren clinches long-awaited FDA nod for cyclodextrin drug in Niemann-Pick disease",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Cosentyx bags FDA nod for 11th indication as Novartis looks to buffer 2029 patent cliff",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Roche’s next major breast cancer drug, Wilserdly, secures FDA approval as 4th oral SERD",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      },
+      {
+        "index": 5,
+        "title": "FDA moves to yank Salerno's liquid cholesterol drug approval on missing reports",
+        "importance": 4,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 41 条新闻",
+      "监管审批": "共 20 条新闻",
+      "新药研发": "共 10 条新闻",
+      "商业动态": "共 7 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
