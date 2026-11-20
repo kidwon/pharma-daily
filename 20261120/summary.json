@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T09:38:47.847519",
+  "theme": "minimal",
+  "total_items": 79,
+  "files": {
+    "markdown": "docs/20261120/daily.md",
+    "html": "docs/20261120/index.html",
+    "directory": "docs/20261120"
+  },
+  "analysis": {
+    "overview": "2026-11-20 共获取 79 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Beren clinches long-awaited FDA nod for cyclodextrin drug in Niemann-Pick disease",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Cosentyx bags FDA nod for 11th indication as Novartis looks to buffer 2029 patent cliff",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Roche’s next major breast cancer drug, Wilserdly, secures FDA approval as 4th oral SERD",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
+        "importance": 5,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 5,
+        "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
+        "importance": 5,
+        "reason": "来自 FDA News",
+        "category": "监管审批"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 42 条新闻",
+      "新药研发": "共 10 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 7 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
