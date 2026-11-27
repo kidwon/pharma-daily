@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T10:30:02.031863",
+  "theme": "minimal",
+  "total_items": 75,
+  "files": {
+    "markdown": "docs/20261127/daily.md",
+    "html": "docs/20261127/index.html",
+    "directory": "docs/20261127"
+  },
+  "analysis": {
+    "overview": "2026-11-27 共获取 75 条制药行业新闻，涵盖 4 个类别。",
+    "top_news": [
+      {
+        "index": 1,
+        "title": "Orca deploys undisclosed number of layoffs amid focus on Tregzi launch",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 2,
+        "title": "Rinvoq secures FDA nod in vitiligo, portending market showdown with Incyte",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 3,
+        "title": "Roche opens key early-stage breast cancer market for oral SERDs with Wilserdly FDA nod",
+        "importance": 5,
+        "reason": "来自 FiercePharma",
+        "category": "综合"
+      },
+      {
+        "index": 4,
+        "title": "Will the first approved psychedelic become a blockbuster?",
+        "importance": 5,
+        "reason": "来自 BioPharma Dive",
+        "category": "新药研发"
+      },
+      {
+        "index": 5,
+        "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+        "importance": 5,
+        "reason": "来自 STAT News - Pharma",
+        "category": "综合"
+      }
+    ],
+    "category_summary": {
+      "综合": "共 36 条新闻",
+      "新药研发": "共 10 条新闻",
+      "监管审批": "共 20 条新闻",
+      "商业动态": "共 9 条新闻"
+    },
+    "tomorrow_watch": "请关注各类临床试验数据更新和监管审批进展。"
+  }
+}
